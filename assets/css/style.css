@@ -55,6 +55,8 @@ background-size: cover;
 }
 
 
+
+
 /* ================= FUTURISTIC ROTATING BUTTON ================= */
 
 .enter-btn {
@@ -122,6 +124,29 @@ background-size: cover;
   }
 }
 
+/* ================= MOBILE LANDING FIX ================= */
+@media (max-width: 768px) {
+
+  .landing-title {
+    font-size: 26px;
+    margin-bottom: 25px;
+  }
+
+  .landing-logo {
+    width: 150px;   /* smaller logo for phone */
+    margin-bottom: 25px;
+  }
+
+  .enter-btn {
+    padding: 12px 22px;
+    font-size: 14px;
+  }
+
+  .landing-container {
+    padding: 0 20px;  /* prevent edge touching */
+  }
+
+}
 
 /* =========================================
    HEADER
