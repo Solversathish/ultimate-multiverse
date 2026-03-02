@@ -56,6 +56,10 @@ function render(data) {
       <div class="card-title">${entity.name}</div>
     `;
 
+    card.addEventListener("click", () => {
+    window.location.href = `entity.html?id=${entity.id}`;
+    });
+
     container.appendChild(card);
   });
 

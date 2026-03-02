@@ -20,7 +20,7 @@
     "name": "Naruto Uzumaki",
     "type": "entity",
     "url": "entity.html?id=naruto-uzumaki",
-    "image": "assets/images/naruto.png",
+    "image": "assets/images/naruto_uzumaki.png",
     "tags": ["hokage", "leaf village"]
   }
 ]
