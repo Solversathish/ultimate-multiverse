@@ -51,7 +51,7 @@ function render(data) {
 
     card.innerHTML = `
       <div class="image-wrapper">
-        <img src="assets/images/entities/${entity.image}">
+        <img src="${entity.image}">
       </div>
       <div class="card-title">${entity.name}</div>
     `;

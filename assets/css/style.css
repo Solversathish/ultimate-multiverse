@@ -210,7 +210,6 @@ body::before {
 .alphabet-wrapper {
   display: flex;
   justify-content: flex-end;
-  flex-wrap: wrap;
   gap: 6px;
 }
 
@@ -333,7 +332,7 @@ body::before {
   }
 
   .alphabet-bar {
-    display: inline-flex;
+    display: flex;
     flex-wrap: nowrap;     /* prevent wrapping */
     gap: 8px;
     min-width: max-content; /* allow full width scroll */
