@@ -10,7 +10,7 @@ if (grid) {
         card.className = "card";
         card.innerHTML = `
           <div class="image-wrapper">
-            <img src="${universe.image}">
+            <img src="${universe.image}" loading="lazy" alt="${universe.name}">
           </div>
           <div class="card-title">${universe.name}</div>
         `;

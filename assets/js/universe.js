@@ -87,7 +87,7 @@ function renderWorlds(worlds) {
 
     card.innerHTML = `
       <div class="image-wrapper">
-        <img src="${world.image}" alt="${world.name}">
+        <img src="${world.image}" loading="lazy" alt="${world.name}">
       </div>
       <div class="card-title">${world.name}</div>
     `;
