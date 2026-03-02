@@ -17,7 +17,7 @@ fetch("data/entities.json")
     container.innerHTML = `
       <div class="card">
         <div class="image-wrapper">
-          <img src="${entity.image}" loading="lazy" alt="${entity.name}">
+          <img src="${entity.heroImage}" loading="lazy" alt="${entity.name}">
         </div>
         <div class="card-title">${entity.name}</div>
       </div>

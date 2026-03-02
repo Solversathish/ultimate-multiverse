@@ -1,8 +1,9 @@
 [
-    {
+  {
     "id": "gaara",
     "name": "Gaara",
-    "image": "assets/images/entities/gaara.png",
+    "thumbnail": "assets/images/entities/thumb/gaara.png",
+    "heroImage": "assets/images/entities/hero/gaara.png",
     "universe": "anime",
     "world": "naruto",
     "type": "Hero",
@@ -13,7 +14,8 @@
   {
     "id": "jiraiya",
     "name": "Jiraiya",
-    "image": "assets/images/entities/jiraiya.png",
+    "thumbnail": "assets/images/entities/thumb/jiraiya.png",
+    "heroImage": "assets/images/entities/hero/jiraiya.png",
     "universe": "anime",
     "world": "naruto",
     "type": "Mentor",
@@ -24,40 +26,44 @@
   {
     "id": "kakashi_hatake",
     "name": "Kakashi Hatake",
-    "image": "assets/images/entities/kakashi_hatake.png",
+    "thumbnail": "assets/images/entities/thumb/kakashi_hatake.png",
+    "heroImage": "assets/images/entities/hero/kakashi_hatake.png",
     "universe": "anime",
     "world": "naruto",
     "type": "Mentor",
     "powerLevel": 8800,
     "created": 1999
   },
-  
+
   {
     "id": "madara_uchiha",
     "name": "Madara Uchiha",
-    "image": "assets/images/entities/madara_uchiha.png",
+    "thumbnail": "assets/images/entities/thumb/madara_uchiha.png",
+    "heroImage": "assets/images/entities/hero/madara_uchiha.png",
     "universe": "anime",
     "world": "naruto",
-    "type": "villain",
+    "type": "Villain",
     "powerLevel": 10000,
     "created": 2001
   },
-  
+
   {
     "id": "minato_namikaze",
     "name": "Minato Namikaze",
-    "image": "assets/images/entities/minato_namikaze.png",
+    "thumbnail": "assets/images/entities/thumb/minato_namikaze.png",
+    "heroImage": "assets/images/entities/hero/minato_namikaze.png",
     "universe": "anime",
     "world": "naruto",
     "type": "Hero",
     "powerLevel": 9600,
     "created": 2001
   },
-  
-    {
+
+  {
     "id": "naruto_uzumaki",
-    "name": "Naruto Uzumamki",
-    "image": "assets/images/entities/naruto_uzumaki.png",
+    "name": "Naruto Uzumaki",
+    "thumbnail": "assets/images/entities/thumb/naruto_uzumaki.png",
+    "heroImage": "assets/images/entities/hero/naruto_uzumaki.png",
     "universe": "anime",
     "world": "naruto",
     "type": "Hero",
@@ -65,15 +71,15 @@
     "created": 1999
   },
 
-    {
+  {
     "id": "sasuke_uchiha",
     "name": "Sasuke Uchiha",
-    "image": "assets/images/entities/sasuke_uchiha.png",
+    "thumbnail": "assets/images/entities/thumb/sasuke_uchiha.png",
+    "heroImage": "assets/images/entities/hero/sasuke_uchiha.png",
     "universe": "anime",
     "world": "naruto",
     "type": "Anti-Hero",
     "powerLevel": 9400,
     "created": 1999
   }
-  
 ]

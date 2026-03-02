@@ -51,7 +51,7 @@ function render(data) {
 
     card.innerHTML = `
       <div class="image-wrapper">
-        <img src="${entity.image}" loading="lazy" alt="${entity.name}">
+        <img src="${entity.thumbnail}" loading="lazy" alt="${entity.name}">
       </div>
       <div class="card-title">${entity.name}</div>
     `;
