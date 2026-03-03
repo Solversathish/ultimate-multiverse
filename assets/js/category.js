@@ -1,153 +1,66 @@
-document.addEventListener("DOMContentLoaded", async () => {
+try {
 
-  const container = document.getElementById("categoryContainer");
-  const breadcrumbs = document.getElementById("breadcrumbs");
-  const countElement = document.getElementById("categoryCount");
-  const alphabetBar = document.getElementById("alphabetBar");
-  const toggleBtn = document.getElementById("toggleImages");
-  const sortSelect = document.getElementById("filterSelect");
+  const universesRes = await fetch("data/universes.json");
+  if (!universesRes.ok) throw new Error("universes.json not found");
+  const universes = await universesRes.json();
 
-  const params = new URLSearchParams(window.location.search);
-  const id = params.get("id");
+  console.log("Universes:", universes);
 
-  if (!id) return;
+  const universeMatch = universes.find(u => u.id === id);
 
-  let data = [];
+  // ===== If ID is a Universe =====
+  if (universeMatch) {
 
-  try {
+    const worldsRes = await fetch(`data/${id}/worlds.json`);
+    if (!worldsRes.ok) throw new Error("worlds.json not found");
 
-    // STEP 1: Check if it is universe
-    const universes = await fetch("data/universes.json").then(res => res.json());
-    const universeMatch = universes.find(u => u.id === id);
+    data = await worldsRes.json();
 
-    if (universeMatch) {
-      data = await fetch(`data/${id}/worlds.json`).then(res => res.json());
-      breadcrumbs.innerHTML = `<a href="home.html">Home</a> > ${universeMatch.name}`;
-    }
+    console.log("Loaded worlds:", data);
 
-    else {
-
-      // STEP 2: Check inside each universe
-      for (let universe of universes) {
-
-        // Check worlds.json
-        const worldsPath = `data/${universe.id}/worlds.json`;
-
-        try {
-          const worlds = await fetch(worldsPath).then(res => res.json());
-          const worldMatch = worlds.find(w => w.id === id);
-
-          if (worldMatch) {
-            data = await fetch(`data/${universe.id}/${id}.json`).then(res => res.json());
-
-            breadcrumbs.innerHTML = `
-              <a href="home.html">Home</a> >
-              <a href="category.html?id=${universe.id}">${universe.name}</a> >
-              ${worldMatch.name}
-            `;
-            break;
-          }
-        } catch {}
-
-      }
-
-    }
-
-    render(data);
-    generateAlphabet(data);
-    updateCount(data.length);
-
-    // Toggle
-    toggleBtn.addEventListener("click", () => {
-      container.classList.toggle("hide-images");
-      toggleBtn.textContent =
-        container.classList.contains("hide-images")
-          ? "Show Images"
-          : "Hide Images";
-    });
-
-    // Sort
-    sortSelect.addEventListener("change", () => {
-      let sorted = [...data];
-
-      if (sortSelect.value === "az")
-        sorted.sort((a, b) => a.name.localeCompare(b.name));
-
-      if (sortSelect.value === "za")
-        sorted.sort((a, b) => b.name.localeCompare(a.name));
-
-      render(sorted);
-    });
-
-  } catch (error) {
-    console.error("Category error:", error);
+    breadcrumbs.innerHTML =
+      `<a href="home.html">Home</a> > ${universeMatch.name}`;
   }
 
-});
+  // ===== If ID is a World =====
+  else {
 
-function render(items) {
+    for (let universe of universes) {
 
-  const container = document.getElementById("categoryContainer");
-  container.innerHTML = "";
+      const worldsRes = await fetch(`data/${universe.id}/worlds.json`);
+      if (!worldsRes.ok) continue;
 
-  items.forEach(item => {
+      const worlds = await worldsRes.json();
+      const worldMatch = worlds.find(w => w.id === id);
 
-    const card = document.createElement("div");
-    card.className = "card";
-    card.id = item.id;
+      if (worldMatch) {
 
-    card.innerHTML = `
-      <div class="image-wrapper">
-        <img src="${item.image || item.thumbnail}">
-      </div>
-      <div class="card-title">${item.name}</div>
-    `;
+        const entityRes = await fetch(`data/${universe.id}/${id}.json`);
+        if (!entityRes.ok) throw new Error(`${id}.json not found`);
 
-    card.addEventListener("click", () => {
+        data = await entityRes.json();
 
-      if (item.type === "entity") {
-        window.location.href = `entity.html?id=${item.id}`;
-      } else {
-        window.location.href = `category.html?id=${item.id}`;
+        console.log("Loaded entities:", data);
+
+        breadcrumbs.innerHTML = `
+          <a href="home.html">Home</a> >
+          <a href="category.html?id=${universe.id}">${universe.name}</a> >
+          ${worldMatch.name}
+        `;
+
+        break;
       }
+    }
+  }
 
-    });
+  if (!data || data.length === 0) {
+    console.warn("Data is empty!");
+  }
 
-    container.appendChild(card);
-  });
+  render(data);
+  generateAlphabet(data);
+  updateCount(data.length);
 
-}
-
-function updateCount(total) {
-  document.getElementById("categoryCount").textContent =
-    `${total} Items`;
-}
-
-function generateAlphabet(items) {
-
-  const alphabetBar = document.getElementById("alphabetBar");
-  alphabetBar.innerHTML = "";
-
-  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-
-  letters.forEach(letter => {
-
-    const btn = document.createElement("button");
-    btn.className = "alphabet-btn";
-    btn.textContent = letter;
-
-    btn.addEventListener("click", () => {
-      const match = items.find(item =>
-        item.name.toUpperCase().startsWith(letter)
-      );
-
-      if (match) {
-        document.getElementById(match.id)
-          ?.scrollIntoView({ behavior: "smooth" });
-      }
-    });
-
-    alphabetBar.appendChild(btn);
-  });
-
+} catch (error) {
+  console.error("Category error:", error);
 }
