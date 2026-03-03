@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const sortSelect = document.getElementById("filterSelect");
 
   const params = new URLSearchParams(window.location.search);
-  const id = params.get("id");
+  const id = params.get("id") || params.get("parent");
 
   if (!id) return;
 
