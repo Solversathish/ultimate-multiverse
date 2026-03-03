@@ -3,18 +3,18 @@
     "id": "anime",
     "name": "Anime",
     "type": "universe",
-    "image": "assets/images/anime.png"
+    "image": "assets/images/universe/anime.png"
   },
   {
     "id": "fruits",
     "name": "Fruits",
     "type": "universe",
-    "image": "assets/images/fruits.png"
+    "image": "assets/images/universe/fruits.png"
   },
   {
     "id": "sports",
     "name": "Sports",
     "type": "universe",
-    "image": "assets/images/sports.png"
+    "image": "assets/images/universe/sports.png"
   }
 ]

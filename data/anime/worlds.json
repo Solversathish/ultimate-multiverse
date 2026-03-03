@@ -4,6 +4,6 @@
     "name": "Naruto",
     "type": "world",
     "parent": "anime",
-    "image": "assets/images/naruto.png"
+    "image": "assets/images/universe/naruto-world.png"
   }
 ]
