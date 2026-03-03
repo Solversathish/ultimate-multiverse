@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     card.addEventListener("click", () => {
       window.location.href =
-        `universe.html?universe=${universe.id}`;
+        `category.html?universe=${universe.id}`;
     });
 
     container.appendChild(card);
