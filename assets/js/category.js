@@ -1,4 +1,7 @@
 document.addEventListener("DOMContentLoaded", async () => {
+  let currentPage = 1;
+const itemsPerPage = 60;
+let filteredItems = [];
 
   const container = document.getElementById("categoryContainer");
   const breadcrumbs = document.getElementById("breadcrumbs");
@@ -61,7 +64,87 @@ document.addEventListener("DOMContentLoaded", async () => {
     return;
   }
 
-  render(items);
+  filteredItems = items;
+  renderPage();
+
+  function renderPage() {
+
+  const container = document.getElementById("categoryContainer");
+  container.innerHTML = "";
+
+  const start = (currentPage - 1) * itemsPerPage;
+  const end = start + itemsPerPage;
+
+  const pageItems = filteredItems.slice(start, end);
+
+  pageItems.forEach(item => {
+
+    const card = document.createElement("div");
+    card.className = "card";
+
+    card.innerHTML = `
+      <div class="image-wrapper">
+        <img src="${item.image || item.thumbnail || ''}">
+      </div>
+      <div class="card-title">${item.name}</div>
+    `;
+
+    card.addEventListener("click", () => {
+
+      const params = new URLSearchParams(window.location.search);
+      const universeId = params.get("universe");
+
+      if (item.type === "entity") {
+        window.location.href =
+          `entity.html?universe=${universeId}&id=${item.id}`;
+      } else {
+        window.location.href =
+          `category.html?universe=${universeId}&parent=${item.id}`;
+      }
+
+    });
+
+    container.appendChild(card);
+  });
+
+}
+
+  createPagination();
+
+  function createPagination() {
+
+  const totalPages = Math.ceil(filteredItems.length / itemsPerPage);
+
+  let paginationContainer = document.getElementById("pagination");
+
+  if (!paginationContainer) {
+    paginationContainer = document.createElement("div");
+    paginationContainer.id = "pagination";
+    paginationContainer.className = "pagination";
+    document.querySelector(".grid-container").after(paginationContainer);
+  }
+
+  paginationContainer.innerHTML = "";
+
+  for (let i = 1; i <= totalPages; i++) {
+
+    const btn = document.createElement("button");
+    btn.textContent = i;
+
+    if (i === currentPage)
+      btn.classList.add("active-page");
+
+    btn.addEventListener("click", () => {
+      currentPage = i;
+      renderPage();
+      createPagination();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    paginationContainer.appendChild(btn);
+  }
+}
+
   generateAlphabet(items);
   updateCount(items.length);
 
