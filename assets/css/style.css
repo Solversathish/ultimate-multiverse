@@ -603,3 +603,10 @@ body::before {
 .home-right {
   text-align: right;
 }
+
+@media (max-width: 786px) {
+  .home-controls {
+    width: 90%;
+  }
+  
+}
