@@ -10,12 +10,23 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   try {
 
-    // Load universes
+    // LOAD UNIVERSES LIST
     const universes = await fetch("data/universes.json")
       .then(res => res.json());
 
+    // LOOP THROUGH UNIVERSes
     for (let universe of universes) {
 
+      // ADD UNIVERSE ITSELF
+      searchDatabase.push({
+        name: universe.name,
+        type: "universe",
+        image: universe.image,
+        universe: universe.id,
+        id: universe.id
+      });
+
+      // LOAD UNIVERSE DATABASE
       const data = await fetch(`data/${universe.id}.json`)
         .then(res => res.json());
 
@@ -38,7 +49,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error("Search database error:", err);
   }
 
-  // SEARCH INPUT
+
+  // ================= SEARCH INPUT =================
   searchInput.addEventListener("input", () => {
 
     const value = searchInput.value.toLowerCase().trim();
@@ -59,7 +71,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       div.className = "search-item";
 
       div.innerHTML = `
-        <img src="${item.image}">
+        <img src="${item.image}" alt="${item.name}">
         <div>
           <div>${item.name}</div>
           <div class="search-type">${item.type}</div>
@@ -68,12 +80,24 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       div.addEventListener("click", () => {
 
+        // ENTITY PAGE
         if (item.type === "entity") {
 
           window.location.href =
             `entity.html?universe=${item.universe}&id=${item.id}`;
 
-        } else {
+        }
+
+        // UNIVERSE PAGE
+        else if (item.type === "universe") {
+
+          window.location.href =
+            `category.html?universe=${item.id}`;
+
+        }
+
+        // WORLD / SUBWORLD
+        else {
 
           window.location.href =
             `category.html?universe=${item.universe}&path=${item.id}`;
@@ -91,7 +115,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   });
 
-  // CLICK OUTSIDE CLOSE
+
+  // ================= CLICK OUTSIDE CLOSE =================
   document.addEventListener("click", (event) => {
 
     if (!searchBox.contains(event.target)) {
@@ -101,4 +126,3 @@ document.addEventListener("DOMContentLoaded", async () => {
   });
 
 });
-
