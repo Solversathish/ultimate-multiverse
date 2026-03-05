@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Anime",
+    "type": "universe",
+    "url": "category.html?universe=anime",
+    "image": "assets/images/universes/anime.png"
+  },
+  {
+    "name": "Naruto",
+    "type": "category",
+    "url": "category.html?universe=anime&path=naruto",
+    "image": "assets/images/worlds/naruto.png"
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "type": "entity",
+    "url": "entity.html?universe=anime&id=naruto_uzumaki",
+    "image": "assets/images/entities/naruto.png"
+  }
+]

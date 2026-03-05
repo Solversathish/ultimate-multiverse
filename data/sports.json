@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cricket",
+    "name": "Cricket",
+    "type": "category",
+    "parent": null,
+    "image": "assets/images/sports/cricket.png"
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "type": "category",
+    "parent": "cricket"
+  },
+  {
+    "id": "dhoni",
+    "name": "MS Dhoni",
+    "type": "entity",
+    "parent": "india",
+    "thumbnail": "assets/images/sports/dhoni.png"
+  }
+]

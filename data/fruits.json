@@ -1,0 +1,10 @@
+[
+  {
+    "id": "mango",
+    "name": "Mango",
+    "type": "entity",
+    "parent": null,
+    "thumbnail": "assets/images/fruits/mango.png",
+    "description": "King of fruits."
+  }
+]

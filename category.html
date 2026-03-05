@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ultimate Multiverse</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<!-- ================= HEADER ================= -->
+<header class="top-bar">
+ <div id="headerContainer"></div>
+</header>
+
+
+<!-- ================= CONTROLS ================= -->
+<section class="controls-bar">
+
+  <!-- ROW 1 -->
+  <div class="row row-1">
+    <div id="breadcrumbs" class="breadcrumbs"></div>
+  </div>
+
+  <!-- ROW 2 -->
+  <div class="row row-2">
+    <div class="alphabet-wrapper">
+      <div id="alphabetBar" class="alphabet-bar"></div>
+    </div>
+  </div>
+
+  <!-- ROW 3 -->
+  <div class="row row-3">
+
+    <div id="categoryCount" class="entity-count"></div>
+
+    <div class="right-actions">
+      <button id="toggleImages">Hide Images</button>
+
+      <select id="filterSelect">
+        <option value="">Sort</option>
+        <option value="az">A–Z</option>
+        <option value="za">Z–A</option>
+      </select>
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- ================= GRID ================= -->
+<main class="grid-container" id="categoryContainer">
+  <!-- Cards will load here dynamically -->
+</main>
+
+
+<!-- ================= SCRIPTS ================= -->
+<script src="assets/js/header.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/category.js" defer></script>
+
+</body>
+</html>

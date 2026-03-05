@@ -1,0 +1,17 @@
+const universes = [
+  {
+    id: "anime",
+    name: "Anime",
+    image: "assets/images/universes/anime.png"
+  },
+  {
+    id: "fruits",
+    name: "Fruits",
+    image: "assets/images/universes/fruits.png"
+  },
+  {
+    id: "sports",
+    name: "Sports",
+    image: "assets/images/universes/sports.png"
+  }
+];
