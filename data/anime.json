@@ -14,15 +14,9 @@
 "heroImage":"assets/images/entities/naruto.png",
 
 "info":{
-<<<<<<< HEAD
 "Village:":"Hidden Leaf",
 "Rank:":"Hokage",
 "Age:":"33"
-=======
-"Village":"Hidden Leaf",
-"Rank":"Hokage",
-"Age":"33"
->>>>>>> 7f7ab47202060205d6a4819f6ec3027899847772
 },
 
 "description":"Seventh Hokage",
