@@ -96,17 +96,40 @@ document.addEventListener("DOMContentLoaded", async () => {
 function createBreadcrumbs(universe, entity) {
 
   const breadcrumbs = document.getElementById("breadcrumbs");
+  if (!breadcrumbs) return;
 
-  breadcrumbs.innerHTML = `
-  <a href="home.html">Home</a> >
-  <a href="category.html?universe=${universe}">
-  ${capitalize(universe)}
-  </a> >
-  <span>${entity.name}</span>
-  `;
+  const params = new URLSearchParams(window.location.search);
+  const path = params.get("path");
+
+  let breadcrumbHTML =
+  `<a href="home.html">Home</a> >
+   <a href="category.html?universe=${universe}">
+   ${capitalize(universe)}
+   </a>`;
+
+  if (path && path.length > 0) {
+
+    const levels = path.split(",");
+    let accumulatedPath = "";
+
+    levels.forEach((level, index) => {
+
+      accumulatedPath = levels.slice(0, index + 1).join(",");
+
+      breadcrumbHTML += `
+      > <a href="category.html?universe=${universe}&path=${accumulatedPath}">
+      ${level.replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase())}
+      </a>`;
+
+    });
+
+  }
+
+  breadcrumbHTML += ` > <span>${entity.name}</span>`;
+
+  breadcrumbs.innerHTML = breadcrumbHTML;
 
 }
-
 
 /* ================= ENTITY MAIN ================= */
 
@@ -272,4 +295,14 @@ function setupTabs(contents){
 
 function capitalize(str){
   return str.charAt(0).toUpperCase()+str.slice(1);
+}
+
+function formatName(str){
+
+  return str
+    .replace(/_/g," ")
+    .replace(/\b\w/g,c=>c.toUpperCase())
+    .replace("Countries","")
+    .trim();
+
 }

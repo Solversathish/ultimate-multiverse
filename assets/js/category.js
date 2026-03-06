@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         if (item.type === "entity") {
 
           window.location.href =
-            `entity.html?universe=${universe}&id=${item.id}`;
+`entity.html?universe=${universe}&path=${path || ""}&id=${item.id}`;
 
         } 
         else {
