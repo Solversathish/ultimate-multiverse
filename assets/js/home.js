@@ -95,3 +95,46 @@ document.addEventListener("DOMContentLoaded", async () => {
     countElement.textContent = `${universes.length} items`;
 
 });
+
+const modal = document.getElementById("universeModal");
+const modalTitle = document.getElementById("modalTitle");
+
+const aboutBtn = document.getElementById("aboutBtn");
+const listBtn = document.getElementById("listBtn");
+
+const closeBtn = document.querySelector(".modal-close");
+
+let currentUniverse = "";
+
+
+/* OPEN MODAL */
+
+function openUniverseModal(universe){
+
+currentUniverse = universe;
+
+modalTitle.textContent = universe;
+
+modal.style.display = "flex";
+
+}
+
+
+/* CLOSE */
+
+closeBtn.onclick = () => modal.style.display = "none";
+
+window.onclick = (e)=>{
+if(e.target === modal) modal.style.display="none";
+}
+
+
+/* BUTTON ACTIONS */
+
+aboutBtn.onclick = ()=>{
+window.location.href = `entity.html?universe=${currentUniverse}&id=${currentUniverse}`;
+}
+
+listBtn.onclick = ()=>{
+window.location.href = `category.html?universe=${currentUniverse}`;
+}
