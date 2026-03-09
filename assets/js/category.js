@@ -116,27 +116,28 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       card.addEventListener("click", () => {
 
-        if (item.type === "entity") {
+  if (item.type === "entity") {
 
-          window.location.href =
+    window.location.href =
 `entity.html?universe=${universe}&path=${path || ""}&id=${item.id}`;
 
-        } 
-        else {
+  } 
+  else {
 
-          let newPath;
+    let newPath;
 
-          if (path) {
-            newPath = path + "," + item.id;
-          } else {
-            newPath = item.id;
-          }
+    if (path) {
+      newPath = path + "," + item.id;
+    } else {
+      newPath = item.id;
+    }
 
-          window.location.href =
-            `category.html?universe=${universe}&path=${newPath}`;
-        }
+    // OPEN POPUP
+    openPopup(item.name, universe, newPath);
 
-      });
+  }
+
+});
 
       container.appendChild(card);
 
