@@ -15,8 +15,8 @@
     "extra": "One of the best selling manga."
   },
 
-  "cricket": {
-    "id": "cricket",
+  "cricket_countries": {
+    "id": "cricket_countries",
     "name": "Cricket",
 
     "heroImage": "assets/images/worlds/cricket.png",

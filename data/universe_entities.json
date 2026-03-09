@@ -21,6 +21,27 @@
     ]
   },
 
+  "fruits": {
+    "id": "fruits",
+    "name": "fruits",
+    "heroImage": "assets/images/universes/sports.png",
+
+    "info": {
+      "Type": "Physical Activity",
+      "Purpose": "Competition",
+      "Participants": "Individuals / Teams"
+    },
+
+    "description": "Sports are competitive physical activities that require skill and physical effort.",
+
+    "extra": "Examples include Cricket, Football, Basketball, Tennis.",
+
+    "gallery": [
+        "assets/images/universes/anime1.jpg",
+      "assets/images/universes/anime2.jpg"
+    ]
+  },
+
   "sports": {
     "id": "sports",
     "name": "Sports",
