@@ -2,16 +2,16 @@
   {
     "id": "anime",
     "name": "Anime",
-    "image": "https://res.cloudinary.com/do6nej9li/image/upload/f_auto,q_auto/v1772721424/Anime_pntgar.jpg"
+    "image": "https://res.cloudinary.com/do6nej9li/image/upload/f_auto,q_auto/v1772721424/Anme_pntgar.jpg"
   },
   {
     "id": "fruits",
     "name": "Fruits",
-    "image": "https://res.cloudinary.com/do6nej9li/image/upload/f_auto,q_auto/v1772721425/Fruits_a1osqo.jpg"
+    "image": "https://res.cloudinary.com/do6nej9li/image/upload/f_auto,q_auto/v1772721425/Fruts_a1osqo.jpg"
   },
   {
     "id": "sports",
     "name": "Sports",
-    "image": "https://res.cloudinary.com/do6nej9li/image/upload/f_auto,q_auto/v1772721425/Sports_oqix1w.jpg"
+    "image": "https://res.cloudinary.com/do6nej9li/image/upload/f_auto,q_auto/v1772721425/Sprts_oqix1w.jpg"
   }
 ]
