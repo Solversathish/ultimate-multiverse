@@ -10,7 +10,7 @@ window.getCDNImage = function(path,type="thumb"){
 
   if(type === "hero"){
 
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600/ultimate-multiverse/${path}/hero.png`;
+    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${path}/hero.png`;
 
   }
 
