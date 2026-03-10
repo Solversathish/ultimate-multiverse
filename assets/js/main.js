@@ -1,3 +1,26 @@
+/* ================= CDN BASE ================= */
+
+window.CDN_BASE =
+"https://res.cloudinary.com/do6nej9li/image/upload/f_auto,q_auto/";
+
+
+/* ================= IMAGE GENERATOR ================= */
+
+window.getCDNImage = function(path,type="thumb"){
+
+  if(type === "hero"){
+
+    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600/ultimate-multiverse/${path}/hero.png`;
+
+  }
+
+  return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${path}/thumb.png`;
+
+};
+
+
+/* ================= SEARCH SYSTEM ================= */
+
 window.initSearch = async function () {
 
   const searchInput = document.getElementById("searchInput");
@@ -38,8 +61,14 @@ window.initSearch = async function () {
       const div = document.createElement("div");
       div.className = "search-item";
 
+      /* AUTO CDN IMAGE */
+
+      const imagePath = item.image
+        ? item.image
+        : getCDNImage(item.id,"thumb");
+
       div.innerHTML = `
-        <img src="${item.image}">
+        <img src="${imagePath}">
         <div>
           <div>${item.name}</div>
           <div class="search-type">${item.type}</div>

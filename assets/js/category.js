@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       card.innerHTML = `
         <div class="image-wrapper">
-          <img src="${item.image || item.thumbnail || ''}">
+          <img src="${getCDNImage(item.id,"thumb")}">
         </div>
         <div class="card-title">${item.name}</div>
       `;
