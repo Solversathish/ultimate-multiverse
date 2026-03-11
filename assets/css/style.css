@@ -627,7 +627,7 @@ display:block;
   .right-actions {
     margin-left: auto;
     display: flex;
-    gap: 0px;
+    gap: 5px;
   }
 
 }

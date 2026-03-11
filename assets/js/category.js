@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   let filePath;
 
-  // ROOT LEVEL
   if (levels.length === 0) {
 
     if (universe === "fruits") {
@@ -31,8 +30,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       filePath = `data/${universe}/categories.json`;
     }
 
-  } 
-  else {
+  } else {
 
     const lastLevel = levels[levels.length - 1];
     filePath = `data/${universe}/${lastLevel}.json`;
@@ -43,11 +41,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   try {
 
-    items = await fetch(filePath)
-      .then(res => {
-        if (!res.ok) throw new Error("File not found");
-        return res.json();
-      });
+    items = await fetch(filePath).then(res => res.json());
 
   } catch (err) {
 
@@ -62,13 +56,13 @@ document.addEventListener("DOMContentLoaded", async () => {
     return;
   }
 
-  // ================= BREADCRUMBS =================
+  /* ================= BREADCRUMBS ================= */
 
-  let breadcrumbHTML =
-    `<a href="home.html">Home</a> >
-     <a href="category.html?universe=${universe}">
-     ${capitalize(universe)}
-     </a>`;
+  let breadcrumbHTML = `
+  <a href="home.html">Home</a> >
+  <a href="category.html?universe=${universe}">
+  ${capitalize(universe)}
+  </a>`;
 
   let accumulatedPath = "";
 
@@ -76,17 +70,24 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     accumulatedPath = levels.slice(0, index + 1).join(",");
 
-    breadcrumbHTML += `
+    if (index === levels.length - 1) {
+
+      breadcrumbHTML += ` > <span>${formatName(level)}</span>`;
+
+    } else {
+
+      breadcrumbHTML += `
       > <a href="category.html?universe=${universe}&path=${accumulatedPath}">
       ${formatName(level)}
-      </a>
-    `;
+      </a>`;
+
+    }
 
   });
 
   breadcrumbs.innerHTML = breadcrumbHTML;
 
-  // ================= PAGINATION =================
+  /* ================= PAGINATION ================= */
 
   let currentPage = 1;
   const itemsPerPage = 60;
@@ -108,36 +109,34 @@ document.addEventListener("DOMContentLoaded", async () => {
       card.id = item.id;
 
       card.innerHTML = `
-        <div class="image-wrapper">
-          <img src="${getCDNImage(item.id,"thumb")}">
-        </div>
-        <div class="card-title">${item.name}</div>
+      <div class="image-wrapper">
+        <img src="${getCDNImage(item.id,"thumb")}">
+      </div>
+      <div class="card-title">${item.name}</div>
       `;
 
       card.addEventListener("click", () => {
 
-  if (item.type === "entity") {
+        if (item.type === "entity") {
 
-    window.location.href =
-`entity.html?universe=${universe}&path=${path || ""}&id=${item.id}`;
+          window.location.href =
+          `entity.html?universe=${universe}&path=${path || ""}&id=${item.id}`;
 
-  } 
-  else {
+        } else {
 
-    let newPath;
+          let newPath;
 
-    if (path) {
-      newPath = path + "," + item.id;
-    } else {
-      newPath = item.id;
-    }
+          if (path) {
+            newPath = path + "," + item.id;
+          } else {
+            newPath = item.id;
+          }
 
-    // OPEN POPUP
-    openPopup(item.name, universe, newPath);
+          openPopup(item.name, universe, newPath);
 
-  }
+        }
 
-});
+      });
 
       container.appendChild(card);
 
@@ -147,21 +146,20 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   function createPagination() {
 
-    let paginationContainer = document.getElementById("pagination");
+    let pagination = document.getElementById("pagination");
 
-    if (!paginationContainer) {
+    if (!pagination) {
 
-      paginationContainer = document.createElement("div");
-      paginationContainer.id = "pagination";
-      paginationContainer.className = "pagination";
-      container.after(paginationContainer);
+      pagination = document.createElement("div");
+      pagination.id = "pagination";
+      pagination.className = "pagination";
+      container.after(pagination);
 
     }
 
-    paginationContainer.innerHTML = "";
+    pagination.innerHTML = "";
 
-    const totalPages =
-      Math.ceil(filteredItems.length / itemsPerPage);
+    const totalPages = Math.ceil(filteredItems.length / itemsPerPage);
 
     for (let i = 1; i <= totalPages; i++) {
 
@@ -176,12 +174,15 @@ document.addEventListener("DOMContentLoaded", async () => {
         currentPage = i;
         renderPage();
         createPagination();
-        window.scrollTo({ top: 0, behavior: "smooth" });
+
+        window.scrollTo({top:0,behavior:"smooth"});
 
       });
 
-      paginationContainer.appendChild(btn);
+      pagination.appendChild(btn);
+
     }
+
   }
 
   renderPage();
@@ -189,15 +190,15 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   countElement.textContent = `${items.length} Items`;
 
-  // ================= SORT =================
+  /* SORT */
 
   sortSelect?.addEventListener("change", () => {
 
     if (sortSelect.value === "az")
-      filteredItems.sort((a, b) => a.name.localeCompare(b.name));
+      filteredItems.sort((a,b)=>a.name.localeCompare(b.name));
 
     if (sortSelect.value === "za")
-      filteredItems.sort((a, b) => b.name.localeCompare(a.name));
+      filteredItems.sort((a,b)=>b.name.localeCompare(a.name));
 
     currentPage = 1;
     renderPage();
@@ -205,7 +206,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   });
 
-  // ================= TOGGLE =================
+  /* TOGGLE IMAGES */
 
   toggleBtn?.addEventListener("click", () => {
 
@@ -213,8 +214,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     toggleBtn.textContent =
       container.classList.contains("hide-images")
-        ? "Show Images"
-        : "Hide Images";
+      ? "Show Images"
+      : "Hide Images";
 
   });
 
@@ -222,10 +223,11 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 });
 
-function generateAlphabet(items) {
+
+function generateAlphabet(items){
 
   const bar = document.getElementById("alphabetBar");
-  if (!bar) return;
+  if(!bar) return;
 
   bar.innerHTML = "";
 
@@ -240,12 +242,11 @@ function generateAlphabet(items) {
     btn.addEventListener("click", () => {
 
       const match = items.find(item =>
-        item.name.toUpperCase().startsWith(letter)
-      );
+      item.name.toUpperCase().startsWith(letter));
 
-      if (match) {
+      if(match){
         document.getElementById(match.id)
-          ?.scrollIntoView({ behavior: "smooth" });
+        ?.scrollIntoView({behavior:"smooth"});
       }
 
     });
@@ -256,16 +257,16 @@ function generateAlphabet(items) {
 
 }
 
-function capitalize(str) {
-  return str.charAt(0).toUpperCase() + str.slice(1);
+function capitalize(str){
+  return str.charAt(0).toUpperCase()+str.slice(1);
 }
 
-function formatName(str) {
+function formatName(str){
 
   return str
-    .replace(/_/g, " ")
-    .replace(/\b\w/g, c => c.toUpperCase())
-    .replace("Countries","")
-    .trim();
+  .replace(/_/g," ")
+  .replace(/\b\w/g,c=>c.toUpperCase())
+  .replace("Countries","")
+  .trim();
 
 }

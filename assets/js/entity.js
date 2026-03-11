@@ -4,186 +4,116 @@ document.addEventListener("DOMContentLoaded", async () => {
   const galleryContainer = document.getElementById("galleryContainer");
 
   const params = new URLSearchParams(window.location.search);
-
   const universe = params.get("universe");
   const entityId = params.get("id");
 
-  if (!universe || !entityId) {
-    container.innerHTML = "Invalid entity";
+  if(!universe || !entityId){
+    container.innerHTML="Invalid entity";
     return;
   }
 
   let entity = null;
 
-  try {
-
-    /* ================= UNIVERSE ENTITY ================= */
+  try{
 
     const universeData = await fetch("data/universe_entities.json")
-    .then(res => res.json());
+    .then(res=>res.json());
 
     if(universeData[universe] && entityId === universe){
-
       entity = universeData[universe];
-
     }
-
-    /* ================= WORLD ENTITY ================= */
-
-if(!entity){
-
-  const worldData = await fetch("data/world_entities.json")
-  .then(res => res.json());
-
-  if(worldData[entityId]){
-
-    entity = worldData[entityId];
-
-  }
-
-}
-
-
-/* ================= SUBWORLD ENTITY ================= */
-
-if(!entity){
-
-  const subworldData = await fetch("data/subworld_entities.json")
-  .then(res => res.json());
-
-  if(subworldData[entityId]){
-
-    entity = subworldData[entityId];
-
-  }
-
-}
-
-
-    /* ================= NORMAL ENTITY ================= */
 
     if(!entity){
 
-      // ===== Fruits =====
-      if (universe === "fruits") {
+      const worldData = await fetch("data/world_entities.json")
+      .then(res=>res.json());
 
-        const fruits = await fetch(`data/fruits/fruits.json`)
-        .then(res => res.json());
-
-        entity = fruits.find(f => f.id === entityId);
-
-      }
-
-      // ===== Other universes =====
-      else {
-
-        const categories = await fetch(`data/${universe}/categories.json`)
-        .then(res => res.json());
-
-        for (const cat of categories) {
-
-          try{
-
-            const level1 = await fetch(`data/${universe}/${cat.id}.json`)
-            .then(res => res.json());
-
-            // search entity in level 1
-            entity = level1.find(i => i.id === entityId);
-            if(entity) break;
-
-            // search level 2
-            for(const sub of level1){
-
-              if(sub.type !== "category") continue;
-
-              try{
-
-                const level2 = await fetch(`data/${universe}/${sub.id}.json`)
-                .then(res => res.json());
-
-                entity = level2.find(i => i.id === entityId);
-
-                if(entity) break;
-
-              }catch{}
-
-            }
-
-            if(entity) break;
-
-          }catch{}
-
-        }
-
+      if(worldData[entityId]){
+        entity = worldData[entityId];
       }
 
     }
 
-  } catch (error) {
+    if(!entity){
 
-    console.error(error);
+      const subworldData = await fetch("data/subworld_entities.json")
+      .then(res=>res.json());
 
+      if(subworldData[entityId]){
+        entity = subworldData[entityId];
+      }
+
+    }
+
+  }catch(err){
+    console.error(err);
   }
 
-
-  if (!entity) {
-
-    container.innerHTML = "Entity not found";
-
+  if(!entity){
+    container.innerHTML="Entity not found";
     return;
-
   }
 
-
-  createBreadcrumbs(universe, entity);
+  createBreadcrumbs(universe,entity);
   renderEntity(entity);
   renderGallery(entity);
 
 });
 
 
-
-/* ================= BREADCRUMBS ================= */
-
-function createBreadcrumbs(universe, entity) {
+function createBreadcrumbs(universe, entity){
 
   const breadcrumbs = document.getElementById("breadcrumbs");
-
-  if(!breadcrumbs) return;
 
   const params = new URLSearchParams(window.location.search);
   const path = params.get("path");
   const entityId = params.get("id");
 
-  let html = `
-  <a href="home.html">Home</a> >
-  <a href="category.html?universe=${universe}">
-  ${formatName(universe)}
-  </a>`;
+  let html = `<a href="home.html">Home</a> > `;
 
-  /* CATEGORY / SUBCATEGORY LEVELS */
+  // ===== UNIVERSE LEVEL =====
+  if(entityId === universe){
 
+    // Current page = universe entity (About Anime)
+    html += `<span>${formatName(universe)}</span>`;
+
+  } else {
+
+    html += `<a href="category.html?universe=${universe}">
+      ${formatName(universe)}
+    </a>`;
+
+  }
+
+  // ===== CATEGORY LEVELS =====
   if(path){
 
     const levels = path.split(",");
     let accumulated = "";
 
-    levels.forEach((level,i)=>{
+    levels.forEach((level,index)=>{
 
-      accumulated = levels.slice(0,i+1).join(",");
+      accumulated = levels.slice(0,index+1).join(",");
 
-      html += `
-      > <a href="category.html?universe=${universe}&path=${accumulated}">
-      ${formatName(level)}
-      </a>`;
+      // last level should be text if entity page
+      if(index === levels.length - 1 && entityId !== universe){
+
+        html += ` > <span>${formatName(level)}</span>`;
+
+      }else{
+
+        html += ` > <a href="category.html?universe=${universe}&path=${accumulated}">
+        ${formatName(level)}
+        </a>`;
+
+      }
 
     });
 
   }
 
-  /* ENTITY LEVEL (SKIP IF UNIVERSE ENTITY) */
-
-  if(entityId !== universe){
+  // ===== ENTITY LEVEL =====
+  if(entityId !== universe && (!path || !path.endsWith(entityId))){
 
     html += ` > <span>${entity.name}</span>`;
 
@@ -194,55 +124,11 @@ function createBreadcrumbs(universe, entity) {
 }
 
 
-
-/* ================= ENTITY PAGE ================= */
-
 function renderEntity(entity){
 
-  const container = document.getElementById("entityContainer");
+  const container=document.getElementById("entityContainer");
 
-  const tabs = [];
-  const contents = {};
-
-  if(entity.description){
-    tabs.push("Description");
-    contents["Description"] = entity.description;
-  }
-
-  if(entity.powers){
-    tabs.push("Powers");
-    contents["Powers"] = entity.powers;
-  }
-
-  if(entity.extra){
-    tabs.push("Extra");
-    contents["Extra"] = entity.extra;
-  }
-
-  if(entity.biography){
-    tabs.push("Biography");
-    contents["Biography"] = entity.biography;
-  }
-
-  if(entity.benefits){
-    tabs.push("Benefits");
-    contents["Benefits"] = entity.benefits.join("<br>");
-  }
-
-  if(entity.achievements){
-    tabs.push("Achievements");
-    contents["Achievements"] = entity.achievements.join("<br>");
-  }
-
-  const tabButtons = tabs.map((t,i)=>`
-  <button class="tab-btn ${i===0?"active":""}" data-tab="${t}">
-  ${t}
-  </button>
-  `).join("");
-
-  const firstContent = contents[tabs[0]] || "";
-
-  container.innerHTML = `
+  container.innerHTML=`
 
   <div class="entity-main">
 
@@ -256,12 +142,8 @@ function renderEntity(entity){
 
       ${generateInfoTable(entity.info)}
 
-      <div class="tab-buttons">
-        ${tabButtons}
-      </div>
-
-      <div class="tab-content" id="tabContent">
-        ${firstContent}
+      <div class="tab-content">
+        ${entity.description || ""}
       </div>
 
     </div>
@@ -270,48 +152,39 @@ function renderEntity(entity){
 
   `;
 
-  setupTabs(contents);
-
 }
 
-
-
-/* ================= INFO TABLE ================= */
 
 function generateInfoTable(info){
 
   if(!info) return "";
 
-  let html = `<div class="info-table">`;
+  let html=`<div class="info-table">`;
 
   Object.entries(info).forEach(([k,v])=>{
 
-    html += `
+    html+=`
     <div class="info-row">
       <div class="info-key">${k}</div>
       <div class="info-value">${v}</div>
-    </div>
-    `;
+    </div>`;
 
   });
 
-  html += `</div>`;
+  html+=`</div>`;
 
   return html;
 
 }
 
 
-
-/* ================= GALLERY ================= */
-
 function renderGallery(entity){
 
-  const galleryContainer = document.getElementById("galleryContainer");
+  const galleryContainer=document.getElementById("galleryContainer");
 
   if(!entity.gallery) return;
 
-  galleryContainer.innerHTML = `
+  galleryContainer.innerHTML=`
 
   <div class="gallery-container">
 
@@ -319,9 +192,7 @@ function renderGallery(entity){
 
   <div class="gallery-grid">
 
-  ${entity.gallery.map(img=>`
-  <img src="${img}" loading="lazy">
-  `).join("")}
+  ${entity.gallery.map(img=>`<img src="${img}">`).join("")}
 
   </div>
 
@@ -331,33 +202,6 @@ function renderGallery(entity){
 
 }
 
-
-
-/* ================= TABS ================= */
-
-function setupTabs(contents){
-
-  const buttons = document.querySelectorAll(".tab-btn");
-  const content = document.getElementById("tabContent");
-
-  buttons.forEach(btn=>{
-
-    btn.addEventListener("click",()=>{
-
-      buttons.forEach(b=>b.classList.remove("active"));
-      btn.classList.add("active");
-
-      content.innerHTML = contents[btn.dataset.tab];
-
-    });
-
-  });
-
-}
-
-
-
-/* ================= HELPERS ================= */
 
 function formatName(str){
 
