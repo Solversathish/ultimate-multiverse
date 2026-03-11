@@ -48,8 +48,13 @@ document.addEventListener("DOMContentLoaded", async () => {
       .then(res=>res.json());
 
       if(subworldData[entityId]){
-        entity = subworldData[entityId];
-      }
+  entity = subworldData[entityId];
+
+  // ensure breadcrumb path exists
+  if(!path && entity.path){
+    path = entity.path;
+  }
+}
 
     }
 
@@ -130,12 +135,12 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 /* ================= BREADCRUMBS ================= */
 
-function createBreadcrumbs(universe, entity){
+function createBreadcrumbs(universe, entity, forcedPath){
 
   const breadcrumbs = document.getElementById("breadcrumbs");
 
   const params = new URLSearchParams(window.location.search);
-  const path = params.get("path");
+  const path = forcedPath || params.get("path");
   const entityId = params.get("id");
 
   let html = `<a href="home.html">Home</a> > `;

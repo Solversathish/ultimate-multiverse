@@ -4,83 +4,104 @@ let popupId = "";
 
 document.addEventListener("DOMContentLoaded", () => {
 
-const popupContainer = document.getElementById("popupContainer");
-if (!popupContainer) return;
+  const popupContainer = document.getElementById("popupContainer");
+  if (!popupContainer) return;
 
-fetch("components/popup.html")
-.then(res => res.text())
-.then(html => {
+  fetch("components/popup.html")
+  .then(res => res.text())
+  .then(html => {
 
-popupContainer.innerHTML = html;
+    popupContainer.innerHTML = html;
 
-const modal = document.getElementById("universeModal");
-const modalTitle = document.getElementById("modalTitle");
-const aboutBtn = document.getElementById("aboutBtn");
-const listBtn = document.getElementById("listBtn");
-const closeBtn = document.querySelector(".modal-close");
-
-/* OPEN POPUP */
-
-window.openPopup = function(title, universe, path){
-
-  popupUniverse = universe;
-  popupPath = path || "";
-
-  // Extract ID
-  if(popupPath){
-    const levels = popupPath.split(",");
-    popupId = levels[levels.length - 1];
-  } else {
-    popupId = universe;
-  }
-
-  modalTitle.textContent = title;
-  modal.style.display = "flex";
-
-};
+    const modal = document.getElementById("universeModal");
+    const modalTitle = document.getElementById("modalTitle");
+    const aboutBtn = document.getElementById("aboutBtn");
+    const listBtn = document.getElementById("listBtn");
+    const closeBtn = document.querySelector(".modal-close");
 
 
-/* CLOSE POPUP */
+    /* OPEN POPUP */
 
-closeBtn.onclick = () => {
-  modal.style.display = "none";
-};
+    window.openPopup = function(title, universe, path){
 
-window.onclick = (e)=>{
-  if(e.target === modal){
-    modal.style.display = "none";
-  }
-};
+      popupUniverse = universe;
+      popupPath = path || "";
 
+      if(popupPath){
+        const levels = popupPath.split(",");
+        popupId = levels[levels.length - 1];
+      } else {
+        popupId = universe;
+      }
 
-/* ABOUT BUTTON */
+      modalTitle.textContent = title;
+      modal.style.display = "flex";
 
-aboutBtn.onclick = () => {
-
-  window.location.href =
-  `entity.html?universe=${popupUniverse}&id=${popupId}`;
-
-};
+    };
 
 
-/* VIEW LIST */
+    /* CLOSE POPUP */
 
-listBtn.onclick = () => {
+    closeBtn.onclick = () => {
+      modal.style.display = "none";
+    };
 
-  if(popupPath){
+    window.onclick = (e)=>{
+      if(e.target === modal){
+        modal.style.display = "none";
+      }
+    };
 
-    window.location.href =
-    `category.html?universe=${popupUniverse}&path=${popupPath}`;
 
-  } else {
+    /* ABOUT BUTTON */
 
-    window.location.href =
-    `category.html?universe=${popupUniverse}`;
+    aboutBtn.onclick = () => {
 
-  }
+      let entityPath = "";
 
-};
+      if(popupPath){
 
-});
+        const levels = popupPath.split(",");
+
+        if(levels.length > 1){
+          entityPath = levels.slice(0,-1).join(",");
+        }
+
+      }
+
+      if(entityPath){
+
+        window.location.href =
+        `entity.html?universe=${popupUniverse}&path=${entityPath}&id=${popupId}`;
+
+      }else{
+
+        window.location.href =
+        `entity.html?universe=${popupUniverse}&id=${popupId}`;
+
+      }
+
+    };
+
+
+    /* VIEW LIST */
+
+    listBtn.onclick = () => {
+
+      if(popupPath){
+
+        window.location.href =
+        `category.html?universe=${popupUniverse}&path=${popupPath}`;
+
+      } else {
+
+        window.location.href =
+        `category.html?universe=${popupUniverse}`;
+
+      }
+
+    };
+
+  });
 
 });

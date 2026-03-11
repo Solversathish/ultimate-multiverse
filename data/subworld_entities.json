@@ -2,9 +2,6 @@
   "cricket_india": {
     "id": "cricket_india",
     "name": "India Cricket Team",
-    "path": "cricket",
-    "parent": "cricket",
-    "type": "entity",
 
     "info": {
       "Captain": "Rohit Sharma",
