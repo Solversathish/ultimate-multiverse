@@ -331,7 +331,7 @@ body::before {
 /* ================= CONTROLS LAYOUT ================= */
 
 .controls-bar {
-  width: 90%;
+  width: 91%;
   max-width: 1400px;
   margin: 0px auto;
   display: flex;
