@@ -625,7 +625,7 @@ display:block;
   }
 
   .right-actions {
-    margin-right: auto;
+    margin-left: auto;
     display: flex;
     gap: 0px;
   }
