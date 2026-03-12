@@ -8,15 +8,17 @@ window.CDN_BASE =
 
 window.getCDNImage = function(id,type="thumb",universe="",path=""){
 
-  /* HOME PAGE (UNIVERSE THUMBS) */
+  let base = "ultimate-multiverse";
+
+  /* HOME PAGE (UNIVERSE CARDS) */
 
   if(!universe){
 
     if(type === "hero"){
-      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${id}/hero.png`;
+      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/${base}/${id}/hero.png`;
     }
 
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${id}/thumb.png`;
+    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/${base}/${id}/thumb.png`;
   }
 
   /* UNIVERSE ENTITY PAGE */
@@ -24,30 +26,28 @@ window.getCDNImage = function(id,type="thumb",universe="",path=""){
   if(id === universe){
 
     if(type === "hero"){
-      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${universe}/hero.png`;
+      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/${base}/${universe}/hero.png`;
     }
 
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${universe}/thumb.png`;
+    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/${base}/${universe}/thumb.png`;
   }
 
-  /* WORLD LEVEL */
+  /* BUILD PATH */
 
-  if(!path){
+  let folder = `${base}/${universe}`;
 
-    if(type === "hero"){
-      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${universe}/${id}/hero.png`;
-    }
-
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${universe}/${id}/thumb.png`;
+  if(path){
+    const levels = path.split(",");
+    levels.forEach(level => folder += `/${level}`);
   }
 
-  /* CHARACTER LEVEL */
+  folder += `/${id}`;
 
   if(type === "hero"){
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${universe}/${path}/${id}/hero.png`;
+    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/${folder}/hero.png`;
   }
 
-  return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${universe}/${path}/${id}/thumb.png`;
+  return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/${folder}/thumb.png`;
 };
 
 
