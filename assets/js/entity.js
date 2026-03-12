@@ -208,7 +208,7 @@ function renderEntity(entity,universe,path){
   <div class="entity-main">
 
     <div class="entity-hero">
-      <img src="${getCDNImage(entity.id,"hero",universe)}" loading="lazy">
+      <img src="${getCDNImage(entity.id,"hero",universe,path)}" loading="lazy">
     </div>
 
     <div class="entity-details">

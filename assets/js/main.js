@@ -6,9 +6,9 @@ window.CDN_BASE =
 
 /* ================= IMAGE GENERATOR ================= */
 
-window.getCDNImage = function(id,type="thumb",universe=""){
+window.getCDNImage = function(id,type="thumb",universe="",path=""){
 
-  /* ================= HOME PAGE (UNIVERSE CARDS) ================= */
+  /* HOME PAGE (UNIVERSE THUMBS) */
 
   if(!universe){
 
@@ -19,8 +19,7 @@ window.getCDNImage = function(id,type="thumb",universe=""){
     return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${id}/thumb.png`;
   }
 
-
-  /* ================= UNIVERSE ENTITY PAGE ================= */
+  /* UNIVERSE ENTITY PAGE */
 
   if(id === universe){
 
@@ -31,14 +30,24 @@ window.getCDNImage = function(id,type="thumb",universe=""){
     return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${universe}/thumb.png`;
   }
 
+  /* WORLD LEVEL */
 
-  /* ================= WORLD / ENTITY ================= */
+  if(!path){
 
-  if(type === "hero"){
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${universe}/${id}/hero.png`;
+    if(type === "hero"){
+      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${universe}/${id}/hero.png`;
+    }
+
+    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${universe}/${id}/thumb.png`;
   }
 
-  return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${universe}/${id}/thumb.png`;
+  /* CHARACTER LEVEL */
+
+  if(type === "hero"){
+    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/ultimate-multiverse/${universe}/${path}/${id}/hero.png`;
+  }
+
+  return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/ultimate-multiverse/${universe}/${path}/${id}/thumb.png`;
 };
 
 
