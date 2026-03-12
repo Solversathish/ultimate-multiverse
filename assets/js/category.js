@@ -60,21 +60,19 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   let breadcrumbHTML = `<a href="home.html">Home</a> > `;
 
-if(levels.length === 0){
+  if(levels.length === 0){
 
-  // Universe list page (Anime view list)
-  breadcrumbHTML += `<span>${capitalize(universe)}</span>`;
+    breadcrumbHTML += `<span>${capitalize(universe)}</span>`;
 
-}
-else{
+  }
+  else{
 
-  // deeper pages
-  breadcrumbHTML += `
-  <a href="category.html?universe=${universe}">
-  ${capitalize(universe)}
-  </a>`;
+    breadcrumbHTML += `
+    <a href="category.html?universe=${universe}">
+    ${capitalize(universe)}
+    </a>`;
 
-}
+  }
 
   let accumulatedPath = "";
 
@@ -108,6 +106,25 @@ else{
   function renderPage() {
 
     container.innerHTML = "";
+
+    /* NO ITEMS MESSAGE */
+
+    if(filteredItems.length === 0){
+
+      container.innerHTML = `
+      <div class="no-items">
+      No items found for this alphabet
+      </div>
+      `;
+
+      const pagination = document.getElementById("pagination");
+      if(pagination) pagination.innerHTML = "";
+
+      if(countElement)
+        countElement.textContent = `0 Items`;
+
+      return;
+    }
 
     const start = (currentPage - 1) * itemsPerPage;
     const end = start + itemsPerPage;
@@ -197,8 +214,62 @@ else{
 
   }
 
+  /* ================= ALPHABET FILTER ================= */
+
+  function generateAlphabet(items){
+
+    if(!alphabetBar) return;
+
+    alphabetBar.innerHTML = "";
+
+    const letters = ["All", ... "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
+
+    letters.forEach(letter => {
+
+      const btn = document.createElement("button");
+      btn.className = "alphabet-btn";
+      btn.textContent = letter;
+
+      btn.onclick = () => {
+
+        document.querySelectorAll(".alphabet-btn")
+        .forEach(b => b.classList.remove("active"));
+
+        btn.classList.add("active");
+
+        if(letter === "All"){
+
+          filteredItems = items;
+
+        }else{
+
+          filteredItems = items.filter(item =>
+            item.name.toUpperCase().startsWith(letter)
+          );
+
+        }
+
+        currentPage = 1;
+
+        if(countElement)
+          countElement.textContent = `${filteredItems.length} Items`;
+
+        renderPage();
+        createPagination();
+
+      };
+
+      alphabetBar.appendChild(btn);
+
+    });
+
+  }
+
+  /* INITIAL LOAD */
+
   renderPage();
   createPagination();
+  generateAlphabet(items);
 
   countElement.textContent = `${items.length} Items`;
 
@@ -231,54 +302,17 @@ else{
 
   });
 
-  generateAlphabet(items);
-
 });
 
-
-function generateAlphabet(items){
-
-  const bar = document.getElementById("alphabetBar");
-  if(!bar) return;
-
-  bar.innerHTML = "";
-
-  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-
-  letters.forEach(letter => {
-
-    const btn = document.createElement("button");
-    btn.className = "alphabet-btn";
-    btn.textContent = letter;
-
-    btn.addEventListener("click", () => {
-
-      const match = items.find(item =>
-      item.name.toUpperCase().startsWith(letter));
-
-      if(match){
-        document.getElementById(match.id)
-        ?.scrollIntoView({behavior:"smooth"});
-      }
-
-    });
-
-    bar.appendChild(btn);
-
-  });
-
-}
 
 function capitalize(str){
   return str.charAt(0).toUpperCase()+str.slice(1);
 }
 
 function formatName(str){
-
   return str
   .replace(/_/g," ")
   .replace(/\b\w/g,c=>c.toUpperCase())
   .replace("Countries","")
   .trim();
-
 }

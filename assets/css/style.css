@@ -903,3 +903,10 @@ cursor:pointer;
   background:#00ff9c;
   color:black;
 }
+
+.no-items{
+text-align:center;
+padding:60px 20px;
+font-size:18px;
+color:#00ff88;
+}

@@ -13,14 +13,40 @@
 </header>
 
 <!-- HOME TOP ROW -->
-<div class="home-controls">
-  <div class="home-left">
-    <span class="home-title">Home</span>
+<div class="controls-bar">
+
+  <!-- ROW 1 -->
+  <div class="row row-1">
+    <div class="breadcrumbs">
+      <span>Home</span>
+    </div>
   </div>
 
-  <div class="home-right">
-    <span id="homeCount" class="entity-count"></span>
+  <!-- ROW 2 -->
+  <div class="row row-2">
+    <div class="alphabet-wrapper">
+      <div id="alphabetBar" class="alphabet-bar"></div>
+    </div>
   </div>
+
+  <!-- ROW 3 -->
+  <div class="row row-3">
+
+    <span id="homeCount" class="entity-count"></span>
+
+    <div class="right-actions">
+      <button id="toggleImages">Hide Images</button>
+
+      <select id="filterSelect">
+        <option value="">Sort</option>
+        <option value="az">A-Z</option>
+        <option value="za">Z-A</option>
+      </select>
+
+    </div>
+
+  </div>
+
 </div>
 
 <!-- UNIVERSE POPUP -->
