@@ -1,0 +1,111 @@
+[
+{
+"id":"steve_nash",
+"name":"Steve Nash",
+"type":"entity",
+"parent":"basketball_canada",
+
+"info":{
+"country":"Canada",
+"position":"Point Guard",
+"born":"7 February 1974",
+"mvp_awards":"2"
+},
+
+"tabs":{
+"tab1":{"title":"Description","content":"Steve Nash is one of the greatest point guards in NBA history."},
+"tab2":{"title":"Achievements","content":"He won back to back NBA MVP awards in 2005 and 2006."},
+"tab3":{"title":"Facts","content":"Nash later became an NBA coach."}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"jamal_murray",
+"name":"Jamal Murray",
+"type":"entity",
+"parent":"basketball_canada",
+
+"info":{
+"country":"Canada",
+"position":"Point Guard",
+"born":"23 February 1997",
+"nba_team":"Denver Nuggets"
+},
+
+"tabs":{
+"tab1":{"title":"Description","content":"Jamal Murray is one of the most exciting young guards in the NBA."},
+"tab2":{"title":"Achievements","content":"He helped the Denver Nuggets win the 2023 NBA championship."},
+"tab3":{"title":"Facts","content":"Murray is famous for his scoring performances in the playoffs."}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"shai_gilgeous_alexander",
+"name":"Shai Gilgeous-Alexander",
+"type":"entity",
+"parent":"basketball_canada",
+
+"info":{
+"country":"Canada",
+"position":"Guard",
+"born":"12 July 1998",
+"nba_team":"Oklahoma City Thunder"
+},
+
+"tabs":{
+"tab1":{"title":"Description","content":"Shai Gilgeous-Alexander is one of the best young players in the NBA."},
+"tab2":{"title":"Achievements","content":"He has been selected to multiple NBA All-Star teams."},
+"tab3":{"title":"Facts","content":"He is known for his smooth scoring ability."}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"andrew_wiggins",
+"name":"Andrew Wiggins",
+"type":"entity",
+"parent":"basketball_canada",
+
+"info":{
+"country":"Canada",
+"position":"Forward",
+"born":"23 February 1995",
+"nba_titles":"1"
+},
+
+"tabs":{
+"tab1":{"title":"Description","content":"Andrew Wiggins is an athletic forward known for scoring and defense."},
+"tab2":{"title":"Achievements","content":"He won the NBA championship with the Golden State Warriors."},
+"tab3":{"title":"Facts","content":"Wiggins was the first overall pick in the 2014 NBA draft."}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"rj_barrett",
+"name":"RJ Barrett",
+"type":"entity",
+"parent":"basketball_canada",
+
+"info":{
+"country":"Canada",
+"position":"Forward",
+"born":"14 June 2000",
+"nba_team":"New York Knicks"
+},
+
+"tabs":{
+"tab1":{"title":"Description","content":"RJ Barrett is a rising star in the NBA."},
+"tab2":{"title":"Achievements","content":"He has been a key player for Canada in international tournaments."},
+"tab3":{"title":"Facts","content":"Barrett was one of the top prospects in his draft class."}
+},
+
+"gallery_count":5
+}
+]

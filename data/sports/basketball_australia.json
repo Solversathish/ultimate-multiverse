@@ -1,0 +1,156 @@
+[
+{
+"id":"patty_mills",
+"name":"Patty Mills",
+"type":"entity",
+"parent":"basketball_australia",
+
+"info":{
+"country":"Australia",
+"position":"Point Guard",
+"born":"11 August 1988",
+"nba_titles":"1"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Patty Mills is one of Australia's most successful basketball players."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won the NBA championship with the San Antonio Spurs in 2014."
+},
+"tab3":{
+"title":"Facts",
+"content":"Mills captained the Australian Boomers in several international tournaments."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ben_simmons",
+"name":"Ben Simmons",
+"type":"entity",
+"parent":"basketball_australia",
+
+"info":{
+"country":"Australia",
+"position":"Point Forward",
+"born":"20 July 1996",
+"nba_team":"Brooklyn Nets"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ben Simmons is known for his elite defense and playmaking abilities."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won the NBA Rookie of the Year award in 2018."
+},
+"tab3":{
+"title":"Facts",
+"content":"Simmons is one of the tallest point guards in NBA history."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"andrew_bogut",
+"name":"Andrew Bogut",
+"type":"entity",
+"parent":"basketball_australia",
+
+"info":{
+"country":"Australia",
+"position":"Center",
+"born":"28 November 1984",
+"nba_titles":"1"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Andrew Bogut was one of Australia's most successful NBA centers."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won the NBA championship with the Golden State Warriors in 2015."
+},
+"tab3":{
+"title":"Facts",
+"content":"Bogut was the number one pick in the 2005 NBA draft."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"josh_giddey",
+"name":"Josh Giddey",
+"type":"entity",
+"parent":"basketball_australia",
+
+"info":{
+"country":"Australia",
+"position":"Guard",
+"born":"10 October 2002",
+"nba_team":"Chicago Bulls"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Josh Giddey is one of the most promising young Australian basketball players."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He became one of the youngest players in NBA history to record a triple double."
+},
+"tab3":{
+"title":"Facts",
+"content":"Giddey is known for his elite passing ability."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"matthew_dellavedova",
+"name":"Matthew Dellavedova",
+"type":"entity",
+"parent":"basketball_australia",
+
+"info":{
+"country":"Australia",
+"position":"Point Guard",
+"born":"8 September 1990",
+"nba_titles":"1"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Matthew Dellavedova became famous for his tough defensive play."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won the NBA championship with the Cleveland Cavaliers in 2016."
+},
+"tab3":{
+"title":"Facts",
+"content":"Dellavedova played alongside LeBron James during the Cavaliers championship run."
+}
+},
+
+"gallery_count":5
+}
+]

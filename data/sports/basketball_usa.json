@@ -1,0 +1,156 @@
+[
+{
+"id":"michael_jordan",
+"name":"Michael Jordan",
+"type":"entity",
+"parent":"basketball_usa",
+
+"info":{
+"country":"USA",
+"position":"Shooting Guard",
+"born":"17 February 1963",
+"nba_titles":"6"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Michael Jordan is widely regarded as the greatest basketball player of all time."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won six NBA championships with the Chicago Bulls and five MVP awards."
+},
+"tab3":{
+"title":"Facts",
+"content":"Jordan was a key member of the legendary 1992 USA Dream Team."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"lebron_james",
+"name":"LeBron James",
+"type":"entity",
+"parent":"basketball_usa",
+
+"info":{
+"country":"USA",
+"position":"Small Forward",
+"born":"30 December 1984",
+"nba_titles":"4"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"LeBron James is one of the most complete basketball players in NBA history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has won multiple NBA championships and MVP awards."
+},
+"tab3":{
+"title":"Facts",
+"content":"LeBron is known for his longevity and all around skills."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"kobe_bryant",
+"name":"Kobe Bryant",
+"type":"entity",
+"parent":"basketball_usa",
+
+"info":{
+"country":"USA",
+"position":"Shooting Guard",
+"born":"23 August 1978",
+"nba_titles":"5"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Kobe Bryant was one of the greatest scorers in NBA history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won five NBA championships with the Los Angeles Lakers."
+},
+"tab3":{
+"title":"Facts",
+"content":"Bryant scored 81 points in a single NBA game, the second highest in history."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"magic_johnson",
+"name":"Magic Johnson",
+"type":"entity",
+"parent":"basketball_usa",
+
+"info":{
+"country":"USA",
+"position":"Point Guard",
+"born":"14 August 1959",
+"nba_titles":"5"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Magic Johnson revolutionized the point guard position with his passing and leadership."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won five NBA championships with the Los Angeles Lakers."
+},
+"tab3":{
+"title":"Facts",
+"content":"Magic was also a member of the 1992 Dream Team."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"larry_bird",
+"name":"Larry Bird",
+"type":"entity",
+"parent":"basketball_usa",
+
+"info":{
+"country":"USA",
+"position":"Small Forward",
+"born":"7 December 1956",
+"nba_titles":"3"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Larry Bird was one of the greatest shooters and competitors in basketball history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won three NBA championships with the Boston Celtics."
+},
+"tab3":{
+"title":"Facts",
+"content":"Bird was famous for his rivalry with Magic Johnson."
+}
+},
+
+"gallery_count":5
+}
+]

@@ -1,0 +1,156 @@
+[
+{
+"id":"nikola_jokic",
+"name":"Nikola Jokic",
+"type":"entity",
+"parent":"basketball_serbia",
+
+"info":{
+"country":"Serbia",
+"position":"Center",
+"born":"19 February 1995",
+"nba_team":"Denver Nuggets"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Nikola Jokic is one of the most skilled centers in NBA history and known for his elite passing ability."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Jokic won multiple NBA MVP awards and led the Denver Nuggets to the 2023 NBA Championship."
+},
+"tab3":{
+"title":"Facts",
+"content":"He is famous for his unique playmaking ability as a center."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"bogdan_bogdanovic",
+"name":"Bogdan Bogdanovic",
+"type":"entity",
+"parent":"basketball_serbia",
+
+"info":{
+"country":"Serbia",
+"position":"Shooting Guard",
+"born":"18 August 1992",
+"nba_team":"Atlanta Hawks"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Bogdan Bogdanovic is one of the best Serbian shooters in modern basketball."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has played a major role for Serbia in international tournaments."
+},
+"tab3":{
+"title":"Facts",
+"content":"Bogdanovic previously played in the EuroLeague before joining the NBA."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"vlade_divac",
+"name":"Vlade Divac",
+"type":"entity",
+"parent":"basketball_serbia",
+
+"info":{
+"country":"Serbia",
+"position":"Center",
+"born":"3 February 1968",
+"nba_team":"Sacramento Kings"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Vlade Divac was one of the first successful European players in the NBA."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He played more than 1000 NBA games and became a basketball executive after retirement."
+},
+"tab3":{
+"title":"Facts",
+"content":"Divac was inducted into the Basketball Hall of Fame."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"peja_stojakovic",
+"name":"Peja Stojakovic",
+"type":"entity",
+"parent":"basketball_serbia",
+
+"info":{
+"country":"Serbia",
+"position":"Small Forward",
+"born":"9 June 1977",
+"nba_titles":"1"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Peja Stojakovic was one of the best three point shooters of his generation."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won the NBA championship with the Dallas Mavericks in 2011."
+},
+"tab3":{
+"title":"Facts",
+"content":"Stojakovic was a three time NBA All Star."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"milos_teodosic",
+"name":"Milos Teodosic",
+"type":"entity",
+"parent":"basketball_serbia",
+
+"info":{
+"country":"Serbia",
+"position":"Point Guard",
+"born":"19 March 1987",
+"euroleague_mvp":"2010"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Milos Teodosic is considered one of the best European point guards of his era."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won the EuroLeague MVP award and multiple European championships."
+},
+"tab3":{
+"title":"Facts",
+"content":"Teodosic is known for his incredible passing and court vision."
+}
+},
+
+"gallery_count":5
+}
+]

@@ -1,0 +1,156 @@
+[
+{
+"id":"pau_gasol",
+"name":"Pau Gasol",
+"type":"entity",
+"parent":"basketball_spain",
+
+"info":{
+"country":"Spain",
+"position":"Power Forward",
+"born":"6 July 1980",
+"nba_titles":"2"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Pau Gasol is one of the greatest European basketball players in history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won two NBA championships with the Los Angeles Lakers."
+},
+"tab3":{
+"title":"Facts",
+"content":"Gasol was a key player in Spain winning international tournaments."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"marc_gasol",
+"name":"Marc Gasol",
+"type":"entity",
+"parent":"basketball_spain",
+
+"info":{
+"country":"Spain",
+"position":"Center",
+"born":"29 January 1985",
+"nba_titles":"1"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Marc Gasol is one of the most skilled centers in modern basketball."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won the NBA championship with the Toronto Raptors in 2019."
+},
+"tab3":{
+"title":"Facts",
+"content":"Marc is the younger brother of Pau Gasol."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ricky_rubio",
+"name":"Ricky Rubio",
+"type":"entity",
+"parent":"basketball_spain",
+
+"info":{
+"country":"Spain",
+"position":"Point Guard",
+"born":"21 October 1990",
+"nba_debut":"2011"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ricky Rubio is known for his passing ability and playmaking skills."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He helped Spain win the 2019 FIBA World Cup."
+},
+"tab3":{
+"title":"Facts",
+"content":"Rubio started playing professional basketball at age 14."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"juan_carlos_navarro",
+"name":"Juan Carlos Navarro",
+"type":"entity",
+"parent":"basketball_spain",
+
+"info":{
+"country":"Spain",
+"position":"Shooting Guard",
+"born":"13 June 1980",
+"euroleague_titles":"2"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Navarro was one of the most important players in Spanish basketball history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won several EuroLeague titles with FC Barcelona."
+},
+"tab3":{
+"title":"Facts",
+"content":"Navarro was famous for his unique floating shot called 'La Bomba'."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"sergio_llull",
+"name":"Sergio Llull",
+"type":"entity",
+"parent":"basketball_spain",
+
+"info":{
+"country":"Spain",
+"position":"Guard",
+"born":"15 November 1987",
+"euroleague_titles":"3"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Sergio Llull is one of the most important players in Real Madrid basketball history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won multiple EuroLeague titles with Real Madrid."
+},
+"tab3":{
+"title":"Facts",
+"content":"Llull is known for clutch shooting and leadership."
+}
+},
+
+"gallery_count":5
+}
+]
