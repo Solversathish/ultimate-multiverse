@@ -1,0 +1,151 @@
+[
+{
+"id":"monkey_d_luffy",
+"name":"Monkey D. Luffy",
+"type":"entity",
+"parent":"one_piece",
+
+"info":{
+"crew":"Straw Hat Pirates",
+"ability":"Gum-Gum Fruit",
+"dream":"King of the Pirates"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Monkey D. Luffy is the captain of the Straw Hat Pirates and the main protagonist of One Piece."
+},
+"tab2":{
+"title":"Abilities",
+"content":"Luffy gained rubber powers after eating the Gum-Gum Devil Fruit and can stretch his body in combat."
+},
+"tab3":{
+"title":"Facts",
+"content":"Luffy's dream is to find the legendary treasure called One Piece and become the Pirate King."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"roronoa_zoro",
+"name":"Roronoa Zoro",
+"type":"entity",
+"parent":"one_piece",
+
+"info":{
+"crew":"Straw Hat Pirates",
+"role":"Swordsman",
+"swords":"Three Sword Style"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Roronoa Zoro is the combatant of the Straw Hat Pirates and one of the strongest swordsmen in the crew."
+},
+"tab2":{
+"title":"Abilities",
+"content":"Zoro uses a unique three-sword fighting style and possesses immense physical strength."
+},
+"tab3":{
+"title":"Facts",
+"content":"Zoro dreams of becoming the greatest swordsman in the world."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"nami",
+"name":"Nami",
+"type":"entity",
+"parent":"one_piece",
+
+"info":{
+"crew":"Straw Hat Pirates",
+"role":"Navigator",
+"weapon":"Clima-Tact"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Nami is the navigator of the Straw Hat Pirates and a master of weather prediction."
+},
+"tab2":{
+"title":"Abilities",
+"content":"She uses the Clima-Tact weapon to manipulate weather during battles."
+},
+"tab3":{
+"title":"Facts",
+"content":"Nami has exceptional map-making skills and navigation abilities."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"sanji",
+"name":"Sanji",
+"type":"entity",
+"parent":"one_piece",
+
+"info":{
+"crew":"Straw Hat Pirates",
+"role":"Cook",
+"fighting_style":"Black Leg Style"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Sanji is the cook of the Straw Hat Pirates and a powerful martial artist."
+},
+"tab2":{
+"title":"Abilities",
+"content":"Sanji fights using powerful kicks and incredible speed."
+},
+"tab3":{
+"title":"Facts",
+"content":"Sanji refuses to fight women and values chivalry highly."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"trafalgar_law",
+"name":"Trafalgar Law",
+"type":"entity",
+"parent":"one_piece",
+
+"info":{
+"crew":"Heart Pirates",
+"ability":"Ope-Ope Fruit",
+"title":"Surgeon of Death"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Trafalgar Law is the captain of the Heart Pirates and a powerful pirate doctor."
+},
+"tab2":{
+"title":"Abilities",
+"content":"His Devil Fruit allows him to create a surgical space called ROOM to manipulate objects."
+},
+"tab3":{
+"title":"Facts",
+"content":"Law played an important role in the fight against the Yonko."
+}
+},
+
+"gallery_count":5
+}
+]
