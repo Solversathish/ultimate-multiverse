@@ -1,0 +1,151 @@
+[
+{
+"id":"cricket",
+"name":"Cricket",
+"type":"category",
+"parent":"sports",
+
+"info":{
+"origin":"England",
+"first_played":"16th Century",
+"governing_body":"ICC"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Cricket is one of the most popular sports in the world played between two teams of eleven players using a bat and ball."
+},
+"tab2":{
+"title":"Format Types",
+"content":"Cricket has three major formats which include Test cricket, One Day International and T20."
+},
+"tab3":{
+"title":"Facts",
+"content":"Cricket is extremely popular in countries like India, Australia, England and Pakistan."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"football",
+"name":"Football",
+"type":"category",
+"parent":"sports",
+
+"info":{
+"origin":"England",
+"governing_body":"FIFA",
+"players":"11 per team"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Football is the most popular sport in the world played between two teams trying to score goals using a ball."
+},
+"tab2":{
+"title":"Major Competitions",
+"content":"FIFA World Cup, UEFA Champions League and many domestic leagues."
+},
+"tab3":{
+"title":"Facts",
+"content":"Football is watched by billions of people worldwide."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"basketball",
+"name":"Basketball",
+"type":"category",
+"parent":"sports",
+
+"info":{
+"inventor":"James Naismith",
+"invented":"1891",
+"players":"5 per team"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Basketball is a fast paced sport played between two teams where players score by shooting the ball through the hoop."
+},
+"tab2":{
+"title":"Major Leagues",
+"content":"The NBA is the most famous basketball league in the world."
+},
+"tab3":{
+"title":"Facts",
+"content":"Basketball was invented in 1891 by James Naismith."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"tennis",
+"name":"Tennis",
+"type":"category",
+"parent":"sports",
+
+"info":{
+"governing_body":"ITF",
+"players":"Singles or Doubles",
+"surface_types":"Grass, Clay, Hard"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Tennis is a racket sport played individually or in pairs where players hit a ball across the net."
+},
+"tab2":{
+"title":"Major Tournaments",
+"content":"Grand Slam tournaments include Wimbledon, Australian Open, French Open and US Open."
+},
+"tab3":{
+"title":"Facts",
+"content":"Tennis is played professionally in many international tournaments."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"formula_1",
+"name":"Formula 1",
+"type":"category",
+"parent":"sports",
+
+"info":{
+"founded":"1950",
+"governing_body":"FIA",
+"type":"Motor Racing"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Formula One is the highest level of international motor racing for single-seater formula racing cars."
+},
+"tab2":{
+"title":"Championship",
+"content":"Drivers compete across multiple Grand Prix races each season."
+},
+"tab3":{
+"title":"Facts",
+"content":"Formula 1 cars are among the fastest racing cars in the world."
+}
+},
+
+"gallery_count":5
+}
+]
