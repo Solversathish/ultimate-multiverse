@@ -1,0 +1,156 @@
+[
+{
+"id":"ms_dhoni",
+"name":"MS Dhoni",
+"type":"entity",
+"parent":"cricket_india",
+
+"info":{
+"country":"India",
+"role":"Wicketkeeper Batsman",
+"born":"7 July 1981",
+"debut":"2004"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"MS Dhoni is one of the most successful captains in cricket history and led India to several major international titles."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He captained India to the ICC T20 World Cup 2007, ICC Cricket World Cup 2011 and ICC Champions Trophy 2013."
+},
+"tab3":{
+"title":"Facts",
+"content":"Dhoni is famous for his helicopter shot and calm leadership under pressure."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"virat_kohli",
+"name":"Virat Kohli",
+"type":"entity",
+"parent":"cricket_india",
+
+"info":{
+"country":"India",
+"role":"Top Order Batsman",
+"born":"5 November 1988",
+"debut":"2008"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Virat Kohli is considered one of the best modern batsmen in world cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has scored more than 25,000 international runs across all formats."
+},
+"tab3":{
+"title":"Facts",
+"content":"Kohli is known for chasing targets and maintaining one of the highest batting averages in ODI cricket."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"rohit_sharma",
+"name":"Rohit Sharma",
+"type":"entity",
+"parent":"cricket_india",
+
+"info":{
+"country":"India",
+"role":"Opening Batsman",
+"born":"30 April 1987",
+"debut":"2007"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Rohit Sharma is one of the most elegant opening batsmen in modern cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He holds the record for the highest individual score in ODI cricket with 264 runs."
+},
+"tab3":{
+"title":"Facts",
+"content":"Rohit has scored multiple double centuries in One Day Internationals."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"jasprit_bumrah",
+"name":"Jasprit Bumrah",
+"type":"entity",
+"parent":"cricket_india",
+
+"info":{
+"country":"India",
+"role":"Fast Bowler",
+"born":"6 December 1993",
+"debut":"2016"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Jasprit Bumrah is one of the most dangerous fast bowlers in world cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has taken match winning wickets for India in all formats including Test cricket."
+},
+"tab3":{
+"title":"Facts",
+"content":"Bumrah is known for his deadly yorkers and unusual bowling action."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"kl_rahul",
+"name":"KL Rahul",
+"type":"entity",
+"parent":"cricket_india",
+
+"info":{
+"country":"India",
+"role":"Batsman / Wicketkeeper",
+"born":"18 April 1992",
+"debut":"2014"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"KL Rahul is a stylish batsman capable of playing in multiple batting positions."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has scored centuries in all three formats of international cricket."
+},
+"tab3":{
+"title":"Facts",
+"content":"Rahul has also captained India in several international matches."
+}
+},
+
+"gallery_count":5
+}
+]

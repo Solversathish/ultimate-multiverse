@@ -2,7 +2,7 @@
 {
 "id":"brazil_football_team",
 "name":"Brazil",
-"type":"entity",
+"type":"category",
 "parent":"football",
 
 "info":{
@@ -32,7 +32,7 @@
 {
 "id":"argentina_football_team",
 "name":"Argentina",
-"type":"entity",
+"type":"category",
 "parent":"football",
 
 "info":{
@@ -62,7 +62,7 @@
 {
 "id":"france_football_team",
 "name":"France",
-"type":"entity",
+"type":"category",
 "parent":"football",
 
 "info":{
@@ -92,7 +92,7 @@
 {
 "id":"germany_football_team",
 "name":"Germany",
-"type":"entity",
+"type":"category",
 "parent":"football",
 
 "info":{
@@ -122,7 +122,7 @@
 {
 "id":"spain_football_team",
 "name":"Spain",
-"type":"entity",
+"type":"category",
 "parent":"football",
 
 "info":{

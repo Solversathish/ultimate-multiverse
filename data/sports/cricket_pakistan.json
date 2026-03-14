@@ -1,0 +1,156 @@
+[
+{
+"id":"babar_azam",
+"name":"Babar Azam",
+"type":"entity",
+"parent":"cricket_pakistan",
+
+"info":{
+"country":"Pakistan",
+"role":"Batsman",
+"born":"15 October 1994",
+"debut":"2015"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Babar Azam is one of the most consistent batsmen in modern cricket and has been the captain of the Pakistan national team."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has been ranked among the top batsmen in ICC rankings across formats."
+},
+"tab3":{
+"title":"Facts",
+"content":"Babar Azam is known for his elegant batting style and cover drives."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"shahid_afridi",
+"name":"Shahid Afridi",
+"type":"entity",
+"parent":"cricket_pakistan",
+
+"info":{
+"country":"Pakistan",
+"role":"All Rounder",
+"born":"1 March 1980",
+"debut":"1996"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Shahid Afridi was one of the most explosive all rounders in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He once held the record for the fastest century in ODI cricket."
+},
+"tab3":{
+"title":"Facts",
+"content":"Afridi was famous for his aggressive batting and leg spin bowling."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"wasim_akram",
+"name":"Wasim Akram",
+"type":"entity",
+"parent":"cricket_pakistan",
+
+"info":{
+"country":"Pakistan",
+"role":"Fast Bowler",
+"born":"3 June 1966",
+"debut":"1984"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Wasim Akram is widely regarded as one of the greatest fast bowlers in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He took more than 900 international wickets during his career."
+},
+"tab3":{
+"title":"Facts",
+"content":"Akram was famous for his deadly swing bowling and reverse swing deliveries."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"imran_khan",
+"name":"Imran Khan",
+"type":"entity",
+"parent":"cricket_pakistan",
+
+"info":{
+"country":"Pakistan",
+"role":"All Rounder",
+"born":"5 October 1952",
+"debut":"1971"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Imran Khan is one of Pakistan's greatest cricket captains and all rounders."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He led Pakistan to victory in the 1992 ICC Cricket World Cup."
+},
+"tab3":{
+"title":"Facts",
+"content":"After retirement he became the Prime Minister of Pakistan."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"mohammad_rizwan",
+"name":"Mohammad Rizwan",
+"type":"entity",
+"parent":"cricket_pakistan",
+
+"info":{
+"country":"Pakistan",
+"role":"Wicketkeeper Batsman",
+"born":"1 June 1992",
+"debut":"2015"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Mohammad Rizwan is one of the most consistent wicketkeeper batsmen in modern T20 cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has scored thousands of runs in international T20 matches."
+},
+"tab3":{
+"title":"Facts",
+"content":"Rizwan is known for his fitness, discipline and match finishing ability."
+}
+},
+
+"gallery_count":5
+}
+]

@@ -1,0 +1,156 @@
+[
+{
+"id":"ab_de_villiers",
+"name":"AB de Villiers",
+"type":"entity",
+"parent":"cricket_south_africa",
+
+"info":{
+"country":"South Africa",
+"role":"Batsman / Wicketkeeper",
+"born":"17 February 1984",
+"debut":"2004"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"AB de Villiers is one of the most innovative batsmen in cricket history and was known as Mr. 360 for his ability to play shots all around the field."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He once held the record for the fastest ODI century scored in just 31 balls."
+},
+"tab3":{
+"title":"Facts",
+"content":"AB de Villiers played for South Africa across all formats and was famous for his versatility and creativity."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"jacques_kallis",
+"name":"Jacques Kallis",
+"type":"entity",
+"parent":"cricket_south_africa",
+
+"info":{
+"country":"South Africa",
+"role":"All Rounder",
+"born":"16 October 1975",
+"debut":"1995"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Jacques Kallis is considered one of the greatest all rounders in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He scored more than 10,000 Test runs and also took more than 250 Test wickets."
+},
+"tab3":{
+"title":"Facts",
+"content":"Kallis played a key role in South Africa's dominance during the early 2000s."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"dale_steyn",
+"name":"Dale Steyn",
+"type":"entity",
+"parent":"cricket_south_africa",
+
+"info":{
+"country":"South Africa",
+"role":"Fast Bowler",
+"born":"27 June 1983",
+"debut":"2004"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Dale Steyn is widely regarded as one of the fastest and most lethal bowlers in modern cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He became the leading wicket taker for South Africa in Test cricket."
+},
+"tab3":{
+"title":"Facts",
+"content":"Steyn was known for his pace, aggression and ability to swing the ball."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"faf_du_plessis",
+"name":"Faf du Plessis",
+"type":"entity",
+"parent":"cricket_south_africa",
+
+"info":{
+"country":"South Africa",
+"role":"Batsman",
+"born":"13 July 1984",
+"debut":"2011"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Faf du Plessis is a former South African captain known for his consistency and leadership."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He captained South Africa across multiple formats and scored many important centuries."
+},
+"tab3":{
+"title":"Facts",
+"content":"Faf du Plessis is also known for his outstanding fielding skills."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"quinton_de_kock",
+"name":"Quinton de Kock",
+"type":"entity",
+"parent":"cricket_south_africa",
+
+"info":{
+"country":"South Africa",
+"role":"Wicketkeeper Batsman",
+"born":"17 December 1992",
+"debut":"2012"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Quinton de Kock is an explosive opening batsman and wicketkeeper for South Africa."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has scored multiple centuries in international cricket across formats."
+},
+"tab3":{
+"title":"Facts",
+"content":"De Kock became one of the youngest South African captains in limited overs cricket."
+}
+},
+
+"gallery_count":5
+}
+]

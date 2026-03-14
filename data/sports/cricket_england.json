@@ -1,0 +1,156 @@
+[
+{
+"id":"joe_root",
+"name":"Joe Root",
+"type":"entity",
+"parent":"cricket_england",
+
+"info":{
+"country":"England",
+"role":"Batsman",
+"born":"30 December 1990",
+"debut":"2012"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Joe Root is one of England's greatest modern batsmen and has been a key player in all formats of cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Root has scored more than 10,000 Test runs and captained England in Test cricket for several years."
+},
+"tab3":{
+"title":"Facts",
+"content":"He was a major part of England's batting lineup during their successful international campaigns."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ben_stokes",
+"name":"Ben Stokes",
+"type":"entity",
+"parent":"cricket_england",
+
+"info":{
+"country":"England",
+"role":"All Rounder",
+"born":"4 June 1991",
+"debut":"2011"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ben Stokes is one of the best all rounders in modern cricket and known for his match winning performances."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He played a crucial role in England winning the 2019 ICC Cricket World Cup."
+},
+"tab3":{
+"title":"Facts",
+"content":"Stokes is famous for his incredible innings in the 2019 Ashes Test at Headingley."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"james_anderson",
+"name":"James Anderson",
+"type":"entity",
+"parent":"cricket_england",
+
+"info":{
+"country":"England",
+"role":"Fast Bowler",
+"born":"30 July 1982",
+"debut":"2002"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"James Anderson is one of the greatest swing bowlers in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He became the first fast bowler to take more than 600 Test wickets."
+},
+"tab3":{
+"title":"Facts",
+"content":"Anderson has played international cricket for more than two decades."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"jos_buttler",
+"name":"Jos Buttler",
+"type":"entity",
+"parent":"cricket_england",
+
+"info":{
+"country":"England",
+"role":"Wicketkeeper Batsman",
+"born":"8 September 1990",
+"debut":"2011"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Jos Buttler is known for his explosive batting in limited overs cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He captained England in white ball formats and helped them win major tournaments."
+},
+"tab3":{
+"title":"Facts",
+"content":"Buttler is famous for playing innovative shots like the reverse sweep and ramp shots."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"stuart_broad",
+"name":"Stuart Broad",
+"type":"entity",
+"parent":"cricket_england",
+
+"info":{
+"country":"England",
+"role":"Fast Bowler",
+"born":"24 June 1986",
+"debut":"2006"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Stuart Broad was one of England's most successful fast bowlers in Test cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Broad took more than 600 Test wickets during his career."
+},
+"tab3":{
+"title":"Facts",
+"content":"He once took 8 wickets for 15 runs in an Ashes Test match."
+}
+},
+
+"gallery_count":5
+}
+]

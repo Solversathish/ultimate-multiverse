@@ -1,0 +1,156 @@
+[
+{
+"id":"ricky_ponting",
+"name":"Ricky Ponting",
+"type":"entity",
+"parent":"cricket_australia",
+
+"info":{
+"country":"Australia",
+"role":"Batsman",
+"born":"19 December 1974",
+"debut":"1995"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ricky Ponting is one of the greatest captains and batsmen in cricket history. He led Australia during one of its most dominant eras."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Ponting won two ICC Cricket World Cups as captain in 2003 and 2007."
+},
+"tab3":{
+"title":"Facts",
+"content":"He scored over 27,000 international runs during his career."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"steve_smith",
+"name":"Steve Smith",
+"type":"entity",
+"parent":"cricket_australia",
+
+"info":{
+"country":"Australia",
+"role":"Batsman",
+"born":"2 June 1989",
+"debut":"2010"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Steve Smith is one of the best Test batsmen of the modern era with an unusual batting style."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has been ranked number one in ICC Test rankings multiple times."
+},
+"tab3":{
+"title":"Facts",
+"content":"Smith started his career as a leg spinner before becoming a top batsman."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"david_warner",
+"name":"David Warner",
+"type":"entity",
+"parent":"cricket_australia",
+
+"info":{
+"country":"Australia",
+"role":"Opening Batsman",
+"born":"27 October 1986",
+"debut":"2009"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"David Warner is one of the most explosive opening batsmen in world cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has scored centuries in all formats of international cricket."
+},
+"tab3":{
+"title":"Facts",
+"content":"Warner became one of the few players to debut in international cricket without playing first class cricket."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"glenn_mcgrath",
+"name":"Glenn McGrath",
+"type":"entity",
+"parent":"cricket_australia",
+
+"info":{
+"country":"Australia",
+"role":"Fast Bowler",
+"born":"9 February 1970",
+"debut":"1993"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Glenn McGrath is considered one of the most accurate fast bowlers in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He took more than 900 international wickets across formats."
+},
+"tab3":{
+"title":"Facts",
+"content":"McGrath played a key role in Australia's dominance during the late 1990s and 2000s."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"shane_warne",
+"name":"Shane Warne",
+"type":"entity",
+"parent":"cricket_australia",
+
+"info":{
+"country":"Australia",
+"role":"Leg Spinner",
+"born":"13 September 1969",
+"debut":"1992"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Shane Warne is widely regarded as the greatest leg spinner in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He took over 700 Test wickets and changed the art of leg spin bowling."
+},
+"tab3":{
+"title":"Facts",
+"content":"Warne delivered the famous 'Ball of the Century' in the 1993 Ashes series."
+}
+},
+
+"gallery_count":5
+}
+]
