@@ -1,0 +1,151 @@
+[
+{
+"id":"brazil_football_team",
+"name":"Brazil",
+"type":"entity",
+"parent":"football",
+
+"info":{
+"captain":"Marquinhos",
+"coach":"Dorival Júnior",
+"governing_body":"CBF"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Brazil is one of the most successful football nations in history and is famous for its attacking style of play."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Brazil has won the FIFA World Cup five times, the most by any national team."
+},
+"tab3":{
+"title":"Facts",
+"content":"Legendary players include Pelé, Ronaldo Nazário, Ronaldinho and Neymar."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"argentina_football_team",
+"name":"Argentina",
+"type":"entity",
+"parent":"football",
+
+"info":{
+"captain":"Lionel Messi",
+"coach":"Lionel Scaloni",
+"governing_body":"AFA"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Argentina is one of the most powerful football nations and has produced some of the greatest players in history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Argentina has won the FIFA World Cup multiple times including the 2022 World Cup."
+},
+"tab3":{
+"title":"Facts",
+"content":"Famous players include Diego Maradona and Lionel Messi."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"france_football_team",
+"name":"France",
+"type":"entity",
+"parent":"football",
+
+"info":{
+"captain":"Kylian Mbappé",
+"coach":"Didier Deschamps",
+"governing_body":"FFF"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"France is one of the strongest modern football teams with many world class players."
+},
+"tab2":{
+"title":"Achievements",
+"content":"France won the FIFA World Cup in 1998 and 2018."
+},
+"tab3":{
+"title":"Facts",
+"content":"France has produced legendary players like Zinedine Zidane and Thierry Henry."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"germany_football_team",
+"name":"Germany",
+"type":"entity",
+"parent":"football",
+
+"info":{
+"captain":"Ilkay Gündogan",
+"coach":"Julian Nagelsmann",
+"governing_body":"DFB"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Germany is historically one of the most successful teams in international football."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Germany has won multiple FIFA World Cups and European Championships."
+},
+"tab3":{
+"title":"Facts",
+"content":"Germany is known for disciplined and tactical football."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"spain_football_team",
+"name":"Spain",
+"type":"entity",
+"parent":"football",
+
+"info":{
+"captain":"Álvaro Morata",
+"coach":"Luis de la Fuente",
+"governing_body":"RFEF"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Spain is known for its famous possession based football style called 'Tiki-Taka'."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Spain won the FIFA World Cup in 2010 and multiple UEFA European Championships."
+},
+"tab3":{
+"title":"Facts",
+"content":"Spain dominated world football between 2008 and 2012."
+}
+},
+
+"gallery_count":5
+}
+]

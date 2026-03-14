@@ -1,0 +1,151 @@
+[
+{
+"id":"novak_djokovic",
+"name":"Novak Djokovic",
+"type":"entity",
+"parent":"tennis",
+
+"info":{
+"country":"Serbia",
+"grand_slam_titles":"24",
+"turned_pro":"2003"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Novak Djokovic is considered one of the greatest tennis players in history and has dominated modern tennis."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Djokovic has won a record number of Grand Slam titles and multiple ATP Finals championships."
+},
+"tab3":{
+"title":"Facts",
+"content":"He has held the world number one ranking for the longest time in ATP history."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"rafael_nadal",
+"name":"Rafael Nadal",
+"type":"entity",
+"parent":"tennis",
+
+"info":{
+"country":"Spain",
+"grand_slam_titles":"22",
+"nickname":"King of Clay"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Rafael Nadal is famous for his dominance on clay courts and his incredible fighting spirit."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Nadal has won the French Open a record number of times."
+},
+"tab3":{
+"title":"Facts",
+"content":"He is considered one of the greatest clay court players in history."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"roger_federer",
+"name":"Roger Federer",
+"type":"entity",
+"parent":"tennis",
+
+"info":{
+"country":"Switzerland",
+"grand_slam_titles":"20",
+"turned_pro":"1998"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Roger Federer is widely regarded as one of the most elegant and successful tennis players."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Federer has won 20 Grand Slam titles and many ATP tournaments."
+},
+"tab3":{
+"title":"Facts",
+"content":"Federer spent many weeks as the world number one player."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"carlos_alcaraz",
+"name":"Carlos Alcaraz",
+"type":"entity",
+"parent":"tennis",
+
+"info":{
+"country":"Spain",
+"grand_slam_titles":"Multiple",
+"turned_pro":"2018"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Carlos Alcaraz is one of the brightest young stars in modern tennis."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He has already won major tournaments and reached the world number one ranking."
+},
+"tab3":{
+"title":"Facts",
+"content":"Alcaraz is known for his speed and powerful groundstrokes."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"andy_murray",
+"name":"Andy Murray",
+"type":"entity",
+"parent":"tennis",
+
+"info":{
+"country":"United Kingdom",
+"grand_slam_titles":"3",
+"olympic_gold":"2"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Andy Murray is one of the greatest British tennis players."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Murray has won multiple Grand Slam titles and Olympic gold medals."
+},
+"tab3":{
+"title":"Facts",
+"content":"He became the first British Wimbledon champion in many decades."
+}
+},
+
+"gallery_count":5
+}
+]

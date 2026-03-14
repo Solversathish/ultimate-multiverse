@@ -1,0 +1,151 @@
+[
+{
+"id":"india_cricket_team",
+"name":"India",
+"type":"entity",
+"parent":"cricket",
+
+"info":{
+"captain":"Rohit Sharma",
+"coach":"Rahul Dravid",
+"governing_body":"BCCI"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The India national cricket team represents India in international cricket and is governed by the BCCI."
+},
+"tab2":{
+"title":"Achievements",
+"content":"India has won multiple ICC tournaments including the Cricket World Cup and Champions Trophy."
+},
+"tab3":{
+"title":"Facts",
+"content":"India is one of the strongest cricket teams with legendary players like Sachin Tendulkar and Virat Kohli."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"australia_cricket_team",
+"name":"Australia",
+"type":"entity",
+"parent":"cricket",
+
+"info":{
+"captain":"Pat Cummins",
+"coach":"Andrew McDonald",
+"governing_body":"Cricket Australia"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The Australian national cricket team is one of the most successful teams in the history of cricket."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Australia has won the Cricket World Cup multiple times and dominated international cricket for decades."
+},
+"tab3":{
+"title":"Facts",
+"content":"Legendary players include Ricky Ponting, Shane Warne and Glenn McGrath."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"england_cricket_team",
+"name":"England",
+"type":"entity",
+"parent":"cricket",
+
+"info":{
+"captain":"Ben Stokes",
+"coach":"Brendon McCullum",
+"governing_body":"ECB"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"England is one of the oldest cricket teams and played the first ever Test match in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"England won the ICC Cricket World Cup in 2019."
+},
+"tab3":{
+"title":"Facts",
+"content":"England is considered the birthplace of modern cricket."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"pakistan_cricket_team",
+"name":"Pakistan",
+"type":"entity",
+"parent":"cricket",
+
+"info":{
+"captain":"Babar Azam",
+"coach":"Grant Bradburn",
+"governing_body":"PCB"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Pakistan is known for producing some of the most talented fast bowlers in cricket history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Pakistan won the ICC Cricket World Cup in 1992."
+},
+"tab3":{
+"title":"Facts",
+"content":"Legendary players include Imran Khan, Wasim Akram and Waqar Younis."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"south_africa_cricket_team",
+"name":"South Africa",
+"type":"entity",
+"parent":"cricket",
+
+"info":{
+"captain":"Temba Bavuma",
+"coach":"Shukri Conrad",
+"governing_body":"CSA"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"South Africa is one of the strongest cricket teams known for powerful players."
+},
+"tab2":{
+"title":"Achievements",
+"content":"South Africa has produced many world class players across generations."
+},
+"tab3":{
+"title":"Facts",
+"content":"Famous players include Jacques Kallis, AB de Villiers and Dale Steyn."
+}
+},
+
+"gallery_count":5
+}
+]

@@ -1,0 +1,151 @@
+[
+{
+"id":"usa_basketball_team",
+"name":"USA",
+"type":"entity",
+"parent":"basketball",
+
+"info":{
+"governing_body":"USA Basketball",
+"olympic_titles":"16",
+"nickname":"Dream Team"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The USA national basketball team is the most dominant team in international basketball history."
+},
+"tab2":{
+"title":"Achievements",
+"content":"USA has won multiple Olympic gold medals and FIBA World Cups."
+},
+"tab3":{
+"title":"Facts",
+"content":"The famous 1992 Dream Team included Michael Jordan, Magic Johnson and Larry Bird."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"spain_basketball_team",
+"name":"Spain",
+"type":"entity",
+"parent":"basketball",
+
+"info":{
+"governing_body":"Spanish Basketball Federation",
+"eurobasket_titles":"4",
+"world_cups":"2"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Spain is one of the strongest basketball teams in Europe."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Spain won the FIBA Basketball World Cup in 2006 and 2019."
+},
+"tab3":{
+"title":"Facts",
+"content":"Famous players include Pau Gasol and Marc Gasol."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"canada_basketball_team",
+"name":"Canada",
+"type":"entity",
+"parent":"basketball",
+
+"info":{
+"governing_body":"Canada Basketball",
+"fiba_rank":"Top 10",
+"notable_player":"Shai Gilgeous-Alexander"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Canada has become a rising power in international basketball."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Canada won bronze at the 2023 FIBA World Cup."
+},
+"tab3":{
+"title":"Facts",
+"content":"Canada produces many NBA players."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"serbia_basketball_team",
+"name":"Serbia",
+"type":"entity",
+"parent":"basketball",
+
+"info":{
+"governing_body":"Basketball Federation of Serbia",
+"olympic_medals":"Multiple",
+"notable_player":"Nikola Jokic"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Serbia is known for producing highly skilled basketball players."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Serbia has won several Olympic and World Cup medals."
+},
+"tab3":{
+"title":"Facts",
+"content":"Nikola Jokic is one of the best basketball players in the world."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"australia_basketball_team",
+"name":"Australia",
+"type":"entity",
+"parent":"basketball",
+
+"info":{
+"governing_body":"Basketball Australia",
+"nickname":"Boomers",
+"olympic_medal":"Bronze 2020"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Australia's national team known as the Boomers is one of the strongest teams outside Europe and USA."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Australia won bronze at the Tokyo 2020 Olympics."
+},
+"tab3":{
+"title":"Facts",
+"content":"Australia has produced NBA stars like Patty Mills and Ben Simmons."
+}
+},
+
+"gallery_count":5
+}
+]

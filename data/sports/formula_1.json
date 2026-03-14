@@ -1,0 +1,151 @@
+[
+{
+"id":"lewis_hamilton",
+"name":"Lewis Hamilton",
+"type":"entity",
+"parent":"formula_1",
+
+"info":{
+"country":"United Kingdom",
+"world_titles":"7",
+"team":"Mercedes"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Lewis Hamilton is one of the greatest Formula 1 drivers in history and has broken many records in the sport."
+},
+"tab2":{
+"title":"Achievements",
+"content":"Hamilton has won multiple world championships and holds records for race wins and pole positions."
+},
+"tab3":{
+"title":"Facts",
+"content":"He is known for his speed, consistency and activism outside motorsport."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"max_verstappen",
+"name":"Max Verstappen",
+"type":"entity",
+"parent":"formula_1",
+
+"info":{
+"country":"Netherlands",
+"world_titles":"Multiple",
+"team":"Red Bull Racing"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Max Verstappen is one of the most dominant drivers of the modern Formula 1 era."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won several world championships and broke records for most wins in a season."
+},
+"tab3":{
+"title":"Facts",
+"content":"Verstappen became the youngest driver ever to compete in Formula 1."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"michael_schumacher",
+"name":"Michael Schumacher",
+"type":"entity",
+"parent":"formula_1",
+
+"info":{
+"country":"Germany",
+"world_titles":"7",
+"team":"Ferrari"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Michael Schumacher dominated Formula 1 during the early 2000s with Ferrari."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won seven world championships and set many records during his career."
+},
+"tab3":{
+"title":"Facts",
+"content":"Schumacher is considered one of the greatest racing drivers ever."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ayrton_senna",
+"name":"Ayrton Senna",
+"type":"entity",
+"parent":"formula_1",
+
+"info":{
+"country":"Brazil",
+"world_titles":"3",
+"team":"McLaren"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ayrton Senna is remembered as one of the most talented and passionate Formula 1 drivers."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won three world championships and many Grand Prix races."
+},
+"tab3":{
+"title":"Facts",
+"content":"Senna was known for his incredible skill in wet racing conditions."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"sebastian_vettel",
+"name":"Sebastian Vettel",
+"type":"entity",
+"parent":"formula_1",
+
+"info":{
+"country":"Germany",
+"world_titles":"4",
+"team":"Red Bull Racing"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Sebastian Vettel dominated Formula 1 during the early 2010s with Red Bull Racing."
+},
+"tab2":{
+"title":"Achievements",
+"content":"He won four consecutive world championships from 2010 to 2013."
+},
+"tab3":{
+"title":"Facts",
+"content":"Vettel became one of the youngest Formula 1 world champions in history."
+}
+},
+
+"gallery_count":5
+}
+]
