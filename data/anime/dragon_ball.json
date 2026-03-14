@@ -1,28 +1,28 @@
 [
 {
-"id":"goku",
-"name":"Goku",
+"id":"kid_goku",
+"name":"Kid Goku",
 "type":"entity",
 "parent":"dragon_ball",
 
 "info":{
 "race":"Saiyan",
-"home":"Earth",
+"adoptive_grandfather":"Grandpa Gohan",
 "signature_move":"Kamehameha"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Goku is the main protagonist of Dragon Ball and a Saiyan raised on Earth. He constantly trains to become stronger and protect the universe."
+"content":"Kid Goku is the young version of Goku during the original Dragon Ball series. He grows up in the mountains and begins a journey to collect the Dragon Balls."
 },
 "tab2":{
 "title":"Abilities",
-"content":"Goku possesses powerful transformations like Super Saiyan, Ultra Instinct and uses techniques such as Kamehameha and Instant Transmission."
+"content":"Kid Goku possesses incredible strength, speed, martial arts talent, and the ability to perform the Kamehameha wave."
 },
 "tab3":{
 "title":"Facts",
-"content":"Goku's Saiyan name is Kakarot and he has defeated many powerful enemies including Frieza and Majin Buu."
+"content":"Goku was originally sent to Earth as a baby Saiyan but forgot his mission after hitting his head."
 }
 },
 
@@ -30,29 +30,29 @@
 },
 
 {
-"id":"vegeta",
-"name":"Vegeta",
+"id":"bulma",
+"name":"Bulma",
 "type":"entity",
 "parent":"dragon_ball",
 
 "info":{
-"race":"Saiyan",
-"title":"Prince of Saiyans",
-"signature_move":"Final Flash"
+"occupation":"Scientist",
+"company":"Capsule Corporation",
+"first_appearance":"Dragon Ball Episode 1"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Vegeta is the proud prince of the Saiyan race and one of Goku's greatest rivals."
+"content":"Bulma is one of the main characters in Dragon Ball and the first friend Goku meets during his adventure."
 },
 "tab2":{
 "title":"Abilities",
-"content":"Vegeta can transform into Super Saiyan forms and uses powerful attacks like Final Flash and Big Bang Attack."
+"content":"Although she is not a fighter, Bulma is a genius inventor and technological expert."
 },
 "tab3":{
 "title":"Facts",
-"content":"Vegeta gradually becomes one of Earth's strongest defenders."
+"content":"Bulma created the Dragon Radar which helps locate Dragon Balls."
 }
 },
 
@@ -60,29 +60,29 @@
 },
 
 {
-"id":"gohan",
-"name":"Gohan",
+"id":"krillin",
+"name":"Krillin",
 "type":"entity",
 "parent":"dragon_ball",
 
 "info":{
-"race":"Half Saiyan",
-"father":"Goku",
-"special_form":"Beast Form"
+"occupation":"Martial Artist",
+"best_friend":"Goku",
+"signature_move":"Destructo Disc"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Gohan is the eldest son of Goku and possesses immense hidden potential."
+"content":"Krillin is Goku's closest friend and a skilled martial artist trained by Master Roshi."
 },
 "tab2":{
 "title":"Abilities",
-"content":"Gohan has powerful transformations including Mystic form and Beast form."
+"content":"Krillin uses techniques like Destructo Disc and Solar Flare in battles."
 },
 "tab3":{
 "title":"Facts",
-"content":"Gohan defeated Cell during the Cell Games."
+"content":"Krillin is considered one of the strongest human fighters in Dragon Ball."
 }
 },
 
@@ -90,29 +90,29 @@
 },
 
 {
-"id":"piccolo",
-"name":"Piccolo",
+"id":"master_roshi",
+"name":"Master Roshi",
 "type":"entity",
 "parent":"dragon_ball",
 
 "info":{
-"race":"Namekian",
-"role":"Warrior",
-"special_move":"Special Beam Cannon"
+"title":"Turtle Hermit",
+"occupation":"Martial Arts Master",
+"students":"Goku, Krillin"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Piccolo is a Namekian warrior who later becomes one of Earth's greatest protectors."
+"content":"Master Roshi is an ancient martial arts master who trains Goku and Krillin."
 },
 "tab2":{
 "title":"Abilities",
-"content":"Piccolo can regenerate body parts, stretch limbs and use powerful ki attacks."
+"content":"He created the famous Kamehameha technique and possesses incredible martial arts knowledge."
 },
 "tab3":{
 "title":"Facts",
-"content":"Piccolo once started as Goku's enemy but became his ally."
+"content":"Despite his humorous personality, Roshi is extremely powerful."
 }
 },
 
@@ -120,29 +120,29 @@
 },
 
 {
-"id":"frieza",
-"name":"Frieza",
+"id":"yamcha",
+"name":"Yamcha",
 "type":"entity",
 "parent":"dragon_ball",
 
 "info":{
-"race":"Frieza Clan",
-"role":"Villain",
-"signature_form":"Golden Frieza"
+"occupation":"Martial Artist",
+"signature_move":"Wolf Fang Fist",
+"team":"Z Fighters"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Frieza is one of the most feared villains in Dragon Ball."
+"content":"Yamcha is a desert bandit who later becomes a friend of Goku and joins the Z Fighters."
 },
 "tab2":{
 "title":"Abilities",
-"content":"Frieza possesses multiple transformations and immense destructive power."
+"content":"Yamcha is skilled in martial arts and uses techniques like Wolf Fang Fist and Spirit Ball."
 },
 "tab3":{
 "title":"Facts",
-"content":"Frieza destroyed Planet Vegeta and the Saiyan race."
+"content":"Yamcha originally appeared as an enemy before becoming an ally."
 }
 },
 
