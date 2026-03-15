@@ -1,28 +1,28 @@
 [
 {
-"id":"cars",
-"name":"Cars",
-"type":"category",
-"parent":"vehicles",
+"id":"toyota_camry",
+"name":"Toyota Camry",
+"type":"entity",
+"parent":"cars",
 
 "info":{
-"vehicle_type":"Land Vehicle",
-"primary_use":"Personal Transport",
-"wheels":"4"
+"manufacturer":"Toyota",
+"country":"Japan",
+"vehicle_class":"Mid-size Sedan"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Cars are one of the most common personal transportation vehicles used worldwide. They are designed to carry passengers comfortably on roads and highways."
+"content":"The Toyota Camry is one of the most popular mid-size sedans in the world known for reliability, comfort and fuel efficiency."
 },
 "tab2":{
-"title":"History",
-"content":"The first modern automobile was developed in the late 19th century by Karl Benz. Since then cars have evolved dramatically with improvements in safety, performance and technology."
+"title":"Specifications",
+"content":"The Camry is available with petrol, hybrid and modern safety technologies including adaptive cruise control and lane assist."
 },
 "tab3":{
 "title":"Facts",
-"content":"Modern cars include electric vehicles, hybrid cars and self-driving technologies. Brands like Toyota, Tesla, BMW and Mercedes-Benz dominate the global market."
+"content":"Toyota Camry has been one of the best selling cars in the United States for many years."
 }
 },
 
@@ -30,29 +30,29 @@
 },
 
 {
-"id":"bikes",
-"name":"Motorcycles",
-"type":"category",
-"parent":"vehicles",
+"id":"tesla_model_s",
+"name":"Tesla Model S",
+"type":"entity",
+"parent":"cars",
 
 "info":{
-"vehicle_type":"Two Wheeler",
-"primary_use":"Personal Transport",
-"wheels":"2"
+"manufacturer":"Tesla",
+"country":"USA",
+"vehicle_class":"Electric Sedan"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Motorcycles are two-wheeled motor vehicles designed for speed, agility and efficiency. They are widely used for commuting, racing and long-distance travel."
+"content":"Tesla Model S is a fully electric luxury sedan known for its advanced technology and high performance."
 },
 "tab2":{
-"title":"History",
-"content":"Motorcycles were developed in the late 1800s shortly after the invention of the automobile. Over time they evolved into multiple categories such as sport bikes, cruisers and touring bikes."
+"title":"Specifications",
+"content":"The Model S offers long driving range, autopilot features and extremely fast acceleration."
 },
 "tab3":{
 "title":"Facts",
-"content":"Some of the most famous motorcycle brands include Yamaha, Honda, Ducati, Kawasaki and Harley-Davidson."
+"content":"The Model S Plaid version can accelerate from 0 to 100 km/h in under 2 seconds."
 }
 },
 
@@ -60,29 +60,29 @@
 },
 
 {
-"id":"aircraft",
-"name":"Aircraft",
-"type":"category",
-"parent":"vehicles",
+"id":"bmw_m3",
+"name":"BMW M3",
+"type":"entity",
+"parent":"cars",
 
 "info":{
-"vehicle_type":"Air Vehicle",
-"primary_use":"Air Transport",
-"engine_type":"Jet / Propeller"
+"manufacturer":"BMW",
+"country":"Germany",
+"vehicle_class":"Sports Sedan"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Aircraft are vehicles designed to travel through the air. They include airplanes, helicopters, fighter jets and cargo aircraft."
+"content":"BMW M3 is a high performance sports sedan developed by BMW's M division."
 },
 "tab2":{
-"title":"History",
-"content":"The first successful powered flight was achieved by the Wright Brothers in 1903. Since then aviation technology has advanced rapidly."
+"title":"Specifications",
+"content":"The M3 features powerful turbocharged engines, advanced suspension and precision handling."
 },
 "tab3":{
 "title":"Facts",
-"content":"Modern aircraft can travel faster than the speed of sound and carry hundreds of passengers across continents."
+"content":"The BMW M3 has been a symbol of performance driving since its introduction in the 1980s."
 }
 },
 
@@ -90,29 +90,29 @@
 },
 
 {
-"id":"ships",
-"name":"Ships",
-"type":"category",
-"parent":"vehicles",
+"id":"ford_mustang",
+"name":"Ford Mustang",
+"type":"entity",
+"parent":"cars",
 
 "info":{
-"vehicle_type":"Water Vehicle",
-"primary_use":"Sea Transport",
-"power_source":"Diesel / Nuclear"
+"manufacturer":"Ford",
+"country":"USA",
+"vehicle_class":"Muscle Car"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Ships are large water vessels designed for transporting goods and passengers across seas and oceans."
+"content":"Ford Mustang is one of the most iconic American muscle cars known for its powerful engines and sporty design."
 },
 "tab2":{
-"title":"History",
-"content":"Ships have been used for thousands of years for exploration, trade and naval warfare."
+"title":"Specifications",
+"content":"The Mustang offers multiple engine options including turbocharged and V8 engines."
 },
 "tab3":{
 "title":"Facts",
-"content":"Some ships such as aircraft carriers are among the largest and most powerful vehicles ever built."
+"content":"The Mustang has appeared in many movies and is a symbol of American automotive culture."
 }
 },
 
@@ -120,29 +120,29 @@
 },
 
 {
-"id":"other_vehicles",
-"name":"Other Vehicles",
-"type":"category",
-"parent":"vehicles",
+"id":"lamborghini_aventador",
+"name":"Lamborghini Aventador",
+"type":"entity",
+"parent":"cars",
 
 "info":{
-"vehicle_type":"Mixed Vehicles",
-"primary_use":"Specialized Transport",
-"examples":"Bullock Cart, Rickshaw, Snowmobile"
+"manufacturer":"Lamborghini",
+"country":"Italy",
+"vehicle_class":"Supercar"
 },
 
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Other vehicles include special transportation machines that do not fit into standard categories like cars or aircraft."
+"content":"The Lamborghini Aventador is a high performance supercar known for its aggressive design and powerful V12 engine."
 },
 "tab2":{
-"title":"Usage",
-"content":"These vehicles are used for unique purposes such as rural transportation, snow travel or tourism."
+"title":"Specifications",
+"content":"It features advanced aerodynamics, all wheel drive and extremely fast acceleration."
 },
 "tab3":{
 "title":"Facts",
-"content":"Examples include bullock carts, horse carriages, rickshaws, snowmobiles and hoverboards."
+"content":"The Aventador is one of Lamborghini's most famous flagship supercars."
 }
 },
 

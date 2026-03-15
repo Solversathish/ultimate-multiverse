@@ -1,0 +1,151 @@
+[
+{
+"id":"lion",
+"name":"Lion",
+"type":"entity",
+"parent":"mammals",
+
+"info":{
+"scientific_name":"Panthera leo",
+"habitat":"Savannas and Grasslands",
+"diet":"Carnivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The lion is one of the largest big cats and is often called the king of the jungle. Lions live in groups known as prides and are known for their strength and majestic appearance."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"Male lions have large manes that make them appear bigger and protect them during fights. Lions are powerful hunters and work together in groups to catch prey."
+},
+"tab3":{
+"title":"Facts",
+"content":"Lions are the only cats that live in social groups. Their roar can be heard up to 8 kilometers away."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"elephant",
+"name":"Elephant",
+"type":"entity",
+"parent":"mammals",
+
+"info":{
+"scientific_name":"Loxodonta",
+"habitat":"Forests and Grasslands",
+"diet":"Herbivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Elephants are the largest land animals on Earth and are known for their long trunks and large ears."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"Elephants use their trunks for breathing, smelling, grabbing objects and making sounds. They are highly intelligent animals with strong family bonds."
+},
+"tab3":{
+"title":"Facts",
+"content":"Elephants have excellent memory and can recognize individuals even after many years."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"dolphin",
+"name":"Dolphin",
+"type":"entity",
+"parent":"mammals",
+
+"info":{
+"scientific_name":"Delphinidae",
+"habitat":"Oceans and Seas",
+"diet":"Carnivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Dolphins are highly intelligent marine mammals known for their playful behavior and strong social bonds."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They communicate with whistles and clicks and use echolocation to locate objects and prey underwater."
+},
+"tab3":{
+"title":"Facts",
+"content":"Dolphins are considered among the smartest animals in the world."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"bat",
+"name":"Bat",
+"type":"entity",
+"parent":"mammals",
+
+"info":{
+"scientific_name":"Chiroptera",
+"habitat":"Forests and Caves",
+"diet":"Insects / Fruits"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Bats are the only mammals capable of true flight. They play an important role in ecosystems by controlling insect populations and pollinating plants."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"Bats use echolocation to navigate and hunt in complete darkness."
+},
+"tab3":{
+"title":"Facts",
+"content":"There are more than 1,400 species of bats making them one of the largest groups of mammals."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"kangaroo",
+"name":"Kangaroo",
+"type":"entity",
+"parent":"mammals",
+
+"info":{
+"scientific_name":"Macropus",
+"habitat":"Australia",
+"diet":"Herbivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Kangaroos are large marsupials native to Australia and are famous for their powerful hind legs and jumping ability."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They carry their young in a pouch called a marsupium and can travel long distances with powerful jumps."
+},
+"tab3":{
+"title":"Facts",
+"content":"Kangaroos can jump up to 9 meters in a single leap."
+}
+},
+
+"gallery_count":5
+}
+]

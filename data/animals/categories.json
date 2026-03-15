@@ -1,0 +1,151 @@
+[
+{
+"id":"mammals",
+"name":"Mammals",
+"type":"category",
+"parent":"animals",
+
+"info":{
+"class":"Mammalia",
+"body_type":"Warm Blooded",
+"examples":"Elephant, Lion, Dolphin"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Mammals are animals that have hair or fur and feed their young with milk produced by mammary glands."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"Most mammals give birth to live young, have a backbone and maintain a constant body temperature."
+},
+"tab3":{
+"title":"Facts",
+"content":"There are more than 6,000 species of mammals ranging from tiny bats to the massive blue whale."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"dogs",
+"name":"Dogs",
+"type":"category",
+"parent":"animals",
+
+"info":{
+"family":"Canidae",
+"scientific_name":"Canis lupus familiaris",
+"origin":"Domesticated Wolf"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Dogs are domesticated mammals and are one of the most popular companion animals in the world."
+},
+"tab2":{
+"title":"History",
+"content":"Dogs were domesticated from wolves thousands of years ago and have since been bred into hundreds of breeds."
+},
+"tab3":{
+"title":"Facts",
+"content":"Dogs are known for loyalty, intelligence and their strong bond with humans."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"extinct_animals",
+"name":"Extinct Animals",
+"type":"category",
+"parent":"animals",
+
+"info":{
+"status":"Extinct",
+"meaning":"No living members remain",
+"examples":"Dodo, Woolly Mammoth"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Extinct animals are species that no longer exist anywhere on Earth."
+},
+"tab2":{
+"title":"Causes",
+"content":"Animals may become extinct due to natural disasters, climate change or human activity."
+},
+"tab3":{
+"title":"Facts",
+"content":"Many famous extinct animals include dinosaurs, mammoths and the dodo bird."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"insects",
+"name":"Insects",
+"type":"category",
+"parent":"animals",
+
+"info":{
+"class":"Insecta",
+"body_parts":"Head, Thorax, Abdomen",
+"legs":"6"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Insects are the largest group of animals on Earth with millions of species."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"Insects have three body segments, six legs and many species have wings."
+},
+"tab3":{
+"title":"Facts",
+"content":"Examples include ants, butterflies, bees and beetles."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"marine_animals",
+"name":"Marine Animals",
+"type":"category",
+"parent":"animals",
+
+"info":{
+"habitat":"Ocean",
+"examples":"Shark, Octopus, Jellyfish",
+"type":"Aquatic Animals"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Marine animals are animals that live in oceans and seas around the world."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"These animals have adapted to survive in saltwater environments."
+},
+"tab3":{
+"title":"Facts",
+"content":"Marine animals include fish, whales, sharks, octopuses and many more species."
+}
+},
+
+"gallery_count":5
+}
+]

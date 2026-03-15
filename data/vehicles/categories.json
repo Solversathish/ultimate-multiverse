@@ -31,7 +31,7 @@
 
 {
 "id":"bikes",
-"name":"Motorcycles",
+"name":"Bikes",
 "type":"category",
 "parent":"vehicles",
 

@@ -1,0 +1,151 @@
+[
+{
+"id":"bullock_cart",
+"name":"Bullock Cart",
+"type":"entity",
+"parent":"other_vehicles",
+
+"info":{
+"type":"Animal-powered Vehicle",
+"region":"South Asia",
+"usage":"Rural Transport"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"A bullock cart is a traditional vehicle pulled by oxen and commonly used in rural areas for transporting goods and people."
+},
+"tab2":{
+"title":"History",
+"content":"Bullock carts have been used for thousands of years in agriculture and transportation before the invention of motor vehicles."
+},
+"tab3":{
+"title":"Facts",
+"content":"Even today bullock carts are used in many villages for farming and short-distance transport."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"horse_carriage",
+"name":"Horse Carriage",
+"type":"entity",
+"parent":"other_vehicles",
+
+"info":{
+"type":"Animal-powered Vehicle",
+"region":"Europe / Worldwide",
+"usage":"Passenger Transport"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Horse carriages were widely used for passenger transport before automobiles became common."
+},
+"tab2":{
+"title":"History",
+"content":"These vehicles were popular in the 18th and 19th centuries and were used by royalty and common people alike."
+},
+"tab3":{
+"title":"Facts",
+"content":"Today horse carriages are mainly used for tourism and ceremonial purposes."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"rickshaw",
+"name":"Rickshaw",
+"type":"entity",
+"parent":"other_vehicles",
+
+"info":{
+"type":"Human-powered Vehicle",
+"region":"Asia",
+"usage":"Passenger Transport"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"A rickshaw is a small passenger vehicle traditionally pulled by a person or pedaled like a bicycle."
+},
+"tab2":{
+"title":"History",
+"content":"Rickshaws originated in Japan in the 19th century and later spread across Asia."
+},
+"tab3":{
+"title":"Facts",
+"content":"Modern rickshaws include cycle rickshaws and auto rickshaws."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"snowmobile",
+"name":"Snowmobile",
+"type":"entity",
+"parent":"other_vehicles",
+
+"info":{
+"type":"Motorized Vehicle",
+"region":"Cold Regions",
+"usage":"Snow Transport"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"A snowmobile is a motorized vehicle designed to travel across snow and ice."
+},
+"tab2":{
+"title":"Usage",
+"content":"Snowmobiles are widely used in Arctic regions for transportation, rescue operations and recreation."
+},
+"tab3":{
+"title":"Facts",
+"content":"They use tracks instead of wheels to move efficiently over snow."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"segway",
+"name":"Segway",
+"type":"entity",
+"parent":"other_vehicles",
+
+"info":{
+"type":"Electric Personal Vehicle",
+"region":"Worldwide",
+"usage":"Short Distance Travel"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"A Segway is a self-balancing electric personal transporter used for short distance travel."
+},
+"tab2":{
+"title":"Technology",
+"content":"It uses gyroscopic sensors and electric motors to maintain balance."
+},
+"tab3":{
+"title":"Facts",
+"content":"Segways are commonly used by security guards, tourists and city patrols."
+}
+},
+
+"gallery_count":5
+}
+]
