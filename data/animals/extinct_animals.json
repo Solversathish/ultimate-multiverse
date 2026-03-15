@@ -1,0 +1,151 @@
+[
+{
+"id":"tyrannosaurus_rex",
+"name":"Tyrannosaurus Rex",
+"type":"entity",
+"parent":"extinct_animals",
+
+"info":{
+"period":"Late Cretaceous",
+"diet":"Carnivore",
+"length":"12 meters"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Tyrannosaurus Rex was one of the largest and most powerful land predators to ever exist on Earth."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"It had massive jaws with powerful teeth designed for crushing bones and tearing flesh."
+},
+"tab3":{
+"title":"Facts",
+"content":"T. Rex lived about 68 to 66 million years ago and became extinct during the mass extinction event."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"woolly_mammoth",
+"name":"Woolly Mammoth",
+"type":"entity",
+"parent":"extinct_animals",
+
+"info":{
+"period":"Ice Age",
+"diet":"Herbivore",
+"height":"4 meters"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The Woolly Mammoth was a large prehistoric elephant-like animal that lived during the Ice Age."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"It had thick fur, long curved tusks and a layer of fat to survive freezing climates."
+},
+"tab3":{
+"title":"Facts",
+"content":"Woolly Mammoths went extinct around 4,000 years ago."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"dodo",
+"name":"Dodo",
+"type":"entity",
+"parent":"extinct_animals",
+
+"info":{
+"period":"17th Century",
+"diet":"Omnivore",
+"habitat":"Mauritius"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The Dodo was a flightless bird that lived on the island of Mauritius in the Indian Ocean."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"It had a large body, small wings and could not fly."
+},
+"tab3":{
+"title":"Facts",
+"content":"The Dodo became extinct in the late 1600s mainly due to human activity."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"saber_toothed_tiger",
+"name":"Saber-Toothed Tiger",
+"type":"entity",
+"parent":"extinct_animals",
+
+"info":{
+"period":"Ice Age",
+"diet":"Carnivore",
+"scientific_name":"Smilodon"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The Saber-Toothed Tiger was a prehistoric predator known for its extremely long canine teeth."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"It had powerful forelimbs and used its long fangs to hunt large animals."
+},
+"tab3":{
+"title":"Facts",
+"content":"Despite the name, it was not closely related to modern tigers."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"triceratops",
+"name":"Triceratops",
+"type":"entity",
+"parent":"extinct_animals",
+
+"info":{
+"period":"Late Cretaceous",
+"diet":"Herbivore",
+"length":"9 meters"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Triceratops was a large herbivorous dinosaur known for its three horns and large frill."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"It used its horns for defense against predators like Tyrannosaurus Rex."
+},
+"tab3":{
+"title":"Facts",
+"content":"Triceratops fossils are among the most commonly discovered dinosaur fossils."
+}
+},
+
+"gallery_count":5
+}
+]

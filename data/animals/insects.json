@@ -1,0 +1,151 @@
+[
+{
+"id":"butterfly",
+"name":"Butterfly",
+"type":"entity",
+"parent":"insects",
+
+"info":{
+"class":"Insecta",
+"diet":"Nectar",
+"lifespan":"2–4 weeks"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Butterflies are colorful flying insects known for their beautiful wings and important role in pollination."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They undergo complete metamorphosis which includes egg, larva (caterpillar), pupa and adult stages."
+},
+"tab3":{
+"title":"Facts",
+"content":"Butterflies can taste with their feet and many species migrate long distances."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"honey_bee",
+"name":"Honey Bee",
+"type":"entity",
+"parent":"insects",
+
+"info":{
+"class":"Insecta",
+"diet":"Nectar and Pollen",
+"role":"Pollinator"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Honey bees are social insects that live in colonies and are famous for producing honey and pollinating plants."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They communicate with each other through a special movement called the waggle dance."
+},
+"tab3":{
+"title":"Facts",
+"content":"Honey bees are essential for pollinating many crops and plants."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ant",
+"name":"Ant",
+"type":"entity",
+"parent":"insects",
+
+"info":{
+"class":"Insecta",
+"diet":"Omnivore",
+"colony_structure":"Highly Organized"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ants are highly organized social insects that live in colonies with complex social structures."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"Colonies usually include a queen, workers and sometimes soldiers."
+},
+"tab3":{
+"title":"Facts",
+"content":"Ants can carry objects many times heavier than their own body weight."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"dragonfly",
+"name":"Dragonfly",
+"type":"entity",
+"parent":"insects",
+
+"info":{
+"class":"Insecta",
+"diet":"Carnivore",
+"habitat":"Near Water"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Dragonflies are fast flying insects known for their large eyes and transparent wings."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They are excellent hunters that feed on mosquitoes and other small insects."
+},
+"tab3":{
+"title":"Facts",
+"content":"Dragonflies can fly in multiple directions including backward."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ladybug",
+"name":"Ladybug",
+"type":"entity",
+"parent":"insects",
+
+"info":{
+"class":"Insecta",
+"diet":"Aphids",
+"habitat":"Gardens and Forests"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ladybugs are small beetles recognized by their red shells with black spots."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They are beneficial insects because they eat plant pests such as aphids."
+},
+"tab3":{
+"title":"Facts",
+"content":"Ladybugs are considered a symbol of good luck in many cultures."
+}
+},
+
+"gallery_count":5
+}
+]

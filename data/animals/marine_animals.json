@@ -1,0 +1,151 @@
+[
+{
+"id":"great_white_shark",
+"name":"Great White Shark",
+"type":"entity",
+"parent":"marine_animals",
+
+"info":{
+"class":"Chondrichthyes",
+"habitat":"Oceans",
+"diet":"Carnivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The Great White Shark is one of the largest and most powerful predatory fish in the ocean."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"It has a streamlined body, sharp teeth and strong swimming ability which makes it a top ocean predator."
+},
+"tab3":{
+"title":"Facts",
+"content":"Great white sharks can detect tiny vibrations in water and locate prey from far distances."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"octopus",
+"name":"Octopus",
+"type":"entity",
+"parent":"marine_animals",
+
+"info":{
+"class":"Cephalopoda",
+"habitat":"Oceans",
+"diet":"Carnivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Octopuses are intelligent marine animals known for their eight flexible arms and ability to change color."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They can camouflage themselves and escape predators by releasing ink into the water."
+},
+"tab3":{
+"title":"Facts",
+"content":"Octopuses are considered one of the most intelligent invertebrates in the ocean."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"dolphin_marine",
+"name":"Dolphin",
+"type":"entity",
+"parent":"marine_animals",
+
+"info":{
+"class":"Mammalia",
+"habitat":"Oceans",
+"diet":"Carnivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Dolphins are highly intelligent marine mammals known for their playful behavior and social groups."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They use echolocation to locate fish and navigate through water."
+},
+"tab3":{
+"title":"Facts",
+"content":"Dolphins communicate with whistles and clicks and are known to help injured members of their group."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"jellyfish",
+"name":"Jellyfish",
+"type":"entity",
+"parent":"marine_animals",
+
+"info":{
+"class":"Scyphozoa",
+"habitat":"Oceans",
+"diet":"Carnivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Jellyfish are soft-bodied marine animals known for their umbrella-shaped bell and long tentacles."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They use stinging cells on their tentacles to capture prey and defend themselves."
+},
+"tab3":{
+"title":"Facts",
+"content":"Some jellyfish species glow in the dark due to bioluminescence."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"seahorse",
+"name":"Seahorse",
+"type":"entity",
+"parent":"marine_animals",
+
+"info":{
+"class":"Actinopterygii",
+"habitat":"Shallow Seas",
+"diet":"Carnivore"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Seahorses are small marine fish known for their unique horse-like head shape."
+},
+"tab2":{
+"title":"Characteristics",
+"content":"They swim upright and use their tails to hold onto sea plants."
+},
+"tab3":{
+"title":"Facts",
+"content":"In seahorses the male carries the eggs in a pouch until they hatch."
+}
+},
+
+"gallery_count":5
+}
+]
