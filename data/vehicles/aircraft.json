@@ -1,0 +1,151 @@
+[
+{
+"id":"boeing_747",
+"name":"Boeing 747",
+"type":"entity",
+"parent":"aircraft",
+
+"info":{
+"manufacturer":"Boeing",
+"country":"USA",
+"type":"Passenger Aircraft"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The Boeing 747 is one of the most iconic passenger airplanes ever built and is known for its distinctive hump design."
+},
+"tab2":{
+"title":"Specifications",
+"content":"The aircraft can carry hundreds of passengers and travel long distances across continents."
+},
+"tab3":{
+"title":"Facts",
+"content":"The Boeing 747 is often called the 'Queen of the Skies'."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"airbus_a380",
+"name":"Airbus A380",
+"type":"entity",
+"parent":"aircraft",
+
+"info":{
+"manufacturer":"Airbus",
+"country":"Europe",
+"type":"Passenger Aircraft"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The Airbus A380 is the world's largest passenger aircraft with a full double-deck design."
+},
+"tab2":{
+"title":"Specifications",
+"content":"It can carry over 800 passengers depending on configuration."
+},
+"tab3":{
+"title":"Facts",
+"content":"The A380 offers luxury features such as onboard lounges and private suites in some airlines."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"f22_raptor",
+"name":"F-22 Raptor",
+"type":"entity",
+"parent":"aircraft",
+
+"info":{
+"manufacturer":"Lockheed Martin",
+"country":"USA",
+"type":"Fighter Jet"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The F-22 Raptor is a fifth-generation stealth fighter jet used by the United States Air Force."
+},
+"tab2":{
+"title":"Specifications",
+"content":"It features stealth technology, supercruise capability and advanced avionics."
+},
+"tab3":{
+"title":"Facts",
+"content":"The F-22 is considered one of the most advanced fighter aircraft in the world."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"f35_lightning",
+"name":"F-35 Lightning II",
+"type":"entity",
+"parent":"aircraft",
+
+"info":{
+"manufacturer":"Lockheed Martin",
+"country":"USA",
+"type":"Stealth Fighter"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The F-35 Lightning II is a multi-role stealth fighter used by several countries."
+},
+"tab2":{
+"title":"Specifications",
+"content":"It has advanced sensors, stealth technology and network-centric warfare capabilities."
+},
+"tab3":{
+"title":"Facts",
+"content":"The F-35 program is one of the most expensive military aircraft programs ever."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"b2_spirit",
+"name":"B-2 Spirit",
+"type":"entity",
+"parent":"aircraft",
+
+"info":{
+"manufacturer":"Northrop Grumman",
+"country":"USA",
+"type":"Stealth Bomber"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"The B-2 Spirit is a stealth strategic bomber designed for penetrating dense anti-aircraft defenses."
+},
+"tab2":{
+"title":"Specifications",
+"content":"The aircraft has a flying wing design that reduces radar visibility."
+},
+"tab3":{
+"title":"Facts",
+"content":"The B-2 bomber is one of the most expensive aircraft ever built."
+}
+},
+
+"gallery_count":5
+}
+]

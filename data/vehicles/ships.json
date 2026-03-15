@@ -1,0 +1,151 @@
+[
+{
+"id":"titanic",
+"name":"RMS Titanic",
+"type":"entity",
+"parent":"ships",
+
+"info":{
+"type":"Passenger Ocean Liner",
+"country":"United Kingdom",
+"launched":"1912"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"RMS Titanic was one of the largest passenger ships of its time and became famous for its tragic sinking in 1912."
+},
+"tab2":{
+"title":"History",
+"content":"Titanic struck an iceberg during its maiden voyage from Southampton to New York and sank in the North Atlantic Ocean."
+},
+"tab3":{
+"title":"Facts",
+"content":"The Titanic disaster led to major improvements in maritime safety regulations."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"queen_mary_2",
+"name":"Queen Mary 2",
+"type":"entity",
+"parent":"ships",
+
+"info":{
+"type":"Ocean Liner",
+"country":"United Kingdom",
+"operator":"Cunard Line"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Queen Mary 2 is one of the most famous modern ocean liners used for transatlantic voyages."
+},
+"tab2":{
+"title":"Specifications",
+"content":"The ship can carry thousands of passengers and includes luxury amenities such as theaters and restaurants."
+},
+"tab3":{
+"title":"Facts",
+"content":"Queen Mary 2 is the flagship of the Cunard Line fleet."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"uss_enterprise",
+"name":"USS Enterprise",
+"type":"entity",
+"parent":"ships",
+
+"info":{
+"type":"Aircraft Carrier",
+"country":"United States",
+"class":"Nimitz-class"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"USS Enterprise is one of the most famous aircraft carriers in the history of the United States Navy."
+},
+"tab2":{
+"title":"Specifications",
+"content":"Aircraft carriers serve as floating airbases capable of launching and recovering aircraft."
+},
+"tab3":{
+"title":"Facts",
+"content":"The name USS Enterprise has been used for several US Navy ships."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"ever_given",
+"name":"Ever Given",
+"type":"entity",
+"parent":"ships",
+
+"info":{
+"type":"Container Ship",
+"country":"Panama",
+"operator":"Evergreen Marine"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"Ever Given is a massive container ship that became globally famous after blocking the Suez Canal in 2021."
+},
+"tab2":{
+"title":"Specifications",
+"content":"The ship can carry over 20,000 shipping containers."
+},
+"tab3":{
+"title":"Facts",
+"content":"The blockage caused major disruptions to global shipping and trade."
+}
+},
+
+"gallery_count":5
+},
+
+{
+"id":"hms_victory",
+"name":"HMS Victory",
+"type":"entity",
+"parent":"ships",
+
+"info":{
+"type":"Warship",
+"country":"United Kingdom",
+"launched":"1765"
+},
+
+"tabs":{
+"tab1":{
+"title":"Description",
+"content":"HMS Victory is a historic warship best known as the flagship of Admiral Nelson during the Battle of Trafalgar."
+},
+"tab2":{
+"title":"History",
+"content":"The ship played a major role in British naval history and remains preserved as a museum ship."
+},
+"tab3":{
+"title":"Facts",
+"content":"HMS Victory is the oldest commissioned warship in the world."
+}
+},
+
+"gallery_count":5
+}
+]
