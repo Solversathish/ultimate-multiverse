@@ -3,6 +3,7 @@
 "id":"zinedine_zidane",
 "name":"Zinedine Zidane",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_france&id=zinedine_zidane",
 "parent":"football_france",
 
 "info":{
@@ -34,6 +35,7 @@
 "id":"kylian_mbappe",
 "name":"Kylian Mbappé",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_france&id=kylian_mbappe",
 "parent":"football_france",
 
 "info":{
@@ -65,6 +67,7 @@
 "id":"thierry_henry",
 "name":"Thierry Henry",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_france&id=thierry_henry",
 "parent":"football_france",
 
 "info":{
@@ -96,6 +99,7 @@
 "id":"michel_platini",
 "name":"Michel Platini",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_france&id=michel_platini",
 "parent":"football_france",
 
 "info":{
@@ -127,6 +131,7 @@
 "id":"antoine_griezmann",
 "name":"Antoine Griezmann",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_france&id=antoine_griezmann",
 "parent":"football_france",
 
 "info":{

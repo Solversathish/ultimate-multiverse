@@ -3,6 +3,7 @@
 "id":"pele",
 "name":"Pelé",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_brazil&id=pele",
 "parent":"football_brazil",
 
 "info":{
@@ -34,6 +35,7 @@
 "id":"ronaldo_nazario",
 "name":"Ronaldo Nazário",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_brazil&id=ronaldo_nazario",
 "parent":"football_brazil",
 
 "info":{
@@ -65,6 +67,7 @@
 "id":"ronaldinho",
 "name":"Ronaldinho",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_brazil&id=ronaldinho",
 "parent":"football_brazil",
 
 "info":{
@@ -96,6 +99,7 @@
 "id":"neymar",
 "name":"Neymar Jr",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_brazil&id=neymar",
 "parent":"football_brazil",
 
 "info":{
@@ -127,6 +131,7 @@
 "id":"kaka",
 "name":"Kaká",
 "type":"entity",
+"url":"entity.html?universe=sports&path=football,football_brazil&id=kaka",
 "parent":"football_brazil",
 
 "info":{

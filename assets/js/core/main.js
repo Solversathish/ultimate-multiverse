@@ -1,55 +1,60 @@
-/* ================= CDN BASE ================= */
-
 window.CDN_BASE =
 "https://res.cloudinary.com/do6nej9li/image/upload/";
 
 
-/* ================= IMAGE GENERATOR ================= */
+window.getCDNImage = function(id, type="thumb", universe="", path=""){
 
-window.getCDNImage = function(id,type="thumb",universe="",path=""){
+  const base = "ultimate-multiverse";
 
-  let base = "ultimate-multiverse";
+  const HERO_TRANSFORM = "f_auto,q_auto,c_fit,w_600,h_600,b_transparent/";
+  const THUMB_TRANSFORM = "f_auto,q_auto,c_fit,w_300,h_300/";
+  const GALLERY_TRANSFORM = "f_auto,q_auto/";
 
-  /* HOME PAGE (UNIVERSE CARDS) */
+  /* ================= HOME ================= */
 
   if(!universe){
 
     if(type === "hero"){
-      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/${base}/${id}/hero.png`;
+      return `${window.CDN_BASE}${HERO_TRANSFORM}${base}/${id}/${id}_hero.png`;
     }
 
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/${base}/${id}/thumb.png`;
+    return `${window.CDN_BASE}${THUMB_TRANSFORM}${base}/${id}/thumb.png`;
   }
 
-  /* UNIVERSE ENTITY PAGE */
+  /* ================= UNIVERSE ================= */
 
   if(id === universe){
 
     if(type === "hero"){
-      return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/${base}/${universe}/hero.png`;
+      return `${window.CDN_BASE}${HERO_TRANSFORM}${base}/${universe}/${universe}_hero.png`;
     }
 
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/${base}/${universe}/thumb.png`;
+    return `${window.CDN_BASE}${THUMB_TRANSFORM}${base}/${universe}/thumb.png`;
   }
 
-  /* BUILD PATH */
+  /* ================= PATH ================= */
 
   let folder = `${base}/${universe}`;
 
   if(path){
-    const levels = path.split(",");
-    levels.forEach(level => folder += `/${level}`);
+    path.split(",").forEach(level => folder += `/${level}`);
   }
 
   folder += `/${id}`;
 
+  /* ================= TYPES ================= */
+
   if(type === "hero"){
-    return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_600,h_600,b_transparent/${folder}/hero.png`;
+    return `${window.CDN_BASE}${HERO_TRANSFORM}${folder}/${id}_hero.png`;
   }
 
-  return `${window.CDN_BASE}f_auto,q_auto,c_fit,w_300,h_300/${folder}/thumb.png`;
-};
+  if(type === "gallery"){
+    return `${window.CDN_BASE}${GALLERY_TRANSFORM}${folder}/${id}_`;
+  }
 
+  return `${window.CDN_BASE}${THUMB_TRANSFORM}${folder}/thumb.png`;
+
+};
 
 /* ================= SEARCH SYSTEM ================= */
 

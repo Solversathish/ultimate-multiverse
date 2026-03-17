@@ -3,6 +3,7 @@
 "id":"cricket_india",
 "name":"India",
 "type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_india",
 "parent":"cricket"
 },
 
@@ -10,6 +11,7 @@
 "id":"cricket_australia",
 "name":"Australia",
 "type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_australia",
 "parent":"cricket"
 },
 
@@ -17,6 +19,7 @@
 "id":"cricket_england",
 "name":"England",
 "type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_england",
 "parent":"cricket"
 },
 
@@ -24,6 +27,7 @@
 "id":"cricket_pakistan",
 "name":"Pakistan",
 "type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_pakistan",
 "parent":"cricket"
 },
 
@@ -31,6 +35,7 @@
 "id":"cricket_south_africa",
 "name":"South Africa",
 "type":"category",
+"url":"category.html?universe=sports&path=cricket,cricket_south_africa",
 "parent":"cricket"
 }
 ]

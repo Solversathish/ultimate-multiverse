@@ -278,7 +278,7 @@ return html;
 
 /* GALLERY */
 
-function renderGallery(entity){
+function renderGallery(entity, universe, path){
 
 const gallery = document.getElementById("galleryContainer");
 
@@ -289,7 +289,7 @@ let images="";
 for(let i=1;i<=entity.gallery_count;i++){
 
 images += `
-<img src="${getCDNImage(entity.id,"gallery",entity.parent)}g${i}.png" loading="lazy">
+<img src="${getCDNImage(entity.id,"gallery",universe,path)}g${i}.png" loading="lazy">
 `;
 
 }
