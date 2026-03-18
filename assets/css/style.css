@@ -991,13 +991,22 @@ color:#00ff88;
 .image-modal{
   display: none;
   position: fixed;
-  z-index: 999;
-  padding-top: 60px;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.9);
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0,0,0,0.95);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#modalImg{
+  max-width: 90vw;
+  max-height: 70vh;
+  object-fit: contain;
+
+  margin-bottom: 20px;
 }
 
 .image-modal img{
@@ -1010,16 +1019,17 @@ color:#00ff88;
 .close-btn{
   position: absolute;
   top: 20px;
-  right: 30px;
+  right: 25px;
+  font-size: 30px;
   color: white;
-  font-size: 35px;
   cursor: pointer;
+  z-index: 10;
 }
 
 .modal-thumbnails{
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 0px;
   margin-top: 20px;
   overflow-x: auto;
   padding: 10px;
@@ -1040,4 +1050,17 @@ color:#00ff88;
 .modal-thumbnails img.active{
   opacity: 1;
   transform: scale(1.1);
+}
+
+@media (max-width:768px){
+
+  #modalImg{
+    max-height: 60vh;
+  }
+
+  .modal-thumbnails img{
+    width: 55px;
+    height: 55px;
+  }
+
 }
