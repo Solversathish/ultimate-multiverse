@@ -17,15 +17,17 @@
 "tabs":{
 "tab1":{
 "title":"Description",
-"content":"Naruto Uzumaki is the main protagonist of the Naruto series. He dreams of becoming Hokage and protecting his village."
+"content":"Naruto Uzumaki is a ninja from the Hidden Leaf Village known for his never-give-up attitude and strong determination.<br><br>He was once an outcast because he carried the powerful Nine-Tailed Fox inside him.<br><br>Despite his lonely childhood, Naruto dreams of becoming the Hokage to earn everyone’s respect.<br><br>Through hard work and perseverance, he becomes one of the strongest shinobi in history."
 },
+
 "tab2":{
 "title":"Abilities",
-"content":"Naruto possesses immense chakra, Shadow Clone Jutsu, Rasengan, Sage Mode and the power of the Nine Tails."
+"content":"<ul><li>Shadow Clone Jutsu</li><li>Rasengan</li><li>Rasenshuriken</li><li>Sage Mode</li><li>Kurama Chakra Mode</li><li>Six Paths Sage Mode</li><li>Massive Chakra Reserves</li><li>Enhanced Healing Ability</li><li>Superhuman Speed & Reflexes</li><li>Advanced Taijutsu</li><li>Wind Release Chakra</li><li>Truth-Seeking Orbs</li><li>Chakra Arms</li><li>Tailed Beast Bomb</li><li>Sensory Abilities</li></ul>"
 },
+
 "tab3":{
 "title":"Facts",
-"content":"Naruto eventually becomes the Seventh Hokage of the Hidden Leaf Village."
+"content":"<ul><li>Favorite food is ramen</li><li>Host of the Nine-Tailed Fox (Kurama)</li><li>Became the 7th Hokage</li><li>Was once the weakest student in the academy</li><li>Never gives up on his friends</li></ul>"
 }
 },
 
