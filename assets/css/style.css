@@ -1005,15 +1005,21 @@ color:#00ff88;
   max-width: 90vw;
   max-height: 70vh;
   object-fit: contain;
-
-  margin-bottom: 20px;
+  display: block;
+margin: 0 auto;
 }
 
-.image-modal img{
-  margin: auto;
-  display: block;
-  max-width: 90%;
-  max-height: 80%;
+.image-modal{
+  display: none;  /* ✅ only this */
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0,0,0,0.95);
+
+  /* keep flex properties but hidden */
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .close-btn{
@@ -1029,7 +1035,7 @@ color:#00ff88;
 .modal-thumbnails{
   display: flex;
   justify-content: center;
-  gap: 0px;
+  gap: 50px;
   margin-top: 20px;
   overflow-x: auto;
   padding: 10px;
