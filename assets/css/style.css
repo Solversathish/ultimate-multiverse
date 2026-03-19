@@ -161,18 +161,17 @@ body::before {
   top: 0;
   left: 0;              /* ✅ important */
   width: 100%;
-  max-width: 1400px;
   padding: 8px 0px;
   background: #111;
+  flex-direction: column;
   z-index: 9999;
   margin: auto;
 align-items: center;
   display: flex;
-  justify-content: center;   /* ✅ THIS centers content */
 }
 
 body{
-  padding-top: 70px; /* adjust based on header height */
+  padding-top: 60px; /* adjust based on header height */
 }
 
 
@@ -195,7 +194,7 @@ gap: 20px;
 /* SEARCH BOX */
 .search-box{
   position: relative;
-  width: 320px;
+  width: 40%;
   margin-left: auto;
 }
 
@@ -290,10 +289,6 @@ gap: 20px;
 }
 
 
-/* SEARCH BOX */
-.search-box{
-  width:40%;
-}
 
 /* SEARCH INPUT */
 .search-box input{
@@ -308,29 +303,44 @@ gap: 20px;
 /* MOBILE FIX */
 @media (max-width:768px){
 
-  .main-header{
-    flex-direction: column;   /* 🔥 stack items */
+   .header-container{
+    display: flex;
+    flex-direction: column;   /* 🔥 THIS IS MAIN FIX */
     align-items: flex-start;
-    padding: 10px 15px;
+    gap: 0px;
   }
 
   .logo{
+    text-align: center;
     width: 100%;
     font-size: 22px;
-    margin-bottom: 10px;      /* space below logo */
+    margin-bottom: 10px;
   }
 
-  .search-box{
-    width: 100%;              /* full width */
+
+  #searchInput{
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+  }
+
+  body{
+    padding-top: 95px; /* prevent overlap */
   }
 
 }
 
 @media (max-width:768px){
 
-  #searchInput{
-    font-size: 14px;
-    padding: 12px;
+  .main-header{
+    display: flex !important;
+    flex-direction: column !important;   /* 🔥 FORCE */
+    align-items: flex-start !important;
+  }
+
+  .search-box{
+    width: 100% !important;
+    margin-left: 0 !important;   /* 🔥 REMOVE PUSH */
   }
 
 }
