@@ -731,6 +731,20 @@
 },
 
 {
+"id":"basilisk",
+"name":"Basilisk",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=basilisk",
+"parent":"one_piece",
+"info":{"Sea:":"Grand Line","Role:":"Guard Beast","Affiliation:":"Impel Down","Species:":"Mutated Creature","Devil Fruit:":"None"},
+"tabs":{
+"tab1":{"title":"Description","content":"The Basilisk is a massive beast that resides in Impel Down.<br><br>It serves as a guard in Level 2 of the prison.<br><br>It has the body of a chicken and the head of a snake.<br><br>It is a result of unnatural mutation.<br><br>It is feared by prisoners due to its wild nature."},
+"tab2":{"title":"Abilities","content":"<ul><li>Massive Strength</li><li>Beast Durability</li><li>Sharp Fangs</li><li>Predatory Instincts</li><li>Large Size Combat</li><li>Intimidation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Lives in Impel Down</li><li>Guard of Level 2</li><li>Weaker than Sphinx</li><li>Mutated creature</li><li>Animal-like intelligence</li></ul>"}},
+"gallery_count":6
+},
+
+{
 "id":"baskerville",
 "name":"Baskerville",
 "type":"entity",
@@ -743,6 +757,22 @@
 "tab3":{"title":"Facts","content":"<ul><li>Chief Justice of Enies Lobby</li><li>Three individuals acting as one</li><li>Members: Bas, And, Kerville</li><li>Serve World Government</li><li>Appear in Enies Lobby arc</li></ul>"}},
 "gallery_count":6
 },
+
+
+{
+"id":"bastille",
+"name":"Bastille",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bastille",
+"parent":"one_piece",
+"info":{"Sea:":"Grand Line","Role:":"Marine Vice Admiral","Affiliation:":"Marines","Sex:":"Male","Alias:":"Shark Cutter"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bastille is a Marine Vice Admiral known as Shark Cutter.<br><br>He participated in the Summit War of Marineford.<br><br>He later appeared in Dressrosa under Fujitora.<br><br>He wears a distinctive mask with bull-like horns.<br><br>He is a powerful officer in the Marines."},
+"tab2":{"title":"Abilities","content":"<ul><li>Swordsmanship</li><li>Physical Strength</li><li>Durability</li><li>Combat Skills</li><li>Leadership</li><li>Marine Training</li><li>Endurance</li><li>Battle Experience</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Vice Admiral rank</li><li>Fought in Marineford</li><li>Serves under Marines</li><li>Appears in Dressrosa</li><li>Nickname Shark Cutter</li></ul>"}},
+"gallery_count":6
+},
+
 
 {
 "id":"batman",
@@ -758,6 +788,220 @@
 "gallery_count":6
 },
 
+{
+"id":"battaman",
+"name":"Battaman",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=battaman",
+"parent":"one_piece",
+"info":{"Sea:":"New World","Role:":"Gifter","Affiliation:":"Beasts Pirates","Devil Fruit:":"SMILE"},
+"tabs":{
+"tab1":{"title":"Description","content":"Battaman is a Gifter of the Beasts Pirates.<br><br>He has grasshopper-like traits due to a SMILE fruit.<br><br>He wears a helmet with a T-shaped marking.<br><br>He fights using enhanced jumping and physical power."},
+"tab2":{"title":"Abilities","content":"<ul><li>Enhanced Jumping</li><li>Physical Strength</li><li>SMILE Transformation</li><li>Combat Skills</li><li>Durability</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Member of Beasts Pirates</li><li>Artificial Zoan user</li><li>Appears in Wano</li><li>Grasshopper traits</li><li>Serves Kaido</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"baxcon",
+"name":"Baxcon",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=baxcon",
+"parent":"one_piece",
+"info":{"Sea:":"Dressrosa","Role:":"Scout","Affiliation":"Tontatta Kingdom","Race":"Dwarf"},
+"tabs":{
+"tab1":{"title":"Description","content":"Baxcon is a dwarf from the Tontatta Kingdom.<br><br>He is part of the scouting unit.<br><br>He has a muscular build and strong physique.<br><br>He is known for bravery in Dressrosa."},
+"tab2":{"title":"Abilities","content":"<ul><li>Enhanced Strength</li><li>Speed</li><li>Stealth</li><li>Combat Skills</li><li>Endurance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Tontatta Tribe</li><li>Appears in Dressrosa</li><li>Scout role</li><li>Very brave</li><li>Small but powerful</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"beegirl",
+"name":"Beegirl",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=beegirl",
+"parent":"one_piece",
+"info":{"Sea:":"New World","Role:":"Gifter","Affiliation":"Beasts Pirates","Devil Fruit":"Wasp SMILE"},
+"tabs":{
+"tab1":{"title":"Description","content":"Beegirl is a female Gifter in the Beasts Pirates.<br><br>She has insect-like wings due to SMILE.<br><br>She wears a striped outfit with bee theme.<br><br>She can fly and assist in combat."},
+"tab2":{"title":"Abilities","content":"<ul><li>Flight</li><li>Enhanced Speed</li><li>SMILE Transformation</li><li>Combat Support</li><li>Agility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Wasp SMILE user</li><li>Member of Beasts Pirates</li><li>Appears in Wano</li><li>Has wings</li><li>Insect abilities</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"beer_vi",
+"name":"Beer VI",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=beer_vi",
+"parent":"one_piece",
+"info":{"Sea:":"South Blue","Role":"King","Affiliation":"Roshwan Kingdom"},
+"tabs":{
+"tab1":{"title":"Description","content":"Beer VI is the king of the Roshwan Kingdom.<br><br>He attended the Levely meeting.<br><br>He is a royal leader among world kings.<br><br>He represents his nation politically."},
+"tab2":{"title":"Abilities","content":"<ul><li>Leadership</li><li>Political Influence</li><li>Authority</li><li>Strategic Thinking</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>King of Roshwan Kingdom</li><li>Attended Levely</li><li>World Government affiliate</li><li>Royal status</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"beetleman",
+"name":"Beetleman",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=beetleman",
+"parent":"one_piece",
+"info":{"Sea:":"New World","Role":"Gifter","Affiliation":"Beasts Pirates","Devil Fruit":"Rhinoceros Beetle SMILE"},
+"tabs":{
+"tab1":{"title":"Description","content":"Beetleman is a Gifter of the Beasts Pirates.<br><br>He has beetle-like features from SMILE.<br><br>He possesses horns and enhanced durability.<br><br>He follows Kaido's orders."},
+"tab2":{"title":"Abilities","content":"<ul><li>Enhanced Strength</li><li>Durability</li><li>Horn Attacks</li><li>SMILE Transformation</li><li>Combat Skills</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Beasts Pirates member</li><li>Artificial Zoan user</li><li>Beetle traits</li><li>Appears in Wano</li><li>Loyal to Kaido</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"bekori",
+"name":"Bekori",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bekori",
+"parent":"one_piece",
+"info":{"Sea":"South Blue","Role":"King (Former)","Sex:":"Male","Affiliation":"Sorbet Kingdom"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bekori is the former king of the Sorbet Kingdom.<br><br>He ruled before being overthrown.<br><br>He was known for being a cruel and selfish ruler.<br><br>His actions affected the people of his kingdom negatively."},
+"tab2":{"title":"Abilities","content":"<ul><li>Political Authority</li><li>Leadership</li><li>Royal Influence</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Former king of Sorbet Kingdom</li><li>Connected to Kuma’s past</li><li>Overthrown ruler</li><li>Abusive leadership</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"belo_betty",
+"name":"Belo Betty",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=belo_betty",
+"parent":"one_piece",
+"info":{"Sea":"East Blue","Role":"Commander","Affiliation":"Revolutionary Army","Sex:":"Female","Devil Fruit":"Kobu Kobu no Mi"},
+"tabs":{
+"tab1":{"title":"Description","content":"Belo Betty is the commander of the East Army in the Revolutionary Army.<br><br>She inspires people to fight for freedom.<br><br>She has a strong and bold personality.<br><br>She uses her powers to boost others' courage."},
+"tab2":{"title":"Abilities","content":"<ul><li>Morale Boosting</li><li>Devil Fruit Powers</li><li>Leadership</li><li>Combat Ability</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Revolutionary Army commander</li><li>Kobu Kobu no Mi user</li><li>Boosts allies</li><li>Appears in Reverie arc</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"belladonna",
+"name":"Belladonna",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=belladonna",
+"parent":"one_piece",
+"info":{"Sea":"Calm Belt","Role":"Doctor","Affiliation":"Kuja Tribe","Sex:":"Female","Residence":"Amazon Lily"},
+"tabs":{
+"tab1":{"title":"Description","content":"Belladonna is a doctor from Amazon Lily.<br><br>She is part of the Kuja tribe.<br><br>She assists in medical care on the island.<br><br>She supports the warriors and residents."},
+"tab2":{"title":"Abilities","content":"<ul><li>Medical Knowledge</li><li>Treatment Skills</li><li>Support Role</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Kuja tribe member</li><li>Doctor of Amazon Lily</li><li>Supports Boa Hancock’s island</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"bellamy",
+"name":"Bellamy",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bellamy",
+"parent":"one_piece",
+"info":{"Sea":"North Blue","Role":"Pirate (Former Captain)","Affiliation":"Bellamy Pirates","Sex:":"Male","Devil Fruit":"Bane Bane no Mi"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bellamy, known as 'The Hyena', is a former pirate captain.<br><br>He later worked under Doflamingo.<br><br>He changed after being defeated by Luffy.<br><br>He eventually retired from piracy."},
+"tab2":{"title":"Abilities","content":"<ul><li>Spring-based powers</li><li>High-speed movement</li><li>Combat skills</li><li>Durability</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nickname: The Hyena</li><li>Bane Bane no Mi user</li><li>Connected to Doflamingo</li><li>Appears in Jaya & Dressrosa</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"bellmere",
+"name":"Bell-mère",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bellmere",
+"parent":"one_piece",
+"info":{"Sea":"East Blue","Role":"Marine (Former)","Affiliation":"Marine","Sex:":"Female","Family":"Nami & Nojiko (Adopted)"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bell-mère is the adoptive mother of Nami and Nojiko.<br><br>She was a former Marine.<br><br>She raised them in Cocoyasi Village.<br><br>She sacrificed her life to protect her daughters."},
+"tab2":{"title":"Abilities","content":"<ul><li>Combat Training</li><li>Marksmanship</li><li>Strong Will</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Adoptive mother of Nami</li><li>Killed by Arlong</li><li>Former Marine</li><li>Emotional backstory</li></ul>"}},
+"gallery_count":6
+},
+
+{
+"id":"benn_beckman",
+"name":"Benn Beckman",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=benn_beckman",
+"parent":"one_piece",
+"info":{"Sea:":"North Blue","Role:":"First Mate","Affiliation:":"Red Hair Pirates","Sex:":"Male"},
+"tabs":{
+"tab1":{"title":"Description","content":"Benn Beckman is the first mate of the Red Hair Pirates.<br><br>He is the right-hand man of Shanks.<br><br>He is known for his intelligence.<br><br>He uses a rifle in combat.<br><br>He is one of the strongest crew members."},
+"tab2":{"title":"Abilities","content":"<ul><li>Expert Marksman</li><li>High Intelligence</li><li>Combat Skills</li><li>Leadership</li><li>Strategic Thinking</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Shanks' right-hand man</li><li>Very intelligent</li><li>Uses rifle</li><li>Calm personality</li><li>Top tier fighter</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"bentham",
+"name":"Bentham",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bentham",
+"parent":"one_piece",
+"info":{"Sea:":"Grand Line","Role:":"Former Officer Agent","Affiliation:":"Baroque Works","Sex:":"Male","Devil Fruit:":"Mane Mane no Mi"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bentham, also known as Bon Clay, is a former Baroque Works agent.<br><br>He later becomes a close ally of Luffy.<br><br>He is known for his dramatic personality.<br><br>He sacrificed himself in Impel Down.<br><br>He values friendship deeply."},
+"tab2":{"title":"Abilities","content":"<ul><li>Face Copy Ability</li><li>Martial Arts</li><li>Ballet Combat Style</li><li>Agility</li><li>Endurance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called Bon Clay</li><li>Baroque Works agent</li><li>Luffy's ally</li><li>Impel Down hero</li><li>Okama character</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"bepo",
+"name":"Bepo",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bepo",
+"parent":"one_piece",
+"info":{"Sea:":"Grand Line","Role:":"Navigator","Affiliation:":"Heart Pirates","Sex:":"Male","Race:":"Mink"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bepo is the navigator of the Heart Pirates.<br><br>He is a mink from Zou.<br><br>He is a polar bear mink.<br><br>He is very polite and shy.<br><br>He often apologizes a lot."},
+"tab2":{"title":"Abilities","content":"<ul><li>Sulong Form</li><li>Combat Skills</li><li>Navigation</li><li>Strength</li><li>Agility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Polar bear mink</li><li>Law's crew member</li><li>Navigator</li><li>Very polite</li><li>From Zou</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"bian",
+"name":"Bian",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bian",
+"parent":"one_piece",
+"info":{"Sea:":"Dressrosa","Role:":"Leader","Affiliation:":"Tontatta Pirates","Sex:":"Female","Race:":"Dwarf"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bian is a dwarf from the Tontatta Kingdom.<br><br>She is the leader of the Pink Bee Squad.<br><br>She fights in Dressrosa arc.<br><br>She supports the Straw Hats.<br><br>She is loyal and brave."},
+"tab2":{"title":"Abilities","content":"<ul><li>Flight</li><li>Speed</li><li>Team Combat</li><li>Agility</li><li>Small Size Advantage</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Tontatta member</li><li>Pink Bee Squad leader</li><li>Dressrosa arc</li><li>Very small size</li><li>Allied with Straw Hats</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"big_pan",
+"name":"Big Pan",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=big_pan",
+"parent":"one_piece",
+"info":{"Sea:":"Grand Line","Role:":"Combatant","Affiliation:":"Foxy Pirates","Sex:":"Male","Race:":"Wotan"},
+"tabs":{
+"tab1":{"title":"Description","content":"Big Pan is a member of the Foxy Pirates.<br><br>He is a Wotan (giant + fishman).<br><br>He is extremely large and powerful.<br><br>He appears in the Davy Back Fight.<br><br>He fights using brute strength."},
+"tab2":{"title":"Abilities","content":"<ul><li>Immense Strength</li><li>Durability</li><li>Giant Size</li><li>Combat Skills</li><li>Endurance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Foxy Pirates member</li><li>Wotan race</li><li>Davy Back Fight</li><li>Very strong</li><li>Large body</li></ul>"}
+},
+"gallery_count":6
+},
 
 {
 "id":"boa_hancock",

@@ -801,6 +801,15 @@
     "url": "entity.html?universe=anime&path=one_piece&id=basil_hawkins"
   },
   {
+    "name": "Basilisk",
+    "id": "basilisk",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=basilisk"
+  },
+  {
     "name": "Baskerville",
     "id": "baskerville",
     "type": "entity",
@@ -810,6 +819,15 @@
     "url": "entity.html?universe=anime&path=one_piece&id=baskerville"
   },
   {
+    "name": "Bastille",
+    "id": "bastille",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bastille"
+  },
+  {
     "name": "Batman",
     "id": "batman",
     "type": "entity",
@@ -817,6 +835,141 @@
     "path": "one_piece",
     "parent": "One Piece",
     "url": "entity.html?universe=anime&path=one_piece&id=batman"
+  },
+  {
+    "name": "Battaman",
+    "id": "battaman",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=battaman"
+  },
+  {
+    "name": "Baxcon",
+    "id": "baxcon",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=baxcon"
+  },
+  {
+    "name": "Beegirl",
+    "id": "beegirl",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=beegirl"
+  },
+  {
+    "name": "Beer VI",
+    "id": "beer_vi",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=beer_vi"
+  },
+  {
+    "name": "Beetleman",
+    "id": "beetleman",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=beetleman"
+  },
+  {
+    "name": "Bekori",
+    "id": "bekori",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bekori"
+  },
+  {
+    "name": "Belo Betty",
+    "id": "belo_betty",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=belo_betty"
+  },
+  {
+    "name": "Belladonna",
+    "id": "belladonna",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=belladonna"
+  },
+  {
+    "name": "Bellamy",
+    "id": "bellamy",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bellamy"
+  },
+  {
+    "name": "Bell-mère",
+    "id": "bellmere",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bellmere"
+  },
+  {
+    "name": "Benn Beckman",
+    "id": "benn_beckman",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=benn_beckman"
+  },
+  {
+    "name": "Bentham",
+    "id": "bentham",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bentham"
+  },
+  {
+    "name": "Bepo",
+    "id": "bepo",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bepo"
+  },
+  {
+    "name": "Bian",
+    "id": "bian",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bian"
+  },
+  {
+    "name": "Big Pan",
+    "id": "big_pan",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=big_pan"
   },
   {
     "name": "Boa Hancock",
