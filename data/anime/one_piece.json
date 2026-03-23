@@ -1004,6 +1004,66 @@
 },
 
 {
+"id":"bingo",
+"name":"Bingo",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bingo",
+"parent":"one_piece",
+"info":{"Sea:":"Wano","Role:":"Priest / Cooper","Affiliation:":"Wano Country","Sex:":"Male"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bingo is a former priest who later became a cooper.<br><br>He lives in Ebisu Town in Wano Country.<br><br>He lost his wealth and status.<br><br>He is a victim of Wano's harsh conditions.<br><br>He is kind despite his suffering."},
+"tab2":{"title":"Abilities","content":"<ul><li>Basic Survival Skills</li><li>Craftsmanship (Barrel Making)</li><li>Religious Knowledge</li><li>Endurance</li><li>Mental Resilience</li><li>Adaptability</li><li>Community Support</li><li>Basic Combat Awareness</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Lives in Ebisu Town</li><li>Former priest</li><li>Became poor</li><li>Wano citizen</li><li>Peaceful personality</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"birdy",
+"name":"Birdy",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=birdy",
+"parent":"one_piece",
+"info":{"Sea:":"Calm Belt","Role:":"Sea King","Affiliation:":"Sea Kings","Sex:":"Unknown","Race:":"Sea King"},
+"tabs":{
+"tab1":{"title":"Description","content":"Birdy is a Sea King with an avian appearance.<br><br>It communicates with Poseidon (Shirahoshi).<br><br>It is one of the ancient Sea Kings.<br><br>It lives in the Calm Belt.<br><br>It plays a role in ancient powers."},
+"tab2":{"title":"Abilities","content":"<ul><li>Massive Size</li><li>Ocean Dominance</li><li>Underwater Breathing</li><li>Telepathic Communication</li><li>Extreme Durability</li><li>High-Speed Swimming</li><li>Destructive Strength</li><li>Ancient Intelligence</li><li>Poseidon Response Ability</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Sea King creature</li><li>Connected to Shirahoshi</li><li>Lives in Calm Belt</li><li>Ancient being</li><li>Very powerful</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"bishamon",
+"name":"Bishamon",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bishamon",
+"parent":"one_piece",
+"info":{"Sea:":"Wano","Role:":"Ninja","Affiliation:":"Beast Pirates / Oniwabanshu","Sex:":"Male"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bishamon is a ninja from Wano Country.<br><br>He was part of the Oniwabanshu.<br><br>He later served under Orochi.<br><br>He is a minor antagonist.<br><br>He is loyal but fearful."},
+"tab2":{"title":"Abilities","content":"<ul><li>Stealth Movement</li><li>Ninjutsu Techniques</li><li>Silent Assassination</li><li>Weapon Handling</li><li>Espionage</li><li>Agility</li><li>Quick Reflexes</li><li>Group Coordination</li><li>Close Combat</li><li>Escape Techniques</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Oniwabanshu member</li><li>Served Orochi</li><li>Wano arc</li><li>Ninja skills</li><li>Minor villain</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
+"id":"bishonure_onna",
+"name":"Bishonure-Onna",
+"type":"entity",
+"url":"entity.html?universe=anime&path=one_piece&id=bishonure_onna",
+"parent":"one_piece",
+"info":{"Sea:":"Wano","Role:":"Gifter","Affiliation:":"Beast Pirates","Sex:":"Female","Devil Fruit:":"SMILE (Snake-like)"},
+"tabs":{
+"tab1":{"title":"Description","content":"Bishonure-Onna is a member of the Beast Pirates.<br><br>She is a SMILE user.<br><br>She serves under Black Maria.<br><br>She appears in the Wano arc.<br><br>She has a unique hybrid form."},
+"tab2":{"title":"Abilities","content":"<ul><li>SMILE Transformation</li><li>Snake-like Body</li><li>Poison Secretion</li><li>Flexible Movement</li><li>Enhanced Durability</li><li>Close Combat</li><li>Agility</li><li>Body Manipulation</li><li>Grip Strength</li><li>Unpredictable Attacks</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Beast Pirates member</li><li>Serves Black Maria</li><li>Wano arc</li><li>SMILE user</li><li>Hybrid appearance</li></ul>"}
+},
+"gallery_count":6
+},
+
+{
 "id":"boa_hancock",
 "name":"Boa Hancock",
 "type":"entity",

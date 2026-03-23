@@ -972,6 +972,42 @@
     "url": "entity.html?universe=anime&path=one_piece&id=big_pan"
   },
   {
+    "name": "Bingo",
+    "id": "bingo",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bingo"
+  },
+  {
+    "name": "Birdy",
+    "id": "birdy",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=birdy"
+  },
+  {
+    "name": "Bishamon",
+    "id": "bishamon",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bishamon"
+  },
+  {
+    "name": "Bishonure-Onna",
+    "id": "bishonure_onna",
+    "type": "entity",
+    "universe": "anime",
+    "path": "one_piece",
+    "parent": "One Piece",
+    "url": "entity.html?universe=anime&path=one_piece&id=bishonure_onna"
+  },
+  {
     "name": "Boa Hancock",
     "id": "boa_hancock",
     "type": "entity",
