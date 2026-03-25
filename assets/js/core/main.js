@@ -1,61 +1,87 @@
+/* ================= CDN BASE ================= */
+
 window.CDN_BASE =
 "https://res.cloudinary.com/do6nej9li/image/upload/";
 
+/* ================= IMAGE BUILDER ================= */
 
 window.getCDNImage = function(id, type="thumb", universe="", path=""){
 
   const base = "ultimate-multiverse";
 
-  const HERO_TRANSFORM = "f_auto,q_auto,c_fit,w_600,h_600,b_transparent/";
-  const THUMB_TRANSFORM = "f_auto,q_auto,c_fit,w_600,h_600/";
-  const GALLERY_TRANSFORM = "f_auto,q_auto/";
+  const HERO = "f_auto,q_auto,c_fit,w_900,h_900,b_transparent/";
+  const THUMB = "f_auto,q_auto,c_fit,w_900,h_900/";
+  const GALLERY = "f_auto,q_auto/";
 
-  /* ================= HOME ================= */
-
+  /* HOME LEVEL */
   if(!universe){
-
-    if(type === "hero"){
-      return `${window.CDN_BASE}${HERO_TRANSFORM}${base}/${id}/${id}_hero.png`;
-    }
-
-    return `${window.CDN_BASE}${THUMB_TRANSFORM}${base}/${id}/thumb.png`;
+    return type === "hero"
+      ? `${CDN_BASE}${HERO}${base}/${id}/${id}_hero.png`
+      : `${CDN_BASE}${THUMB}${base}/${id}/${id}_thumb.png`;
   }
 
-  /* ================= UNIVERSE ================= */
-
+  /* UNIVERSE LEVEL */
   if(id === universe){
-
-    if(type === "hero"){
-      return `${window.CDN_BASE}${HERO_TRANSFORM}${base}/${universe}/${universe}_hero.png`;
-    }
-
-    return `${window.CDN_BASE}${THUMB_TRANSFORM}${base}/${universe}/thumb.png`;
+    return type === "hero"
+      ? `${CDN_BASE}${HERO}${base}/${universe}/${universe}_hero.png`
+      : `${CDN_BASE}${THUMB}${base}/${universe}/thumb.png`;
   }
 
-  /* ================= PATH ================= */
-
+  /* MULTI-LEVEL PATH SUPPORT (ALL 4 LEVELS) */
   let folder = `${base}/${universe}`;
 
   if(path){
-    path.split(",").forEach(level => folder += `/${level}`);
+    path.split(",").forEach(level => {
+      if(level.trim()){
+        folder += `/${level.trim()}`;
+      }
+    });
   }
 
   folder += `/${id}`;
 
-  /* ================= TYPES ================= */
-
+  /* TYPES */
   if(type === "hero"){
-    return `${window.CDN_BASE}${HERO_TRANSFORM}${folder}/${id}_hero.png`;
+    return `${CDN_BASE}${HERO}${folder}/${id}_hero.png`;
   }
 
   if(type === "gallery"){
-    return `${window.CDN_BASE}${GALLERY_TRANSFORM}${folder}/${id}_`;
+    return `${CDN_BASE}${GALLERY}${folder}/${id}_`;
   }
 
-  return `${window.CDN_BASE}${THUMB_TRANSFORM}${folder}/thumb.png`;
-
+  return `${CDN_BASE}${THUMB}${folder}/thumb.png`;
 };
 
+
+/* ================= SLUG SYSTEM (SEO READY) ================= */
+
+function slugify(name){
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-');
+}
+
+
+/* ================= OPTIONAL CLEAN URL BUILDER ================= */
+/* (Does NOT break your current system) */
+
+window.getCleanURL = function(item){
+  const slug = slugify(item.name);
+
+  let url = `/${item.universe}`;
+
+  if(item.path){
+    item.path.split(",").forEach(level=>{
+      url += `/${level}`;
+    });
+  }
+
+  url += `/${slug}`;
+
+  return url;
+};
 
 
 /* ================= SEARCH SYSTEM ================= */
@@ -71,14 +97,10 @@ window.initSearch = async function () {
   let searchDatabase = [];
 
   try {
-
     const res = await fetch("data/search-data.json");
     searchDatabase = await res.json();
-
   } catch (err) {
-
     console.error("Search data error:", err);
-
   }
 
   searchInput.addEventListener("input", () => {
@@ -100,20 +122,29 @@ window.initSearch = async function () {
       const div = document.createElement("div");
       div.className = "search-item";
 
+      /* IMAGE */
       const imagePath = item.image
         ? item.image
         : getCDNImage(item.id,"thumb",item.universe,item.path);
 
+      /* UI */
       div.innerHTML = `
         <img src="${imagePath}">
         <div>
           <div>${item.name}</div>
-          <div class="search-type">${item.type}</div>
+          <div class="search-type">${item.type || ""}</div>
         </div>
       `;
 
+      /* NAVIGATION (SAFE FOR YOUR CURRENT SYSTEM) */
       div.onclick = () => {
+
+        // CURRENT (WORKING)
         window.location.href = item.url;
+
+        // FUTURE (SEO CLEAN URL)
+        // window.location.href = getCleanURL(item);
+
       };
 
       searchResults.appendChild(div);
@@ -125,24 +156,18 @@ window.initSearch = async function () {
 
   });
 
+  /* CLICK OUTSIDE CLOSE */
   document.addEventListener("click", (event) => {
-
     if (!searchBox.contains(event.target)) {
       searchResults.style.display = "none";
     }
-
   });
 
 };
 
+
+/* ================= INIT ================= */
+
 document.addEventListener("DOMContentLoaded", () => {
   initSearch();
 });
-
-function slugify(name){
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, '')  // remove special chars
-    .replace(/\s+/g, '-')          // spaces → dash
-    .replace(/-+/g, '-');          // remove extra dash
-}
