@@ -38,6 +38,15 @@
   { "id": "invincible", "name": "Invincible", "type": "category", "universe": "anime", "path": "invincible", "url": "category.html?universe=anime&path=invincible", "parent": "anime" },
   { "id": "jojos_bizarre_adventure", "name": "JoJo's Bizarre Adventure", "type": "category", "universe": "anime", "path": "jojos_bizarre_adventure", "url": "category.html?universe=anime&path=jojos_bizarre_adventure", "parent": "anime" },
   { "id": "jujutsu_kaisen", "name": "Jujutsu Kaisen", "type": "category", "universe": "anime", "path": "jujutsu_kaisen", "url": "category.html?universe=anime&path=jujutsu_kaisen", "parent": "anime" },
+  {
+  "id": "kurokos_basketball",
+  "name": "Kuroko's Basketball",
+  "type": "category",
+  "universe": "anime",
+  "path": "kurokos_basketball",
+  "url": "category.html?universe=anime&path=kurokos_basketball",
+  "parent": "anime"
+},
   { "id": "marvel_animated_universe", "name": "Marvel Animated Universe", "type": "category", "universe": "anime", "path": "marvel_animated_universe", "url": "category.html?universe=anime&path=marvel_animated_universe", "parent": "anime" },
   { "id": "mashle_magic_and_muscles", "name": "Mashle: Magic and Muscles", "type": "category", "universe": "anime", "path": "mashle_magic_and_muscles", "url": "category.html?universe=anime&path=mashle_magic_and_muscles", "parent": "anime" },
   { "id": "mob_psycho_100", "name": "Mob Psycho 100", "type": "category", "universe": "anime", "path": "mob_psycho_100", "url": "category.html?universe=anime&path=mob_psycho_100", "parent": "anime" },

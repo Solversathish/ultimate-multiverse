@@ -459,6 +459,15 @@
     "url": "category.html?universe=anime&path=jujutsu_kaisen"
   },
   {
+    "name": "Kuroko's Basketball",
+    "id": "kurokos_basketball",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=kurokos_basketball"
+  },
+  {
     "name": "Marvel Animated Universe",
     "id": "marvel_animated_universe",
     "type": "category",

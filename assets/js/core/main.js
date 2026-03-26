@@ -49,7 +49,7 @@ window.getCDNImage = function(id, type="thumb", universe="", path=""){
     return `${CDN_BASE}${GALLERY}${folder}/${id}_`;
   }
 
-  return `${CDN_BASE}${THUMB}${folder}/thumb.png`;
+  return `${CDN_BASE}${THUMB}${folder}/${id}_thumb.png`;
 };
 
 
