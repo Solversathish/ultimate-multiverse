@@ -1,0 +1,191 @@
+[
+{
+"id":"arabic_actors",
+"name":"Arabic Actors",
+"type":"category",
+"universe":"actors",
+"path":"arabic_actors",
+"url":"category.html?universe=actors&path=arabic_actors",
+"parent":"actors"
+},
+{
+"id":"bengali_actors",
+"name":"Bengali Actors",
+"type":"category",
+"universe":"actors",
+"path":"bengali_actors",
+"url":"category.html?universe=actors&path=bengali_actors",
+"parent":"actors"
+},
+{
+"id":"chinese_actors",
+"name":"Chinese Actors",
+"type":"category",
+"universe":"actors",
+"path":"chinese_actors",
+"url":"category.html?universe=actors&path=chinese_actors",
+"parent":"actors"
+},
+{
+"id":"english_actors",
+"name":"English Actors",
+"type":"category",
+"universe":"actors",
+"path":"english_actors",
+"url":"category.html?universe=actors&path=english_actors",
+"parent":"actors"
+},
+{
+"id":"french_actors",
+"name":"French Actors",
+"type":"category",
+"universe":"actors",
+"path":"french_actors",
+"url":"category.html?universe=actors&path=french_actors",
+"parent":"actors"
+},
+{
+"id":"german_actors",
+"name":"German Actors",
+"type":"category",
+"universe":"actors",
+"path":"german_actors",
+"url":"category.html?universe=actors&path=german_actors",
+"parent":"actors"
+},
+{
+"id":"hindi_actors",
+"name":"Hindi Actors",
+"type":"category",
+"universe":"actors",
+"path":"hindi_actors",
+"url":"category.html?universe=actors&path=hindi_actors",
+"parent":"actors"
+},
+{
+"id":"indonesian_actors",
+"name":"Indonesian Actors",
+"type":"category",
+"universe":"actors",
+"path":"indonesian_actors",
+"url":"category.html?universe=actors&path=indonesian_actors",
+"parent":"actors"
+},
+{
+"id":"italian_actors",
+"name":"Italian Actors",
+"type":"category",
+"universe":"actors",
+"path":"italian_actors",
+"url":"category.html?universe=actors&path=italian_actors",
+"parent":"actors"
+},
+{
+"id":"japanese_actors",
+"name":"Japanese Actors",
+"type":"category",
+"universe":"actors",
+"path":"japanese_actors",
+"url":"category.html?universe=actors&path=japanese_actors",
+"parent":"actors"
+},
+{
+"id":"kannada_actors",
+"name":"Kannada Actors",
+"type":"category",
+"universe":"actors",
+"path":"kannada_actors",
+"url":"category.html?universe=actors&path=kannada_actors",
+"parent":"actors"
+},
+{
+"id":"korean_actors",
+"name":"Korean Actors",
+"type":"category",
+"universe":"actors",
+"path":"korean_actors",
+"url":"category.html?universe=actors&path=korean_actors",
+"parent":"actors"
+},
+{
+"id":"malayalam_actors",
+"name":"Malayalam Actors",
+"type":"category",
+"universe":"actors",
+"path":"malayalam_actors",
+"url":"category.html?universe=actors&path=malayalam_actors",
+"parent":"actors"
+},
+{
+"id":"marathi_actors",
+"name":"Marathi Actors",
+"type":"category",
+"universe":"actors",
+"path":"marathi_actors",
+"url":"category.html?universe=actors&path=marathi_actors",
+"parent":"actors"
+},
+{
+"id":"pakistani_actors",
+"name":"Pakistani Actors",
+"type":"category",
+"universe":"actors",
+"path":"pakistani_actors",
+"url":"category.html?universe=actors&path=pakistani_actors",
+"parent":"actors"
+},
+{
+"id":"russian_actors",
+"name":"Russian Actors",
+"type":"category",
+"universe":"actors",
+"path":"russian_actors",
+"url":"category.html?universe=actors&path=russian_actors",
+"parent":"actors"
+},
+{
+"id":"spanish_actors",
+"name":"Spanish Actors",
+"type":"category",
+"universe":"actors",
+"path":"spanish_actors",
+"url":"category.html?universe=actors&path=spanish_actors",
+"parent":"actors"
+},
+{
+"id":"tamil_actors",
+"name":"Tamil Actors",
+"type":"category",
+"universe":"actors",
+"path":"tamil_actors",
+"url":"category.html?universe=actors&path=tamil_actors",
+"parent":"actors"
+},
+{
+"id":"telugu_actors",
+"name":"Telugu Actors",
+"type":"category",
+"universe":"actors",
+"path":"telugu_actors",
+"url":"category.html?universe=actors&path=telugu_actors",
+"parent":"actors"
+},
+{
+"id":"thai_actors",
+"name":"Thai Actors",
+"type":"category",
+"universe":"actors",
+"path":"thai_actors",
+"url":"category.html?universe=actors&path=thai_actors",
+"parent":"actors"
+},
+{
+"id":"turkish_actors",
+"name":"Turkish Actors",
+"type":"category",
+"universe":"actors",
+"path":"turkish_actors",
+"url":"category.html?universe=actors&path=turkish_actors",
+"parent":"actors"
+}
+]

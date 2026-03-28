@@ -1,42 +1,242 @@
 [
 {
-"id":"anime",
-"name":"Anime",
+"id":"actors",
+"name":"Actors",
 "type":"category",
-"url":"category.html?universe=anime",
-"parent":null
-
+"url":"category.html?universe=actors",
+"parent":null,
+"description":"A universe featuring male actors from movies, web series, and entertainment industries worldwide."
 },
-
 {
-"id":"sports",
-"name":"Sports",
+"id":"actress",
+"name":"Actress",
 "type":"category",
-"url":"category.html?universe=sports",
-"parent":null
+"url":"category.html?universe=actress",
+"parent":null,
+"description":"A universe showcasing female actors from films, television, and digital platforms across the world."
 },
-
 {
-"id":"fruits",
-"name":"Fruits",
+"id":"ais",
+"name":"AI's",
 "type":"category",
-"url":"category.html?universe=fruits",
-"parent":null
+"url":"category.html?universe=ais",
+"parent":null,
+"description":"A universe focused on artificial intelligence systems, tools, models, and technologies shaping the future."
 },
-
-{
-"id":"vehicles",
-"name":"Vehicles",
-"type":"category",
-"url":"category.html?universe=vehicles",
-"parent":null
-},
-
 {
 "id":"animals",
 "name":"Animals",
 "type":"category",
 "url":"category.html?universe=animals",
-"parent":null
+"parent":null,
+"description":"A universe containing all types of animals including mammals, birds, reptiles, and marine life."
+},
+{
+"id":"anime",
+"name":"Anime",
+"type":"category",
+"url":"category.html?universe=anime",
+"parent":null,
+"description":"A universe containing Japanese animated series, movies, and characters across genres like action, fantasy, and adventure."
+},
+{
+"id":"armors",
+"name":"Armors",
+"type":"category",
+"url":"category.html?universe=armors",
+"parent":null,
+"description":"A universe of protective equipment used in combat including historical, modern, and fictional armors."
+},
+{
+"id":"biology",
+"name":"Biology",
+"type":"category",
+"url":"category.html?universe=biology",
+"parent":null,
+"description":"A universe focused on human biology including cells, organs, body systems, and diseases."
+},
+{
+"id":"cartoons",
+"name":"Cartoons",
+"type":"category",
+"url":"category.html?universe=cartoons",
+"parent":null,
+"description":"A universe featuring animated shows and characters from global cartoon series and films."
+},
+{
+"id":"chemistry",
+"name":"Chemistry",
+"type":"category",
+"url":"category.html?universe=chemistry",
+"parent":null,
+"description":"A universe covering chemical elements, compounds, reactions, acids, bases, and scientific concepts."
+},
+{
+"id":"countries",
+"name":"Countries",
+"type":"category",
+"url":"category.html?universe=countries",
+"parent":null,
+"description":"A universe containing information about countries including geography, culture, and global data."
+},
+{
+"id":"country_flags",
+"name":"Country Flags",
+"type":"category",
+"url":"category.html?universe=country_flags",
+"parent":null,
+"description":"A universe displaying national flags representing countries around the world."
+},
+{
+"id":"father_of",
+"name":"Father Of",
+"type":"category",
+"url":"category.html?universe=father_of",
+"parent":null,
+"description":"A universe listing pioneers known as the 'father of' various fields like science, mathematics, and technology."
+},
+{
+"id":"fears_phobia",
+"name":"Fears / Phobia",
+"type":"category",
+"url":"category.html?universe=fears_phobia",
+"parent":null,
+"description":"A universe covering different types of fears and phobias affecting human psychology."
+},
+{
+"id":"fighting_styles",
+"name":"Fighting Styles",
+"type":"category",
+"url":"category.html?universe=fighting_styles",
+"parent":null,
+"description":"A universe of martial arts and combat techniques used in real life and fictional battles."
+},
+{
+"id":"fitness",
+"name":"Fitness",
+"type":"category",
+"url":"category.html?universe=fitness",
+"parent":null,
+"description":"A universe focused on health, exercise, yoga, and physical well-being practices."
+},
+{
+"id":"foods",
+"name":"Foods",
+"type":"category",
+"url":"category.html?universe=foods",
+"parent":null,
+"description":"A universe covering different types of foods, cuisines, and dishes from around the world."
+},
+{
+"id":"fruits",
+"name":"Fruits",
+"type":"category",
+"url":"category.html?universe=fruits",
+"parent":null,
+"description":"A universe featuring various fruits including their types, benefits, and characteristics."
+},
+{
+"id":"gods",
+"name":"Gods",
+"type":"category",
+"url":"category.html?universe=gods",
+"parent":null,
+"description":"A universe including deities and gods from different mythologies and religions."
+},
+{
+"id":"inventors",
+"name":"Inventors",
+"type":"category",
+"url":"category.html?universe=inventors",
+"parent":null,
+"description":"A universe highlighting inventors who created groundbreaking technologies and innovations."
+},
+{
+"id":"jobs_professions",
+"name":"Jobs / Professions",
+"type":"category",
+"url":"category.html?universe=jobs_professions",
+"parent":null,
+"description":"A universe of different professions and jobs across industries and skill levels."
+},
+{
+"id":"languages",
+"name":"Languages",
+"type":"category",
+"url":"category.html?universe=languages",
+"parent":null,
+"description":"A universe containing spoken, written, and global languages used for communication."
+},
+{
+"id":"natures",
+"name":"Natures",
+"type":"category",
+"url":"category.html?universe=natures",
+"parent":null,
+"description":"A universe covering natural elements like mountains, rivers, forests, and environmental features."
+},
+{
+"id":"programming_lang",
+"name":"Programming Languages",
+"type":"category",
+"url":"category.html?universe=programming_lang",
+"parent":null,
+"description":"A universe featuring coding languages used in software development and technology."
+},
+{
+"id":"scientists",
+"name":"Scientists",
+"type":"category",
+"url":"category.html?universe=scientists",
+"parent":null,
+"description":"A universe highlighting scientists and their contributions to various scientific fields."
+},
+{
+"id":"space",
+"name":"Space",
+"type":"category",
+"url":"category.html?universe=space",
+"parent":null,
+"description":"A universe exploring planets, stars, galaxies, and the mysteries of the universe."
+},
+{
+"id":"sports",
+"name":"Sports",
+"type":"category",
+"url":"category.html?universe=sports",
+"parent":null,
+"description":"A universe covering different sports, players, teams, and competitions."
+},
+{
+"id":"superheroes_and_supervillains",
+"name":"Superheroes and Supervillains",
+"type":"category",
+"url":"category.html?universe=superheroes_and_supervillains",
+"parent":null,
+"description":"A universe featuring heroes and villains from comics, movies, and fictional universes."
+},
+{
+"id":"vegetables",
+"name":"Vegetables",
+"type":"category",
+"url":"category.html?universe=vegetables",
+"parent":null,
+"description":"A universe including various vegetables, their types, and nutritional benefits."
+},
+{
+"id":"weapons",
+"name":"Weapons",
+"type":"category",
+"url":"category.html?universe=weapons",
+"parent":null,
+"description":"A universe of weapons used in combat including historical, modern, and fictional arms."
+},
+{
+"id":"web_series",
+"name":"Web Series",
+"type":"category",
+"url":"category.html?universe=web_series",
+"parent":null,
+"description":"A universe covering digital series and shows released on streaming platforms."
 }
 ]

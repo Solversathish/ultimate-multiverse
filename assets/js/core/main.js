@@ -24,7 +24,7 @@ window.getCDNImage = function(id, type="thumb", universe="", path=""){
   if(id === universe){
     return type === "hero"
       ? `${CDN_BASE}${HERO}${base}/${universe}/${universe}_hero.png`
-      : `${CDN_BASE}${THUMB}${base}/${universe}/thumb.png`;
+      : `${CDN_BASE}${THUMB}${base}/${universe}/${universe}_thumb.png`;
   }
 
   /* MULTI-LEVEL PATH SUPPORT (ALL 4 LEVELS) */

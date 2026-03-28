@@ -1,5 +1,41 @@
 [
   {
+    "name": "Actors",
+    "id": "actors",
+    "type": "universe",
+    "universe": "actors",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=actors"
+  },
+  {
+    "name": "Actress",
+    "id": "actress",
+    "type": "universe",
+    "universe": "actress",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=actress"
+  },
+  {
+    "name": "AI's",
+    "id": "ais",
+    "type": "universe",
+    "universe": "ais",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=ais"
+  },
+  {
+    "name": "Animals",
+    "id": "animals",
+    "type": "universe",
+    "universe": "animals",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=animals"
+  },
+  {
     "name": "Anime",
     "id": "anime",
     "type": "universe",
@@ -9,13 +45,103 @@
     "url": "category.html?universe=anime"
   },
   {
-    "name": "Sports",
-    "id": "sports",
+    "name": "Armors",
+    "id": "armors",
     "type": "universe",
-    "universe": "sports",
+    "universe": "armors",
     "path": "",
     "parent": "",
-    "url": "category.html?universe=sports"
+    "url": "category.html?universe=armors"
+  },
+  {
+    "name": "Biology",
+    "id": "biology",
+    "type": "universe",
+    "universe": "biology",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=biology"
+  },
+  {
+    "name": "Cartoons",
+    "id": "cartoons",
+    "type": "universe",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=cartoons"
+  },
+  {
+    "name": "Chemistry",
+    "id": "chemistry",
+    "type": "universe",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=chemistry"
+  },
+  {
+    "name": "Countries",
+    "id": "countries",
+    "type": "universe",
+    "universe": "countries",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=countries"
+  },
+  {
+    "name": "Country Flags",
+    "id": "country_flags",
+    "type": "universe",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=country_flags"
+  },
+  {
+    "name": "Father Of",
+    "id": "father_of",
+    "type": "universe",
+    "universe": "father_of",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=father_of"
+  },
+  {
+    "name": "Fears / Phobia",
+    "id": "fears_phobia",
+    "type": "universe",
+    "universe": "fears_phobia",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=fears_phobia"
+  },
+  {
+    "name": "Fighting Styles",
+    "id": "fighting_styles",
+    "type": "universe",
+    "universe": "fighting_styles",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=fighting_styles"
+  },
+  {
+    "name": "Fitness",
+    "id": "fitness",
+    "type": "universe",
+    "universe": "fitness",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=fitness"
+  },
+  {
+    "name": "Foods",
+    "id": "foods",
+    "type": "universe",
+    "universe": "foods",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=foods"
   },
   {
     "name": "Fruits",
@@ -27,22 +153,769 @@
     "url": "category.html?universe=fruits"
   },
   {
-    "name": "Vehicles",
-    "id": "vehicles",
+    "name": "Gods",
+    "id": "gods",
     "type": "universe",
-    "universe": "vehicles",
+    "universe": "gods",
     "path": "",
     "parent": "",
-    "url": "category.html?universe=vehicles"
+    "url": "category.html?universe=gods"
   },
   {
-    "name": "Animals",
-    "id": "animals",
+    "name": "Inventors",
+    "id": "inventors",
     "type": "universe",
-    "universe": "animals",
+    "universe": "inventors",
     "path": "",
     "parent": "",
-    "url": "category.html?universe=animals"
+    "url": "category.html?universe=inventors"
+  },
+  {
+    "name": "Jobs / Professions",
+    "id": "jobs_professions",
+    "type": "universe",
+    "universe": "jobs_professions",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=jobs_professions"
+  },
+  {
+    "name": "Languages",
+    "id": "languages",
+    "type": "universe",
+    "universe": "languages",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=languages"
+  },
+  {
+    "name": "Natures",
+    "id": "natures",
+    "type": "universe",
+    "universe": "natures",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=natures"
+  },
+  {
+    "name": "Programming Languages",
+    "id": "programming_lang",
+    "type": "universe",
+    "universe": "programming_lang",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=programming_lang"
+  },
+  {
+    "name": "Scientists",
+    "id": "scientists",
+    "type": "universe",
+    "universe": "scientists",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=scientists"
+  },
+  {
+    "name": "Space",
+    "id": "space",
+    "type": "universe",
+    "universe": "space",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=space"
+  },
+  {
+    "name": "Sports",
+    "id": "sports",
+    "type": "universe",
+    "universe": "sports",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=sports"
+  },
+  {
+    "name": "Superheroes and Supervillains",
+    "id": "superheroes_and_supervillains",
+    "type": "universe",
+    "universe": "superheroes_and_supervillains",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=superheroes_and_supervillains"
+  },
+  {
+    "name": "Vegetables",
+    "id": "vegetables",
+    "type": "universe",
+    "universe": "vegetables",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=vegetables"
+  },
+  {
+    "name": "Weapons",
+    "id": "weapons",
+    "type": "universe",
+    "universe": "weapons",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=weapons"
+  },
+  {
+    "name": "Web Series",
+    "id": "web_series",
+    "type": "universe",
+    "universe": "web_series",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=web_series"
+  },
+  {
+    "name": "Arabic Actors",
+    "id": "arabic_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=arabic_actors"
+  },
+  {
+    "name": "Bengali Actors",
+    "id": "bengali_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=bengali_actors"
+  },
+  {
+    "name": "Chinese Actors",
+    "id": "chinese_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=chinese_actors"
+  },
+  {
+    "name": "English Actors",
+    "id": "english_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=english_actors"
+  },
+  {
+    "name": "French Actors",
+    "id": "french_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=french_actors"
+  },
+  {
+    "name": "German Actors",
+    "id": "german_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=german_actors"
+  },
+  {
+    "name": "Hindi Actors",
+    "id": "hindi_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=hindi_actors"
+  },
+  {
+    "name": "Indonesian Actors",
+    "id": "indonesian_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=indonesian_actors"
+  },
+  {
+    "name": "Italian Actors",
+    "id": "italian_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=italian_actors"
+  },
+  {
+    "name": "Japanese Actors",
+    "id": "japanese_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=japanese_actors"
+  },
+  {
+    "name": "Kannada Actors",
+    "id": "kannada_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=kannada_actors"
+  },
+  {
+    "name": "Korean Actors",
+    "id": "korean_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=korean_actors"
+  },
+  {
+    "name": "Malayalam Actors",
+    "id": "malayalam_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=malayalam_actors"
+  },
+  {
+    "name": "Marathi Actors",
+    "id": "marathi_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=marathi_actors"
+  },
+  {
+    "name": "Pakistani Actors",
+    "id": "pakistani_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=pakistani_actors"
+  },
+  {
+    "name": "Russian Actors",
+    "id": "russian_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=russian_actors"
+  },
+  {
+    "name": "Spanish Actors",
+    "id": "spanish_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=spanish_actors"
+  },
+  {
+    "name": "Tamil Actors",
+    "id": "tamil_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=tamil_actors"
+  },
+  {
+    "name": "Telugu Actors",
+    "id": "telugu_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=telugu_actors"
+  },
+  {
+    "name": "Thai Actors",
+    "id": "thai_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=thai_actors"
+  },
+  {
+    "name": "Turkish Actors",
+    "id": "turkish_actors",
+    "type": "category",
+    "universe": "actors",
+    "path": "",
+    "parent": "actors",
+    "url": "category.html?universe=actors&path=turkish_actors"
+  },
+  {
+    "name": "Arabic Actress",
+    "id": "arabic_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=arabic_actress"
+  },
+  {
+    "name": "Bengali Actress",
+    "id": "bengali_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=bengali_actress"
+  },
+  {
+    "name": "Chinese Actress",
+    "id": "chinese_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=chinese_actress"
+  },
+  {
+    "name": "English Actress",
+    "id": "english_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=english_actress"
+  },
+  {
+    "name": "French Actress",
+    "id": "french_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=french_actress"
+  },
+  {
+    "name": "German Actress",
+    "id": "german_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=german_actress"
+  },
+  {
+    "name": "Hindi Actress",
+    "id": "hindi_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=hindi_actress"
+  },
+  {
+    "name": "Indonesian Actress",
+    "id": "indonesian_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=indonesian_actress"
+  },
+  {
+    "name": "Italian Actress",
+    "id": "italian_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=italian_actress"
+  },
+  {
+    "name": "Japanese Actress",
+    "id": "japanese_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=japanese_actress"
+  },
+  {
+    "name": "Kannada Actress",
+    "id": "kannada_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=kannada_actress"
+  },
+  {
+    "name": "Korean Actress",
+    "id": "korean_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=korean_actress"
+  },
+  {
+    "name": "Malayalam Actress",
+    "id": "malayalam_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=malayalam_actress"
+  },
+  {
+    "name": "Marathi Actress",
+    "id": "marathi_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=marathi_actress"
+  },
+  {
+    "name": "Pakistani Actress",
+    "id": "pakistani_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=pakistani_actress"
+  },
+  {
+    "name": "Russian Actress",
+    "id": "russian_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=russian_actress"
+  },
+  {
+    "name": "Spanish Actress",
+    "id": "spanish_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=spanish_actress"
+  },
+  {
+    "name": "Tamil Actress",
+    "id": "tamil_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=tamil_actress"
+  },
+  {
+    "name": "Telugu Actress",
+    "id": "telugu_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=telugu_actress"
+  },
+  {
+    "name": "Thai Actress",
+    "id": "thai_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=thai_actress"
+  },
+  {
+    "name": "Turkish Actress",
+    "id": "turkish_actress",
+    "type": "category",
+    "universe": "actress",
+    "path": "",
+    "parent": "actress",
+    "url": "category.html?universe=actress&path=turkish_actress"
+  },
+  {
+    "name": "Mammals",
+    "id": "mammals",
+    "type": "category",
+    "universe": "animals",
+    "path": "",
+    "parent": "animals",
+    "url": "category.html?universe=animals&path=mammals"
+  },
+  {
+    "name": "Lion",
+    "id": "lion",
+    "type": "entity",
+    "universe": "animals",
+    "path": "mammals",
+    "parent": "Mammals",
+    "url": "entity.html?universe=animals&path=mammals&id=lion"
+  },
+  {
+    "name": "Elephant",
+    "id": "elephant",
+    "type": "entity",
+    "universe": "animals",
+    "path": "mammals",
+    "parent": "Mammals",
+    "url": "entity.html?universe=animals&path=mammals&id=elephant"
+  },
+  {
+    "name": "Dolphin",
+    "id": "dolphin",
+    "type": "entity",
+    "universe": "animals",
+    "path": "mammals",
+    "parent": "Mammals",
+    "url": "entity.html?universe=animals&path=mammals&id=dolphin"
+  },
+  {
+    "name": "Bat",
+    "id": "bat",
+    "type": "entity",
+    "universe": "animals",
+    "path": "mammals",
+    "parent": "Mammals",
+    "url": "entity.html?universe=animals&path=mammals&id=bat"
+  },
+  {
+    "name": "Kangaroo",
+    "id": "kangaroo",
+    "type": "entity",
+    "universe": "animals",
+    "path": "mammals",
+    "parent": "Mammals",
+    "url": "entity.html?universe=animals&path=mammals&id=kangaroo"
+  },
+  {
+    "name": "Dogs",
+    "id": "dogs",
+    "type": "category",
+    "universe": "animals",
+    "path": "",
+    "parent": "animals",
+    "url": "category.html?universe=animals&path=dogs"
+  },
+  {
+    "name": "Golden Retriever",
+    "id": "golden_retriever",
+    "type": "entity",
+    "universe": "animals",
+    "path": "dogs",
+    "parent": "Dogs",
+    "url": "entity.html?universe=animals&path=dogs&id=golden_retriever"
+  },
+  {
+    "name": "German Shepherd",
+    "id": "german_shepherd",
+    "type": "entity",
+    "universe": "animals",
+    "path": "dogs",
+    "parent": "Dogs",
+    "url": "entity.html?universe=animals&path=dogs&id=german_shepherd"
+  },
+  {
+    "name": "Siberian Husky",
+    "id": "siberian_husky",
+    "type": "entity",
+    "universe": "animals",
+    "path": "dogs",
+    "parent": "Dogs",
+    "url": "entity.html?universe=animals&path=dogs&id=siberian_husky"
+  },
+  {
+    "name": "Bulldog",
+    "id": "bulldog",
+    "type": "entity",
+    "universe": "animals",
+    "path": "dogs",
+    "parent": "Dogs",
+    "url": "entity.html?universe=animals&path=dogs&id=bulldog"
+  },
+  {
+    "name": "Labrador Retriever",
+    "id": "labrador_retriever",
+    "type": "entity",
+    "universe": "animals",
+    "path": "dogs",
+    "parent": "Dogs",
+    "url": "entity.html?universe=animals&path=dogs&id=labrador_retriever"
+  },
+  {
+    "name": "Extinct Animals",
+    "id": "extinct_animals",
+    "type": "category",
+    "universe": "animals",
+    "path": "",
+    "parent": "animals",
+    "url": "category.html?universe=animals&path=extinct_animals"
+  },
+  {
+    "name": "Tyrannosaurus Rex",
+    "id": "tyrannosaurus_rex",
+    "type": "entity",
+    "universe": "animals",
+    "path": "extinct_animals",
+    "parent": "Extinct Animals",
+    "url": "entity.html?universe=animals&path=extinct_animals&id=tyrannosaurus_rex"
+  },
+  {
+    "name": "Woolly Mammoth",
+    "id": "woolly_mammoth",
+    "type": "entity",
+    "universe": "animals",
+    "path": "extinct_animals",
+    "parent": "Extinct Animals",
+    "url": "entity.html?universe=animals&path=extinct_animals&id=woolly_mammoth"
+  },
+  {
+    "name": "Dodo",
+    "id": "dodo",
+    "type": "entity",
+    "universe": "animals",
+    "path": "extinct_animals",
+    "parent": "Extinct Animals",
+    "url": "entity.html?universe=animals&path=extinct_animals&id=dodo"
+  },
+  {
+    "name": "Saber-Toothed Tiger",
+    "id": "saber_toothed_tiger",
+    "type": "entity",
+    "universe": "animals",
+    "path": "extinct_animals",
+    "parent": "Extinct Animals",
+    "url": "entity.html?universe=animals&path=extinct_animals&id=saber_toothed_tiger"
+  },
+  {
+    "name": "Triceratops",
+    "id": "triceratops",
+    "type": "entity",
+    "universe": "animals",
+    "path": "extinct_animals",
+    "parent": "Extinct Animals",
+    "url": "entity.html?universe=animals&path=extinct_animals&id=triceratops"
+  },
+  {
+    "name": "Insects",
+    "id": "insects",
+    "type": "category",
+    "universe": "animals",
+    "path": "",
+    "parent": "animals",
+    "url": "category.html?universe=animals&path=insects"
+  },
+  {
+    "name": "Butterfly",
+    "id": "butterfly",
+    "type": "entity",
+    "universe": "animals",
+    "path": "insects",
+    "parent": "Insects",
+    "url": "entity.html?universe=animals&path=insects&id=butterfly"
+  },
+  {
+    "name": "Honey Bee",
+    "id": "honey_bee",
+    "type": "entity",
+    "universe": "animals",
+    "path": "insects",
+    "parent": "Insects",
+    "url": "entity.html?universe=animals&path=insects&id=honey_bee"
+  },
+  {
+    "name": "Ant",
+    "id": "ant",
+    "type": "entity",
+    "universe": "animals",
+    "path": "insects",
+    "parent": "Insects",
+    "url": "entity.html?universe=animals&path=insects&id=ant"
+  },
+  {
+    "name": "Dragonfly",
+    "id": "dragonfly",
+    "type": "entity",
+    "universe": "animals",
+    "path": "insects",
+    "parent": "Insects",
+    "url": "entity.html?universe=animals&path=insects&id=dragonfly"
+  },
+  {
+    "name": "Ladybug",
+    "id": "ladybug",
+    "type": "entity",
+    "universe": "animals",
+    "path": "insects",
+    "parent": "Insects",
+    "url": "entity.html?universe=animals&path=insects&id=ladybug"
+  },
+  {
+    "name": "Marine Animals",
+    "id": "marine_animals",
+    "type": "category",
+    "universe": "animals",
+    "path": "",
+    "parent": "animals",
+    "url": "category.html?universe=animals&path=marine_animals"
+  },
+  {
+    "name": "Great White Shark",
+    "id": "great_white_shark",
+    "type": "entity",
+    "universe": "animals",
+    "path": "marine_animals",
+    "parent": "Marine Animals",
+    "url": "entity.html?universe=animals&path=marine_animals&id=great_white_shark"
+  },
+  {
+    "name": "Octopus",
+    "id": "octopus",
+    "type": "entity",
+    "universe": "animals",
+    "path": "marine_animals",
+    "parent": "Marine Animals",
+    "url": "entity.html?universe=animals&path=marine_animals&id=octopus"
+  },
+  {
+    "name": "Dolphin",
+    "id": "dolphin_marine",
+    "type": "entity",
+    "universe": "animals",
+    "path": "marine_animals",
+    "parent": "Marine Animals",
+    "url": "entity.html?universe=animals&path=marine_animals&id=dolphin_marine"
+  },
+  {
+    "name": "Jellyfish",
+    "id": "jellyfish",
+    "type": "entity",
+    "universe": "animals",
+    "path": "marine_animals",
+    "parent": "Marine Animals",
+    "url": "entity.html?universe=animals&path=marine_animals&id=jellyfish"
+  },
+  {
+    "name": "Seahorse",
+    "id": "seahorse",
+    "type": "entity",
+    "universe": "animals",
+    "path": "marine_animals",
+    "parent": "Marine Animals",
+    "url": "entity.html?universe=animals&path=marine_animals&id=seahorse"
   },
   {
     "name": "Afro Samurai",
@@ -2547,6 +3420,51 @@
     "url": "category.html?universe=anime&path=zom_100"
   },
   {
+    "name": "Apple",
+    "id": "apple",
+    "type": "entity",
+    "universe": "fruits",
+    "path": "",
+    "parent": "Fruits",
+    "url": "entity.html?universe=fruits&id=apple"
+  },
+  {
+    "name": "Banana",
+    "id": "banana",
+    "type": "entity",
+    "universe": "fruits",
+    "path": "",
+    "parent": "Fruits",
+    "url": "entity.html?universe=fruits&id=banana"
+  },
+  {
+    "name": "Mango",
+    "id": "mango",
+    "type": "entity",
+    "universe": "fruits",
+    "path": "",
+    "parent": "Fruits",
+    "url": "entity.html?universe=fruits&id=mango"
+  },
+  {
+    "name": "Strawberry",
+    "id": "strawberry",
+    "type": "entity",
+    "universe": "fruits",
+    "path": "",
+    "parent": "Fruits",
+    "url": "entity.html?universe=fruits&id=strawberry"
+  },
+  {
+    "name": "Pineapple",
+    "id": "pineapple",
+    "type": "entity",
+    "universe": "fruits",
+    "path": "",
+    "parent": "Fruits",
+    "url": "entity.html?universe=fruits&id=pineapple"
+  },
+  {
     "name": "Cricket",
     "id": "cricket",
     "type": "category",
@@ -3490,590 +4408,5 @@
     "path": "formula_1",
     "parent": "Formula 1",
     "url": "entity.html?universe=sports&path=formula_1&id=sebastian_vettel"
-  },
-  {
-    "name": "Apple",
-    "id": "apple",
-    "type": "entity",
-    "universe": "fruits",
-    "path": "",
-    "parent": "Fruits",
-    "url": "entity.html?universe=fruits&id=apple"
-  },
-  {
-    "name": "Banana",
-    "id": "banana",
-    "type": "entity",
-    "universe": "fruits",
-    "path": "",
-    "parent": "Fruits",
-    "url": "entity.html?universe=fruits&id=banana"
-  },
-  {
-    "name": "Mango",
-    "id": "mango",
-    "type": "entity",
-    "universe": "fruits",
-    "path": "",
-    "parent": "Fruits",
-    "url": "entity.html?universe=fruits&id=mango"
-  },
-  {
-    "name": "Strawberry",
-    "id": "strawberry",
-    "type": "entity",
-    "universe": "fruits",
-    "path": "",
-    "parent": "Fruits",
-    "url": "entity.html?universe=fruits&id=strawberry"
-  },
-  {
-    "name": "Pineapple",
-    "id": "pineapple",
-    "type": "entity",
-    "universe": "fruits",
-    "path": "",
-    "parent": "Fruits",
-    "url": "entity.html?universe=fruits&id=pineapple"
-  },
-  {
-    "name": "Cars",
-    "id": "cars",
-    "type": "category",
-    "universe": "vehicles",
-    "path": "",
-    "parent": "vehicles",
-    "url": "category.html?universe=vehicles&path=cars"
-  },
-  {
-    "name": "Toyota Camry",
-    "id": "toyota_camry",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "cars",
-    "parent": "Cars",
-    "url": "entity.html?universe=vehicles&path=cars&id=toyota_camry"
-  },
-  {
-    "name": "Tesla Model S",
-    "id": "tesla_model_s",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "cars",
-    "parent": "Cars",
-    "url": "entity.html?universe=vehicles&path=cars&id=tesla_model_s"
-  },
-  {
-    "name": "BMW M3",
-    "id": "bmw_m3",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "cars",
-    "parent": "Cars",
-    "url": "entity.html?universe=vehicles&path=cars&id=bmw_m3"
-  },
-  {
-    "name": "Ford Mustang",
-    "id": "ford_mustang",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "cars",
-    "parent": "Cars",
-    "url": "entity.html?universe=vehicles&path=cars&id=ford_mustang"
-  },
-  {
-    "name": "Lamborghini Aventador",
-    "id": "lamborghini_aventador",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "cars",
-    "parent": "Cars",
-    "url": "entity.html?universe=vehicles&path=cars&id=lamborghini_aventador"
-  },
-  {
-    "name": "Bikes",
-    "id": "bikes",
-    "type": "category",
-    "universe": "vehicles",
-    "path": "",
-    "parent": "vehicles",
-    "url": "category.html?universe=vehicles&path=bikes"
-  },
-  {
-    "name": "Yamaha YZF-R1",
-    "id": "yamaha_r1",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "bikes",
-    "parent": "Bikes",
-    "url": "entity.html?universe=vehicles&path=bikes&id=yamaha_r1"
-  },
-  {
-    "name": "Kawasaki Ninja H2",
-    "id": "kawasaki_ninja_h2",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "bikes",
-    "parent": "Bikes",
-    "url": "entity.html?universe=vehicles&path=bikes&id=kawasaki_ninja_h2"
-  },
-  {
-    "name": "Ducati Panigale V4",
-    "id": "ducati_panigale_v4",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "bikes",
-    "parent": "Bikes",
-    "url": "entity.html?universe=vehicles&path=bikes&id=ducati_panigale_v4"
-  },
-  {
-    "name": "Suzuki Hayabusa",
-    "id": "suzuki_hayabusa",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "bikes",
-    "parent": "Bikes",
-    "url": "entity.html?universe=vehicles&path=bikes&id=suzuki_hayabusa"
-  },
-  {
-    "name": "BMW S1000RR",
-    "id": "bmw_s1000rr",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "bikes",
-    "parent": "Bikes",
-    "url": "entity.html?universe=vehicles&path=bikes&id=bmw_s1000rr"
-  },
-  {
-    "name": "Aircraft",
-    "id": "aircraft",
-    "type": "category",
-    "universe": "vehicles",
-    "path": "",
-    "parent": "vehicles",
-    "url": "category.html?universe=vehicles&path=aircraft"
-  },
-  {
-    "name": "Boeing 747",
-    "id": "boeing_747",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "aircraft",
-    "parent": "Aircraft",
-    "url": "entity.html?universe=vehicles&path=aircraft&id=boeing_747"
-  },
-  {
-    "name": "Airbus A380",
-    "id": "airbus_a380",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "aircraft",
-    "parent": "Aircraft",
-    "url": "entity.html?universe=vehicles&path=aircraft&id=airbus_a380"
-  },
-  {
-    "name": "F-22 Raptor",
-    "id": "f22_raptor",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "aircraft",
-    "parent": "Aircraft",
-    "url": "entity.html?universe=vehicles&path=aircraft&id=f22_raptor"
-  },
-  {
-    "name": "F-35 Lightning II",
-    "id": "f35_lightning",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "aircraft",
-    "parent": "Aircraft",
-    "url": "entity.html?universe=vehicles&path=aircraft&id=f35_lightning"
-  },
-  {
-    "name": "B-2 Spirit",
-    "id": "b2_spirit",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "aircraft",
-    "parent": "Aircraft",
-    "url": "entity.html?universe=vehicles&path=aircraft&id=b2_spirit"
-  },
-  {
-    "name": "Ships",
-    "id": "ships",
-    "type": "category",
-    "universe": "vehicles",
-    "path": "",
-    "parent": "vehicles",
-    "url": "category.html?universe=vehicles&path=ships"
-  },
-  {
-    "name": "RMS Titanic",
-    "id": "titanic",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "ships",
-    "parent": "Ships",
-    "url": "entity.html?universe=vehicles&path=ships&id=titanic"
-  },
-  {
-    "name": "Queen Mary 2",
-    "id": "queen_mary_2",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "ships",
-    "parent": "Ships",
-    "url": "entity.html?universe=vehicles&path=ships&id=queen_mary_2"
-  },
-  {
-    "name": "USS Enterprise",
-    "id": "uss_enterprise",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "ships",
-    "parent": "Ships",
-    "url": "entity.html?universe=vehicles&path=ships&id=uss_enterprise"
-  },
-  {
-    "name": "Ever Given",
-    "id": "ever_given",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "ships",
-    "parent": "Ships",
-    "url": "entity.html?universe=vehicles&path=ships&id=ever_given"
-  },
-  {
-    "name": "HMS Victory",
-    "id": "hms_victory",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "ships",
-    "parent": "Ships",
-    "url": "entity.html?universe=vehicles&path=ships&id=hms_victory"
-  },
-  {
-    "name": "Other Vehicles",
-    "id": "other_vehicles",
-    "type": "category",
-    "universe": "vehicles",
-    "path": "",
-    "parent": "vehicles",
-    "url": "category.html?universe=vehicles&path=other_vehicles"
-  },
-  {
-    "name": "Bullock Cart",
-    "id": "bullock_cart",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "other_vehicles",
-    "parent": "Other Vehicles",
-    "url": "entity.html?universe=vehicles&path=other_vehicles&id=bullock_cart"
-  },
-  {
-    "name": "Horse Carriage",
-    "id": "horse_carriage",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "other_vehicles",
-    "parent": "Other Vehicles",
-    "url": "entity.html?universe=vehicles&path=other_vehicles&id=horse_carriage"
-  },
-  {
-    "name": "Rickshaw",
-    "id": "rickshaw",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "other_vehicles",
-    "parent": "Other Vehicles",
-    "url": "entity.html?universe=vehicles&path=other_vehicles&id=rickshaw"
-  },
-  {
-    "name": "Snowmobile",
-    "id": "snowmobile",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "other_vehicles",
-    "parent": "Other Vehicles",
-    "url": "entity.html?universe=vehicles&path=other_vehicles&id=snowmobile"
-  },
-  {
-    "name": "Segway",
-    "id": "segway",
-    "type": "entity",
-    "universe": "vehicles",
-    "path": "other_vehicles",
-    "parent": "Other Vehicles",
-    "url": "entity.html?universe=vehicles&path=other_vehicles&id=segway"
-  },
-  {
-    "name": "Mammals",
-    "id": "mammals",
-    "type": "category",
-    "universe": "animals",
-    "path": "",
-    "parent": "animals",
-    "url": "category.html?universe=animals&path=mammals"
-  },
-  {
-    "name": "Lion",
-    "id": "lion",
-    "type": "entity",
-    "universe": "animals",
-    "path": "mammals",
-    "parent": "Mammals",
-    "url": "entity.html?universe=animals&path=mammals&id=lion"
-  },
-  {
-    "name": "Elephant",
-    "id": "elephant",
-    "type": "entity",
-    "universe": "animals",
-    "path": "mammals",
-    "parent": "Mammals",
-    "url": "entity.html?universe=animals&path=mammals&id=elephant"
-  },
-  {
-    "name": "Dolphin",
-    "id": "dolphin",
-    "type": "entity",
-    "universe": "animals",
-    "path": "mammals",
-    "parent": "Mammals",
-    "url": "entity.html?universe=animals&path=mammals&id=dolphin"
-  },
-  {
-    "name": "Bat",
-    "id": "bat",
-    "type": "entity",
-    "universe": "animals",
-    "path": "mammals",
-    "parent": "Mammals",
-    "url": "entity.html?universe=animals&path=mammals&id=bat"
-  },
-  {
-    "name": "Kangaroo",
-    "id": "kangaroo",
-    "type": "entity",
-    "universe": "animals",
-    "path": "mammals",
-    "parent": "Mammals",
-    "url": "entity.html?universe=animals&path=mammals&id=kangaroo"
-  },
-  {
-    "name": "Dogs",
-    "id": "dogs",
-    "type": "category",
-    "universe": "animals",
-    "path": "",
-    "parent": "animals",
-    "url": "category.html?universe=animals&path=dogs"
-  },
-  {
-    "name": "Golden Retriever",
-    "id": "golden_retriever",
-    "type": "entity",
-    "universe": "animals",
-    "path": "dogs",
-    "parent": "Dogs",
-    "url": "entity.html?universe=animals&path=dogs&id=golden_retriever"
-  },
-  {
-    "name": "German Shepherd",
-    "id": "german_shepherd",
-    "type": "entity",
-    "universe": "animals",
-    "path": "dogs",
-    "parent": "Dogs",
-    "url": "entity.html?universe=animals&path=dogs&id=german_shepherd"
-  },
-  {
-    "name": "Siberian Husky",
-    "id": "siberian_husky",
-    "type": "entity",
-    "universe": "animals",
-    "path": "dogs",
-    "parent": "Dogs",
-    "url": "entity.html?universe=animals&path=dogs&id=siberian_husky"
-  },
-  {
-    "name": "Bulldog",
-    "id": "bulldog",
-    "type": "entity",
-    "universe": "animals",
-    "path": "dogs",
-    "parent": "Dogs",
-    "url": "entity.html?universe=animals&path=dogs&id=bulldog"
-  },
-  {
-    "name": "Labrador Retriever",
-    "id": "labrador_retriever",
-    "type": "entity",
-    "universe": "animals",
-    "path": "dogs",
-    "parent": "Dogs",
-    "url": "entity.html?universe=animals&path=dogs&id=labrador_retriever"
-  },
-  {
-    "name": "Extinct Animals",
-    "id": "extinct_animals",
-    "type": "category",
-    "universe": "animals",
-    "path": "",
-    "parent": "animals",
-    "url": "category.html?universe=animals&path=extinct_animals"
-  },
-  {
-    "name": "Tyrannosaurus Rex",
-    "id": "tyrannosaurus_rex",
-    "type": "entity",
-    "universe": "animals",
-    "path": "extinct_animals",
-    "parent": "Extinct Animals",
-    "url": "entity.html?universe=animals&path=extinct_animals&id=tyrannosaurus_rex"
-  },
-  {
-    "name": "Woolly Mammoth",
-    "id": "woolly_mammoth",
-    "type": "entity",
-    "universe": "animals",
-    "path": "extinct_animals",
-    "parent": "Extinct Animals",
-    "url": "entity.html?universe=animals&path=extinct_animals&id=woolly_mammoth"
-  },
-  {
-    "name": "Dodo",
-    "id": "dodo",
-    "type": "entity",
-    "universe": "animals",
-    "path": "extinct_animals",
-    "parent": "Extinct Animals",
-    "url": "entity.html?universe=animals&path=extinct_animals&id=dodo"
-  },
-  {
-    "name": "Saber-Toothed Tiger",
-    "id": "saber_toothed_tiger",
-    "type": "entity",
-    "universe": "animals",
-    "path": "extinct_animals",
-    "parent": "Extinct Animals",
-    "url": "entity.html?universe=animals&path=extinct_animals&id=saber_toothed_tiger"
-  },
-  {
-    "name": "Triceratops",
-    "id": "triceratops",
-    "type": "entity",
-    "universe": "animals",
-    "path": "extinct_animals",
-    "parent": "Extinct Animals",
-    "url": "entity.html?universe=animals&path=extinct_animals&id=triceratops"
-  },
-  {
-    "name": "Insects",
-    "id": "insects",
-    "type": "category",
-    "universe": "animals",
-    "path": "",
-    "parent": "animals",
-    "url": "category.html?universe=animals&path=insects"
-  },
-  {
-    "name": "Butterfly",
-    "id": "butterfly",
-    "type": "entity",
-    "universe": "animals",
-    "path": "insects",
-    "parent": "Insects",
-    "url": "entity.html?universe=animals&path=insects&id=butterfly"
-  },
-  {
-    "name": "Honey Bee",
-    "id": "honey_bee",
-    "type": "entity",
-    "universe": "animals",
-    "path": "insects",
-    "parent": "Insects",
-    "url": "entity.html?universe=animals&path=insects&id=honey_bee"
-  },
-  {
-    "name": "Ant",
-    "id": "ant",
-    "type": "entity",
-    "universe": "animals",
-    "path": "insects",
-    "parent": "Insects",
-    "url": "entity.html?universe=animals&path=insects&id=ant"
-  },
-  {
-    "name": "Dragonfly",
-    "id": "dragonfly",
-    "type": "entity",
-    "universe": "animals",
-    "path": "insects",
-    "parent": "Insects",
-    "url": "entity.html?universe=animals&path=insects&id=dragonfly"
-  },
-  {
-    "name": "Ladybug",
-    "id": "ladybug",
-    "type": "entity",
-    "universe": "animals",
-    "path": "insects",
-    "parent": "Insects",
-    "url": "entity.html?universe=animals&path=insects&id=ladybug"
-  },
-  {
-    "name": "Marine Animals",
-    "id": "marine_animals",
-    "type": "category",
-    "universe": "animals",
-    "path": "",
-    "parent": "animals",
-    "url": "category.html?universe=animals&path=marine_animals"
-  },
-  {
-    "name": "Great White Shark",
-    "id": "great_white_shark",
-    "type": "entity",
-    "universe": "animals",
-    "path": "marine_animals",
-    "parent": "Marine Animals",
-    "url": "entity.html?universe=animals&path=marine_animals&id=great_white_shark"
-  },
-  {
-    "name": "Octopus",
-    "id": "octopus",
-    "type": "entity",
-    "universe": "animals",
-    "path": "marine_animals",
-    "parent": "Marine Animals",
-    "url": "entity.html?universe=animals&path=marine_animals&id=octopus"
-  },
-  {
-    "name": "Dolphin",
-    "id": "dolphin_marine",
-    "type": "entity",
-    "universe": "animals",
-    "path": "marine_animals",
-    "parent": "Marine Animals",
-    "url": "entity.html?universe=animals&path=marine_animals&id=dolphin_marine"
-  },
-  {
-    "name": "Jellyfish",
-    "id": "jellyfish",
-    "type": "entity",
-    "universe": "animals",
-    "path": "marine_animals",
-    "parent": "Marine Animals",
-    "url": "entity.html?universe=animals&path=marine_animals&id=jellyfish"
-  },
-  {
-    "name": "Seahorse",
-    "id": "seahorse",
-    "type": "entity",
-    "universe": "animals",
-    "path": "marine_animals",
-    "parent": "Marine Animals",
-    "url": "entity.html?universe=animals&path=marine_animals&id=seahorse"
   }
 ]
