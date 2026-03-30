@@ -19,12 +19,12 @@
   },
   {
     "name": "AI's",
-    "id": "ais",
+    "id": "ai's",
     "type": "universe",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
     "parent": "",
-    "url": "category.html?universe=ais"
+    "url": "category.html?universe=ai's"
   },
   {
     "name": "Animals",
@@ -187,6 +187,15 @@
     "path": "",
     "parent": "",
     "url": "category.html?universe=languages"
+  },
+  {
+    "name": "Mythical Creatures",
+    "id": "mythical_creatures",
+    "type": "universe",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "",
+    "url": "category.html?universe=mythical_creatures"
   },
   {
     "name": "Natures",
@@ -651,73 +660,73 @@
     "name": "AI Agents",
     "id": "ai_agents",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_agents"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_agents"
   },
   {
     "name": "AI Assistants",
     "id": "ai_assistants",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_assistants"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_assistants"
   },
   {
     "name": "AI Chatbots",
     "id": "ai_chatbots",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_chatbots"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_chatbots"
   },
   {
     "name": "AI Coding Tools",
     "id": "ai_coding_tools",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_coding_tools"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_coding_tools"
   },
   {
     "name": "AI Image Generators",
     "id": "ai_image_generators",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_image_generators"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_image_generators"
   },
   {
     "name": "AI Language Models",
     "id": "ai_language_models",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_language_models"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_language_models"
   },
   {
     "name": "AI Music Generators",
     "id": "ai_music_generators",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_music_generators"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_music_generators"
   },
   {
     "name": "AI Video Generators",
     "id": "ai_video_generators",
     "type": "category",
-    "universe": "ais",
+    "universe": "ai's",
     "path": "",
-    "parent": "ais",
-    "url": "category.html?universe=ais&path=ai_video_generators"
+    "parent": "ai's",
+    "url": "category.html?universe=ai's&path=ai_video_generators"
   },
   {
     "name": "Mammals",
@@ -3303,15 +3312,6 @@
     "url": "category.html?universe=anime&path=samurai_champloo"
   },
   {
-    "name": "Samurai Jack",
-    "id": "samurai_jack",
-    "type": "category",
-    "universe": "anime",
-    "path": "",
-    "parent": "anime",
-    "url": "category.html?universe=anime&path=samurai_jack"
-  },
-  {
     "name": "Serial Experiments Lain",
     "id": "serial_experiments_lain",
     "type": "category",
@@ -3492,6 +3492,1275 @@
     "url": "category.html?universe=anime&path=zom_100"
   },
   {
+    "name": "Blood Types",
+    "id": "blood_types",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=blood_types"
+  },
+  {
+    "name": "Bones",
+    "id": "bones",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=bones"
+  },
+  {
+    "name": "Cells",
+    "id": "cells",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=cells"
+  },
+  {
+    "name": "Diseases",
+    "id": "diseases",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=diseases"
+  },
+  {
+    "name": "Human Body",
+    "id": "human_body",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=human_body"
+  },
+  {
+    "name": "Muscles",
+    "id": "muscles",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=muscles"
+  },
+  {
+    "name": "Organs",
+    "id": "organs",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=organs"
+  },
+  {
+    "name": "Body Systems",
+    "id": "systems",
+    "type": "category",
+    "universe": "biology",
+    "path": "",
+    "parent": "biology",
+    "url": "category.html?universe=biology&path=systems"
+  },
+  {
+    "name": "Adventure Time",
+    "id": "adventure_time",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=adventure_time"
+  },
+  {
+    "name": "Adventures Masters of Time",
+    "id": "adventures_masters_of_time",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=adventures_masters_of_time"
+  },
+  {
+    "name": "Aladdin",
+    "id": "aladdin",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=aladdin"
+  },
+  {
+    "name": "American Dragon Jake Long",
+    "id": "american_dragon_jake_long",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=american_dragon_jake_long"
+  },
+  {
+    "name": "Angry Birds Toons",
+    "id": "angry_birds_toons",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=angry_birds_toons"
+  },
+  {
+    "name": "Anna's Tales",
+    "id": "annas_tales",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=annas_tales"
+  },
+  {
+    "name": "Astro Boy",
+    "id": "astro_boy",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=astro_boy"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "id": "avatar_the_last_airbender",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=avatar_the_last_airbender"
+  },
+  {
+    "name": "Balin",
+    "id": "balin",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=balin"
+  },
+  {
+    "name": "Bandolero",
+    "id": "bandolero",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=bandolero"
+  },
+  {
+    "name": "Ben 10 Alien Force",
+    "id": "ben_10_alien_force",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ben_10_alien_force"
+  },
+  {
+    "name": "Ben 10 Classic",
+    "id": "ben_10_classic",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ben_10_classic"
+  },
+  {
+    "name": "Ben 10 Omniverse",
+    "id": "ben_10_omniverse",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ben_10_omniverse"
+  },
+  {
+    "name": "Ben 10 Reboot",
+    "id": "ben_10_reboot",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ben_10_reboot"
+  },
+  {
+    "name": "Ben 10 Ultimate Alien",
+    "id": "ben_10_ultimate_alien",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ben_10_ultimate_alien"
+  },
+  {
+    "name": "Bernard",
+    "id": "bernard",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=bernard"
+  },
+  {
+    "name": "Beyblade",
+    "id": "beyblade",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=beyblade"
+  },
+  {
+    "name": "Beyblade Burst",
+    "id": "beyblade_burst",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=beyblade_burst"
+  },
+  {
+    "name": "Big Hero 6 The Series",
+    "id": "big_hero_6_the_series",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=big_hero_6_the_series"
+  },
+  {
+    "name": "Bob Morane",
+    "id": "bob_morane",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=bob_morane"
+  },
+  {
+    "name": "Boboiboy",
+    "id": "boboiboy",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=boboiboy"
+  },
+  {
+    "name": "Bommi and Friends",
+    "id": "bommi_and_friends",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=bommi_and_friends"
+  },
+  {
+    "name": "Bumba",
+    "id": "bumba",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=bumba"
+  },
+  {
+    "name": "Cedri",
+    "id": "cedri",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=cedri"
+  },
+  {
+    "name": "Chhota Bheem",
+    "id": "chhota_bheem",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=chhota_bheem"
+  },
+  {
+    "name": "Codename: Kids Next Door",
+    "id": "codename_kids_next_door",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=codename_kids_next_door"
+  },
+  {
+    "name": "Courage the Cowardly Dog",
+    "id": "courage_the_cowardly_dog",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=courage_the_cowardly_dog"
+  },
+  {
+    "name": "Creepschool",
+    "id": "creepschool",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=creepschool"
+  },
+  {
+    "name": "Danny and Daddy",
+    "id": "danny_and_daddy",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=danny_and_daddy"
+  },
+  {
+    "name": "Dexter's Laboratory",
+    "id": "dexters_laboratory",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=dexters_laboratory"
+  },
+  {
+    "name": "Dibo the Gift Dragon",
+    "id": "dibo_the_gift_dragon",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=dibo_the_gift_dragon"
+  },
+  {
+    "name": "Dinky Dog",
+    "id": "dinky_dog",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=dinky_dog"
+  },
+  {
+    "name": "Dora the Explorer",
+    "id": "dora_the_explorer",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=dora_the_explorer"
+  },
+  {
+    "name": "Doraemon",
+    "id": "doraemon",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=doraemon"
+  },
+  {
+    "name": "Dragon Booster",
+    "id": "dragon_booster",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=dragon_booster"
+  },
+  {
+    "name": "Dragon Hunters",
+    "id": "dragon_hunters",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=dragon_hunters"
+  },
+  {
+    "name": "Dragon Tales",
+    "id": "dragon_tales",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=dragon_tales"
+  },
+  {
+    "name": "DuckTales",
+    "id": "duck_tales",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=duck_tales"
+  },
+  {
+    "name": "Ed, Edd n Eddy",
+    "id": "ed_edd_n_eddy",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ed_edd_n_eddy"
+  },
+  {
+    "name": "Gadget Boy and Heather",
+    "id": "gadget_boy_and_heather",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=gadget_boy_and_heather"
+  },
+  {
+    "name": "Gee Boom Boy",
+    "id": "gee_boom_boy",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=gee_boom_boy"
+  },
+  {
+    "name": "Generator Rex",
+    "id": "generator_rex",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=generator_rex"
+  },
+  {
+    "name": "George of the Jungle",
+    "id": "george_of_the_jungle",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=george_of_the_jungle"
+  },
+  {
+    "name": "Geronimo Stilton",
+    "id": "geronimo_stilton",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=geronimo_stilton"
+  },
+  {
+    "name": "Gloria's House",
+    "id": "glorias_house",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=glorias_house"
+  },
+  {
+    "name": "Godzilla The Series",
+    "id": "godzilla_the_series",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=godzilla_the_series"
+  },
+  {
+    "name": "Gravity Falls",
+    "id": "gravity_falls",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=gravity_falls"
+  },
+  {
+    "name": "Grizzy & The Lemmings",
+    "id": "grizzy_and_the_lemmings",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=grizzy_and_the_lemmings"
+  },
+  {
+    "name": "Hagemaru",
+    "id": "hagemaru",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=hagemaru"
+  },
+  {
+    "name": "Handy Manny",
+    "id": "handy_manny",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=handy_manny"
+  },
+  {
+    "name": "He-Man and the Masters of the Universe",
+    "id": "he_man_and_the_masters_of_the_universe",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=he_man_and_the_masters_of_the_universe"
+  },
+  {
+    "name": "Heidi",
+    "id": "heidi",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=heidi"
+  },
+  {
+    "name": "Iron Kid",
+    "id": "iron_kid",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=iron_kid"
+  },
+  {
+    "name": "Jack and Marcel",
+    "id": "jack_and_marcel",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=jack_and_marcel"
+  },
+  {
+    "name": "Jackie Chan Adventures",
+    "id": "jackie_chan_adventures",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=jackie_chan_adventures"
+  },
+  {
+    "name": "Johnny Bravo",
+    "id": "johnny_bravo",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=johnny_bravo"
+  },
+  {
+    "name": "Jumanji",
+    "id": "jumanji",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=jumanji"
+  },
+  {
+    "name": "Kid Paddle",
+    "id": "kid_paddle",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=kid_paddle"
+  },
+  {
+    "name": "Krypto the Superdog",
+    "id": "krypto_the_superdog",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=krypto_the_superdog"
+  },
+  {
+    "name": "Lamput",
+    "id": "lamput",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=lamput"
+  },
+  {
+    "name": "Leon",
+    "id": "leon",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=leon"
+  },
+  {
+    "name": "Little Singham",
+    "id": "little_singham",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=little_singham"
+  },
+  {
+    "name": "Looney Tunes",
+    "id": "looney_tunes",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=looney_tunes"
+  },
+  {
+    "name": "Lucky Luke",
+    "id": "lucky_luke",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=lucky_luke"
+  },
+  {
+    "name": "Magic Wonderland",
+    "id": "magic_wonderland",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=magic_wonderland"
+  },
+  {
+    "name": "Master Raindrop",
+    "id": "master_raindrop",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=master_raindrop"
+  },
+  {
+    "name": "Men in Black The Series",
+    "id": "men_in_black_the_series",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=men_in_black_the_series"
+  },
+  {
+    "name": "Motu Patlu",
+    "id": "motu_patlu",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=motu_patlu"
+  },
+  {
+    "name": "Ninja Hattori",
+    "id": "ninja_hattori",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ninja_hattori"
+  },
+  {
+    "name": "Oggy and the Cockroaches",
+    "id": "oggy_and_the_cockroaches",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=oggy_and_the_cockroaches"
+  },
+  {
+    "name": "Olympus Guardian",
+    "id": "olympus_guardian",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=olympus_guardian"
+  },
+  {
+    "name": "Pakdam Pakdai",
+    "id": "pakdam_pakdai",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=pakdam_pakdai"
+  },
+  {
+    "name": "Perman",
+    "id": "perman",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=perman"
+  },
+  {
+    "name": "Pinaki and Happy The Bhoot Bandus",
+    "id": "pinaki_and_happy_the_bhoot_bandus",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=pinaki_and_happy_the_bhoot_bandus"
+  },
+  {
+    "name": "Regular Show",
+    "id": "regular_show",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=regular_show"
+  },
+  {
+    "name": "Roll No 21",
+    "id": "roll_no_21",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=roll_no_21"
+  },
+  {
+    "name": "Rudra",
+    "id": "rudra",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=rudra"
+  },
+  {
+    "name": "Samurai Jack",
+    "id": "samurai_jack",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=samurai_jack"
+  },
+  {
+    "name": "Scooby-Doo",
+    "id": "scooby_doo",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=scooby_doo"
+  },
+  {
+    "name": "Shaun the Sheep",
+    "id": "shaun_the_sheep",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=shaun_the_sheep"
+  },
+  {
+    "name": "Shiva",
+    "id": "shiva",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=shiva"
+  },
+  {
+    "name": "Steven Universe",
+    "id": "steven_universe",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=steven_universe"
+  },
+  {
+    "name": "Stuart Little",
+    "id": "stuart_little",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=stuart_little"
+  },
+  {
+    "name": "Super Suji",
+    "id": "super_suji",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=super_suji"
+  },
+  {
+    "name": "Super Why",
+    "id": "super_why",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=super_why"
+  },
+  {
+    "name": "The Adventures of Bernie",
+    "id": "the_adventures_of_bernie",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=the_adventures_of_bernie"
+  },
+  {
+    "name": "The Adventures of Tenali Raman",
+    "id": "the_adventures_of_tenali_raman",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=the_adventures_of_tenali_raman"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "id": "the_amazing_world_of_gumball",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=the_amazing_world_of_gumball"
+  },
+  {
+    "name": "The Fantastic Voyages of Sinbad",
+    "id": "the_fantastic_voyages_of_sinbad",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=the_fantastic_voyages_of_sinbad"
+  },
+  {
+    "name": "The Grim Adventures of Billy and Mandy",
+    "id": "the_grim_adventures_of_billy_and_mandy",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=the_grim_adventures_of_billy_and_mandy"
+  },
+  {
+    "name": "The Penguins of Madagascar",
+    "id": "the_penguins_of_madagascar",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=the_penguins_of_madagascar"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "id": "the_powerpuff_girls",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=the_powerpuff_girls"
+  },
+  {
+    "name": "Thomas and Friends",
+    "id": "thomas_and_friends",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=thomas_and_friends"
+  },
+  {
+    "name": "Timon and Pumbaa",
+    "id": "timon_and_pumbaa",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=timon_and_pumbaa"
+  },
+  {
+    "name": "Ting Tong",
+    "id": "ting_tong",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=ting_tong"
+  },
+  {
+    "name": "Tom and Jerry",
+    "id": "tom_and_jerry",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=tom_and_jerry"
+  },
+  {
+    "name": "We Bare Bears",
+    "id": "we_bare_bears",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=we_bare_bears"
+  },
+  {
+    "name": "Wondrous Myths and Legends",
+    "id": "wondrous_myths_and_legends",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=wondrous_myths_and_legends"
+  },
+  {
+    "name": "World Ahoy",
+    "id": "world_ahoy",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=world_ahoy"
+  },
+  {
+    "name": "Zig and Sharko",
+    "id": "zig_and_sharko",
+    "type": "category",
+    "universe": "cartoons",
+    "path": "",
+    "parent": "cartoons",
+    "url": "category.html?universe=cartoons&path=zig_and_sharko"
+  },
+  {
+    "name": "Acids",
+    "id": "acids",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=acids"
+  },
+  {
+    "name": "Bases",
+    "id": "bases",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=bases"
+  },
+  {
+    "name": "Chemical Reactions",
+    "id": "chemical_reactions",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=chemical_reactions"
+  },
+  {
+    "name": "Compounds",
+    "id": "compounds",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=compounds"
+  },
+  {
+    "name": "Elements",
+    "id": "elements",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=elements"
+  },
+  {
+    "name": "Periodic Table",
+    "id": "periodic_table",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=periodic_table"
+  },
+  {
+    "name": "Salts",
+    "id": "salts",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=salts"
+  },
+  {
+    "name": "Solutions",
+    "id": "solutions",
+    "type": "category",
+    "universe": "chemistry",
+    "path": "",
+    "parent": "chemistry",
+    "url": "category.html?universe=chemistry&path=solutions"
+  },
+  {
+    "name": "American Food",
+    "id": "american_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=american_food"
+  },
+  {
+    "name": "Arabic Food",
+    "id": "arabic_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=arabic_food"
+  },
+  {
+    "name": "Bakery Items",
+    "id": "bakery_items",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=bakery_items"
+  },
+  {
+    "name": "Beverages",
+    "id": "beverages",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=beverages"
+  },
+  {
+    "name": "Chinese Food",
+    "id": "chinese_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=chinese_food"
+  },
+  {
+    "name": "Desserts",
+    "id": "desserts",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=desserts"
+  },
+  {
+    "name": "Fast Food",
+    "id": "fast_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=fast_food"
+  },
+  {
+    "name": "Indian Food",
+    "id": "indian_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=indian_food"
+  },
+  {
+    "name": "Italian Food",
+    "id": "italian_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=italian_food"
+  },
+  {
+    "name": "Japanese Food",
+    "id": "japanese_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=japanese_food"
+  },
+  {
+    "name": "Junk Food",
+    "id": "junk_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=junk_food"
+  },
+  {
+    "name": "Juices",
+    "id": "juices",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=juices"
+  },
+  {
+    "name": "Keto Food",
+    "id": "keto_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=keto_food"
+  },
+  {
+    "name": "Korean Food",
+    "id": "korean_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=korean_food"
+  },
+  {
+    "name": "Mexican Food",
+    "id": "mexican_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=mexican_food"
+  },
+  {
+    "name": "Non-Veg Food",
+    "id": "non_veg_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=non_veg_food"
+  },
+  {
+    "name": "Protein Food",
+    "id": "protein_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=protein_food"
+  },
+  {
+    "name": "Seafood",
+    "id": "seafood",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=seafood"
+  },
+  {
+    "name": "Soft Drinks",
+    "id": "soft_drinks",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=soft_drinks"
+  },
+  {
+    "name": "Street Food",
+    "id": "street_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=street_food"
+  },
+  {
+    "name": "Sweets",
+    "id": "sweets",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=sweets"
+  },
+  {
+    "name": "Thai Food",
+    "id": "thai_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=thai_food"
+  },
+  {
+    "name": "Vegan",
+    "id": "vegan",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=vegan"
+  },
+  {
+    "name": "Vegetarian",
+    "id": "vegetarian",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=vegetarian"
+  },
+  {
+    "name": "Veg Food",
+    "id": "veg_food",
+    "type": "category",
+    "universe": "foods",
+    "path": "",
+    "parent": "foods",
+    "url": "category.html?universe=foods&path=veg_food"
+  },
+  {
     "name": "Apple",
     "id": "apple",
     "type": "entity",
@@ -3535,6 +4804,240 @@
     "path": "",
     "parent": "Fruits",
     "url": "entity.html?universe=fruits&id=pineapple"
+  },
+  {
+    "name": "African Gods",
+    "id": "african_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=african_gods"
+  },
+  {
+    "name": "Aztec Gods",
+    "id": "aztec_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=aztec_gods"
+  },
+  {
+    "name": "Buddhist Gods",
+    "id": "buddhist_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=buddhist_gods"
+  },
+  {
+    "name": "Celtic Gods",
+    "id": "celtic_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=celtic_gods"
+  },
+  {
+    "name": "Chinese Gods",
+    "id": "chinese_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=chinese_gods"
+  },
+  {
+    "name": "Egyptian Gods",
+    "id": "egyptian_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=egyptian_gods"
+  },
+  {
+    "name": "Greek Gods",
+    "id": "greek_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=greek_gods"
+  },
+  {
+    "name": "Hindu Gods",
+    "id": "hindu_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=hindu_gods"
+  },
+  {
+    "name": "Japanese Gods",
+    "id": "japanese_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=japanese_gods"
+  },
+  {
+    "name": "Mesopotamian Gods",
+    "id": "mesopotamian_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=mesopotamian_gods"
+  },
+  {
+    "name": "Norse Gods",
+    "id": "norse_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=norse_gods"
+  },
+  {
+    "name": "Roman Gods",
+    "id": "roman_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=roman_gods"
+  },
+  {
+    "name": "Slavic Gods",
+    "id": "slavic_gods",
+    "type": "category",
+    "universe": "gods",
+    "path": "",
+    "parent": "gods",
+    "url": "category.html?universe=gods&path=slavic_gods"
+  },
+  {
+    "name": "Asteroids",
+    "id": "asteroids",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=asteroids"
+  },
+  {
+    "name": "Black Holes",
+    "id": "black_holes",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=black_holes"
+  },
+  {
+    "name": "Comets",
+    "id": "comets",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=comets"
+  },
+  {
+    "name": "Constellations",
+    "id": "constellations",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=constellations"
+  },
+  {
+    "name": "Galaxies",
+    "id": "galaxies",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=galaxies"
+  },
+  {
+    "name": "Moons",
+    "id": "moons",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=moons"
+  },
+  {
+    "name": "Nebulae",
+    "id": "nebulae",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=nebulae"
+  },
+  {
+    "name": "Planets",
+    "id": "planets",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=planets"
+  },
+  {
+    "name": "Satellites",
+    "id": "satellites",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=satellites"
+  },
+  {
+    "name": "Space Missions",
+    "id": "space_missions",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=space_missions"
+  },
+  {
+    "name": "Space Stations",
+    "id": "space_stations",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=space_stations"
+  },
+  {
+    "name": "Stars",
+    "id": "stars",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=stars"
+  },
+  {
+    "name": "Telescopes",
+    "id": "telescopes",
+    "type": "category",
+    "universe": "space",
+    "path": "",
+    "parent": "space",
+    "url": "category.html?universe=space&path=telescopes"
   },
   {
     "name": "Cricket",

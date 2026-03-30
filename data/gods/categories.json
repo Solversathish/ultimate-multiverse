@@ -1,0 +1,119 @@
+[
+{
+"id":"african_gods",
+"name":"African Gods",
+"type":"category",
+"universe":"gods",
+"path":"african_gods",
+"url":"category.html?universe=gods&path=african_gods",
+"parent":"gods"
+},
+{
+"id":"aztec_gods",
+"name":"Aztec Gods",
+"type":"category",
+"universe":"gods",
+"path":"aztec_gods",
+"url":"category.html?universe=gods&path=aztec_gods",
+"parent":"gods"
+},
+{
+"id":"buddhist_gods",
+"name":"Buddhist Gods",
+"type":"category",
+"universe":"gods",
+"path":"buddhist_gods",
+"url":"category.html?universe=gods&path=buddhist_gods",
+"parent":"gods"
+},
+{
+"id":"celtic_gods",
+"name":"Celtic Gods",
+"type":"category",
+"universe":"gods",
+"path":"celtic_gods",
+"url":"category.html?universe=gods&path=celtic_gods",
+"parent":"gods"
+},
+{
+"id":"chinese_gods",
+"name":"Chinese Gods",
+"type":"category",
+"universe":"gods",
+"path":"chinese_gods",
+"url":"category.html?universe=gods&path=chinese_gods",
+"parent":"gods"
+},
+{
+"id":"egyptian_gods",
+"name":"Egyptian Gods",
+"type":"category",
+"universe":"gods",
+"path":"egyptian_gods",
+"url":"category.html?universe=gods&path=egyptian_gods",
+"parent":"gods"
+},
+{
+"id":"greek_gods",
+"name":"Greek Gods",
+"type":"category",
+"universe":"gods",
+"path":"greek_gods",
+"url":"category.html?universe=gods&path=greek_gods",
+"parent":"gods"
+},
+{
+"id":"hindu_gods",
+"name":"Hindu Gods",
+"type":"category",
+"universe":"gods",
+"path":"hindu_gods",
+"url":"category.html?universe=gods&path=hindu_gods",
+"parent":"gods"
+},
+{
+"id":"japanese_gods",
+"name":"Japanese Gods",
+"type":"category",
+"universe":"gods",
+"path":"japanese_gods",
+"url":"category.html?universe=gods&path=japanese_gods",
+"parent":"gods"
+},
+{
+"id":"mesopotamian_gods",
+"name":"Mesopotamian Gods",
+"type":"category",
+"universe":"gods",
+"path":"mesopotamian_gods",
+"url":"category.html?universe=gods&path=mesopotamian_gods",
+"parent":"gods"
+},
+{
+"id":"norse_gods",
+"name":"Norse Gods",
+"type":"category",
+"universe":"gods",
+"path":"norse_gods",
+"url":"category.html?universe=gods&path=norse_gods",
+"parent":"gods"
+},
+{
+"id":"roman_gods",
+"name":"Roman Gods",
+"type":"category",
+"universe":"gods",
+"path":"roman_gods",
+"url":"category.html?universe=gods&path=roman_gods",
+"parent":"gods"
+},
+{
+"id":"slavic_gods",
+"name":"Slavic Gods",
+"type":"category",
+"universe":"gods",
+"path":"slavic_gods",
+"url":"category.html?universe=gods&path=slavic_gods",
+"parent":"gods"
+}
+]

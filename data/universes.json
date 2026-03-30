@@ -16,7 +16,7 @@
 "description":"A universe showcasing female actors from films, television, and digital platforms across the world."
 },
 {
-"id":"ais",
+"id":"ai's",
 "name":"AI's",
 "type":"category",
 "url":"category.html?universe=ais",
@@ -166,6 +166,14 @@
 "url":"category.html?universe=languages",
 "parent":null,
 "description":"A universe containing spoken, written, and global languages used for communication."
+},
+{
+"id":"mythical_creatures",
+"name":"Mythical Creatures",
+"type":"category",
+"url":"category.html?universe=mythical_creatures",
+"parent":null,
+"description":"A universe featuring legendary and mythical beings from folklore, mythology, and fantasy stories across different cultures."
 },
 {
 "id":"natures",
