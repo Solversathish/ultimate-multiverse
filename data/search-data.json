@@ -3384,6 +3384,15 @@
     "url": "category.html?universe=anime&path=terror_in_resonance"
   },
   {
+    "name": "The Daily Life of the Immortal King",
+    "id": "the_daily_life_of_the_immortal_king",
+    "type": "category",
+    "universe": "anime",
+    "path": "",
+    "parent": "anime",
+    "url": "category.html?universe=anime&path=the_daily_life_of_the_immortal_king"
+  },
+  {
     "name": "The God of High School",
     "id": "the_god_of_high_school",
     "type": "category",

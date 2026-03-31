@@ -101,6 +101,15 @@
 {"id":"steins_gate","name":"Steins;Gate","type":"category","universe":"anime","path":"steins_gate","url":"category.html?universe=anime&path=steins_gate","parent":"anime"},
 {"id":"swallowed_star","name":"Swallowed Star","type":"category","universe":"anime","path":"swallowed_star","url":"category.html?universe=anime&path=swallowed_star","parent":"anime"},
 {"id":"terror_in_resonance","name":"Terror in Resonance","type":"category","universe":"anime","path":"terror_in_resonance","url":"category.html?universe=anime&path=terror_in_resonance","parent":"anime"},
+{
+"id":"the_daily_life_of_the_immortal_king",
+"name":"The Daily Life of the Immortal King",
+"type":"category",
+"universe":"anime",
+"path":"the_daily_life_of_the_immortal_king",
+"url":"category.html?universe=anime&path=the_daily_life_of_the_immortal_king",
+"parent":"anime"
+},
 {"id":"the_god_of_high_school","name":"The God of High School","type":"category","universe":"anime","path":"god_of_high_school","url":"category.html?universe=anime&path=god_of_high_school","parent":"anime"},
 {"id":"the_legend_of_hanuman","name":"The Legend of Hanuman","type":"category","universe":"anime","path":"legend_of_hanuman","url":"category.html?universe=anime&path=legend_of_hanuman","parent":"anime"},
 {"id":"the_seven_deadly_sins","name":"The Seven Deadly Sins","type":"category","universe":"anime","path":"the_seven_deadly_sins","url":"category.html?universe=anime&path=the_seven_deadly_sins","parent":"anime"},

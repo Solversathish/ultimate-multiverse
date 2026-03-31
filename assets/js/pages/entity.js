@@ -208,8 +208,6 @@ ${generateTabs(entity)}
 
 </div>
 
-<button id="scrollTopBtn">↑</button>
-
 `;
 
 document.getElementById("scrollTopBtn").onclick=()=>{
@@ -449,3 +447,20 @@ return str.replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase()).trim();
 function slugify(name){
 return name.toLowerCase().replace(/\s+/g, '-');
 }
+
+const scrollBtn = document.getElementById("scrollTopBtn");
+
+window.addEventListener("scroll", () => {
+  if(window.scrollY > 300){
+    scrollBtn.style.display = "block";
+  } else {
+    scrollBtn.style.display = "none";
+  }
+});
+
+scrollBtn.onclick = () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+};
