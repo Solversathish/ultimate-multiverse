@@ -896,5 +896,780 @@
 }
 },
 "gallery_count":5
+},
+
+{
+"id":"anshul_kamboj",
+"name":"Anshul Kamboj",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=anshul_kamboj",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"6 December 2000",
+"Debut:":"2022"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Anshul Kamboj is an emerging Indian fast bowler.</li><li>He represents Haryana in domestic cricket.</li><li>He gained recognition through strong domestic performances.</li><li>He is known for pace and discipline.</li><li>He has played in IPL.</li><li>He is developing as a consistent bowler.</li><li>He contributes in limited-overs formats.</li><li>He is considered a future prospect.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Selected in IPL squads.</li><li>Strong domestic bowling performances.</li><li>Recognized as emerging fast bowler.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Known for maintaining tight bowling lines.</li><li>Part of India’s next-gen fast bowling group.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"anshuman_gaekwad",
+"name":"Anshuman Gaekwad",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=anshuman_gaekwad",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Batsman",
+"Born:":"23 September 1952",
+"Debut:":"1974"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Anshuman Gaekwad was an Indian opening batsman.</li><li>He played for India during the 1970s and 1980s.</li><li>He was known for his defensive technique.</li><li>He played long innings under pressure.</li><li>He represented Baroda in domestic cricket.</li><li>He later became a coach.</li><li>He contributed to Indian cricket development.</li><li>He was respected for his patience.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Tests and ODIs.</li><li>Successful domestic career.</li><li>Served as Indian team coach.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Known for his extremely defensive batting style.</li><li>Later coached the Indian national team.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"apoorva_sengupta",
+"name":"Apoorva Sengupta",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=apoorva_sengupta",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"5 August 1990",
+"Debut:":"2016"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Apoorva Sengupta is an Indian domestic cricketer.</li><li>He plays as a bowler in domestic competitions.</li><li>He represents his state team in Indian cricket.</li><li>He developed through local cricket systems.</li><li>He is known for disciplined bowling.</li><li>He contributes in domestic tournaments.</li><li>He continues to improve his performance.</li><li>He is part of domestic cricket structure.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Participated in domestic tournaments.</li><li>Recognized in regional cricket circuits.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Mainly known for domestic cricket appearances.</li><li>Still developing his professional career.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"arshad_ayub",
+"name":"Arshad Ayub",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=arshad_ayub",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"16 December 1955",
+"Debut:":"1987"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Arshad Ayub is a former Indian off-spin bowler.</li><li>He played for India in the late 1980s.</li><li>He represented Hyderabad in domestic cricket.</li><li>He was known for accurate off-spin bowling.</li><li>He played in both Tests and ODIs.</li><li>He contributed in key matches.</li><li>He later became a selector and administrator.</li><li>He remained active in cricket administration.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in international cricket.</li><li>Strong domestic bowling record.</li><li>Served as selector.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Later served as a national selector.</li><li>Known for consistent line and length bowling.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"arshdeep_singh",
+"name":"Arshdeep Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=arshdeep_singh",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"5 February 1999",
+"Debut:":"2022"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Arshdeep Singh is a left-arm fast bowler from Punjab.</li><li>He rose to fame through IPL performances.</li><li>He made his international debut in 2022.</li><li>He is known for death-over bowling.</li><li>He plays for India in limited-overs formats.</li><li>He has been consistent in T20 cricket.</li><li>He is known for yorkers.</li><li>He is part of India’s pace attack.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Key T20 bowler for India.</li><li>Strong IPL performances.</li><li>Recognized for death bowling skills.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Specialist in bowling yorkers at the death.</li><li>Gained recognition through IPL.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"arun_lal",
+"name":"Arun Lal",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=arun_lal",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Batsman",
+"Born:":"1 August 1955",
+"Debut:":"1982"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Arun Lal is a former Indian opening batsman.</li><li>He played for India in the 1980s.</li><li>He represented Bengal in domestic cricket.</li><li>He was known for his solid technique.</li><li>He later became a commentator.</li><li>He also worked as a coach.</li><li>He contributed to cricket analysis.</li><li>He is respected in cricket circles.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Tests and ODIs.</li><li>Successful domestic career.</li><li>Worked as commentator and coach.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Known for his fearless batting against fast bowlers.</li><li>Became a popular cricket commentator.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"arvind_apte",
+"name":"Arvind Apte",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=arvind_apte",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Batsman",
+"Born:":"5 October 1934",
+"Debut:":"1959"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Arvind Apte was an Indian cricketer from Mumbai.</li><li>He played during the late 1950s.</li><li>He was a top-order batsman.</li><li>He represented Bombay in domestic cricket.</li><li>He had a short international career.</li><li>He was known for his batting technique.</li><li>He contributed mainly in domestic matches.</li><li>He remained part of early Indian cricket.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Test cricket.</li><li>Part of Bombay cricket team.</li><li>Strong domestic contributions.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Played only a few matches for India.</li><li>Part of Bombay’s strong cricket era.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"ashish_nehra",
+"name":"Ashish Nehra",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ashish_nehra",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"29 April 1979",
+"Debut:":"1999"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Ashish Nehra is a former Indian fast bowler.</li><li>He played for India across formats.</li><li>He was known for swing bowling.</li><li>He played in multiple World Cups.</li><li>He had a long international career.</li><li>He later became a coach.</li><li>He is respected for experience.</li><li>He contributed to Indian victories.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Played key role in World Cup matches.</li><li>Represented India across formats.</li><li>Successful IPL and coaching career.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Known for his match-winning spell vs England in 2003 World Cup.</li><li>Later became IPL-winning coach.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"ashok_dinda",
+"name":"Ashok Dinda",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ashok_dinda",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"25 March 1984",
+"Debut:":"2009"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Ashok Dinda is an Indian fast bowler from Bengal.</li><li>He played for India in limited-overs formats.</li><li>He was known for pace bowling.</li><li>He played in IPL teams.</li><li>He was a consistent domestic performer.</li><li>He represented Bengal for many years.</li><li>He contributed in domestic tournaments.</li><li>He later entered politics.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in ODIs and T20Is.</li><li>Strong domestic bowling record.</li><li>Played in IPL.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>One of Bengal’s leading fast bowlers.</li><li>Later became involved in politics.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"ashok_gandotra",
+"name":"Ashok Gandotra",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ashok_gandotra",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Batsman",
+"Born:":"14 June 1954",
+"Debut:":"1981"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Ashok Gandotra is a former Indian cricketer from Delhi.</li><li>He played in the early 1980s.</li><li>He was a middle-order batsman.</li><li>He represented Delhi in domestic cricket.</li><li>He had a short international career.</li><li>He contributed in domestic matches.</li><li>He was known for his batting skills.</li><li>He remained part of Indian cricket history.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in international cricket.</li><li>Played for Delhi in domestic cricket.</li><li>Contributed as middle-order batsman.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Had a brief international career.</li><li>Known mainly for domestic cricket performances.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"ashok_malhotra",
+"name":"Ashok Malhotra",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ashok_malhotra",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Batsman",
+"Born:":"12 October 1957",
+"Debut:":"1982"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Ashok Malhotra is a former Indian batsman from Delhi.</li><li>He played for India in the 1980s.</li><li>He was known for his aggressive batting style.</li><li>He represented Delhi in domestic cricket.</li><li>He had a strong domestic career.</li><li>He played as a middle-order batsman.</li><li>He contributed in key matches.</li><li>He remained active in cricket after retirement.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in international cricket.</li><li>Strong domestic batting record.</li><li>Key Delhi player.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Known for aggressive batting in domestic cricket.</li><li>Had a more successful domestic career than international.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"ashok_mankad",
+"name":"Ashok Mankad",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ashok_mankad",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"All-rounder",
+"Born:":"12 October 1946",
+"Debut:":"1969"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Ashok Mankad was an Indian all-rounder and son of Vinoo Mankad.</li><li>He played for India in the late 1960s and 1970s.</li><li>He was a right-handed batsman and occasional bowler.</li><li>He represented Bombay in domestic cricket.</li><li>He had a strong domestic record.</li><li>He contributed mainly with the bat.</li><li>He played in Tests for India.</li><li>He remained part of cricketing legacy.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Test cricket.</li><li>Strong domestic cricket performances.</li><li>Part of a famous cricketing family.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Son of legendary cricketer Vinoo Mankad.</li><li>Carried forward a strong cricketing legacy.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"atul_bedade",
+"name":"Atul Bedade",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=atul_bedade",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Batsman",
+"Born:":"8 January 1966",
+"Debut:":"1994"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Atul Bedade is a former Indian cricketer from Maharashtra.</li><li>He was known for aggressive batting.</li><li>He made his international debut in 1994.</li><li>He played as a middle-order batsman.</li><li>He had a strong domestic career.</li><li>He was known for big hitting.</li><li>He represented Baroda in domestic cricket.</li><li>He later became a coach.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in ODI cricket.</li><li>Strong domestic performances.</li><li>Known for power hitting.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Famous for hitting long sixes.</li><li>Known as a powerful hitter in domestic cricket.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"atul_wassan",
+"name":"Atul Wassan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=atul_wassan",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"23 March 1961",
+"Debut:":"1989"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Atul Wassan is a former Indian fast bowler.</li><li>He played for India in the late 1980s.</li><li>He represented Delhi in domestic cricket.</li><li>He was known for swing bowling.</li><li>He had a brief international career.</li><li>He contributed in domestic matches.</li><li>He later became a commentator.</li><li>He remains active in cricket discussions.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in international cricket.</li><li>Strong domestic bowling record.</li><li>Worked as cricket commentator.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Known for outspoken cricket opinions.</li><li>Transitioned into media after retirement.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"avesh_khan",
+"name":"Avesh Khan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=avesh_khan",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"13 December 1996",
+"Debut:":"2022"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Avesh Khan is an Indian fast bowler from Madhya Pradesh.</li><li>He gained recognition through IPL performances.</li><li>He made his international debut in 2022.</li><li>He is known for pace and bounce.</li><li>He has been part of India’s T20 setup.</li><li>He plays as a strike bowler.</li><li>He continues to develop consistency.</li><li>He is part of India’s fast bowling group.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Strong IPL performances.</li><li>Selected for Indian national team.</li><li>Recognized as a pace bowler.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>One of the fastest emerging bowlers in IPL.</li><li>Known for bowling at high speeds.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"axar_patel",
+"name":"Axar Patel",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=axar_patel",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"All-rounder",
+"Born:":"20 January 1994",
+"Debut:":"2014"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Axar Patel is an Indian all-rounder known for left-arm spin.</li><li>He represents Gujarat in domestic cricket.</li><li>He made his international debut in 2014.</li><li>He is known for accuracy and control.</li><li>He contributes with both bat and ball.</li><li>He has played key roles in Test matches.</li><li>He is part of India’s spin attack.</li><li>He is also a useful lower-order batsman.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Key performer in Test cricket.</li><li>Strong all-round contributions.</li><li>Consistent international player.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Took multiple five-wicket hauls in Tests.</li><li>Known for accuracy rather than spin turn.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"bs_chandrasekhar",
+"name":"B. S. Chandrasekhar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=bs_chandrasekhar",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"17 May 1945",
+"Debut:":"1964"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>B. S. Chandrasekhar is one of India’s legendary leg-spin bowlers.</li><li>He played for India during the 1960s and 1970s.</li><li>He was known for his unique bowling action.</li><li>He was part of India’s famous spin quartet.</li><li>He played a key role in overseas victories.</li><li>He represented Karnataka in domestic cricket.</li><li>He was known for match-winning spells.</li><li>He is considered one of India’s greatest bowlers.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Part of India’s legendary spin quartet.</li><li>Played key role in historic Test wins.</li><li>Highly successful international career.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Had a polio-affected arm which gave him unique bowling style.</li><li>One of India’s greatest match-winning bowlers.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"bal_dani",
+"name":"Bal Dani",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=bal_dani",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"25 June 1929",
+"Debut:":"1946"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Bal Dani was an Indian fast bowler from Mumbai.</li><li>He played during the early years of Indian cricket.</li><li>He represented Bombay in domestic cricket.</li><li>He was known for his pace bowling.</li><li>He played a few international matches.</li><li>He contributed mainly with the ball.</li><li>He was part of early Indian teams.</li><li>He remained a historic cricket figure.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Test cricket.</li><li>Part of early Indian cricket history.</li><li>Strong domestic performances.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Played in India’s early post-independence era.</li><li>Known mainly for domestic cricket.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"baloo_gupte",
+"name":"Baloo Gupte",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=baloo_gupte",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"5 August 1933",
+"Debut:":"1961"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Baloo Gupte was an Indian leg-spin bowler.</li><li>He played in the early 1960s.</li><li>He represented Bombay in domestic cricket.</li><li>He was known for spin bowling.</li><li>He had a short international career.</li><li>He contributed in domestic matches.</li><li>He was part of strong Bombay teams.</li><li>He remained a domestic-level player.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Test cricket.</li><li>Strong domestic cricket record.</li><li>Part of Bombay cricket system.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Brother of famous spinner Subhash Gupte.</li><li>Played during a strong spin era in India.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"balwinder_sandhu",
+"name":"Balwinder Sandhu",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=balwinder_sandhu",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"3 August 1956",
+"Debut:":"1983"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Balwinder Sandhu is a former Indian swing bowler.</li><li>He was part of India’s 1983 World Cup team.</li><li>He represented Mumbai in domestic cricket.</li><li>He was known for swing bowling.</li><li>He played a key role in the World Cup.</li><li>He contributed in international matches.</li><li>He later became a coach.</li><li>He remains a respected cricket figure.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Member of 1983 World Cup winning team.</li><li>Strong domestic career.</li><li>Contributed in key matches.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Bowled the famous inswinger to dismiss Gordon Greenidge in 1983 final.</li><li>Part of India’s historic World Cup win.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"bapu_nadkarni",
+"name":"Bapu Nadkarni",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=bapu_nadkarni",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"All-rounder",
+"Born:":"4 April 1933",
+"Debut:":"1955"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Bapu Nadkarni was an Indian all-rounder known for economical bowling.</li><li>He played for India in the 1950s and 1960s.</li><li>He represented Bombay in domestic cricket.</li><li>He was known for tight left-arm spin.</li><li>He contributed as a batsman as well.</li><li>He played in many Test matches.</li><li>He was respected for discipline.</li><li>He is remembered for accuracy.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Test cricket.</li><li>One of most economical bowlers.</li><li>Strong all-round contributions.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Bowled 21 consecutive maiden overs in a Test match.</li><li>Known for extreme bowling accuracy.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"baqa_jilani",
+"name":"Baqa Jilani",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=baqa_jilani",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"1911",
+"Debut:":"1932"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Baqa Jilani was an Indian cricketer from the early 1930s.</li><li>He played as a bowler.</li><li>He was part of India’s early Test team.</li><li>He contributed mainly in bowling.</li><li>He played during the pre-independence era.</li><li>He had a short international career.</li><li>He represented domestic teams.</li><li>He remains part of early cricket history.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Part of India’s early Test teams.</li><li>Represented India in international cricket.</li><li>Contributed as a bowler.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Played during India’s first Test generation.</li><li>Part of early cricket history.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"barinder_sran",
+"name":"Barinder Sran",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=barinder_sran",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"10 December 1992",
+"Debut:":"2016"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Barinder Sran is an Indian left-arm fast bowler.</li><li>He gained recognition through domestic cricket.</li><li>He made his international debut in 2016.</li><li>He is known for swing bowling.</li><li>He played in limited-overs formats.</li><li>He represented Punjab domestically.</li><li>He had a short international career.</li><li>He remains part of domestic cricket.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in ODIs and T20Is.</li><li>Strong domestic performances.</li><li>Recognized as left-arm pacer.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Made immediate impact on debut series.</li><li>Known for left-arm swing bowling.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"bharat_arun",
+"name":"Bharat Arun",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=bharat_arun",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Bowler",
+"Born:":"21 October 1962",
+"Debut:":"1986"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Bharat Arun is a former Indian cricketer and coach.</li><li>He played as a fast bowler.</li><li>He represented Tamil Nadu in domestic cricket.</li><li>He had a brief international career.</li><li>He later became India’s bowling coach.</li><li>He worked with top Indian bowlers.</li><li>He contributed to team success.</li><li>He is respected as a coach.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>India national team bowling coach.</li><li>Developed fast bowling unit.</li><li>Represented India in international cricket.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Played a key role in India’s bowling success as coach.</li><li>Mentored multiple world-class bowlers.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"bharath_reddy",
+"name":"Bharath Reddy",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=bharath_reddy",
+"parent":"cricket_india",
+
+"info":{
+"Country:":"India",
+"Role:":"Wicketkeeper",
+"Born:":"12 May 1954",
+"Debut:":"1978"
+},
+
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Bharath Reddy is a former Indian wicketkeeper.</li><li>He played for India in the late 1970s.</li><li>He represented Tamil Nadu in domestic cricket.</li><li>He was known for wicketkeeping skills.</li><li>He played several Test matches.</li><li>He contributed with the bat when needed.</li><li>He later worked as team manager.</li><li>He remained associated with cricket.</li></ul>"
+},
+"tab2":{
+"title":"Achievements",
+"content":"<ul><li>Represented India in Test cricket.</li><li>Strong domestic cricket career.</li><li>Worked in team management roles.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Served as team manager after retirement.</li><li>Known for reliable wicketkeeping.</li></ul>"
+}
+},
+"gallery_count":5
 }
 ]
