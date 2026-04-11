@@ -5554,27 +5554,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=madhav_apte",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"5 October 1932",
-"Debut:":"1952"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"5 October 1932","Debut:":"1952"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Madhav Apte was an Indian opening batsman.</li><li>He played in early 1950s.</li><li>He represented Bombay in domestic cricket.</li><li>He was known for solid technique.</li><li>He scored heavily in Test matches.</li><li>He had a short but impressive career.</li><li>He later became businessman.</li><li>He remains respected in cricket history.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Strong Test batting record.</li><li>Successful overseas performances.</li><li>Consistent opening batsman.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Had average above 50 in Tests.</li><li>Career ended early despite success.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Madhav Apte was an Indian opening batsman.</li><li>He played in the 1950s.</li><li>He represented Bombay.</li><li>He was known for solid technique.</li><li>He scored heavily in Tests.</li><li>He had a short career.</li><li>He later became businessman.</li><li>He is respected in cricket history.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Average above 50 in Tests.</li><li>Strong overseas performances.</li><li>Reliable opener.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Career ended early.</li><li>Highly respected batsman.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5585,27 +5569,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=madhav_mantri",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Wicketkeeper",
-"Born:":"7 September 1921",
-"Debut:":"1951"
-},
-
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"7 September 1921","Debut:":"1951"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Madhav Mantri was an Indian wicketkeeper.</li><li>He played in 1950s.</li><li>He represented Bombay.</li><li>He was known for safe wicketkeeping.</li><li>He played Test cricket for India.</li><li>He later became selector.</li><li>He contributed to cricket administration.</li><li>He remains a respected figure.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Represented India in Tests.</li><li>Served as selector.</li><li>Strong domestic career.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Uncle of Sunil Gavaskar.</li><li>Known for disciplined keeping.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Madhav Mantri was an Indian wicketkeeper.</li><li>He played in the 1950s.</li><li>He represented Bombay.</li><li>He was known for safe keeping.</li><li>He played Test cricket.</li><li>He later became selector.</li><li>He contributed to administration.</li><li>He was respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India in Tests.</li><li>National selector.</li><li>Strong domestic record.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Uncle of Sunil Gavaskar.</li><li>Known for discipline.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5616,27 +5584,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=madhusudhan_rege",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"1923",
-"Debut:":"1949"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1923","Debut:":"1949"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Madhusudhan Rege was an Indian cricketer.</li><li>He played in late 1940s.</li><li>He represented India in Tests.</li><li>He was a batsman.</li><li>He contributed in early matches.</li><li>He had a short international career.</li><li>He played domestic cricket.</li><li>He remains part of history.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Represented India in Test cricket.</li><li>Part of early teams.</li><li>Domestic contributions.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Played in post-independence era.</li><li>Known from early records.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Madhusudhan Rege was an Indian cricketer.</li><li>He played in early era.</li><li>He represented India in Tests.</li><li>He was a batsman.</li><li>He contributed in early matches.</li><li>He had a short career.</li><li>He played domestic cricket.</li><li>He remains historical figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Part of early teams.</li><li>Domestic contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in early post-independence era.</li><li>Known from records.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5647,27 +5599,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=maharajkumar_of_vizianagram",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"1905",
-"Debut:":"1936"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1905","Debut:":"1936"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>The Maharajkumar of Vizianagram was an Indian cricketer.</li><li>He belonged to royal family.</li><li>He played in pre-independence era.</li><li>He represented India in Tests.</li><li>He was a batsman.</li><li>He contributed to cricket administration.</li><li>He supported development of cricket.</li><li>He remains a historical figure.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Represented India in Tests.</li><li>Royal patron of cricket.</li><li>Contributed to development.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known as “Vizzy”.</li><li>Important figure in early Indian cricket.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Maharajkumar of Vizianagram was an Indian cricketer.</li><li>He belonged to royal family.</li><li>He played in pre-independence era.</li><li>He represented India in Tests.</li><li>He contributed to cricket development.</li><li>He supported players.</li><li>He influenced cricket growth.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Promoted cricket.</li><li>Important early figure.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as “Vizzy”.</li><li>Royal cricket patron.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5678,27 +5614,41 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=ms_dhoni",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Wicketkeeper",
-"Born:":"7 July 1981",
-"Debut:":"2004"
-},
-
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"7 July 1981","Debut:":"2004"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>MS Dhoni is one of India’s greatest captains.</li><li>He led India to multiple ICC trophies.</li><li>He debuted in 2004.</li><li>He is known for finishing matches.</li><li>He was a wicketkeeper-batsman.</li><li>He captained India across formats.</li><li>He is known for calm leadership.</li><li>He is a legendary cricketer.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>MS Dhoni is one of India’s greatest captains.</li><li>He led India to all ICC trophies.</li><li>He debuted in 2004.</li><li>He is known for finishing.</li><li>He was wicketkeeper-batsman.</li><li>He captained India.</li><li>He is calm leader.</li><li>He is legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Won all ICC trophies.</li><li>Most successful captain.</li><li>Multiple awards.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called “Captain Cool”.</li><li>Iconic 2011 WC six.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>2007 T20 WC, 2011 WC, 2013 CT winner.</li><li>One of most successful captains.</li><li>Multiple ICC awards.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Finished 2011 WC with iconic six.</li><li>Nicknamed “Captain Cool”.</li></ul>"
-}
+
+{
+"id":"man_sood",
+"name":"Man Sood",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=man_sood",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1968","Debut:":"1995"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Man Sood is a former Indian cricketer.</li><li>He played in 1990s.</li><li>He was a bowler.</li><li>He represented domestic teams.</li><li>He had short career.</li><li>He contributed in limited matches.</li><li>He played domestic cricket.</li><li>He remains part of records.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India briefly.</li><li>Domestic contributions.</li><li>Part of 90s squad.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Short international career.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mandeep_singh",
+"name":"Mandeep Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=mandeep_singh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"18 December 1991","Debut:":"2016"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Mandeep Singh is an Indian batsman.</li><li>He represents Punjab.</li><li>He debuted in 2016.</li><li>He plays middle order.</li><li>He is consistent player.</li><li>He plays IPL.</li><li>He has strong domestic record.</li><li>He remains active.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Strong domestic record.</li><li>IPL contributions.</li><li>Represented India.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for calm batting.</li><li>Consistent performer.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5709,27 +5659,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=maninder_singh",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"13 June 1965",
-"Debut:":"1982"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"13 June 1965","Debut:":"1982"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Maninder Singh is a former Indian left-arm spinner.</li><li>He played in 1980s.</li><li>He was part of Indian spin attack.</li><li>He represented Delhi.</li><li>He was known for accuracy.</li><li>He played many Test matches.</li><li>He later became commentator.</li><li>He remains part of cricket media.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Over 80 Test wickets.</li><li>Key spinner for India.</li><li>Strong domestic record.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Debuted at very young age.</li><li>Known for left-arm spin control.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Maninder Singh is a former Indian spinner.</li><li>He played in 1980s.</li><li>He represented Delhi.</li><li>He was part of spin attack.</li><li>He was known for control.</li><li>He played Tests.</li><li>He later became commentator.</li><li>He remains cricket personality.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Over 80 Test wickets.</li><li>Key spinner.</li><li>Strong performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Debuted very young.</li><li>Left-arm spinner.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5740,27 +5674,26 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=manish_pandey",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"10 September 1989",
-"Debut:":"2015"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"10 September 1989","Debut:":"2015"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Manish Pandey is an Indian batsman.</li><li>He debuted internationally in 2015.</li><li>He represents Karnataka.</li><li>He is known for fielding and batting.</li><li>He played in IPL.</li><li>He is a middle-order batsman.</li><li>He has played many matches.</li><li>He remains active in cricket.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Manish Pandey is an Indian batsman.</li><li>He debuted in 2015.</li><li>He represents Karnataka.</li><li>He plays middle order.</li><li>He is known for fielding.</li><li>He played IPL.</li><li>He has strong domestic record.</li><li>He remains active.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>First Indian IPL centurion.</li><li>Strong performances.</li><li>International player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Excellent fielder.</li><li>IPL star.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>First Indian to score IPL century.</li><li>Strong international performances.</li><li>Key fielder.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for athletic fielding.</li><li>One of early IPL stars.</li></ul>"
-}
+
+{
+"id":"manohar_hardikar",
+"name":"Manohar Hardikar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=manohar_hardikar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1937","Debut:":"1958"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Manohar Hardikar was an Indian all-rounder.</li><li>He played in 1950s.</li><li>He represented India in Tests.</li><li>He contributed with bat and ball.</li><li>He played domestic cricket.</li><li>He had short career.</li><li>He remained part of cricket history.</li><li>He later worked in administration.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>All-round contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in early era.</li><li>Known from records.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5782,15 +5715,15 @@
 "tabs":{
 "tab1":{
 "title":"Biography",
-"content":"<ul><li>Manoj Prabhakar is a former Indian all-rounder.</li><li>He played in 1980s and 1990s.</li><li>He was a swing bowler.</li><li>He contributed as opening batsman.</li><li>He represented Delhi.</li><li>He played in World Cups.</li><li>He later became coach.</li><li>He remains a known figure.</li></ul>"
+"content":"<ul><li>Manoj Prabhakar is a former Indian all-rounder.</li><li>He played in 1980s and 1990s.</li><li>He was a swing bowler.</li><li>He also opened the batting.</li><li>He represented Delhi.</li><li>He played in World Cups.</li><li>He later became coach.</li><li>He remains a known cricket figure.</li></ul>"
 },
 "tab2":{
 "title":"Achievements",
-"content":"<ul><li>Successful all-round performances.</li><li>World Cup participant.</li><li>Strong domestic career.</li></ul>"
+"content":"<ul><li>Successful all-round performances.</li><li>World Cup participant.</li><li>Key opening bowler.</li></ul>"
 },
 "tab3":{
 "title":"Facts",
-"content":"<ul><li>Opened batting and bowling.</li><li>Known for swing bowling.</li></ul>"
+"content":"<ul><li>Opened both batting and bowling.</li><li>Known for swing mastery.</li></ul>"
 }
 },
 "gallery_count":5
@@ -5798,7 +5731,7 @@
 
 {
 "id":"manoj_tiwari",
-"name":"Manoj Tiwary",
+"name":"Manoj Tiwari",
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=manoj_tiwari",
 "parent":"cricket_india",
@@ -5813,16 +5746,31 @@
 "tabs":{
 "tab1":{
 "title":"Biography",
-"content":"<ul><li>Manoj Tiwary is an Indian batsman.</li><li>He played for India in limited formats.</li><li>He represents Bengal.</li><li>He is known for aggressive batting.</li><li>He had a short international career.</li><li>He later entered politics.</li><li>He contributed domestically.</li><li>He remains a public figure.</li></ul>"
+"content":"<ul><li>Manoj Tiwari is an Indian batsman.</li><li>He played for India in limited formats.</li><li>He represents Bengal.</li><li>He is known for aggressive batting.</li><li>He scored an ODI century.</li><li>He had a strong domestic career.</li><li>He later entered politics.</li><li>He remains a public figure.</li></ul>"
 },
 "tab2":{
 "title":"Achievements",
-"content":"<ul><li>ODI century for India.</li><li>Strong domestic career.</li><li>Public service role.</li></ul>"
+"content":"<ul><li>ODI century for India.</li><li>Strong domestic performances.</li><li>Successful IPL career.</li></ul>"
 },
 "tab3":{
 "title":"Facts",
-"content":"<ul><li>Became minister in West Bengal.</li><li>Known for aggressive style.</li></ul>"
+"content":"<ul><li>Became a state minister.</li><li>Known for attacking style.</li></ul>"
 }
+},
+"gallery_count":5
+},
+
+{
+"id":"manpreet_gony",
+"name":"Manpreet Gony",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=manpreet_gony",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"4 January 1984","Debut:":"2008"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Manpreet Gony is an Indian fast bowler.</li><li>He debuted in 2008.</li><li>He represents Punjab.</li><li>He gained fame in IPL.</li><li>He bowls medium pace.</li><li>He played limited matches.</li><li>He had strong domestic record.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL performances.</li><li>Represented India.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for IPL rise.</li><li>Utility bowler.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5833,27 +5781,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mansoor_ali_khan_pataudi",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"5 January 1941",
-"Debut:":"1961"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"5 January 1941","Debut:":"1961"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mansoor Ali Khan Pataudi was a legendary Indian captain.</li><li>He became captain at a young age.</li><li>He led India in 1960s.</li><li>He was known for leadership.</li><li>He played with one eye.</li><li>He represented India with distinction.</li><li>He changed Indian cricket mindset.</li><li>He is regarded as a great leader.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Youngest Indian captain.</li><li>Transformed Indian cricket approach.</li><li>Successful leadership career.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Played after losing vision in one eye.</li><li>Nicknamed “Tiger Pataudi”.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Mansoor Ali Khan Pataudi was a legendary captain.</li><li>He led India at young age.</li><li>He played in 1960s.</li><li>He was known for leadership.</li><li>He played with one eye.</li><li>He changed Indian mindset.</li><li>He inspired players.</li><li>He is cricket legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Youngest captain.</li><li>Transformed Indian cricket.</li><li>Successful leader.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called “Tiger”.</li><li>Played with one eye.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5864,27 +5796,41 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mayank_agarwal",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"16 February 1991",
-"Debut:":"2018"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"16 February 1991","Debut:":"2018"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mayank Agarwal is an Indian opening batsman.</li><li>He represents Karnataka.</li><li>He debuted in 2018.</li><li>He is known for consistency.</li><li>He scored double centuries.</li><li>He plays Test cricket.</li><li>He has strong domestic record.</li><li>He remains active player.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Mayank Agarwal is an Indian opener.</li><li>He debuted in 2018.</li><li>He represents Karnataka.</li><li>He is known for long innings.</li><li>He scored double centuries.</li><li>He plays Tests.</li><li>He has strong domestic record.</li><li>He remains active.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Multiple double centuries.</li><li>Strong Test opener.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Scored 200+ vs South Africa.</li><li>Known for consistency.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Multiple Test double centuries.</li><li>Strong domestic performances.</li><li>Key Test opener.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Scored double century vs South Africa.</li><li>Known for long innings.</li></ul>"
-}
+
+{
+"id":"mayank_markande",
+"name":"Mayank Markande",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=mayank_markande",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"11 November 1997","Debut:":"2019"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Mayank Markande is an Indian leg-spinner.</li><li>He gained fame in IPL.</li><li>He debuted in 2019.</li><li>He represents Punjab.</li><li>He is known for spin.</li><li>He plays T20 format.</li><li>He is rising talent.</li><li>He continues to develop.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Impressive IPL debut.</li><li>Selected for India.</li><li>Promising spinner.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Quick IPL success.</li><li>Known for variations.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"mayank_yadav",
+"name":"Mayank Yadav",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=mayank_yadav",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"2002","Debut:":"2024"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Mayank Yadav is a young fast bowler.</li><li>He gained fame in IPL.</li><li>He is known for extreme pace.</li><li>He represents Delhi.</li><li>He debuted recently.</li><li>He is rising star.</li><li>He impressed fans.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>One of fastest bowlers.</li><li>Emerging talent.</li><li>Selected for India.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Bowls 150+ km/h.</li><li>Future pace star.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5895,27 +5841,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mohammad_azharuddin",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"8 February 1963",
-"Debut:":"1984"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"8 February 1963","Debut:":"1984"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mohammad Azharuddin is a former Indian captain.</li><li>He debuted in 1984.</li><li>He was known for wristy batting.</li><li>He led India in 1990s.</li><li>He scored many centuries.</li><li>He was a stylish batsman.</li><li>He later entered politics.</li><li>He remains a notable figure.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Three centuries in first three Tests.</li><li>Former Indian captain.</li><li>Successful career.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for elegant wrist shots.</li><li>Captain for many years.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Azharuddin was Indian captain.</li><li>He debuted in 1984.</li><li>He was known for wristy batting.</li><li>He led India in 1990s.</li><li>He scored many centuries.</li><li>He was stylish batsman.</li><li>He later entered politics.</li><li>He remains notable figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Three centuries in first 3 Tests.</li><li>Former captain.</li><li>Successful career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Elegant wrist player.</li><li>Led India for long time.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5926,27 +5856,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mohammad_kaif",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"1 December 1980",
-"Debut:":"2002"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1 December 1980","Debut:":"2002"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mohammad Kaif is a former Indian batsman.</li><li>He played in early 2000s.</li><li>He was known for fielding.</li><li>He played key role in NatWest final.</li><li>He represented Uttar Pradesh.</li><li>He was a middle-order batsman.</li><li>He later became commentator.</li><li>He remains popular figure.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Hero of NatWest 2002 final.</li><li>Excellent fielder.</li><li>Strong ODI career.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>One of India’s best fielders.</li><li>Known for chasing ability.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Kaif was Indian batsman.</li><li>He played in early 2000s.</li><li>He was known for fielding.</li><li>He played key role in NatWest final.</li><li>He represented UP.</li><li>He was middle-order batsman.</li><li>He later became commentator.</li><li>He remains popular.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>NatWest final hero.</li><li>Top fielder.</li><li>Strong ODI career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of best fielders.</li><li>Great chaser.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5957,27 +5871,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mohammad_nisar",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"1910",
-"Debut:":"1932"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1910","Debut:":"1932"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mohammad Nisar was one of India’s first fast bowlers.</li><li>He played in India’s first Test match.</li><li>He was known for pace.</li><li>He represented early Indian team.</li><li>He bowled with great speed.</li><li>He was feared by batsmen.</li><li>He played in pre-independence era.</li><li>He is a pioneer of Indian fast bowling.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>India’s first genuine fast bowler.</li><li>Key player in early Tests.</li><li>Historic cricket figure.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Took 5 wickets in India’s first Test.</li><li>One of fastest bowlers of his era.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Nisar was India’s first fast bowler.</li><li>He played in first Test.</li><li>He was very fast.</li><li>He troubled batsmen.</li><li>He played early cricket.</li><li>He was pioneer.</li><li>He inspired future pacers.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>First Indian fast bowler.</li><li>Historic performances.</li><li>Key early player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Took 5 wickets in first Test.</li><li>Very fast for his era.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -5988,27 +5886,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mohammad_siraj",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"13 March 1994",
-"Debut:":"2017"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"13 March 1994","Debut:":"2017"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mohammad Siraj is an Indian fast bowler.</li><li>He rose from humble background.</li><li>He debuted in 2017.</li><li>He represents Hyderabad.</li><li>He is known for aggressive bowling.</li><li>He played key role in Australia tour.</li><li>He excels in all formats.</li><li>He is a leading Indian pacer.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Match-winning spells in overseas Tests.</li><li>Key member of Indian pace attack.</li><li>Top performer in multiple formats.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Led bowling attack in historic Gabba win.</li><li>Known for emotional dedication.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Mohammad Siraj is an Indian fast bowler.</li><li>He rose from a humble background.</li><li>He debuted in 2017.</li><li>He is known for aggression and pace.</li><li>He became a key Test bowler.</li><li>He played a major role in overseas wins.</li><li>He represents Hyderabad.</li><li>He is part of India’s pace attack.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Key performer in Gabba Test win.</li><li>Top ODI bowler rankings.</li><li>Multiple match-winning spells.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Father was an auto driver.</li><li>Emotional dedication to team.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6019,27 +5901,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mohammed_shami",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"3 September 1990",
-"Debut:":"2013"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"3 September 1990","Debut:":"2013"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mohammed Shami is a premier Indian fast bowler.</li><li>He debuted in 2013.</li><li>He is known for seam bowling.</li><li>He excels in Test cricket.</li><li>He has played World Cups.</li><li>He represents Bengal.</li><li>He is part of pace trio.</li><li>He is among India’s best bowlers.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>One of fastest to 100 ODI wickets.</li><li>Multiple World Cup performances.</li><li>Consistent wicket-taker.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for reverse swing.</li><li>Key bowler in ICC tournaments.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Mohammed Shami is a top Indian pacer.</li><li>He debuted in 2013.</li><li>He is known for seam and swing.</li><li>He excels in Test cricket.</li><li>He has played multiple World Cups.</li><li>He represents Bengal.</li><li>He is consistent wicket-taker.</li><li>He is part of core bowling unit.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Fastest Indian to 100 ODI wickets.</li><li>World Cup top performer.</li><li>Key Test bowler.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Expert in reverse swing.</li><li>Deadly with new ball.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6050,27 +5916,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mohinder_amarnath",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"All-rounder",
-"Born:":"24 September 1950",
-"Debut:":"1969"
-},
-
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"24 September 1950","Debut:":"1969"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mohinder Amarnath was a key Indian all-rounder.</li><li>He played in 1970s–1980s.</li><li>He was part of 1983 World Cup team.</li><li>He was known for courage.</li><li>He contributed with bat and ball.</li><li>He played crucial innings.</li><li>He represented India consistently.</li><li>He is remembered as match-winner.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Man of the Match in 1983 semi-final and final.</li><li>World Cup winner.</li><li>Strong all-round performances.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Nicknamed “Jimmy”.</li><li>Son of Lala Amarnath.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Mohinder Amarnath was a legendary all-rounder.</li><li>He played in 1970s and 80s.</li><li>He was key in 1983 World Cup.</li><li>He contributed with bat and ball.</li><li>He was known for courage.</li><li>He played against fast bowlers bravely.</li><li>He was match-winner.</li><li>He is cricket legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>1983 WC Man of Match (semi & final).</li><li>World Cup winner.</li><li>Reliable all-rounder.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nicknamed Jimmy.</li><li>Son of Lala Amarnath.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6081,27 +5931,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mohit_sharma",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"18 September 1988",
-"Debut:":"2013"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"18 September 1988","Debut:":"2013"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mohit Sharma is an Indian fast bowler.</li><li>He debuted in 2013.</li><li>He represents Haryana.</li><li>He is known for swing bowling.</li><li>He played in limited formats.</li><li>He had strong IPL performances.</li><li>He contributes in death overs.</li><li>He remains active in cricket.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Played ICC tournaments.</li><li>Strong IPL record.</li><li>Consistent limited-overs bowler.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for slower balls.</li><li>Key death-over specialist.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Mohit Sharma is an Indian pacer.</li><li>He debuted in 2013.</li><li>He represents Haryana.</li><li>He is known for swing bowling.</li><li>He played limited-overs formats.</li><li>He was key IPL bowler.</li><li>He bowls in death overs.</li><li>He is utility player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>ICC tournament performer.</li><li>Strong IPL career.</li><li>Important bowler.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Specialist in slower balls.</li><li>Death overs expert.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6112,27 +5946,26 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=montu_banerjee",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"1926",
-"Debut:":"1948"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1926","Debut:":"1948"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Montu Banerjee was an Indian fast bowler.</li><li>He played in late 1940s.</li><li>He represented India in Tests.</li><li>He was known for pace.</li><li>He had a short career.</li><li>He contributed in early matches.</li><li>He played domestic cricket.</li><li>He remains part of history.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Montu Banerjee was an Indian cricketer.</li><li>He played in post-independence era.</li><li>He was a bowler.</li><li>He represented India in Tests.</li><li>He had short career.</li><li>He played domestic cricket.</li><li>He contributed early matches.</li><li>He is part of history.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Early team member.</li><li>Bowling contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1940s era.</li><li>Historic player.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Represented India in Test cricket.</li><li>Part of early teams.</li><li>Contributed as bowler.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Played in early post-independence era.</li><li>Known mainly from historical records.</li></ul>"
-}
+
+{
+"id":"msk_prasad",
+"name":"M. S. K. Prasad",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=msk_prasad",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"24 April 1975","Debut:":"1999"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>MSK Prasad is a former wicketkeeper.</li><li>He played in late 90s.</li><li>He represented Andhra.</li><li>He later became selector.</li><li>He chaired selection panel.</li><li>He contributed to Indian team building.</li><li>He is administrator.</li><li>He remains cricket figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Chief selector of India.</li><li>Represented India.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Led major team selections.</li><li>Behind many decisions.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6143,27 +5976,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mukesh_kumar",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"12 October 1993",
-"Debut:":"2023"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"12 October 1993","Debut:":"2023"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mukesh Kumar is an Indian fast bowler.</li><li>He represents Bengal.</li><li>He debuted in 2023.</li><li>He is known for consistency.</li><li>He plays all formats.</li><li>He had strong domestic record.</li><li>He earned national selection.</li><li>He is a rising pacer.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Selected across formats.</li><li>Strong domestic performances.</li><li>Emerging fast bowler.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Worked hard through domestic circuit.</li><li>Known for disciplined bowling.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Mukesh Kumar is an Indian pacer.</li><li>He debuted in 2023.</li><li>He represents Bengal.</li><li>He is known for consistency.</li><li>He plays all formats.</li><li>He rose through domestic cricket.</li><li>He earned selection.</li><li>He is rising player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Played across formats.</li><li>Strong domestic record.</li><li>Emerging bowler.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Late international debut.</li><li>Disciplined line bowler.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6174,27 +5991,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=munaf_patel",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"12 July 1983",
-"Debut:":"2006"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"12 July 1983","Debut:":"2006"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Munaf Patel is a former Indian fast bowler.</li><li>He played in 2000s.</li><li>He was part of 2011 World Cup team.</li><li>He represented Gujarat.</li><li>He was known for accuracy.</li><li>He played in IPL.</li><li>He contributed in big matches.</li><li>He is remembered as World Cup winner.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>2011 World Cup winner.</li><li>Key ODI bowler.</li><li>Strong performances.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for calm bowling style.</li><li>Part of World Cup squad.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Munaf Patel is a former pacer.</li><li>He played in 2000s.</li><li>He was part of 2011 WC.</li><li>He represented Gujarat.</li><li>He was accurate bowler.</li><li>He played IPL.</li><li>He contributed in big matches.</li><li>He is WC winner.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>2011 World Cup winner.</li><li>Reliable ODI bowler.</li><li>Strong performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Calm bowling style.</li><li>Known for control.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6205,27 +6006,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=murali_kartik",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"11 September 1976",
-"Debut:":"2000"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"11 September 1976","Debut:":"2000"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Murali Kartik is a former Indian left-arm spinner.</li><li>He played in early 2000s.</li><li>He represented Railways.</li><li>He was known for spin bowling.</li><li>He had a moderate career.</li><li>He later became commentator.</li><li>He contributes to media.</li><li>He remains active in cricket discussions.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Represented India in Tests and ODIs.</li><li>Strong domestic record.</li><li>Commentary career.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for cricket commentary.</li><li>Played county cricket.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Murali Kartik is a former spinner.</li><li>He played in 2000s.</li><li>He was left-arm spinner.</li><li>He represented Railways.</li><li>He later became commentator.</li><li>He is known voice.</li><li>He played county cricket.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Domestic success.</li><li>Commentator career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in England leagues.</li><li>Popular analyst.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6236,27 +6021,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=murali_vijay",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"1 April 1984",
-"Debut:":"2008"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1 April 1984","Debut:":"2008"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Murali Vijay is an Indian opening batsman.</li><li>He debuted in 2008.</li><li>He represented Tamil Nadu.</li><li>He is known for Test cricket.</li><li>He scored overseas centuries.</li><li>He formed strong partnerships.</li><li>He played key Test matches.</li><li>He remains a notable opener.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Multiple Test centuries.</li><li>Strong overseas record.</li><li>Key Test opener.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for calm batting style.</li><li>Excelled in overseas conditions.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Murali Vijay is an Indian opener.</li><li>He debuted in 2008.</li><li>He represents Tamil Nadu.</li><li>He is known for Test batting.</li><li>He scored overseas centuries.</li><li>He formed strong partnerships.</li><li>He was key opener.</li><li>He is respected player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Multiple Test centuries.</li><li>Strong overseas record.</li><li>Reliable opener.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Calm temperament.</li><li>Excelled abroad.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6267,27 +6036,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=mushtaq_ali",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"17 December 1914",
-"Debut:":"1934"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"17 December 1914","Debut:":"1934"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Mushtaq Ali was an Indian batting legend.</li><li>He played in pre-independence era.</li><li>He was known for aggressive batting.</li><li>He scored quickly.</li><li>He represented India in Tests.</li><li>He was popular among fans.</li><li>He inspired future players.</li><li>He is a historic figure.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>First Indian to score Test century overseas.</li><li>Legendary attacking batsman.</li><li>Historic cricket figure.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Syed Mushtaq Ali Trophy named after him.</li><li>Known for fearless batting.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Mushtaq Ali was an attacking batsman.</li><li>He played pre-independence era.</li><li>He was known for fearless play.</li><li>He represented India.</li><li>He played historic matches.</li><li>He inspired players.</li><li>He was crowd favorite.</li><li>He is legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>First overseas Test century.</li><li>Legendary batsman.</li><li>Trophy named after him.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Very aggressive style.</li><li>Popular among fans.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6298,27 +6051,101 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=naman_ojha",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Wicketkeeper",
-"Born:":"20 July 1983",
-"Debut:":"2015"
-},
-
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"20 July 1983","Debut:":"2015"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Naman Ojha is a former Indian wicketkeeper.</li><li>He debuted in 2015.</li><li>He represented Madhya Pradesh.</li><li>He had strong domestic record.</li><li>He played IPL.</li><li>He had limited international chances.</li><li>He contributed domestically.</li><li>He remains respected player.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Naman Ojha is a wicketkeeper.</li><li>He debuted in 2015.</li><li>He represents MP.</li><li>He had strong domestic career.</li><li>He played IPL.</li><li>He got limited chances.</li><li>He contributed domestically.</li><li>He is respected player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Test century on debut.</li><li>Domestic star.</li><li>IPL career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Scored century in only Test.</li><li>Consistent keeper.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Test century on debut.</li><li>Strong domestic career.</li><li>Successful IPL stint.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Scored century in his only Test.</li><li>Known for consistency.</li></ul>"
-}
+
+{
+"id":"nana_joshi",
+"name":"Nana Joshi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=nana_joshi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"12 February 1909","Debut:":"1932"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Nana Joshi was an Indian wicketkeeper.</li><li>He played in early Test matches.</li><li>He represented India in 1930s.</li><li>He was known for keeping skills.</li><li>He played domestic cricket.</li><li>He contributed in early teams.</li><li>He had a short career.</li><li>He remains historical figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of early Indian Test team.</li><li>Wicketkeeping contributions.</li><li>Historic player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in pre-independence era.</li><li>Known from early records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"naoomal_jeoomal",
+"name":"Naoomal Jeoomal",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=naoomal_jeoomal",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1904","Debut:":"1932"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Naoomal Jeoomal was an Indian cricketer.</li><li>He played in India’s first Test match.</li><li>He was a batsman.</li><li>He represented Sindh.</li><li>He played in early era.</li><li>He contributed to Indian cricket beginnings.</li><li>He had a short career.</li><li>He is part of history.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of first Indian Test team.</li><li>Historic player.</li><li>Domestic contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1932 Test.</li><li>One of earliest Indian players.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"narain_swamy",
+"name":"Narain Swamy",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=narain_swamy",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1911","Debut:":"1934"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Narain Swamy was an Indian cricketer.</li><li>He played in early Test cricket.</li><li>He was a bowler.</li><li>He represented India.</li><li>He played domestic cricket.</li><li>He contributed in early matches.</li><li>He had a short career.</li><li>He is historical figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Part of early teams.</li><li>Bowling contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in pre-independence era.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"naren_tamhane",
+"name":"Naren Tamhane",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=naren_tamhane",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"17 October 1931","Debut:":"1955"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Naren Tamhane was an Indian wicketkeeper.</li><li>He played in 1950s–60s.</li><li>He represented Bombay.</li><li>He was known for excellent keeping.</li><li>He played many Tests.</li><li>He later became selector.</li><li>He contributed to cricket.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Top wicketkeeper of his era.</li><li>Played many Tests.</li><li>Selector for India.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Famous for glove work.</li><li>Highly reliable keeper.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"narendra_hirwani",
+"name":"Narendra Hirwani",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=narendra_hirwani",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"18 October 1968","Debut:":"1988"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Narendra Hirwani is a former leg-spinner.</li><li>He debuted in 1988.</li><li>He had a dream debut.</li><li>He took many wickets.</li><li>He represented MP.</li><li>He played Tests.</li><li>He later became coach.</li><li>He remains known spinner.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>16 wickets on Test debut.</li><li>Record-breaking performance.</li><li>Strong spinner.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Best debut figures in history.</li><li>Leg-spin specialist.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nari_contractor",
+"name":"Nari Contractor",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=nari_contractor",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"7 March 1934","Debut:":"1955"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Nari Contractor was an Indian opener.</li><li>He captained India.</li><li>He played in 1950s–60s.</li><li>He was known for technique.</li><li>He suffered a serious injury.</li><li>He made comeback.</li><li>He was respected player.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Indian team captain.</li><li>Successful opener.</li><li>Resilient comeback.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Survived life-threatening injury.</li><li>Symbol of courage.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6329,27 +6156,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=navdeep_saini",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Bowler",
-"Born:":"23 November 1992",
-"Debut:":"2019"
-},
-
+"info":{"Country:":"India","Role:":"Bowler","Born:":"23 November 1992","Debut:":"2019"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Navdeep Saini is an Indian fast bowler.</li><li>He debuted in 2019.</li><li>He represents Delhi.</li><li>He is known for pace.</li><li>He played in all formats.</li><li>He had strong IPL performances.</li><li>He is part of pace unit.</li><li>He remains active player.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Represented India across formats.</li><li>Strong IPL record.</li><li>Emerging fast bowler.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for high speed bowling.</li><li>Late bloomer in cricket career.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Navdeep Saini is a fast bowler.</li><li>He debuted in 2019.</li><li>He represents Delhi.</li><li>He is known for pace.</li><li>He played all formats.</li><li>He gained IPL fame.</li><li>He is part of pace unit.</li><li>He remains active.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>IPL success.</li><li>Fast bowling talent.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Late cricket start.</li><li>Known for speed.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6360,27 +6171,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=navjot_singh_sidhu",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"20 October 1963",
-"Debut:":"1983"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"20 October 1963","Debut:":"1983"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Navjot Singh Sidhu is a former Indian opener.</li><li>He played in 1980s and 1990s.</li><li>He was known for aggressive batting.</li><li>He represented Punjab.</li><li>He scored many international runs.</li><li>He later became commentator.</li><li>He entered politics.</li><li>He is a popular personality.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Successful international career.</li><li>Multiple Test centuries.</li><li>Renowned commentator.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Nicknamed “Sixer Sidhu”.</li><li>Known for witty commentary.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Sidhu was Indian opener.</li><li>He played in 80s–90s.</li><li>He was aggressive batsman.</li><li>He hit many sixes.</li><li>He later became commentator.</li><li>He entered politics.</li><li>He is popular figure.</li><li>He is entertainer.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Multiple centuries.</li><li>Successful career.</li><li>Commentary fame.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called “Sixer Sidhu”.</li><li>Known for punchlines.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6391,27 +6186,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=nawab_of_pataudi_sr",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"1910",
-"Debut:":"1932"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1910","Debut:":"1932"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>The Nawab of Pataudi Sr was an early Indian cricketer.</li><li>He played in pre-independence era.</li><li>He represented India in Test cricket.</li><li>He belonged to royal family.</li><li>He contributed to early Indian teams.</li><li>He was a batsman.</li><li>He supported cricket development.</li><li>He remains part of cricket history.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Part of early Indian Test teams.</li><li>Royal cricket patron.</li><li>Contributed to growth of cricket.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Father of Mansoor Ali Khan Pataudi.</li><li>Royal figure in cricket history.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Nawab of Pataudi Sr was an early Indian cricketer.</li><li>He played in pre-independence era.</li><li>He represented India in Tests.</li><li>He belonged to a royal family.</li><li>He contributed to early cricket growth.</li><li>He was a batsman.</li><li>He supported cricket development.</li><li>He is a historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of early Indian Test team.</li><li>Royal patron of cricket.</li><li>Historic contribution.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Father of Mansoor Ali Khan Pataudi.</li><li>Royal cricket personality.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6422,27 +6201,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=nayan_mongia",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Wicketkeeper",
-"Born:":"19 December 1969",
-"Debut:":"1994"
-},
-
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"19 December 1969","Debut:":"1994"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Nayan Mongia is a former Indian wicketkeeper.</li><li>He played in 1990s.</li><li>He represented Baroda.</li><li>He was known for wicketkeeping skills.</li><li>He played many Test matches.</li><li>He contributed in batting.</li><li>He was a consistent player.</li><li>He remains part of cricket history.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Successful Test career.</li><li>Strong wicketkeeping performances.</li><li>Reliable lower-order batsman.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>One of India’s best keepers of 90s.</li><li>Played key overseas matches.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Nayan Mongia is a former Indian wicketkeeper.</li><li>He played in the 1990s.</li><li>He represented Baroda.</li><li>He was known for sharp keeping.</li><li>He played Tests and ODIs.</li><li>He contributed with bat.</li><li>He was a consistent player.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Key wicketkeeper of 90s.</li><li>Strong Test performances.</li><li>Reliable player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of best keepers of his era.</li><li>Played overseas matches.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6453,27 +6216,56 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=nazir_ali",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"All-rounder",
-"Born:":"1906",
-"Debut:":"1932"
-},
-
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1906","Debut:":"1932"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Nazir Ali was an early Indian cricketer.</li><li>He played in pre-independence era.</li><li>He was an all-rounder.</li><li>He represented India in Tests.</li><li>He contributed in early matches.</li><li>He had a short career.</li><li>He played domestic cricket.</li><li>He remains part of history.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Nazir Ali was an early Indian all-rounder.</li><li>He played in 1930s.</li><li>He was part of first Test teams.</li><li>He contributed with bat and ball.</li><li>He played domestic cricket.</li><li>He had short career.</li><li>He was historic player.</li><li>He remains part of records.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of first Indian Test squad.</li><li>All-round contributions.</li><li>Historic presence.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1932 Test series.</li><li>Early cricket figure.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Part of first Indian Test teams.</li><li>All-round contributions.</li><li>Historic player.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Played in India’s first Test series.</li><li>Known from early records.</li></ul>"
-}
+
+{
+"id":"nikhil_chopra",
+"name":"Nikhil Chopra",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=nikhil_chopra",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"7 October 1974","Debut:":"1998"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Nikhil Chopra is a former Indian spinner.</li><li>He played in late 90s.</li><li>He represented Delhi.</li><li>He was an off-spinner.</li><li>He played ODIs.</li><li>He later became commentator.</li><li>He is known analyst.</li><li>He remains active in media.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Domestic success.</li><li>Commentary career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Popular cricket analyst.</li><li>Known for insights.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nilesh_kulkarni",
+"name":"Nilesh Kulkarni",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=nilesh_kulkarni",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"3 April 1973","Debut:":"1997"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Nilesh Kulkarni is a left-arm spinner.</li><li>He debuted in 1997.</li><li>He represented Mumbai.</li><li>He is known for a unique record.</li><li>He played one Test.</li><li>He contributed domestically.</li><li>He later worked in administration.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Took wicket on first ball in Tests.</li><li>Represented India.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Only Indian with such debut record.</li><li>One-Test career.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nirode_chowdhury",
+"name":"Nirode Chowdhury",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=nirode_chowdhury",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1923","Debut:":"1948"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Nirode Chowdhury was an Indian cricketer.</li><li>He played in post-independence era.</li><li>He represented India in Tests.</li><li>He was a batsman.</li><li>He played domestic cricket.</li><li>He contributed early matches.</li><li>He had short career.</li><li>He is historical figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Early Test player.</li><li>Domestic contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1948 era.</li><li>Known from records.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6484,27 +6276,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=nitish_kumar_reddy",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"All-rounder",
-"Born:":"2003",
-"Debut:":"2024"
-},
-
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"2003","Debut:":"2024"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Nitish Kumar Reddy is a young Indian all-rounder.</li><li>He rose through domestic cricket.</li><li>He gained attention in IPL.</li><li>He debuted internationally recently.</li><li>He contributes with bat and ball.</li><li>He is a rising talent.</li><li>He represents Andhra.</li><li>He is seen as future prospect.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Emerging IPL performer.</li><li>Selected for Indian team.</li><li>Promising all-rounder.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Part of next-gen Indian players.</li><li>Known for aggressive gameplay.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Nitish Kumar Reddy is a young all-rounder.</li><li>He rose through domestic cricket.</li><li>He gained IPL attention.</li><li>He debuted recently.</li><li>He contributes with bat and ball.</li><li>He represents Andhra.</li><li>He is rising talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Emerging IPL performer.</li><li>Selected for India.</li><li>Promising all-rounder.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Next-gen Indian player.</li><li>Aggressive gameplay.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6515,27 +6291,116 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=nitish_rana",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"27 December 1993",
-"Debut:":"2021"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"27 December 1993","Debut:":"2021"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Nitish Rana is an Indian batsman.</li><li>He represents Delhi.</li><li>He gained fame in IPL.</li><li>He debuted internationally in 2021.</li><li>He is known for aggressive batting.</li><li>He plays in middle order.</li><li>He captains IPL teams.</li><li>He is a key T20 player.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Nitish Rana is an Indian batsman.</li><li>He represents Delhi.</li><li>He gained fame in IPL.</li><li>He debuted internationally in 2021.</li><li>He plays middle order.</li><li>He is aggressive batsman.</li><li>He captains IPL teams.</li><li>He is key T20 player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL captain.</li><li>Strong domestic record.</li><li>International selection.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Explosive batting style.</li><li>Versatile player.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Successful IPL captain.</li><li>Strong domestic performances.</li><li>Selected for India.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Known for explosive starts.</li><li>Versatile batsman.</li></ul>"
-}
+
+{
+"id":"noel_david",
+"name":"Noel David",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=noel_david",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"7 August 1973","Debut:":"1997"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Noel David is a former Indian spinner.</li><li>He played in late 90s.</li><li>He represented Hyderabad.</li><li>He was off-spinner.</li><li>He played ODIs.</li><li>He had short international career.</li><li>He played domestic cricket.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Domestic success.</li><li>Bowling contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Short international stint.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pananmal_punjabi",
+"name":"Pananmal Punjabi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pananmal_punjabi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1904","Debut:":"1932"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pananmal Punjabi was an Indian cricketer.</li><li>He played in early Test cricket.</li><li>He was part of first Indian team.</li><li>He was a batsman.</li><li>He played domestic cricket.</li><li>He contributed to early matches.</li><li>He had short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of 1932 Test team.</li><li>Early cricket contributor.</li><li>Historic player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in India’s first Test.</li><li>Early cricket pioneer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pankaj_dharmani",
+"name":"Pankaj Dharmani",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pankaj_dharmani",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"27 April 1974","Debut:":"1996"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pankaj Dharmani is a former Indian batsman.</li><li>He played in 1990s.</li><li>He represented Himachal Pradesh.</li><li>He played ODIs.</li><li>He had short international career.</li><li>He was consistent domestically.</li><li>He later became coach.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Strong domestic record.</li><li>Coaching career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played for Himachal Pradesh.</li><li>Reliable batsman.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pankaj_roy",
+"name":"Pankaj Roy",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pankaj_roy",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"31 May 1928","Debut:":"1951"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pankaj Roy was an Indian opener.</li><li>He played in 1950s.</li><li>He formed famous partnership with Umrigar.</li><li>He represented Bengal.</li><li>He scored big runs.</li><li>He played Tests.</li><li>He was consistent.</li><li>He is historic player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>World record opening partnership.</li><li>Test centuries.</li><li>Strong opener.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Partnered Vinoo Mankad in record stand.</li><li>Legend of early era.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pankaj_singh",
+"name":"Pankaj Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pankaj_singh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"6 May 1985","Debut:":"2010"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pankaj Singh is an Indian fast bowler.</li><li>He played for Rajasthan.</li><li>He debuted in 2010.</li><li>He had strong domestic career.</li><li>He played Tests.</li><li>He is known for consistency.</li><li>He took many wickets domestically.</li><li>He is respected bowler.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Domestic wicket-taking machine.</li><li>Represented India.</li><li>IPL player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of top Ranji bowlers.</li><li>Consistent performer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"paras_mhambrey",
+"name":"Paras Mhambrey",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=paras_mhambrey",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"20 August 1972","Debut:":"1996"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Paras Mhambrey is a former Indian pacer.</li><li>He played in 1990s.</li><li>He represented Mumbai.</li><li>He later became coach.</li><li>He coached Indian team.</li><li>He contributed to bowling unit.</li><li>He is respected coach.</li><li>He remains active in cricket.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Indian bowling coach.</li><li>Represented India.</li><li>Coaching success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Coach of Indian team.</li><li>Mentored fast bowlers.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"parthasarathy_sharma",
+"name":"Parthasarathy Sharma",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=parthasarathy_sharma",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1940","Debut:":"1965"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Parthasarathy Sharma was an Indian all-rounder.</li><li>He played in 1960s.</li><li>He represented Railways.</li><li>He contributed with bat and ball.</li><li>He played domestic cricket.</li><li>He had limited international career.</li><li>He is historic player.</li><li>He remains part of records.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>All-round contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in mid-60s era.</li><li>Known from archives.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6546,27 +6411,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=parthiv_patel",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Wicketkeeper",
-"Born:":"9 March 1985",
-"Debut:":"2002"
-},
-
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"9 March 1985","Debut:":"2002"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Parthiv Patel is a former Indian wicketkeeper.</li><li>He debuted at very young age.</li><li>He played across formats.</li><li>He represented Gujarat.</li><li>He had long domestic career.</li><li>He played IPL.</li><li>He later became commentator.</li><li>He is respected player.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Youngest Test wicketkeeper for India.</li><li>Long domestic career.</li><li>Multiple IPL titles.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Debuted at age 17.</li><li>Known for longevity.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Parthiv Patel is a former Indian wicketkeeper.</li><li>He debuted at the age of 17.</li><li>He played across formats.</li><li>He represented Gujarat.</li><li>He had a long domestic career.</li><li>He played IPL successfully.</li><li>He later became commentator.</li><li>He is respected player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Youngest Test wicketkeeper.</li><li>Multiple IPL titles.</li><li>Long domestic career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Debuted as a teenager.</li><li>Known for longevity.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6577,27 +6426,26 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=parvez_rasool",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"All-rounder",
-"Born:":"13 February 1989",
-"Debut:":"2014"
-},
-
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"13 February 1989","Debut:":"2014"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Parvez Rasool is an Indian all-rounder.</li><li>He represents Jammu & Kashmir.</li><li>He debuted in 2014.</li><li>He bowls off-spin.</li><li>He contributes with bat.</li><li>He is known for domestic success.</li><li>He inspired many from region.</li><li>He remains a key player.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Parvez Rasool is an Indian all-rounder.</li><li>He represents Jammu & Kashmir.</li><li>He debuted in 2014.</li><li>He bowls off-spin.</li><li>He contributes with bat.</li><li>He is domestic star.</li><li>He inspired players from J&K.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>First J&K player for India.</li><li>Strong domestic record.</li><li>All-round contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Role model in J&K.</li><li>Pioneer cricketer.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>First cricketer from J&K to play for India.</li><li>Strong domestic performances.</li><li>All-round contributions.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Pioneer from Jammu & Kashmir.</li><li>Role model for region.</li></ul>"
-}
+
+{
+"id":"parvinder_awana",
+"name":"Parvinder Awana",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=parvinder_awana",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"19 July 1986","Debut:":"2012"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Parvinder Awana is an Indian pacer.</li><li>He debuted in 2012.</li><li>He represents Delhi.</li><li>He gained fame in IPL.</li><li>He bowls medium pace.</li><li>He had short international career.</li><li>He played domestic cricket.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Strong IPL performances.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for IPL rise.</li><li>Short international stint.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6608,27 +6456,11 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=pawan_negi",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"All-rounder",
-"Born:":"6 January 1993",
-"Debut:":"2016"
-},
-
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"6 January 1993","Debut:":"2016"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Pawan Negi is an Indian all-rounder.</li><li>He represents Delhi.</li><li>He debuted in 2016.</li><li>He is known for left-arm spin.</li><li>He contributes with bat.</li><li>He gained fame in IPL.</li><li>He plays T20 format.</li><li>He remains active player.</li></ul>"
-},
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>High-value IPL player.</li><li>All-round contributions.</li><li>Represented India.</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>One of expensive IPL buys.</li><li>Utility T20 player.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Pawan Negi is an Indian all-rounder.</li><li>He represents Delhi.</li><li>He debuted in 2016.</li><li>He is known for left-arm spin.</li><li>He contributes with bat.</li><li>He gained IPL fame.</li><li>He plays T20 format.</li><li>He is utility player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>High-value IPL player.</li><li>All-round performances.</li><li>Represented India.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Expensive IPL buy.</li><li>T20 specialist.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -6639,27 +6471,1511 @@
 "type":"entity",
 "url":"entity.html?universe=sports&path=cricket,cricket_india&id=phiroze_palia",
 "parent":"cricket_india",
-
-"info":{
-"Country:":"India",
-"Role:":"Batsman",
-"Born:":"1910",
-"Debut:":"1932"
-},
-
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1910","Debut:":"1932"},
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Phiroze Palia was an Indian cricketer.</li><li>He played in early Test matches.</li><li>He represented India in 1930s.</li><li>He was a batsman.</li><li>He contributed in early cricket.</li><li>He had a short career.</li><li>He remains part of history.</li><li>He played domestic cricket.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Phiroze Palia was an Indian cricketer.</li><li>He played in early Test cricket.</li><li>He represented India in 1930s.</li><li>He was a batsman.</li><li>He contributed in early matches.</li><li>He had short career.</li><li>He played domestic cricket.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of early Test team.</li><li>Historic contribution.</li><li>Represented India.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in first Test era.</li><li>Known from archives.</li></ul>"}
 },
-"tab2":{
-"title":"Achievements",
-"content":"<ul><li>Part of first Indian Test teams.</li><li>Represented India.</li><li>Historic player.</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Played in India’s first Test match.</li><li>Known from early records.</li></ul>"
-}
+
+{
+"id":"piyush_chawla",
+"name":"Piyush Chawla",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=piyush_chawla",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"24 December 1988","Debut:":"2006"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Piyush Chawla is an Indian leg-spinner.</li><li>He debuted young.</li><li>He played across formats.</li><li>He represented UP.</li><li>He had long IPL career.</li><li>He is known for variations.</li><li>He contributed in key matches.</li><li>He is experienced spinner.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>World Cup winner.</li><li>IPL success.</li><li>Multiple wickets.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Debuted as teenager.</li><li>Leg-spin specialist.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pochiah_krishnamurthy",
+"name":"Pochiah Krishnamurthy",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pochiah_krishnamurthy",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"1907","Debut:":"1932"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pochiah Krishnamurthy was an Indian wicketkeeper.</li><li>He played in first Test team.</li><li>He represented India in 1932.</li><li>He was known for keeping.</li><li>He played domestic cricket.</li><li>He contributed in early matches.</li><li>He had short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of first Indian Test team.</li><li>Wicketkeeping role.</li><li>Historic presence.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1932 Test.</li><li>Early wicketkeeper.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"polly_umrigar",
+"name":"Polly Umrigar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=polly_umrigar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"28 March 1926","Debut:":"1948"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Polly Umrigar was a legendary batsman.</li><li>He captained India.</li><li>He played in 50s–60s.</li><li>He scored many runs.</li><li>He was consistent performer.</li><li>He later became administrator.</li><li>He contributed to cricket.</li><li>He is legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Former Indian captain.</li><li>Top run-scorer of era.</li><li>ICC recognition.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Award named after him.</li><li>Batting legend.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pragyan_ojha",
+"name":"Pragyan Ojha",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pragyan_ojha",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"5 September 1986","Debut:":"2008"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pragyan Ojha is a left-arm spinner.</li><li>He played in 2000s.</li><li>He represented Hyderabad.</li><li>He was known for accuracy.</li><li>He took many wickets.</li><li>He played Tests.</li><li>He later became commentator.</li><li>He is respected spinner.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>100+ Test wickets.</li><li>Top-ranked bowler.</li><li>Strong performer.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>ICC No.1 bowler briefly.</li><li>Classic spinner.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"prakash_bhandari",
+"name":"Prakash Bhandari",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=prakash_bhandari",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1947","Debut:":"1976"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Prakash Bhandari was an Indian cricketer.</li><li>He played in 1970s.</li><li>He was a bowler.</li><li>He represented India briefly.</li><li>He played domestic cricket.</li><li>He contributed in matches.</li><li>He had short career.</li><li>He remains part of records.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Bowling contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Short international stint.</li><li>Known from archives.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pranab_roy",
+"name":"Pranab Roy",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pranab_roy",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"15 February 1960","Debut:":"1982"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pranab Roy is a former Indian opener.</li><li>He played in 1980s.</li><li>He represented Bengal.</li><li>He was known for patience.</li><li>He played Tests.</li><li>He had strong domestic career.</li><li>He later became selector.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Test opener.</li><li>Domestic success.</li><li>Selector role.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Solid defensive player.</li><li>Played long innings.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"prashant_vaidya",
+"name":"Prashant Vaidya",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=prashant_vaidya",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"23 September 1967","Debut:":"1991"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Prashant Vaidya is a former Indian pacer.</li><li>He played in early 90s.</li><li>He represented Maharashtra.</li><li>He bowled left-arm pace.</li><li>He played ODIs.</li><li>He had short career.</li><li>He played domestic cricket.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Left-arm pace option.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Rare left-arm pacer.</li><li>Played in 90s era.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"prasidh_krishna",
+"name":"Prasidh Krishna",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=prasidh_krishna",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"19 February 1996","Debut:":"2021"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Prasidh Krishna is a fast bowler.</li><li>He represents Karnataka.</li><li>He debuted in 2021.</li><li>He is known for bounce.</li><li>He plays limited formats.</li><li>He gained IPL fame.</li><li>He is rising pacer.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Strong ODI debut.</li><li>IPL success.</li><li>Emerging bowler.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Tall fast bowler.</li><li>Extra bounce specialist.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"praveen_kumar",
+"name":"Praveen Kumar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=praveen_kumar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"2 October 1986","Debut:":"2007"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Praveen Kumar is a swing bowler.</li><li>He played in 2000s.</li><li>He represented UP.</li><li>He was known for swing.</li><li>He excelled overseas.</li><li>He played ODIs.</li><li>He contributed in matches.</li><li>He is known bowler.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Key swing bowler.</li><li>Strong ODI record.</li><li>Match-winning spells.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Deadly inswinger.</li><li>England specialist.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"pravin_amre",
+"name":"Pravin Amre",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=pravin_amre",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"14 August 1968","Debut:":"1991"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Pravin Amre is a former Indian batsman.</li><li>He debuted in 1991.</li><li>He scored century on debut.</li><li>He represented Mumbai.</li><li>He was middle-order batsman.</li><li>He later became coach.</li><li>He mentored players.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Test debut century.</li><li>Domestic legend.</li><li>Successful coach.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Mentor of many stars.</li><li>Technically strong batsman.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"prithvi_shaw",
+"name":"Prithvi Shaw",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=prithvi_shaw",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"9 November 1999","Debut:":"2018"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Prithvi Shaw is an Indian opening batsman.</li><li>He debuted in 2018.</li><li>He represents Mumbai.</li><li>He is known for aggressive batting.</li><li>He scored a century on Test debut.</li><li>He captained India U19 team.</li><li>He plays IPL.</li><li>He is a talented youngster.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Test debut century.</li><li>U19 World Cup winning captain.</li><li>Strong domestic record.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Compared to Sehwag style.</li><li>Explosive opener.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"probir_sen",
+"name":"Probir Sen",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=probir_sen",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"1919","Debut:":"1948"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Probir Sen was an Indian wicketkeeper.</li><li>He played in early post-independence era.</li><li>He represented India in Tests.</li><li>He was known for keeping.</li><li>He played domestic cricket.</li><li>He contributed in matches.</li><li>He had a short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Wicketkeeping contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1948 series.</li><li>Early wicketkeeper.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rp_singh",
+"name":"R. P. Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rp_singh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"6 December 1985","Debut:":"2005"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>R. P. Singh is a left-arm pacer.</li><li>He played in 2000s.</li><li>He represented UP.</li><li>He was part of 2007 T20 WC.</li><li>He is known for swing.</li><li>He played all formats.</li><li>He contributed in victories.</li><li>He is known bowler.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>2007 T20 World Cup winner.</li><li>Leading wicket-taker.</li><li>Strong performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Left-arm swing specialist.</li><li>Key in early T20 success.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"raghuram_bhat",
+"name":"Raghuram Bhat",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=raghuram_bhat",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1958","Debut:":"1986"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Raghuram Bhat is a former spinner.</li><li>He played in 1980s.</li><li>He represented Karnataka.</li><li>He bowled left-arm spin.</li><li>He had a short international career.</li><li>He was strong domestically.</li><li>He later coached.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Domestic success.</li><li>Spin contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Left-arm spinner.</li><li>Strong in Ranji cricket.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rahul_chahar",
+"name":"Rahul Chahar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rahul_chahar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"4 August 1999","Debut:":"2019"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rahul Chahar is an Indian leg-spinner.</li><li>He debuted in 2019.</li><li>He represents Rajasthan.</li><li>He gained IPL fame.</li><li>He bowls in T20 format.</li><li>He is known for control.</li><li>He is young talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Strong IPL performances.</li><li>Represented India.</li><li>Emerging spinner.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Cousin of Deepak Chahar.</li><li>Leg-spin specialist.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rahul_dravid",
+"name":"Rahul Dravid",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rahul_dravid",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"11 January 1973","Debut:":"1996"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rahul Dravid is one of India’s greatest batsmen.</li><li>He was called “The Wall”.</li><li>He played from 1996–2012.</li><li>He captained India.</li><li>He was known for technique.</li><li>He scored heavily in Tests.</li><li>He later became coach.</li><li>He is a legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>13000+ Test runs.</li><li>Successful captain.</li><li>World Cup winning coach.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nicknamed “The Wall”.</li><li>Most reliable batsman.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rahul_sanghvi",
+"name":"Rahul Sanghvi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rahul_sanghvi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1974","Debut:":"1998"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rahul Sanghvi is a former spinner.</li><li>He debuted in 1998.</li><li>He represented Delhi.</li><li>He bowled left-arm spin.</li><li>He had a short international career.</li><li>He was strong domestically.</li><li>He later worked in IPL.</li><li>He remains known figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Domestic success.</li><li>Cricket administration.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Left-arm spinner.</li><li>Worked in IPL management.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rahul_sharma",
+"name":"Rahul Sharma",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rahul_sharma",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"30 November 1986","Debut:":"2011"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rahul Sharma is a leg-spinner.</li><li>He debuted in 2011.</li><li>He represented Punjab.</li><li>He gained IPL fame.</li><li>He is known for height advantage.</li><li>He played T20s.</li><li>He had short career.</li><li>He remains known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>IPL success.</li><li>Effective spinner.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Tall spinner.</li><li>Extra bounce.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rahul_tripathi",
+"name":"Rahul Tripathi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rahul_tripathi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"2 March 1991","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rahul Tripathi is an Indian batsman.</li><li>He represents Maharashtra.</li><li>He gained fame in IPL.</li><li>He debuted internationally in 2023.</li><li>He is aggressive player.</li><li>He plays top order.</li><li>He is T20 specialist.</li><li>He is dynamic player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Consistent IPL performer.</li><li>International debut.</li><li>Impact player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fearless batting.</li><li>Quick scorer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"raja_kulkarni",
+"name":"Raja Kulkarni",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=raja_kulkarni",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1928","Debut:":"1949"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Raja Kulkarni was an Indian cricketer.</li><li>He played in early era.</li><li>He was a bowler.</li><li>He represented India in Tests.</li><li>He contributed in matches.</li><li>He played domestic cricket.</li><li>He had short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Early Test player.</li><li>Bowling contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1940s era.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rajat_patidar",
+"name":"Rajat Patidar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rajat_patidar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1 June 1993","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rajat Patidar is an Indian batsman.</li><li>He represents Madhya Pradesh.</li><li>He gained IPL fame.</li><li>He debuted internationally recently.</li><li>He plays middle order.</li><li>He is elegant batsman.</li><li>He has strong domestic record.</li><li>He is rising player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL playoff century.</li><li>Domestic success.</li><li>India selection.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Calm batting style.</li><li>Late breakthrough.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rajesh_chauhan",
+"name":"Rajesh Chauhan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rajesh_chauhan",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"19 December 1966","Debut:":"1993"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rajesh Chauhan is a former off-spinner.</li><li>He played in 1990s.</li><li>He represented Haryana.</li><li>He was known for accuracy.</li><li>He played Tests and ODIs.</li><li>He was part of spin attack.</li><li>He contributed in matches.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>100+ international wickets.</li><li>Key spinner.</li><li>Strong performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Disciplined bowler.</li><li>Part of spin era.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rajinder_ghai",
+"name":"Rajinder Ghai",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rajinder_ghai",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1950","Debut:":"1975"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rajinder Ghai was an Indian cricketer.</li><li>He played in 1970s.</li><li>He was an all-rounder.</li><li>He represented India.</li><li>He played domestic cricket.</li><li>He had short career.</li><li>He contributed in matches.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>All-round contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in mid-70s era.</li><li>Known from archives.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rajinder_pal",
+"name":"Rajinder Pal",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rajinder_pal",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1937","Debut:":"1964"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rajinder Pal was an Indian cricketer.</li><li>He played in 1960s.</li><li>He was a bowler.</li><li>He represented India in Tests.</li><li>He played domestic cricket.</li><li>He contributed in matches.</li><li>He had short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Bowling contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 60s era.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rakesh_shukla",
+"name":"Rakesh Shukla",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rakesh_shukla",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1958","Debut:":"1982"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rakesh Shukla is a former Indian bowler.</li><li>He played in 1980s.</li><li>He represented Delhi.</li><li>He bowled medium pace.</li><li>He played Tests.</li><li>He had short career.</li><li>He played domestic cricket.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Bowling contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 80s era.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ramakant_desai",
+"name":"Ramakant Desai",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ramakant_desai",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"20 December 1939","Debut:":"1959"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ramakant Desai was a fast bowler.</li><li>He played in 1950s–60s.</li><li>He was known for pace.</li><li>He represented Bombay.</li><li>He bowled aggressively.</li><li>He played Tests.</li><li>He was key pacer.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Leading pacer of his era.</li><li>Strong Test performances.</li><li>Key bowler.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of early fast bowlers.</li><li>Aggressive style.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"raman_lamba",
+"name":"Raman Lamba",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=raman_lamba",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"2 January 1960","Debut:":"1986"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Raman Lamba was an Indian batsman.</li><li>He played in 1980s.</li><li>He represented Delhi.</li><li>He played ODIs.</li><li>He had strong domestic career.</li><li>He later played abroad.</li><li>He was stylish batsman.</li><li>He is remembered figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Strong domestic record.</li><li>Overseas cricket success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Passed away during a match.</li><li>Remembered for dedication.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ramandeep_singh",
+"name":"Ramandeep Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ramandeep_singh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1997","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ramandeep Singh is an Indian all-rounder.</li><li>He represents Punjab.</li><li>He gained IPL attention.</li><li>He debuted recently.</li><li>He contributes with bat and ball.</li><li>He is aggressive player.</li><li>He is emerging talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL performances.</li><li>India selection.</li><li>All-round impact.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Power-hitter.</li><li>Utility player.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ramesh_powar",
+"name":"Ramesh Powar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ramesh_powar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"20 May 1978","Debut:":"2004"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ramesh Powar is a former off-spinner.</li><li>He played in 2000s.</li><li>He represented Mumbai.</li><li>He was known for spin.</li><li>He played Tests and ODIs.</li><li>He later became coach.</li><li>He coached Indian team.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Coaching career.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Coach of women’s team.</li><li>Spin specialist.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ramesh_saxena",
+"name":"Ramesh Saxena",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ramesh_saxena",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1959","Debut:":"1982"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ramesh Saxena was an Indian cricketer.</li><li>He played in 1980s.</li><li>He was an all-rounder.</li><li>He represented India.</li><li>He played domestic cricket.</li><li>He contributed in matches.</li><li>He had short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>All-round contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 80s era.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ramnath_kenny",
+"name":"Ramnath Kenny",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ramnath_kenny",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1919","Debut:":"1948"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ramnath Kenny was an Indian cricketer.</li><li>He played in post-independence era.</li><li>He was a batsman.</li><li>He represented India in Tests.</li><li>He played domestic cricket.</li><li>He contributed in matches.</li><li>He had short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Batting contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1948 era.</li><li>Known from records.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ramnath_parkar",
+"name":"Ramnath Parkar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ramnath_parkar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1946","Debut:":"1972"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ramnath Parkar was an Indian opener.</li><li>He played in 1970s.</li><li>He represented Bombay.</li><li>He played Tests.</li><li>He was known for technique.</li><li>He had short international career.</li><li>He played domestic cricket.</li><li>He is historic player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Opening batsman.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 70s era.</li><li>Known from archives.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ranga_sohoni",
+"name":"Ranga Sohoni",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ranga_sohoni",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1911","Debut:":"1932"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ranga Sohoni was an Indian all-rounder.</li><li>He played in first Test match.</li><li>He represented India in 1932.</li><li>He contributed with bat and ball.</li><li>He played early cricket.</li><li>He had short career.</li><li>He is historic figure.</li><li>He is part of cricket history.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of first Indian Test team.</li><li>All-round contributions.</li><li>Historic player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played at Lord’s 1932.</li><li>Early cricket pioneer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rashid_patel",
+"name":"Rashid Patel",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rashid_patel",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1964","Debut:":"1988"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rashid Patel was an Indian fast bowler.</li><li>He played in late 80s.</li><li>He represented Baroda.</li><li>He bowled pace.</li><li>He played Tests.</li><li>He had short career.</li><li>He played domestic cricket.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Fast bowling option.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played in 1988 era.</li><li>Known for pace.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ravi_bishnoi",
+"name":"Ravi Bishnoi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ravi_bishnoi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"5 September 2000","Debut:":"2022"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ravi Bishnoi is an Indian leg-spinner.</li><li>He debuted in 2022.</li><li>He represents Rajasthan.</li><li>He gained IPL fame.</li><li>He is known for googly.</li><li>He plays T20s.</li><li>He is rising talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Top T20 bowler.</li><li>Strong IPL record.</li><li>India selection.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Googly specialist.</li><li>Young spinner.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ravi_shastri",
+"name":"Ravi Shastri",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ravi_shastri",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"27 May 1962","Debut:":"1981"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ravi Shastri is a former all-rounder.</li><li>He played in 1980s–90s.</li><li>He was a left-arm spinner.</li><li>He also batted in top order.</li><li>He later became coach.</li><li>He coached India successfully.</li><li>He is commentator.</li><li>He is popular figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>World Champion of Champions.</li><li>India head coach.</li><li>Successful career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Famous commentator voice.</li><li>Versatile player.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ravichandran_ashwin",
+"name":"Ravichandran Ashwin",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ravichandran_ashwin",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"17 September 1986","Debut:":"2010"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ravichandran Ashwin is a legendary spinner.</li><li>He debuted in 2010.</li><li>He represents Tamil Nadu.</li><li>He is known for off-spin.</li><li>He contributes with bat.</li><li>He has many records.</li><li>He is match-winner.</li><li>He is modern great.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>400+ Test wickets.</li><li>Multiple ICC awards.</li><li>All-round success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Invented carrom ball.</li><li>Highly intelligent bowler.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ravindra_jadeja",
+"name":"Ravindra Jadeja",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ravindra_jadeja",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"6 December 1988","Debut:":"2009"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ravindra Jadeja is a top all-rounder.</li><li>He debuted in 2009.</li><li>He represents Saurashtra.</li><li>He is left-arm spinner.</li><li>He is excellent fielder.</li><li>He contributes with bat.</li><li>He plays all formats.</li><li>He is key player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Top all-round rankings.</li><li>IPL success.</li><li>Match-winning performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called “Sir Jadeja”.</li><li>One of best fielders.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ravisrinivasan_sai_kishore",
+"name":"Ravisrinivasan Sai Kishore",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ravisrinivasan_sai_kishore",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"6 November 1996","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sai Kishore is a left-arm spinner.</li><li>He represents Tamil Nadu.</li><li>He gained IPL fame.</li><li>He debuted recently.</li><li>He is known for accuracy.</li><li>He plays T20 format.</li><li>He is rising talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Strong domestic record.</li><li>IPL success.</li><li>India selection.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Tall spinner.</li><li>Economical bowler.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"reetinder_singh_sodhi",
+"name":"Reetinder Singh Sodhi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=reetinder_singh_sodhi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"18 October 1980","Debut:":"2000"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Reetinder Sodhi is an Indian all-rounder.</li><li>He debuted in 2000.</li><li>He captained U19 team.</li><li>He represents Punjab.</li><li>He contributed with bat and ball.</li><li>He played ODIs.</li><li>He had short career.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>U19 World Cup winner.</li><li>Represented India.</li><li>All-round contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>U19 captain.</li><li>Powerful hitter.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rinku_singh",
+"name":"Rinku Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rinku_singh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"12 October 1997","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rinku Singh is an Indian middle-order batsman.</li><li>He represents Uttar Pradesh.</li><li>He gained fame through IPL.</li><li>He debuted internationally in 2023.</li><li>He is known for finishing matches.</li><li>He is a left-handed batsman.</li><li>He is a clutch performer.</li><li>He is rising star.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Famous IPL finishing knocks.</li><li>India debut in T20s.</li><li>Match-winning performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Hit 5 sixes in an over in IPL.</li><li>Known as finisher.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rishabh_pant",
+"name":"Rishabh Pant",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rishabh_pant",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"4 October 1997","Debut:":"2017"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rishabh Pant is an explosive wicketkeeper-batsman.</li><li>He debuted in 2017.</li><li>He represents Delhi.</li><li>He is known for aggressive batting.</li><li>He has played match-winning innings.</li><li>He excels in Test cricket.</li><li>He captains IPL teams.</li><li>He is key player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Match-winning innings in Australia.</li><li>Test centuries overseas.</li><li>Key wicketkeeper.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fearless batting style.</li><li>Game-changer player.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rishi_dhawan",
+"name":"Rishi Dhawan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rishi_dhawan",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"19 February 1990","Debut:":"2016"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rishi Dhawan is an Indian all-rounder.</li><li>He represents Himachal Pradesh.</li><li>He debuted in 2016.</li><li>He contributes with bat and ball.</li><li>He is known in domestic cricket.</li><li>He captains state team.</li><li>He is consistent performer.</li><li>He is experienced player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Ranji Trophy winner.</li><li>Strong domestic record.</li><li>All-round contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Wears mask during matches.</li><li>Team leader.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"riyan_parag",
+"name":"Riyan Parag",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=riyan_parag",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"10 November 2001","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Riyan Parag is an Indian all-rounder.</li><li>He represents Assam.</li><li>He gained fame in IPL.</li><li>He debuted internationally recently.</li><li>He contributes with bat and spin.</li><li>He is aggressive player.</li><li>He is young talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Young IPL performer.</li><li>India selection.</li><li>All-round ability.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of youngest IPL players.</li><li>Confident personality.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"robin_singh",
+"name":"Robin Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=robin_singh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"14 September 1963","Debut:":"1989"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Robin Singh is a former all-rounder.</li><li>He played in 1990s.</li><li>He was known for fitness.</li><li>He contributed with bat and ball.</li><li>He was great fielder.</li><li>He played ODIs.</li><li>He later became coach.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Key ODI player.</li><li>Fielding excellence.</li><li>Coaching career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fitness icon.</li><li>Brilliant fielder.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"robin_singh_jr",
+"name":"Robin Singh Jr",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=robin_singh_jr",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1997","Debut:":"2022"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Robin Singh Jr is an Indian all-rounder.</li><li>He is known from domestic and T20 leagues.</li><li>He gained attention through performances.</li><li>He contributes with bat and ball.</li><li>He is a developing player.</li><li>He represents domestic teams.</li><li>He is emerging talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Domestic performances.</li><li>T20 contributions.</li><li>Emerging cricketer.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Shares name with Robin Singh.</li><li>Young all-rounder.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"robin_uthappa",
+"name":"Robin Uthappa",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=robin_uthappa",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"11 November 1985","Debut:":"2006"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Robin Uthappa is a former Indian batsman.</li><li>He played in 2000s–2010s.</li><li>He was part of 2007 T20 WC.</li><li>He represented Karnataka.</li><li>He played IPL successfully.</li><li>He was aggressive opener.</li><li>He later retired.</li><li>He is popular player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>2007 T20 World Cup winner.</li><li>IPL Orange Cap winner.</li><li>Successful career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for “walk” style batting.</li><li>Energetic player.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"roger_binny",
+"name":"Roger Binny",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=roger_binny",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"19 July 1955","Debut:":"1979"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Roger Binny is a former Indian all-rounder.</li><li>He played in 1980s.</li><li>He was key in 1983 World Cup.</li><li>He contributed with bat and ball.</li><li>He represented Karnataka.</li><li>He later became administrator.</li><li>He is BCCI president.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Top wicket-taker in 1983 WC.</li><li>World Cup winner.</li><li>BCCI President.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Father of Stuart Binny.</li><li>All-round performer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rohan_gavaskar",
+"name":"Rohan Gavaskar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rohan_gavaskar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"20 February 1976","Debut:":"2004"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rohan Gavaskar is a former Indian batsman.</li><li>He is son of Sunil Gavaskar.</li><li>He played in early 2000s.</li><li>He represented Bengal.</li><li>He played ODIs.</li><li>He had strong domestic career.</li><li>He later became commentator.</li><li>He is known figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Domestic success.</li><li>Commentary career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Son of legend Gavaskar.</li><li>Media personality.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rohit_sharma",
+"name":"Rohit Sharma",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rohit_sharma",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"30 April 1987","Debut:":"2007"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rohit Sharma is one of India’s greatest batsmen.</li><li>He debuted in 2007.</li><li>He is known for elegant batting.</li><li>He captains India.</li><li>He plays as opener.</li><li>He has multiple records.</li><li>He is match-winner.</li><li>He is modern legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>3 ODI double centuries.</li><li>World Cup records.</li><li>Successful captain.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nickname “Hitman”.</li><li>Highest ODI score holder.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rusi_modi",
+"name":"Rusi Modi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rusi_modi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1918","Debut:":"1946"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rusi Modi was an Indian batsman.</li><li>He played in 1940s–50s.</li><li>He was known for elegant batting.</li><li>He represented India in Tests.</li><li>He scored big runs domestically.</li><li>He was consistent performer.</li><li>He contributed to cricket.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Top scorer of his era.</li><li>Strong Test record.</li><li>Domestic legend.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Stylish batsman.</li><li>Popular in his era.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rusi_surti",
+"name":"Rusi Surti",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rusi_surti",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"1936","Debut:":"1960"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rusi Surti was an Indian all-rounder.</li><li>He played in 1960s.</li><li>He contributed with bat and spin.</li><li>He represented India in Tests.</li><li>He played domestic cricket.</li><li>He also worked in USA cricket.</li><li>He is respected figure.</li><li>He is historic player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>All-round contributions.</li><li>Coaching abroad.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worked in USA cricket.</li><li>Versatile player.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rustomji_jamshedji",
+"name":"Rustomji Jamshedji",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=rustomji_jamshedji",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1872","Debut:":"1900s"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Rustomji Jamshedji was an early Indian cricketer.</li><li>He played in pre-Test era.</li><li>He was a bowler.</li><li>He contributed to early cricket.</li><li>He played domestic matches.</li><li>He is historic figure.</li><li>He is part of cricket origins.</li><li>He is remembered in archives.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Early cricket contributor.</li><li>Historic player.</li><li>Pre-Test era involvement.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Played before official Tests.</li><li>One of earliest players.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ruturaj_gaikwad",
+"name":"Ruturaj Gaikwad",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=ruturaj_gaikwad",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"31 January 1997","Debut:":"2021"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ruturaj Gaikwad is an Indian opener.</li><li>He represents Maharashtra.</li><li>He gained fame in IPL.</li><li>He debuted internationally in 2021.</li><li>He is elegant batsman.</li><li>He plays top order.</li><li>He is consistent scorer.</li><li>He is rising star.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL Orange Cap winner.</li><li>India selection.</li><li>Consistent performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Calm batting style.</li><li>Technically strong.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"s_sreesanth",
+"name":"S. Sreesanth",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=s_sreesanth",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"6 February 1983","Debut:":"2005"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>S. Sreesanth is a former Indian fast bowler.</li><li>He played in 2000s.</li><li>He was part of World Cup teams.</li><li>He was known for aggression.</li><li>He represented Kerala.</li><li>He played Tests and ODIs.</li><li>He later faced controversies.</li><li>He returned to cricket later.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>2007 T20 WC winner.</li><li>2011 ODI WC winner.</li><li>Match-winning spells.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for fiery attitude.</li><li>Also acted in movies.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"saba_karim",
+"name":"Saba Karim",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=saba_karim",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"14 November 1967","Debut:":"1997"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Saba Karim is a former Indian wicketkeeper.</li><li>He played in late 90s.</li><li>He represented Bihar.</li><li>He had a short international career.</li><li>He later became commentator.</li><li>He worked in BCCI administration.</li><li>He is a cricket analyst.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>BCCI administrative role.</li><li>Cricket analyst.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Eye injury ended career.</li><li>Works in commentary.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sachin_tendulkar",
+"name":"Sachin Tendulkar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sachin_tendulkar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"24 April 1973","Debut:":"1989"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sachin Tendulkar is one of the greatest cricketers ever.</li><li>He debuted at age 16.</li><li>He played for over two decades.</li><li>He is known as “God of Cricket”.</li><li>He scored runs in all formats.</li><li>He inspired generations.</li><li>He retired in 2013.</li><li>He is a legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>100 international centuries.</li><li>Highest run-scorer.</li><li>2011 World Cup winner.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called “Little Master”.</li><li>Global cricket icon.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sadagoppan_ramesh",
+"name":"Sadagoppan Ramesh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sadagoppan_ramesh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"16 October 1975","Debut:":"1999"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sadagoppan Ramesh is a former Indian opener.</li><li>He played in late 90s.</li><li>He represented Tamil Nadu.</li><li>He was known for aggressive starts.</li><li>He played Tests.</li><li>He had a short international career.</li><li>He later became commentator.</li><li>He is known figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Strong Test performances.</li><li>Domestic success.</li><li>Commentary career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Quick scoring opener.</li><li>Media personality.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sadanand_viswanath",
+"name":"Sadanand Viswanath",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sadanand_viswanath",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"28 April 1962","Debut:":"1985"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sadanand Viswanath is a former wicketkeeper.</li><li>He played in 1980s.</li><li>He represented Karnataka.</li><li>He was known for quick stumpings.</li><li>He played Tests and ODIs.</li><li>He had a short career.</li><li>He played domestic cricket.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Wicketkeeping skills.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Fastest stumpings.</li><li>Agile keeper.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sadashiv_patil",
+"name":"Sadashiv Patil",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sadashiv_patil",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1933","Debut:":"1955"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sadashiv Patil was an Indian bowler.</li><li>He played in 1950s.</li><li>He represented Maharashtra.</li><li>He had a short Test career.</li><li>He played domestic cricket.</li><li>He contributed in matches.</li><li>He is historic player.</li><li>He remains in records.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Bowling contributions.</li><li>Domestic cricket success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One-Test career.</li><li>Rare appearance player.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sadashiv_shinde",
+"name":"Sadashiv Shinde",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sadashiv_shinde",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1923","Debut:":"1946"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sadashiv Shinde was an Indian spinner.</li><li>He played in 1940s–50s.</li><li>He represented India in Tests.</li><li>He bowled leg-spin.</li><li>He contributed in matches.</li><li>He played domestic cricket.</li><li>He is historic figure.</li><li>He is remembered player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Spin contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Leg-spinner.</li><li>Early era player.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sai_sudharshan",
+"name":"Sai Sudharshan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sai_sudharshan",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"15 October 2001","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sai Sudharshan is an Indian batsman.</li><li>He represents Tamil Nadu.</li><li>He gained IPL fame.</li><li>He debuted internationally recently.</li><li>He is technically strong.</li><li>He plays top order.</li><li>He is consistent scorer.</li><li>He is rising star.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL standout performer.</li><li>India debut.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Calm batting style.</li><li>Future prospect.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sairaj_bahutule",
+"name":"Sairaj Bahutule",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sairaj_bahutule",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"6 October 1973","Debut:":"1997"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sairaj Bahutule is a former Indian all-rounder.</li><li>He played in late 90s.</li><li>He represented Mumbai.</li><li>He bowled leg-spin.</li><li>He contributed with bat.</li><li>He later became coach.</li><li>He worked in IPL teams.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Domestic cricket success.</li><li>Coaching career.</li><li>All-round contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>IPL coach.</li><li>Spin all-rounder.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"salil_ankola",
+"name":"Salil Ankola",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=salil_ankola",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1 March 1968","Debut:":"1989"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Salil Ankola is a former Indian pacer.</li><li>He debuted alongside Tendulkar.</li><li>He played in early 90s.</li><li>He later became actor.</li><li>He worked in television.</li><li>He also worked as selector.</li><li>He is multi-talented.</li><li>He is known personality.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Acting career.</li><li>Selector role.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Debuted with Sachin.</li><li>Actor after cricket.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"salim_durani",
+"name":"Salim Durani",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=salim_durani",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"11 December 1934","Debut:":"1960"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Salim Durani was an Indian all-rounder.</li><li>He played in 1960s–70s.</li><li>He was known for big hitting.</li><li>He bowled left-arm spin.</li><li>He entertained crowds.</li><li>He also acted in films.</li><li>He is a fan favorite.</li><li>He is legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Match-winning performances.</li><li>All-round excellence.</li><li>Fan favorite player.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Hit sixes on demand.</li><li>Film actor.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sameer_dighe",
+"name":"Sameer Dighe",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sameer_dighe",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"8 October 1968","Debut:":"2001"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sameer Dighe is a former wicketkeeper.</li><li>He played in early 2000s.</li><li>He represented Mumbai.</li><li>He replaced Nayan Mongia.</li><li>He had a short career.</li><li>He played Tests.</li><li>He later became coach.</li><li>He is known figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Coaching roles.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Late debut.</li><li>Reliable keeper.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sandeep_patil",
+"name":"Sandeep Patil",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sandeep_patil",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"18 August 1956","Debut:":"1980"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sandeep Patil is a former Indian batsman.</li><li>He played in 1980s.</li><li>He was aggressive middle-order player.</li><li>He was part of 1983 WC team.</li><li>He later became coach.</li><li>He coached Kenya team.</li><li>He worked in administration.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>1983 World Cup winner.</li><li>Successful coach.</li><li>Match-winning innings.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for attacking batting.</li><li>Coach of Kenya.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sandeep_sharma",
+"name":"Sandeep Sharma",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sandeep_sharma",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"18 May 1993","Debut:":"2015"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sandeep Sharma is an Indian swing bowler.</li><li>He represents Punjab.</li><li>He debuted in 2015.</li><li>He is known for swing.</li><li>He plays IPL regularly.</li><li>He is effective in powerplay.</li><li>He is consistent bowler.</li><li>He is experienced player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL success.</li><li>India selection.</li><li>Powerplay specialist.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Swings new ball well.</li><li>Reliable bowler.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sandeep_warrier",
+"name":"Sandeep Warrier",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sandeep_warrier",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"4 April 1991","Debut:":"2021"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sandeep Warrier is an Indian pacer.</li><li>He represents Kerala.</li><li>He debuted in 2021.</li><li>He gained IPL exposure.</li><li>He bowls medium pace.</li><li>He plays domestic cricket.</li><li>He is consistent performer.</li><li>He is emerging player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>India debut.</li><li>Domestic success.</li><li>IPL experience.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Kerala pacer.</li><li>Disciplined bowler.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sanjay_bangar",
+"name":"Sanjay Bangar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sanjay_bangar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"11 October 1972","Debut:":"2001"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sanjay Bangar is a former Indian all-rounder.</li><li>He played in early 2000s.</li><li>He represented Railways.</li><li>He was known for grit.</li><li>He contributed with bat and ball.</li><li>He later became coach.</li><li>He coached Indian team.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>India batting coach.</li><li>All-round contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for tough innings.</li><li>Coaching expert.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sanjay_manjrekar",
+"name":"Sanjay Manjrekar",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sanjay_manjrekar",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"12 July 1965","Debut:":"1987"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sanjay Manjrekar is a former Indian batsman.</li><li>He played in late 80s and 90s.</li><li>He represented Mumbai.</li><li>He was known for technique.</li><li>He played Tests and ODIs.</li><li>He later became commentator.</li><li>He is a cricket analyst.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Consistent Test batsman.</li><li>Strong overseas performances.</li><li>Successful commentary career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is the son of former cricketer Vijay Manjrekar.</li><li>He is widely known today as a cricket commentator and analyst.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sanjay_raul",
+"name":"Sanjay Raul",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sanjay_raul",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"6 October 1981","Debut:":"2002"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sanjay Raul is a former Indian cricketer.</li><li>He played in early 2000s.</li><li>He represented Odisha.</li><li>He was a batsman.</li><li>He played ODIs.</li><li>He had a short international career.</li><li>He played domestic cricket.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India in ODIs.</li><li>Domestic cricket success.</li><li>Opening batsman role.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was one of the few cricketers from Odisha to represent India.</li><li>He had a brief but notable international career.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sanjeev_sharma",
+"name":"Sanjeev Sharma",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sanjeev_sharma",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1965","Debut:":"1988"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sanjeev Sharma is a former Indian fast bowler.</li><li>He played in late 80s.</li><li>He represented Delhi.</li><li>He bowled medium pace.</li><li>He played ODIs.</li><li>He had a short career.</li><li>He later became coach.</li><li>He is known figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Bowling contributions.</li><li>Coaching involvement.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is remembered for his performances in the late 1980s.</li><li>He later contributed to cricket through coaching roles.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sanju_samson",
+"name":"Sanju Samson",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sanju_samson",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Wicketkeeper","Born:":"11 November 1994","Debut:":"2015"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sanju Samson is an Indian wicketkeeper-batsman.</li><li>He represents Kerala.</li><li>He debuted in 2015.</li><li>He is known for stylish batting.</li><li>He captains IPL teams.</li><li>He plays T20 format.</li><li>He is aggressive player.</li><li>He is key performer.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL captain.</li><li>International centuries.</li><li>Consistent performer.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is known for his elegant stroke play and timing.</li><li>He has been one of the most consistent performers in the IPL.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sarandeep_singh",
+"name":"Sarandeep Singh",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sarandeep_singh",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"10 October 1979","Debut:":"2000"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sarandeep Singh is a former Indian spinner.</li><li>He played in early 2000s.</li><li>He represented Delhi.</li><li>He bowled off-spin.</li><li>He played Tests.</li><li>He later became coach.</li><li>He is involved in cricket management.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Domestic success.</li><li>Coaching roles.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He later worked as a national selector for India.</li><li>He has remained involved in Indian cricket after retirement.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sarfaraz_khan",
+"name":"Sarfaraz Khan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sarfaraz_khan",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"22 October 1997","Debut:":"2024"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sarfaraz Khan is an Indian batsman.</li><li>He represents Mumbai.</li><li>He gained fame through domestic cricket.</li><li>He debuted internationally recently.</li><li>He is known for consistency.</li><li>He scores heavily in Ranji Trophy.</li><li>He is aggressive player.</li><li>He is rising star.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>High domestic average.</li><li>India Test debut.</li><li>Consistent run-scorer.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He has one of the highest batting averages in recent Ranji Trophy seasons.</li><li>He is known for his fearless and attacking approach to batting.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"saurabh_tiwary",
+"name":"Saurabh Tiwary",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=saurabh_tiwary",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"30 December 1989","Debut:":"2010"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Saurabh Tiwary is a former Indian batsman.</li><li>He represents Jharkhand.</li><li>He debuted in 2010.</li><li>He gained IPL fame.</li><li>He was compared to Dhoni.</li><li>He played ODIs.</li><li>He had a short career.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>IPL success.</li><li>Domestic performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is often compared to MS Dhoni due to his similar appearance and playing style.</li><li>He was part of India’s Under-19 World Cup winning team in 2008.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shah_nyalchand",
+"name":"Shah Nyalchand",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shah_nyalchand",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1911","Debut:":"1938"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shah Nyalchand was an Indian cricketer.</li><li>He played in pre-independence era.</li><li>He was a batsman.</li><li>He represented India in Tests.</li><li>He contributed in early matches.</li><li>He played domestic cricket.</li><li>He had a short career.</li><li>He is historic figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Early Test player.</li><li>Historic contribution.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was part of India’s early Test cricket history.</li><li>He played during the pre-independence cricket era.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shahbaz_ahmed",
+"name":"Shahbaz Ahmed",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shahbaz_ahmed",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"11 December 1994","Debut:":"2022"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shahbaz Ahmed is an Indian all-rounder.</li><li>He represents Bengal.</li><li>He gained IPL fame.</li><li>He debuted in 2022.</li><li>He bowls left-arm spin.</li><li>He contributes with bat.</li><li>He is consistent performer.</li><li>He is rising player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>India debut.</li><li>IPL performances.</li><li>All-round contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is known for his ability to contribute in both batting and bowling.</li><li>He became popular through his performances in the IPL.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shahbaz_nadeem",
+"name":"Shahbaz Nadeem",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shahbaz_nadeem",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"12 August 1989","Debut:":"2019"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shahbaz Nadeem is a left-arm spinner.</li><li>He represents Jharkhand.</li><li>He debuted in 2019.</li><li>He is known for accuracy.</li><li>He has strong domestic record.</li><li>He took many wickets.</li><li>He played Tests.</li><li>He is experienced player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Strong Ranji Trophy record.</li><li>India Test appearance.</li><li>Consistent performer.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is one of the leading wicket-takers in Ranji Trophy history.</li><li>He is known for his economical bowling style.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shardul_thakur",
+"name":"Shardul Thakur",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shardul_thakur",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"16 October 1991","Debut:":"2017"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shardul Thakur is an Indian all-rounder.</li><li>He represents Mumbai.</li><li>He debuted in 2017.</li><li>He bowls medium pace.</li><li>He contributes with bat.</li><li>He is known for breakthroughs.</li><li>He plays all formats.</li><li>He is key player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Match-winning performances.</li><li>Test centuries.</li><li>All-round impact.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is often called the “Lord” by fans for his surprising performances.</li><li>He has contributed crucial runs in important Test matches.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shikhar_dhawan",
+"name":"Shikhar Dhawan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shikhar_dhawan",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"5 December 1985","Debut:":"2010"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shikhar Dhawan is an Indian opener.</li><li>He debuted in 2010.</li><li>He represents Delhi.</li><li>He is known for aggressive starts.</li><li>He has strong ICC tournament record.</li><li>He captains IPL teams.</li><li>He is consistent scorer.</li><li>He is key player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Champions Trophy winner.</li><li>Multiple ICC tournament runs.</li><li>Successful opener.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is known by the nickname “Gabbar”.</li><li>He celebrates wickets with his signature moustache style.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shiv_sunder_das",
+"name":"Shiv Sunder Das",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shiv_sunder_das",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"23 June 1976","Debut:":"2000"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shiv Sunder Das is a former Indian opener.</li><li>He played in early 2000s.</li><li>He represented Odisha.</li><li>He was known for patience.</li><li>He played Tests.</li><li>He later became coach.</li><li>He is involved in cricket development.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Strong defensive batting.</li><li>Coaching career.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He later became a coach and selector in Indian cricket.</li><li>He was known for his solid defensive technique.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shivam_dube",
+"name":"Shivam Dube",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shivam_dube",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"26 June 1993","Debut:":"2019"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shivam Dube is an Indian all-rounder.</li><li>He represents Mumbai.</li><li>He debuted in 2019.</li><li>He is known for big hitting.</li><li>He bowls medium pace.</li><li>He plays T20 format.</li><li>He is power-hitter.</li><li>He is key IPL player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>IPL success.</li><li>International appearances.</li><li>All-round contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is known for hitting long sixes in T20 cricket.</li><li>He made headlines early in his career for hitting multiple sixes in an over in domestic cricket.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shivam_mavi",
+"name":"Shivam Mavi",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shivam_mavi",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"26 November 1998","Debut:":"2023"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shivam Mavi is an Indian fast bowler.</li><li>He represents Uttar Pradesh.</li><li>He gained fame in U19 World Cup.</li><li>He debuted internationally in 2023.</li><li>He is known for pace.</li><li>He plays T20s.</li><li>He is young talent.</li><li>He is future prospect.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>U19 World Cup winner.</li><li>India debut.</li><li>IPL performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was part of India’s Under-19 World Cup winning team in 2018.</li><li>He impressed selectors with his pace and wicket-taking ability.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shivlal_yadav",
+"name":"Shivlal Yadav",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shivlal_yadav",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"14 October 1957","Debut:":"1979"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shivlal Yadav is a former Indian off-spinner.</li><li>He played in late 70s and 80s.</li><li>He represented Hyderabad.</li><li>He was known for consistency.</li><li>He played Tests and ODIs.</li><li>He later became administrator.</li><li>He served as selector.</li><li>He is respected figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Successful Test spinner.</li><li>Selector role.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He later served as chairman of selectors for India.</li><li>He has been involved in cricket administration after retirement.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shreyas_iyer",
+"name":"Shreyas Iyer",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shreyas_iyer",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"6 December 1994","Debut:":"2017"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shreyas Iyer is an Indian middle-order batsman.</li><li>He represents Mumbai.</li><li>He debuted in 2017.</li><li>He is known for aggressive batting.</li><li>He plays spin well.</li><li>He captains IPL teams.</li><li>He is consistent performer.</li><li>He is key player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>World Cup performances.</li><li>IPL captaincy success.</li><li>International centuries.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is known for his strong performance against spin bowling.</li><li>He has been one of India’s reliable middle-order batsmen in recent years.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shubman_gill",
+"name":"Shubman Gill",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shubman_gill",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"8 September 1999","Debut:":"2019"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shubman Gill is an Indian opening batsman.</li><li>He represents Punjab.</li><li>He debuted in 2019.</li><li>He is known for elegant stroke play.</li><li>He plays all formats.</li><li>He has scored big centuries.</li><li>He is consistent performer.</li><li>He is future star.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Double century in ODIs.</li><li>IPL Orange Cap.</li><li>Multiple international centuries.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was the vice-captain of India’s Under-19 World Cup winning team in 2018.</li><li>He is considered one of the most technically sound young batsmen in the world.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"shute_banerjee",
+"name":"Shute Banerjee",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=shute_banerjee",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1920","Debut:":"1948"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Shute Banerjee was an Indian fast bowler.</li><li>He played in post-independence era.</li><li>He represented India in Tests.</li><li>He bowled medium-fast.</li><li>He played domestic cricket.</li><li>He had a short career.</li><li>He is historic figure.</li><li>He is remembered player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Early fast bowler.</li><li>Domestic contributions.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was part of India’s early Test cricket teams after independence.</li><li>He contributed as one of the early pace bowlers in Indian cricket.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"siddarth_kaul",
+"name":"Siddarth Kaul",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=siddarth_kaul",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"19 May 1990","Debut:":"2018"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Siddarth Kaul is an Indian fast bowler.</li><li>He represents Punjab.</li><li>He debuted in 2018.</li><li>He gained fame through IPL.</li><li>He bowls medium pace.</li><li>He is effective in death overs.</li><li>He is consistent performer.</li><li>He is experienced player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>India international appearances.</li><li>IPL performances.</li><li>Death bowling skills.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was part of India’s Under-19 World Cup winning squad in 2008.</li><li>He is known for his effectiveness in the death overs in T20 cricket.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sorabji_colah",
+"name":"Sorabji Colah",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sorabji_colah",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"1904","Debut:":"1932"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sorabji Colah was an Indian cricketer.</li><li>He played in India’s first Test match.</li><li>He was a batsman.</li><li>He represented India in 1932.</li><li>He played early cricket.</li><li>He contributed in matches.</li><li>He is historic figure.</li><li>He is part of cricket history.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of first Indian Test team.</li><li>Historic contribution.</li><li>Early cricket pioneer.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was part of India’s very first Test match at Lord’s in 1932.</li><li>He is remembered as one of India’s earliest international cricketers.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sourav_ganguly",
+"name":"Sourav Ganguly",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sourav_ganguly",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"8 July 1972","Debut:":"1992"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sourav Ganguly is one of India’s greatest captains.</li><li>He debuted in 1992.</li><li>He was known for leadership.</li><li>He built a strong Indian team.</li><li>He was an elegant batsman.</li><li>He later became BCCI president.</li><li>He is commentator.</li><li>He is legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Successful Indian captain.</li><li>Champions Trophy winner.</li><li>Transformed Indian cricket.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is popularly known as “Dada” among fans and teammates.</li><li>He played a major role in building India’s aggressive cricket culture.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sreenath_aravind",
+"name":"Sreenath Aravind",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=sreenath_aravind",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"8 April 1984","Debut:":"2015"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Sreenath Aravind is an Indian left-arm pacer.</li><li>He represents Karnataka.</li><li>He debuted in 2015.</li><li>He gained IPL fame.</li><li>He is known for swing.</li><li>He plays T20 format.</li><li>He is consistent bowler.</li><li>He is experienced player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>India debut.</li><li>IPL success.</li><li>Domestic achievements.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is known for his ability to swing the new ball effectively.</li><li>He has been a consistent performer in domestic cricket.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"srinivas_venkataraghavan",
+"name":"Srinivas Venkataraghavan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=srinivas_venkataraghavan",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"21 April 1945","Debut:":"1965"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Srinivas Venkataraghavan is a legendary off-spinner.</li><li>He played in 1960s–80s.</li><li>He was part of famous spin quartet.</li><li>He captained India.</li><li>He later became umpire.</li><li>He officiated international matches.</li><li>He is respected figure.</li><li>He is cricket legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Part of spin quartet.</li><li>India captain.</li><li>Elite umpire.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was one of the four famous Indian spinners of his era.</li><li>He later became an ICC elite umpire after retirement.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"srinivasaraghavan_venkataraghavan",
+"name":"Srinivasaraghavan Venkataraghavan",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=srinivasaraghavan_venkataraghavan",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"21 April 1945","Debut:":"1965"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Srinivasaraghavan Venkataraghavan is the full name of the famous Indian spinner.</li><li>He played in 1960s–80s.</li><li>He captained India.</li><li>He was part of spin quartet.</li><li>He later became umpire.</li><li>He officiated globally.</li><li>He is respected figure.</li><li>He is cricket legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>India captain.</li><li>Spin quartet member.</li><li>ICC umpire.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is widely known by his shorter name Venkataraghavan.</li><li>He served both as a player and an international umpire.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"stuart_binny",
+"name":"Stuart Binny",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=stuart_binny",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"All-rounder","Born:":"3 June 1984","Debut:":"2014"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Stuart Binny is an Indian all-rounder.</li><li>He represents Karnataka.</li><li>He debuted in 2014.</li><li>He contributed with bat and ball.</li><li>He played ODIs and Tests.</li><li>He is known for swing bowling.</li><li>He had short career.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Best ODI bowling figures for India.</li><li>All-round performances.</li><li>International appearances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is the son of former cricketer Roger Binny.</li><li>He holds the record for best bowling figures by an Indian in ODIs.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"subhash_gupte",
+"name":"Subhash Gupte",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=subhash_gupte",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1929","Debut:":"1951"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Subhash Gupte was a legendary leg-spinner.</li><li>He played in 1950s.</li><li>He represented India in Tests.</li><li>He was known for control.</li><li>He took many wickets.</li><li>He is regarded among best spinners.</li><li>He is historic figure.</li><li>He is cricket legend.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Outstanding Test record.</li><li>Five-wicket hauls.</li><li>Legendary spinner.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He is often considered one of the greatest leg-spinners in cricket history.</li><li>He was highly praised by contemporaries like Garry Sobers.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"subramaniam_badrinath",
+"name":"Subramaniam Badrinath",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=subramaniam_badrinath",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Batsman","Born:":"30 August 1980","Debut:":"2007"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Subramaniam Badrinath is a former Indian batsman.</li><li>He represented Tamil Nadu.</li><li>He debuted in 2007.</li><li>He was consistent in domestic cricket.</li><li>He played ODIs and T20s.</li><li>He later became commentator.</li><li>He is respected figure.</li><li>He is known player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Domestic cricket success.</li><li>India representation.</li><li>IPL performances.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He was known for his consistency in domestic cricket.</li><li>He later became a cricket commentator and analyst.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"subrata_guha",
+"name":"Subrata Guha",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=subrata_guha",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1943","Debut:":"1967"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Subrata Guha was an Indian cricketer.</li><li>He played in 1960s.</li><li>He was a bowler.</li><li>He represented India in Tests.</li><li>He had short career.</li><li>He played domestic cricket.</li><li>He is historic figure.</li><li>He is remembered player.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Bowling contributions.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He played during the 1960s era of Indian cricket.</li><li>He is remembered as a part of India’s cricket history.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"subroto_banerjee",
+"name":"Subroto Banerjee",
+"type":"entity",
+"url":"entity.html?universe=sports&path=cricket,cricket_india&id=subroto_banerjee",
+"parent":"cricket_india",
+"info":{"Country:":"India","Role:":"Bowler","Born:":"1963","Debut:":"1985"},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Subroto Banerjee is a former Indian fast bowler.</li><li>He played in 1980s.</li><li>He represented Bengal.</li><li>He bowled medium pace.</li><li>He played Tests.</li><li>He had short career.</li><li>He later became coach.</li><li>He is known figure.</li></ul>"},
+"tab2":{"title":"Achievements","content":"<ul><li>Represented India.</li><li>Coaching career.</li><li>Domestic success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>He later worked as a coach in Indian domestic cricket.</li><li>He contributed to cricket development after retirement.</li></ul>"}
 },
 "gallery_count":5
 }

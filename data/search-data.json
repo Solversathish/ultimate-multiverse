@@ -8010,6 +8010,24 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ms_dhoni"
   },
   {
+    "name": "Man Sood",
+    "id": "man_sood",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=man_sood"
+  },
+  {
+    "name": "Mandeep Singh",
+    "id": "mandeep_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=mandeep_singh"
+  },
+  {
     "name": "Maninder Singh",
     "id": "maninder_singh",
     "type": "entity",
@@ -8028,6 +8046,15 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=manish_pandey"
   },
   {
+    "name": "Manohar Hardikar",
+    "id": "manohar_hardikar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=manohar_hardikar"
+  },
+  {
     "name": "Manoj Prabhakar",
     "id": "manoj_prabhakar",
     "type": "entity",
@@ -8037,13 +8064,22 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=manoj_prabhakar"
   },
   {
-    "name": "Manoj Tiwary",
+    "name": "Manoj Tiwari",
     "id": "manoj_tiwari",
     "type": "entity",
     "universe": "sports",
     "path": "cricket,cricket_india",
     "parent": "Indian Cricketer",
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=manoj_tiwari"
+  },
+  {
+    "name": "Manpreet Gony",
+    "id": "manpreet_gony",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=manpreet_gony"
   },
   {
     "name": "Mansoor Ali Khan Pataudi",
@@ -8062,6 +8098,24 @@
     "path": "cricket,cricket_india",
     "parent": "Indian Cricketer",
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=mayank_agarwal"
+  },
+  {
+    "name": "Mayank Markande",
+    "id": "mayank_markande",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=mayank_markande"
+  },
+  {
+    "name": "Mayank Yadav",
+    "id": "mayank_yadav",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=mayank_yadav"
   },
   {
     "name": "Mohammad Azharuddin",
@@ -8136,6 +8190,15 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=montu_banerjee"
   },
   {
+    "name": "M. S. K. Prasad",
+    "id": "msk_prasad",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=msk_prasad"
+  },
+  {
     "name": "Mukesh Kumar",
     "id": "mukesh_kumar",
     "type": "entity",
@@ -8190,6 +8253,60 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=naman_ojha"
   },
   {
+    "name": "Nana Joshi",
+    "id": "nana_joshi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=nana_joshi"
+  },
+  {
+    "name": "Naoomal Jeoomal",
+    "id": "naoomal_jeoomal",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=naoomal_jeoomal"
+  },
+  {
+    "name": "Narain Swamy",
+    "id": "narain_swamy",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=narain_swamy"
+  },
+  {
+    "name": "Naren Tamhane",
+    "id": "naren_tamhane",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=naren_tamhane"
+  },
+  {
+    "name": "Narendra Hirwani",
+    "id": "narendra_hirwani",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=narendra_hirwani"
+  },
+  {
+    "name": "Nari Contractor",
+    "id": "nari_contractor",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=nari_contractor"
+  },
+  {
     "name": "Navdeep Saini",
     "id": "navdeep_saini",
     "type": "entity",
@@ -8235,6 +8352,33 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=nazir_ali"
   },
   {
+    "name": "Nikhil Chopra",
+    "id": "nikhil_chopra",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=nikhil_chopra"
+  },
+  {
+    "name": "Nilesh Kulkarni",
+    "id": "nilesh_kulkarni",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=nilesh_kulkarni"
+  },
+  {
+    "name": "Nirode Chowdhury",
+    "id": "nirode_chowdhury",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=nirode_chowdhury"
+  },
+  {
     "name": "Nitish Kumar Reddy",
     "id": "nitish_kumar_reddy",
     "type": "entity",
@@ -8251,6 +8395,69 @@
     "path": "cricket,cricket_india",
     "parent": "Indian Cricketer",
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=nitish_rana"
+  },
+  {
+    "name": "Noel David",
+    "id": "noel_david",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=noel_david"
+  },
+  {
+    "name": "Pananmal Punjabi",
+    "id": "pananmal_punjabi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pananmal_punjabi"
+  },
+  {
+    "name": "Pankaj Dharmani",
+    "id": "pankaj_dharmani",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pankaj_dharmani"
+  },
+  {
+    "name": "Pankaj Roy",
+    "id": "pankaj_roy",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pankaj_roy"
+  },
+  {
+    "name": "Pankaj Singh",
+    "id": "pankaj_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pankaj_singh"
+  },
+  {
+    "name": "Paras Mhambrey",
+    "id": "paras_mhambrey",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=paras_mhambrey"
+  },
+  {
+    "name": "Parthasarathy Sharma",
+    "id": "parthasarathy_sharma",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=parthasarathy_sharma"
   },
   {
     "name": "Parthiv Patel",
@@ -8271,6 +8478,15 @@
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=parvez_rasool"
   },
   {
+    "name": "Parvinder Awana",
+    "id": "parvinder_awana",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=parvinder_awana"
+  },
+  {
     "name": "Pawan Negi",
     "id": "pawan_negi",
     "type": "entity",
@@ -8287,6 +8503,906 @@
     "path": "cricket,cricket_india",
     "parent": "Indian Cricketer",
     "url": "entity.html?universe=sports&path=cricket,cricket_india&id=phiroze_palia"
+  },
+  {
+    "name": "Piyush Chawla",
+    "id": "piyush_chawla",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=piyush_chawla"
+  },
+  {
+    "name": "Pochiah Krishnamurthy",
+    "id": "pochiah_krishnamurthy",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pochiah_krishnamurthy"
+  },
+  {
+    "name": "Polly Umrigar",
+    "id": "polly_umrigar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=polly_umrigar"
+  },
+  {
+    "name": "Pragyan Ojha",
+    "id": "pragyan_ojha",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pragyan_ojha"
+  },
+  {
+    "name": "Prakash Bhandari",
+    "id": "prakash_bhandari",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=prakash_bhandari"
+  },
+  {
+    "name": "Pranab Roy",
+    "id": "pranab_roy",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pranab_roy"
+  },
+  {
+    "name": "Prashant Vaidya",
+    "id": "prashant_vaidya",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=prashant_vaidya"
+  },
+  {
+    "name": "Prasidh Krishna",
+    "id": "prasidh_krishna",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=prasidh_krishna"
+  },
+  {
+    "name": "Praveen Kumar",
+    "id": "praveen_kumar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=praveen_kumar"
+  },
+  {
+    "name": "Pravin Amre",
+    "id": "pravin_amre",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=pravin_amre"
+  },
+  {
+    "name": "Prithvi Shaw",
+    "id": "prithvi_shaw",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=prithvi_shaw"
+  },
+  {
+    "name": "Probir Sen",
+    "id": "probir_sen",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=probir_sen"
+  },
+  {
+    "name": "R. P. Singh",
+    "id": "rp_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rp_singh"
+  },
+  {
+    "name": "Raghuram Bhat",
+    "id": "raghuram_bhat",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=raghuram_bhat"
+  },
+  {
+    "name": "Rahul Chahar",
+    "id": "rahul_chahar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rahul_chahar"
+  },
+  {
+    "name": "Rahul Dravid",
+    "id": "rahul_dravid",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rahul_dravid"
+  },
+  {
+    "name": "Rahul Sanghvi",
+    "id": "rahul_sanghvi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rahul_sanghvi"
+  },
+  {
+    "name": "Rahul Sharma",
+    "id": "rahul_sharma",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rahul_sharma"
+  },
+  {
+    "name": "Rahul Tripathi",
+    "id": "rahul_tripathi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rahul_tripathi"
+  },
+  {
+    "name": "Raja Kulkarni",
+    "id": "raja_kulkarni",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=raja_kulkarni"
+  },
+  {
+    "name": "Rajat Patidar",
+    "id": "rajat_patidar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rajat_patidar"
+  },
+  {
+    "name": "Rajesh Chauhan",
+    "id": "rajesh_chauhan",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rajesh_chauhan"
+  },
+  {
+    "name": "Rajinder Ghai",
+    "id": "rajinder_ghai",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rajinder_ghai"
+  },
+  {
+    "name": "Rajinder Pal",
+    "id": "rajinder_pal",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rajinder_pal"
+  },
+  {
+    "name": "Rakesh Shukla",
+    "id": "rakesh_shukla",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rakesh_shukla"
+  },
+  {
+    "name": "Ramakant Desai",
+    "id": "ramakant_desai",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ramakant_desai"
+  },
+  {
+    "name": "Raman Lamba",
+    "id": "raman_lamba",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=raman_lamba"
+  },
+  {
+    "name": "Ramandeep Singh",
+    "id": "ramandeep_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ramandeep_singh"
+  },
+  {
+    "name": "Ramesh Powar",
+    "id": "ramesh_powar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ramesh_powar"
+  },
+  {
+    "name": "Ramesh Saxena",
+    "id": "ramesh_saxena",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ramesh_saxena"
+  },
+  {
+    "name": "Ramnath Kenny",
+    "id": "ramnath_kenny",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ramnath_kenny"
+  },
+  {
+    "name": "Ramnath Parkar",
+    "id": "ramnath_parkar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ramnath_parkar"
+  },
+  {
+    "name": "Ranga Sohoni",
+    "id": "ranga_sohoni",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ranga_sohoni"
+  },
+  {
+    "name": "Rashid Patel",
+    "id": "rashid_patel",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rashid_patel"
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "id": "ravi_bishnoi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ravi_bishnoi"
+  },
+  {
+    "name": "Ravi Shastri",
+    "id": "ravi_shastri",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ravi_shastri"
+  },
+  {
+    "name": "Ravichandran Ashwin",
+    "id": "ravichandran_ashwin",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ravichandran_ashwin"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "id": "ravindra_jadeja",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ravindra_jadeja"
+  },
+  {
+    "name": "Ravisrinivasan Sai Kishore",
+    "id": "ravisrinivasan_sai_kishore",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ravisrinivasan_sai_kishore"
+  },
+  {
+    "name": "Reetinder Singh Sodhi",
+    "id": "reetinder_singh_sodhi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=reetinder_singh_sodhi"
+  },
+  {
+    "name": "Rinku Singh",
+    "id": "rinku_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rinku_singh"
+  },
+  {
+    "name": "Rishabh Pant",
+    "id": "rishabh_pant",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rishabh_pant"
+  },
+  {
+    "name": "Rishi Dhawan",
+    "id": "rishi_dhawan",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rishi_dhawan"
+  },
+  {
+    "name": "Riyan Parag",
+    "id": "riyan_parag",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=riyan_parag"
+  },
+  {
+    "name": "Robin Singh",
+    "id": "robin_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=robin_singh"
+  },
+  {
+    "name": "Robin Singh Jr",
+    "id": "robin_singh_jr",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=robin_singh_jr"
+  },
+  {
+    "name": "Robin Uthappa",
+    "id": "robin_uthappa",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=robin_uthappa"
+  },
+  {
+    "name": "Roger Binny",
+    "id": "roger_binny",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=roger_binny"
+  },
+  {
+    "name": "Rohan Gavaskar",
+    "id": "rohan_gavaskar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rohan_gavaskar"
+  },
+  {
+    "name": "Rohit Sharma",
+    "id": "rohit_sharma",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rohit_sharma"
+  },
+  {
+    "name": "Rusi Modi",
+    "id": "rusi_modi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rusi_modi"
+  },
+  {
+    "name": "Rusi Surti",
+    "id": "rusi_surti",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rusi_surti"
+  },
+  {
+    "name": "Rustomji Jamshedji",
+    "id": "rustomji_jamshedji",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=rustomji_jamshedji"
+  },
+  {
+    "name": "Ruturaj Gaikwad",
+    "id": "ruturaj_gaikwad",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=ruturaj_gaikwad"
+  },
+  {
+    "name": "S. Sreesanth",
+    "id": "s_sreesanth",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=s_sreesanth"
+  },
+  {
+    "name": "Saba Karim",
+    "id": "saba_karim",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=saba_karim"
+  },
+  {
+    "name": "Sachin Tendulkar",
+    "id": "sachin_tendulkar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sachin_tendulkar"
+  },
+  {
+    "name": "Sadagoppan Ramesh",
+    "id": "sadagoppan_ramesh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sadagoppan_ramesh"
+  },
+  {
+    "name": "Sadanand Viswanath",
+    "id": "sadanand_viswanath",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sadanand_viswanath"
+  },
+  {
+    "name": "Sadashiv Patil",
+    "id": "sadashiv_patil",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sadashiv_patil"
+  },
+  {
+    "name": "Sadashiv Shinde",
+    "id": "sadashiv_shinde",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sadashiv_shinde"
+  },
+  {
+    "name": "Sai Sudharshan",
+    "id": "sai_sudharshan",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sai_sudharshan"
+  },
+  {
+    "name": "Sairaj Bahutule",
+    "id": "sairaj_bahutule",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sairaj_bahutule"
+  },
+  {
+    "name": "Salil Ankola",
+    "id": "salil_ankola",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=salil_ankola"
+  },
+  {
+    "name": "Salim Durani",
+    "id": "salim_durani",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=salim_durani"
+  },
+  {
+    "name": "Sameer Dighe",
+    "id": "sameer_dighe",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sameer_dighe"
+  },
+  {
+    "name": "Sandeep Patil",
+    "id": "sandeep_patil",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sandeep_patil"
+  },
+  {
+    "name": "Sandeep Sharma",
+    "id": "sandeep_sharma",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sandeep_sharma"
+  },
+  {
+    "name": "Sandeep Warrier",
+    "id": "sandeep_warrier",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sandeep_warrier"
+  },
+  {
+    "name": "Sanjay Bangar",
+    "id": "sanjay_bangar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sanjay_bangar"
+  },
+  {
+    "name": "Sanjay Manjrekar",
+    "id": "sanjay_manjrekar",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sanjay_manjrekar"
+  },
+  {
+    "name": "Sanjay Raul",
+    "id": "sanjay_raul",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sanjay_raul"
+  },
+  {
+    "name": "Sanjeev Sharma",
+    "id": "sanjeev_sharma",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sanjeev_sharma"
+  },
+  {
+    "name": "Sanju Samson",
+    "id": "sanju_samson",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sanju_samson"
+  },
+  {
+    "name": "Sarandeep Singh",
+    "id": "sarandeep_singh",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sarandeep_singh"
+  },
+  {
+    "name": "Sarfaraz Khan",
+    "id": "sarfaraz_khan",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sarfaraz_khan"
+  },
+  {
+    "name": "Saurabh Tiwary",
+    "id": "saurabh_tiwary",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=saurabh_tiwary"
+  },
+  {
+    "name": "Shah Nyalchand",
+    "id": "shah_nyalchand",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shah_nyalchand"
+  },
+  {
+    "name": "Shahbaz Ahmed",
+    "id": "shahbaz_ahmed",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shahbaz_ahmed"
+  },
+  {
+    "name": "Shahbaz Nadeem",
+    "id": "shahbaz_nadeem",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shahbaz_nadeem"
+  },
+  {
+    "name": "Shardul Thakur",
+    "id": "shardul_thakur",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shardul_thakur"
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "id": "shikhar_dhawan",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shikhar_dhawan"
+  },
+  {
+    "name": "Shiv Sunder Das",
+    "id": "shiv_sunder_das",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shiv_sunder_das"
+  },
+  {
+    "name": "Shivam Dube",
+    "id": "shivam_dube",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shivam_dube"
+  },
+  {
+    "name": "Shivam Mavi",
+    "id": "shivam_mavi",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shivam_mavi"
+  },
+  {
+    "name": "Shivlal Yadav",
+    "id": "shivlal_yadav",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shivlal_yadav"
+  },
+  {
+    "name": "Shreyas Iyer",
+    "id": "shreyas_iyer",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shreyas_iyer"
+  },
+  {
+    "name": "Shubman Gill",
+    "id": "shubman_gill",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shubman_gill"
+  },
+  {
+    "name": "Shute Banerjee",
+    "id": "shute_banerjee",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=shute_banerjee"
+  },
+  {
+    "name": "Siddarth Kaul",
+    "id": "siddarth_kaul",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=siddarth_kaul"
+  },
+  {
+    "name": "Sorabji Colah",
+    "id": "sorabji_colah",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sorabji_colah"
+  },
+  {
+    "name": "Sourav Ganguly",
+    "id": "sourav_ganguly",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sourav_ganguly"
+  },
+  {
+    "name": "Sreenath Aravind",
+    "id": "sreenath_aravind",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=sreenath_aravind"
+  },
+  {
+    "name": "Srinivas Venkataraghavan",
+    "id": "srinivas_venkataraghavan",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=srinivas_venkataraghavan"
+  },
+  {
+    "name": "Srinivasaraghavan Venkataraghavan",
+    "id": "srinivasaraghavan_venkataraghavan",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=srinivasaraghavan_venkataraghavan"
+  },
+  {
+    "name": "Stuart Binny",
+    "id": "stuart_binny",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=stuart_binny"
+  },
+  {
+    "name": "Subhash Gupte",
+    "id": "subhash_gupte",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=subhash_gupte"
+  },
+  {
+    "name": "Subramaniam Badrinath",
+    "id": "subramaniam_badrinath",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=subramaniam_badrinath"
+  },
+  {
+    "name": "Subrata Guha",
+    "id": "subrata_guha",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=subrata_guha"
+  },
+  {
+    "name": "Subroto Banerjee",
+    "id": "subroto_banerjee",
+    "type": "entity",
+    "universe": "sports",
+    "path": "cricket,cricket_india",
+    "parent": "Indian Cricketer",
+    "url": "entity.html?universe=sports&path=cricket,cricket_india&id=subroto_banerjee"
   },
   {
     "name": "Ireland Cricketer",
