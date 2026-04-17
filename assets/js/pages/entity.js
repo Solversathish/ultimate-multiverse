@@ -39,15 +39,23 @@ let file;
 
 /* DETERMINE FILE */
 
-if(universe === "fruits"){
-file="fruits";
-}
-else if(path){
-const levels = path.split(",");
-file = levels[levels.length-1];
-}
-else{
-file="categories";
+if (universe === "fruits") {
+
+  file = "fruits";
+
+} else if (universe === "mythical_creatures") {
+
+  file = "mythical_creatures"; // ✅ FIX
+
+} else if (path) {
+
+  const levels = path.split(",");
+  file = levels[levels.length - 1];
+
+} else {
+
+  file = "categories";
+
 }
 
 /* LOAD DATA */
