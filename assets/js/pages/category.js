@@ -26,16 +26,20 @@ let filePath;
 
 if (levels.length === 0) {
 
-if (universe === "fruits") {
-filePath = `data/fruits/fruits.json`;
-} else {
-filePath = `data/${universe}/categories.json`;
-}
+  if (universe === "fruits") {
+    filePath = `data/fruits/fruits.json`;
+
+  } else if (universe === "mythical_creatures") {
+    filePath = `data/mythical_creatures/mythical_creatures.json`;
+
+  } else {
+    filePath = `data/${universe}/categories.json`;
+  }
 
 } else {
 
-const lastLevel = levels[levels.length - 1];
-filePath = `data/${universe}/${lastLevel}.json`;
+  const lastLevel = levels[levels.length - 1];
+  filePath = `data/${universe}/${lastLevel}.json`;
 
 }
 
