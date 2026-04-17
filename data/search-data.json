@@ -284,7 +284,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=arabic_actors"
   },
   {
@@ -428,7 +428,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=bengali_actors"
   },
   {
@@ -761,7 +761,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=chinese_actors"
   },
   {
@@ -1184,7 +1184,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=english_actors"
   },
   {
@@ -1193,7 +1193,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=french_actors"
   },
   {
@@ -1202,7 +1202,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=german_actors"
   },
   {
@@ -1211,7 +1211,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=hindi_actors"
   },
   {
@@ -1220,7 +1220,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=indonesian_actors"
   },
   {
@@ -1229,7 +1229,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=italian_actors"
   },
   {
@@ -1238,7 +1238,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=japanese_actors"
   },
   {
@@ -1247,7 +1247,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=kannada_actors"
   },
   {
@@ -1256,7 +1256,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=korean_actors"
   },
   {
@@ -1265,7 +1265,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=malayalam_actors"
   },
   {
@@ -1274,7 +1274,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=marathi_actors"
   },
   {
@@ -1283,7 +1283,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=pakistani_actors"
   },
   {
@@ -1292,7 +1292,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=russian_actors"
   },
   {
@@ -1301,7 +1301,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=spanish_actors"
   },
   {
@@ -1310,7 +1310,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=tamil_actors"
   },
   {
@@ -1319,7 +1319,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=telugu_actors"
   },
   {
@@ -1328,7 +1328,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=thai_actors"
   },
   {
@@ -1337,7 +1337,7 @@
     "type": "category",
     "universe": "actors",
     "path": "",
-    "parent": "actors",
+    "parent": "Actors",
     "url": "category.html?universe=actors&path=turkish_actors"
   },
   {
@@ -1346,7 +1346,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=arabic_actress"
   },
   {
@@ -1490,7 +1490,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=bengali_actress"
   },
   {
@@ -1499,7 +1499,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=chinese_actress"
   },
   {
@@ -1508,7 +1508,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=english_actress"
   },
   {
@@ -1517,7 +1517,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=french_actress"
   },
   {
@@ -1526,7 +1526,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=german_actress"
   },
   {
@@ -1535,7 +1535,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=hindi_actress"
   },
   {
@@ -1544,7 +1544,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=indonesian_actress"
   },
   {
@@ -1553,7 +1553,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=italian_actress"
   },
   {
@@ -1562,7 +1562,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=japanese_actress"
   },
   {
@@ -1571,7 +1571,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=kannada_actress"
   },
   {
@@ -1580,7 +1580,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=korean_actress"
   },
   {
@@ -1589,7 +1589,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=malayalam_actress"
   },
   {
@@ -1598,7 +1598,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=marathi_actress"
   },
   {
@@ -1607,7 +1607,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=pakistani_actress"
   },
   {
@@ -1616,7 +1616,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=russian_actress"
   },
   {
@@ -1625,7 +1625,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=spanish_actress"
   },
   {
@@ -1634,7 +1634,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=tamil_actress"
   },
   {
@@ -1643,7 +1643,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=telugu_actress"
   },
   {
@@ -1652,7 +1652,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=thai_actress"
   },
   {
@@ -1661,7 +1661,7 @@
     "type": "category",
     "universe": "actress",
     "path": "",
-    "parent": "actress",
+    "parent": "Actress",
     "url": "category.html?universe=actress&path=turkish_actress"
   },
   {
@@ -1670,7 +1670,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_agents"
   },
   {
@@ -1679,7 +1679,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_assistants"
   },
   {
@@ -1688,7 +1688,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_chatbots"
   },
   {
@@ -1697,7 +1697,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_coding_tools"
   },
   {
@@ -1706,7 +1706,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_image_generators"
   },
   {
@@ -1715,7 +1715,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_language_models"
   },
   {
@@ -1724,7 +1724,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_music_generators"
   },
   {
@@ -1733,7 +1733,7 @@
     "type": "category",
     "universe": "ai's",
     "path": "",
-    "parent": "ai's",
+    "parent": "Ai'S",
     "url": "category.html?universe=ai's&path=ai_video_generators"
   },
   {
@@ -1742,7 +1742,7 @@
     "type": "category",
     "universe": "animals",
     "path": "",
-    "parent": "animals",
+    "parent": "Animals",
     "url": "category.html?universe=animals&path=mammals"
   },
   {
@@ -1796,7 +1796,7 @@
     "type": "category",
     "universe": "animals",
     "path": "",
-    "parent": "animals",
+    "parent": "Animals",
     "url": "category.html?universe=animals&path=dogs"
   },
   {
@@ -1850,7 +1850,7 @@
     "type": "category",
     "universe": "animals",
     "path": "",
-    "parent": "animals",
+    "parent": "Animals",
     "url": "category.html?universe=animals&path=extinct_animals"
   },
   {
@@ -1904,7 +1904,7 @@
     "type": "category",
     "universe": "animals",
     "path": "",
-    "parent": "animals",
+    "parent": "Animals",
     "url": "category.html?universe=animals&path=insects"
   },
   {
@@ -1958,7 +1958,7 @@
     "type": "category",
     "universe": "animals",
     "path": "",
-    "parent": "animals",
+    "parent": "Animals",
     "url": "category.html?universe=animals&path=marine_animals"
   },
   {
@@ -2012,7 +2012,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=afro_samurai"
   },
   {
@@ -2021,7 +2021,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=ajin"
   },
   {
@@ -2030,7 +2030,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=akame_ga_kill"
   },
   {
@@ -2039,7 +2039,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=akira"
   },
   {
@@ -2048,7 +2048,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=another"
   },
   {
@@ -2057,7 +2057,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=apothecary_diaries"
   },
   {
@@ -2066,7 +2066,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=assassination_classroom"
   },
   {
@@ -2075,7 +2075,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=astra_lost_in_space"
   },
   {
@@ -2084,7 +2084,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=attack_on_titan"
   },
   {
@@ -2138,7 +2138,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=baki_hanma"
   },
   {
@@ -2147,7 +2147,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=banana_fish"
   },
   {
@@ -2156,7 +2156,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=beelzebub"
   },
   {
@@ -2165,7 +2165,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=berserk"
   },
   {
@@ -2174,7 +2174,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=black_butler"
   },
   {
@@ -2183,7 +2183,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=black_clover"
   },
   {
@@ -2192,7 +2192,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=bleach"
   },
   {
@@ -2246,7 +2246,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=bleach_thousand_year_blood_war"
   },
   {
@@ -2255,7 +2255,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=blue_box"
   },
   {
@@ -2264,7 +2264,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=blue_exorcist"
   },
   {
@@ -2273,7 +2273,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=blue_eye_samurai"
   },
   {
@@ -2282,7 +2282,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=blue_lock"
   },
   {
@@ -2291,7 +2291,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=boruto"
   },
   {
@@ -2300,7 +2300,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=bungo_stray_dogs"
   },
   {
@@ -2309,7 +2309,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=castlevania"
   },
   {
@@ -2318,7 +2318,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=chainsaw_man"
   },
   {
@@ -2327,7 +2327,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=classroom_of_the_elite"
   },
   {
@@ -2336,7 +2336,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=claymore"
   },
   {
@@ -2345,7 +2345,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=code_geass"
   },
   {
@@ -2354,7 +2354,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=cowboy_bebop"
   },
   {
@@ -2363,7 +2363,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=cyberpunk_edgerunners"
   },
   {
@@ -2372,7 +2372,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=d_gray_man"
   },
   {
@@ -2381,7 +2381,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dandadan"
   },
   {
@@ -2390,7 +2390,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dc_animated_universe"
   },
   {
@@ -2471,7 +2471,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=death_note"
   },
   {
@@ -2480,7 +2480,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=demon_slayer"
   },
   {
@@ -2489,7 +2489,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=devilman_crybaby"
   },
   {
@@ -2498,7 +2498,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dororo"
   },
   {
@@ -2507,7 +2507,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dragon_ball"
   },
   {
@@ -2561,7 +2561,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dragon_ball_daima"
   },
   {
@@ -2570,7 +2570,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dragon_ball_super"
   },
   {
@@ -2579,7 +2579,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dragon_ball_z"
   },
   {
@@ -2588,7 +2588,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=dr_stone"
   },
   {
@@ -2597,7 +2597,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=erased"
   },
   {
@@ -2606,7 +2606,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=fairy_tail"
   },
   {
@@ -2615,7 +2615,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=fate_unlimited_blade_works"
   },
   {
@@ -2624,7 +2624,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=fire_force"
   },
   {
@@ -2633,7 +2633,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=frieren_beyond_journeys_end"
   },
   {
@@ -2642,7 +2642,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=fullmetal_alchemist"
   },
   {
@@ -2651,7 +2651,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=gachiakuta"
   },
   {
@@ -2660,7 +2660,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=gintama"
   },
   {
@@ -2669,7 +2669,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=golden_kamuy"
   },
   {
@@ -2678,7 +2678,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=great_pretender"
   },
   {
@@ -2687,7 +2687,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=gurren_lagann"
   },
   {
@@ -2696,7 +2696,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=haikyuu"
   },
   {
@@ -2705,7 +2705,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=hellsing_ultimate"
   },
   {
@@ -2714,7 +2714,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=hunter_x_hunter"
   },
   {
@@ -2723,7 +2723,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=invincible"
   },
   {
@@ -2732,7 +2732,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=jojos_bizarre_adventure"
   },
   {
@@ -2741,7 +2741,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=jujutsu_kaisen"
   },
   {
@@ -2750,7 +2750,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=kaiju_no_8"
   },
   {
@@ -2759,7 +2759,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=kengan_ashura"
   },
   {
@@ -2768,7 +2768,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=kill_la_kill"
   },
   {
@@ -2777,7 +2777,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=kurokos_basketball"
   },
   {
@@ -2786,7 +2786,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=last_exile"
   },
   {
@@ -2795,7 +2795,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=link_click"
   },
   {
@@ -2804,7 +2804,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=marvel_animated_universe"
   },
   {
@@ -2813,7 +2813,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=mashle_magic_and_muscles"
   },
   {
@@ -2822,7 +2822,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=megalo_box"
   },
   {
@@ -2831,7 +2831,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=mob_psycho_100"
   },
   {
@@ -2840,7 +2840,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=monster"
   },
   {
@@ -2849,7 +2849,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=moriarty_the_patriot"
   },
   {
@@ -2858,7 +2858,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=mushoku_tensei"
   },
   {
@@ -2867,7 +2867,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=my_daemon"
   },
   {
@@ -2876,7 +2876,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=my_hero_academia"
   },
   {
@@ -2885,7 +2885,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=naruto"
   },
   {
@@ -3164,7 +3164,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=naruto_shippuden"
   },
   {
@@ -3173,7 +3173,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=neon_genesis_evangelion"
   },
   {
@@ -3182,7 +3182,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=no_game_no_life"
   },
   {
@@ -3191,7 +3191,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=noragami"
   },
   {
@@ -3200,7 +3200,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=one_piece"
   },
   {
@@ -4199,7 +4199,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=one_punch_man"
   },
   {
@@ -4208,7 +4208,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=overlord"
   },
   {
@@ -4217,7 +4217,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=pantheon"
   },
   {
@@ -4226,7 +4226,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=paranoia_agent"
   },
   {
@@ -4235,7 +4235,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=parasyte"
   },
   {
@@ -4244,7 +4244,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=pluto"
   },
   {
@@ -4253,7 +4253,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=psycho_pass"
   },
   {
@@ -4262,7 +4262,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=re_zero"
   },
   {
@@ -4271,7 +4271,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=record_of_ragnarok"
   },
   {
@@ -4280,7 +4280,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=rurouni_kenshin"
   },
   {
@@ -4289,7 +4289,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=sakamoto_days"
   },
   {
@@ -4298,7 +4298,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=samurai_champloo"
   },
   {
@@ -4307,7 +4307,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=serial_experiments_lain"
   },
   {
@@ -4316,7 +4316,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=shield_hero"
   },
   {
@@ -4325,7 +4325,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=sk8"
   },
   {
@@ -4334,7 +4334,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=solo_leveling"
   },
   {
@@ -4343,7 +4343,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=spy_x_family"
   },
   {
@@ -4352,7 +4352,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=steins_gate"
   },
   {
@@ -4361,7 +4361,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=swallowed_star"
   },
   {
@@ -4370,7 +4370,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=terror_in_resonance"
   },
   {
@@ -4379,7 +4379,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=that_time_i_got_reincarnated_as_a_slime"
   },
   {
@@ -4388,7 +4388,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=the_daily_life_of_the_immortal_king"
   },
   {
@@ -4397,7 +4397,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=the_eminence_in_shadow"
   },
   {
@@ -4406,7 +4406,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=the_god_of_high_school"
   },
   {
@@ -4415,7 +4415,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=the_legend_of_hanuman"
   },
   {
@@ -4424,7 +4424,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=the_promised_neverland"
   },
   {
@@ -4433,7 +4433,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=the_seven_deadly_sins"
   },
   {
@@ -4442,7 +4442,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=to_your_eternity"
   },
   {
@@ -4451,7 +4451,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=tokyo_ghoul"
   },
   {
@@ -4460,7 +4460,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=tokyo_revengers"
   },
   {
@@ -4469,7 +4469,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=tower_of_god"
   },
   {
@@ -4478,7 +4478,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=vinland_saga"
   },
   {
@@ -4487,7 +4487,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=violet_evergarden"
   },
   {
@@ -4496,7 +4496,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=wind_breaker"
   },
   {
@@ -4505,7 +4505,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=yuri_on_ice"
   },
   {
@@ -4514,7 +4514,7 @@
     "type": "category",
     "universe": "anime",
     "path": "",
-    "parent": "anime",
+    "parent": "Anime",
     "url": "category.html?universe=anime&path=zom_100"
   },
   {
@@ -4523,7 +4523,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=blood_types"
   },
   {
@@ -4532,7 +4532,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=bones"
   },
   {
@@ -4541,7 +4541,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=cells"
   },
   {
@@ -4550,7 +4550,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=diseases"
   },
   {
@@ -4559,7 +4559,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=human_body"
   },
   {
@@ -4568,7 +4568,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=muscles"
   },
   {
@@ -4577,7 +4577,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=organs"
   },
   {
@@ -4586,7 +4586,7 @@
     "type": "category",
     "universe": "biology",
     "path": "",
-    "parent": "biology",
+    "parent": "Biology",
     "url": "category.html?universe=biology&path=systems"
   },
   {
@@ -4595,7 +4595,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=adventure_time"
   },
   {
@@ -4604,7 +4604,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=adventures_masters_of_time"
   },
   {
@@ -4613,7 +4613,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=aladdin"
   },
   {
@@ -4622,7 +4622,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=american_dragon_jake_long"
   },
   {
@@ -4631,7 +4631,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=angry_birds_toons"
   },
   {
@@ -4640,7 +4640,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=annas_tales"
   },
   {
@@ -4649,7 +4649,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=astro_boy"
   },
   {
@@ -4658,7 +4658,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=avatar_the_last_airbender"
   },
   {
@@ -4667,7 +4667,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=balin"
   },
   {
@@ -4676,7 +4676,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=bandolero"
   },
   {
@@ -4685,7 +4685,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ben_10_alien_force"
   },
   {
@@ -4694,7 +4694,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ben_10_classic"
   },
   {
@@ -4703,7 +4703,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ben_10_omniverse"
   },
   {
@@ -4712,7 +4712,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ben_10_reboot"
   },
   {
@@ -4721,7 +4721,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ben_10_ultimate_alien"
   },
   {
@@ -4730,7 +4730,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=bernard"
   },
   {
@@ -4739,7 +4739,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=beyblade"
   },
   {
@@ -4748,7 +4748,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=beyblade_burst"
   },
   {
@@ -4757,7 +4757,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=big_hero_6_the_series"
   },
   {
@@ -4766,7 +4766,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=bob_morane"
   },
   {
@@ -4775,7 +4775,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=boboiboy"
   },
   {
@@ -4784,7 +4784,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=bommi_and_friends"
   },
   {
@@ -4793,7 +4793,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=bumba"
   },
   {
@@ -4802,7 +4802,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=cedri"
   },
   {
@@ -4811,7 +4811,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=chhota_bheem"
   },
   {
@@ -4820,7 +4820,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=codename_kids_next_door"
   },
   {
@@ -4829,7 +4829,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=courage_the_cowardly_dog"
   },
   {
@@ -4838,7 +4838,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=creepschool"
   },
   {
@@ -4847,7 +4847,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=danny_and_daddy"
   },
   {
@@ -4856,7 +4856,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=dexters_laboratory"
   },
   {
@@ -4865,7 +4865,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=dibo_the_gift_dragon"
   },
   {
@@ -4874,7 +4874,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=dinky_dog"
   },
   {
@@ -4883,7 +4883,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=dora_the_explorer"
   },
   {
@@ -4892,7 +4892,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=doraemon"
   },
   {
@@ -4901,7 +4901,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=dragon_booster"
   },
   {
@@ -4910,7 +4910,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=dragon_hunters"
   },
   {
@@ -4919,7 +4919,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=dragon_tales"
   },
   {
@@ -4928,7 +4928,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=duck_tales"
   },
   {
@@ -4937,7 +4937,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ed_edd_n_eddy"
   },
   {
@@ -4946,7 +4946,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=gadget_boy_and_heather"
   },
   {
@@ -4955,7 +4955,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=gee_boom_boy"
   },
   {
@@ -4964,7 +4964,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=generator_rex"
   },
   {
@@ -4973,7 +4973,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=george_of_the_jungle"
   },
   {
@@ -4982,7 +4982,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=geronimo_stilton"
   },
   {
@@ -4991,7 +4991,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=glorias_house"
   },
   {
@@ -5000,7 +5000,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=godzilla_the_series"
   },
   {
@@ -5009,7 +5009,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=gravity_falls"
   },
   {
@@ -5018,7 +5018,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=grizzy_and_the_lemmings"
   },
   {
@@ -5027,7 +5027,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=hagemaru"
   },
   {
@@ -5036,7 +5036,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=handy_manny"
   },
   {
@@ -5045,7 +5045,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=he_man_and_the_masters_of_the_universe"
   },
   {
@@ -5054,7 +5054,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=heidi"
   },
   {
@@ -5063,7 +5063,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=iron_kid"
   },
   {
@@ -5072,7 +5072,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=jack_and_marcel"
   },
   {
@@ -5081,7 +5081,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=jackie_chan_adventures"
   },
   {
@@ -5090,7 +5090,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=johnny_bravo"
   },
   {
@@ -5099,7 +5099,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=jumanji"
   },
   {
@@ -5108,7 +5108,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=kid_paddle"
   },
   {
@@ -5117,7 +5117,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=krypto_the_superdog"
   },
   {
@@ -5126,7 +5126,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=lamput"
   },
   {
@@ -5135,7 +5135,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=leon"
   },
   {
@@ -5144,7 +5144,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=little_singham"
   },
   {
@@ -5153,7 +5153,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=looney_tunes"
   },
   {
@@ -5162,7 +5162,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=lucky_luke"
   },
   {
@@ -5171,7 +5171,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=magic_wonderland"
   },
   {
@@ -5180,7 +5180,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=master_raindrop"
   },
   {
@@ -5189,7 +5189,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=men_in_black_the_series"
   },
   {
@@ -5198,7 +5198,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=motu_patlu"
   },
   {
@@ -5207,7 +5207,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ninja_hattori"
   },
   {
@@ -5216,7 +5216,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=oggy_and_the_cockroaches"
   },
   {
@@ -5225,7 +5225,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=olympus_guardian"
   },
   {
@@ -5234,7 +5234,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=pakdam_pakdai"
   },
   {
@@ -5243,7 +5243,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=perman"
   },
   {
@@ -5252,7 +5252,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=pinaki_and_happy_the_bhoot_bandus"
   },
   {
@@ -5261,7 +5261,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=regular_show"
   },
   {
@@ -5270,7 +5270,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=roll_no_21"
   },
   {
@@ -5279,7 +5279,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=rudra"
   },
   {
@@ -5288,7 +5288,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=samurai_jack"
   },
   {
@@ -5297,7 +5297,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=scooby_doo"
   },
   {
@@ -5306,7 +5306,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=shaun_the_sheep"
   },
   {
@@ -5315,7 +5315,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=shiva"
   },
   {
@@ -5324,7 +5324,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=steven_universe"
   },
   {
@@ -5333,7 +5333,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=stuart_little"
   },
   {
@@ -5342,7 +5342,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=super_suji"
   },
   {
@@ -5351,7 +5351,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=super_why"
   },
   {
@@ -5360,7 +5360,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=the_adventures_of_bernie"
   },
   {
@@ -5369,7 +5369,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=the_adventures_of_tenali_raman"
   },
   {
@@ -5378,7 +5378,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=the_amazing_world_of_gumball"
   },
   {
@@ -5387,7 +5387,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=the_fantastic_voyages_of_sinbad"
   },
   {
@@ -5396,7 +5396,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=the_grim_adventures_of_billy_and_mandy"
   },
   {
@@ -5405,7 +5405,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=the_penguins_of_madagascar"
   },
   {
@@ -5414,7 +5414,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=the_powerpuff_girls"
   },
   {
@@ -5423,7 +5423,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=thomas_and_friends"
   },
   {
@@ -5432,7 +5432,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=timon_and_pumbaa"
   },
   {
@@ -5441,7 +5441,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=ting_tong"
   },
   {
@@ -5450,7 +5450,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=tom_and_jerry"
   },
   {
@@ -5459,7 +5459,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=we_bare_bears"
   },
   {
@@ -5468,7 +5468,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=wondrous_myths_and_legends"
   },
   {
@@ -5477,7 +5477,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=world_ahoy"
   },
   {
@@ -5486,7 +5486,7 @@
     "type": "category",
     "universe": "cartoons",
     "path": "",
-    "parent": "cartoons",
+    "parent": "Cartoons",
     "url": "category.html?universe=cartoons&path=zig_and_sharko"
   },
   {
@@ -5495,7 +5495,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=acids"
   },
   {
@@ -5504,7 +5504,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=bases"
   },
   {
@@ -5513,7 +5513,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=chemical_reactions"
   },
   {
@@ -5522,7 +5522,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=compounds"
   },
   {
@@ -5531,7 +5531,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=elements"
   },
   {
@@ -5540,7 +5540,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=periodic_table"
   },
   {
@@ -5549,7 +5549,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=salts"
   },
   {
@@ -5558,7 +5558,7 @@
     "type": "category",
     "universe": "chemistry",
     "path": "",
-    "parent": "chemistry",
+    "parent": "Chemistry",
     "url": "category.html?universe=chemistry&path=solutions"
   },
   {
@@ -5567,7 +5567,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=american_food"
   },
   {
@@ -5576,7 +5576,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=arabic_food"
   },
   {
@@ -5585,7 +5585,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=bakery_items"
   },
   {
@@ -5594,7 +5594,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=beverages"
   },
   {
@@ -5603,7 +5603,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=chinese_food"
   },
   {
@@ -5612,7 +5612,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=desserts"
   },
   {
@@ -5621,7 +5621,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=fast_food"
   },
   {
@@ -5630,7 +5630,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=indian_food"
   },
   {
@@ -5639,7 +5639,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=italian_food"
   },
   {
@@ -5648,7 +5648,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=japanese_food"
   },
   {
@@ -5657,7 +5657,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=junk_food"
   },
   {
@@ -5666,7 +5666,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=juices"
   },
   {
@@ -5675,7 +5675,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=keto_food"
   },
   {
@@ -5684,7 +5684,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=korean_food"
   },
   {
@@ -5693,7 +5693,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=mexican_food"
   },
   {
@@ -5702,7 +5702,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=non_veg_food"
   },
   {
@@ -5711,7 +5711,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=protein_food"
   },
   {
@@ -5720,7 +5720,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=seafood"
   },
   {
@@ -5729,7 +5729,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=soft_drinks"
   },
   {
@@ -5738,7 +5738,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=street_food"
   },
   {
@@ -5747,7 +5747,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=sweets"
   },
   {
@@ -5756,7 +5756,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=thai_food"
   },
   {
@@ -5765,7 +5765,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=vegan"
   },
   {
@@ -5774,7 +5774,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=vegetarian"
   },
   {
@@ -5783,7 +5783,7 @@
     "type": "category",
     "universe": "foods",
     "path": "",
-    "parent": "foods",
+    "parent": "Foods",
     "url": "category.html?universe=foods&path=veg_food"
   },
   {
@@ -5837,7 +5837,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=african_gods"
   },
   {
@@ -5846,7 +5846,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=aztec_gods"
   },
   {
@@ -5855,7 +5855,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=buddhist_gods"
   },
   {
@@ -5864,7 +5864,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=celtic_gods"
   },
   {
@@ -5873,7 +5873,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=chinese_gods"
   },
   {
@@ -5882,7 +5882,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=egyptian_gods"
   },
   {
@@ -5891,7 +5891,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=greek_gods"
   },
   {
@@ -5900,7 +5900,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=hindu_gods"
   },
   {
@@ -5909,7 +5909,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=japanese_gods"
   },
   {
@@ -5918,7 +5918,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=mesopotamian_gods"
   },
   {
@@ -5927,7 +5927,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=norse_gods"
   },
   {
@@ -5936,7 +5936,7 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=roman_gods"
   },
   {
@@ -5945,8 +5945,368 @@
     "type": "category",
     "universe": "gods",
     "path": "",
-    "parent": "gods",
+    "parent": "Gods",
     "url": "category.html?universe=gods&path=slavic_gods"
+  },
+  {
+    "name": "Anzu",
+    "id": "anzu",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=anzu"
+  },
+  {
+    "name": "Apep",
+    "id": "apep",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=apep"
+  },
+  {
+    "name": "Aspidochelone",
+    "id": "aspidochelone",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=aspidochelone"
+  },
+  {
+    "name": "Asura",
+    "id": "asura",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=asura"
+  },
+  {
+    "name": "Baba Yaga",
+    "id": "baba_yaga",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=baba_yaga"
+  },
+  {
+    "name": "Banshee",
+    "id": "banshee",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=banshee"
+  },
+  {
+    "name": "Basilisk",
+    "id": "basilisk",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=basilisk"
+  },
+  {
+    "name": "Behemoth",
+    "id": "behemoth",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=behemoth"
+  },
+  {
+    "name": "Black Dog",
+    "id": "black_dog",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=black_dog"
+  },
+  {
+    "name": "Brownie",
+    "id": "brownie",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=brownie"
+  },
+  {
+    "name": "Camazotz",
+    "id": "camazotz",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=camazotz"
+  },
+  {
+    "name": "Centaur",
+    "id": "centaur",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=centaur"
+  },
+  {
+    "name": "Cerberus",
+    "id": "cerberus",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=cerberus"
+  },
+  {
+    "name": "Charybdis",
+    "id": "charybdis",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=charybdis"
+  },
+  {
+    "name": "Chimera",
+    "id": "chimera",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=chimera"
+  },
+  {
+    "name": "Chupacabra",
+    "id": "chupacabra",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=chupacabra"
+  },
+  {
+    "name": "Demon",
+    "id": "demon",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=demon"
+  },
+  {
+    "name": "Dragon",
+    "id": "dragon",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=dragon"
+  },
+  {
+    "name": "Dryad",
+    "id": "dryad",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=dryad"
+  },
+  {
+    "name": "Dullahan",
+    "id": "dullahan",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=dullahan"
+  },
+  {
+    "name": "Dwarf",
+    "id": "dwarf",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=dwarf"
+  },
+  {
+    "name": "Echidna",
+    "id": "echidna",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=echidna"
+  },
+  {
+    "name": "Elf",
+    "id": "elf",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=elf"
+  },
+  {
+    "name": "Fairy",
+    "id": "fairy",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=fairy"
+  },
+  {
+    "name": "Fenrir",
+    "id": "fenrir",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=fenrir"
+  },
+  {
+    "name": "Gandharva",
+    "id": "gandharva",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=gandharva"
+  },
+  {
+    "name": "Garuda",
+    "id": "garuda",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=garuda"
+  },
+  {
+    "name": "Ghoul",
+    "id": "ghoul",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=ghoul"
+  },
+  {
+    "name": "Gorgon",
+    "id": "gorgon",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=gorgon"
+  },
+  {
+    "name": "Griffin",
+    "id": "griffin",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=griffin"
+  },
+  {
+    "name": "Harpy",
+    "id": "harpy",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=harpy"
+  },
+  {
+    "name": "Hippogriff",
+    "id": "hippogriff",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=hippogriff"
+  },
+  {
+    "name": "Hydra",
+    "id": "hydra",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=hydra"
+  },
+  {
+    "name": "Incubus",
+    "id": "incubus",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=incubus"
+  },
+  {
+    "name": "Jersey Devil",
+    "id": "jersey_devil",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=jersey_devil"
+  },
+  {
+    "name": "Jormungandr",
+    "id": "jormungandr",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=jormungandr"
+  },
+  {
+    "name": "Kelpie",
+    "id": "kelpie",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=kelpie"
+  },
+  {
+    "name": "Kinnara",
+    "id": "kinnara",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=kinnara"
+  },
+  {
+    "name": "Kitsune",
+    "id": "kitsune",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=kitsune"
+  },
+  {
+    "name": "Kraken",
+    "id": "kraken",
+    "type": "entity",
+    "universe": "mythical_creatures",
+    "path": "",
+    "parent": "Mythical Creatures",
+    "url": "entity.html?universe=mythical_creatures&id=kraken"
   },
   {
     "name": "Atmosphere",
@@ -5954,7 +6314,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=atmosphere"
   },
   {
@@ -5963,7 +6323,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=biomes"
   },
   {
@@ -5972,7 +6332,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=climate"
   },
   {
@@ -5981,7 +6341,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=ecosystems"
   },
   {
@@ -5990,7 +6350,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=forests"
   },
   {
@@ -5999,7 +6359,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=islands"
   },
   {
@@ -6008,7 +6368,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=lakes"
   },
   {
@@ -6017,7 +6377,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=mountains"
   },
   {
@@ -6026,7 +6386,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=natural_disasters"
   },
   {
@@ -6035,7 +6395,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=oceans"
   },
   {
@@ -6044,7 +6404,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=rivers"
   },
   {
@@ -6053,7 +6413,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=seas"
   },
   {
@@ -6062,7 +6422,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=valleys"
   },
   {
@@ -6071,7 +6431,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=volcanoes"
   },
   {
@@ -6080,7 +6440,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=waterfalls"
   },
   {
@@ -6089,7 +6449,7 @@
     "type": "category",
     "universe": "natures",
     "path": "",
-    "parent": "natures",
+    "parent": "Natures",
     "url": "category.html?universe=natures&path=weather"
   },
   {
@@ -6098,7 +6458,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=asteroids"
   },
   {
@@ -6107,7 +6467,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=black_holes"
   },
   {
@@ -6116,7 +6476,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=comets"
   },
   {
@@ -6125,7 +6485,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=constellations"
   },
   {
@@ -6134,7 +6494,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=galaxies"
   },
   {
@@ -6143,7 +6503,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=moons"
   },
   {
@@ -6152,7 +6512,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=nebulae"
   },
   {
@@ -6161,7 +6521,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=planets"
   },
   {
@@ -6170,7 +6530,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=satellites"
   },
   {
@@ -6179,7 +6539,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=space_missions"
   },
   {
@@ -6188,7 +6548,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=space_stations"
   },
   {
@@ -6197,7 +6557,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=stars"
   },
   {
@@ -6206,7 +6566,7 @@
     "type": "category",
     "universe": "space",
     "path": "",
-    "parent": "space",
+    "parent": "Space",
     "url": "category.html?universe=space&path=telescopes"
   },
   {
@@ -6215,7 +6575,7 @@
     "type": "category",
     "universe": "sports",
     "path": "",
-    "parent": "sports",
+    "parent": "Sports",
     "url": "category.html?universe=sports&path=cricket"
   },
   {
@@ -9563,7 +9923,7 @@
     "type": "category",
     "universe": "sports",
     "path": "",
-    "parent": "sports",
+    "parent": "Sports",
     "url": "category.html?universe=sports&path=football"
   },
   {
@@ -9842,7 +10202,7 @@
     "type": "category",
     "universe": "sports",
     "path": "",
-    "parent": "sports",
+    "parent": "Sports",
     "url": "category.html?universe=sports&path=basketball"
   },
   {
@@ -10121,7 +10481,7 @@
     "type": "category",
     "universe": "sports",
     "path": "",
-    "parent": "sports",
+    "parent": "Sports",
     "url": "category.html?universe=sports&path=tennis"
   },
   {
@@ -10175,7 +10535,7 @@
     "type": "category",
     "universe": "sports",
     "path": "",
-    "parent": "sports",
+    "parent": "Sports",
     "url": "category.html?universe=sports&path=formula_1"
   },
   {

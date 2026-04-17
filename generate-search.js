@@ -3,58 +3,79 @@ const fs = require("fs");
 const dataFolder = "./data";
 const searchData = [];
 
-/* LOAD UNIVERSes */
+/* ================= HELPER ================= */
+
+function formatName(str){
+  return str
+    .replace(/_/g," ")
+    .replace(/\b\w/g,c=>c.toUpperCase());
+}
+
+/* ================= LOAD UNIVERSes ================= */
 
 const universes = JSON.parse(
-fs.readFileSync(`${dataFolder}/universes.json`, "utf8")
+  fs.readFileSync(`${dataFolder}/universes.json`, "utf8")
 );
 
-/* ADD UNIVERSes */
+/* ================= ADD UNIVERSes ================= */
 
 universes.forEach(u => {
 
-searchData.push({
-name: u.name,
-id: u.id,
-type: "universe",
-universe: u.id,
-path: "",
-parent: "",
-url: `category.html?universe=${u.id}`
-});
+  searchData.push({
+    name: u.name,
+    id: u.id,
+    type: "universe",
+    universe: u.id,
+    path: "",
+    parent: "",
+    url: `category.html?universe=${u.id}`
+  });
 
 });
 
-/* RECURSIVE FUNCTION */
+/* ================= GET ROOT FILE ================= */
+
+function getRootFile(universe){
+
+  if (universe === "fruits") {
+    return `${dataFolder}/fruits/fruits.json`;
+  }
+
+  if (universe === "mythical_creatures") {
+    return `${dataFolder}/mythical_creatures/mythical_creatures.json`;
+  }
+
+  return `${dataFolder}/${universe}/categories.json`;
+}
+
+/* ================= RECURSIVE SCAN ================= */
 
 function scan(universe, currentPath = "", parentName = "") {
 
   let filePath;
 
   if (currentPath === "") {
-
-    // 🔥 FIX: handle different root types
-
-    if (universe === "fruits") {
-      filePath = `${dataFolder}/fruits/fruits.json`;
-
-    } else if (universe === "mythical_creatures") {
-      filePath = `${dataFolder}/mythical_creatures/mythical_creatures.json`;
-
-    } else {
-      filePath = `${dataFolder}/${universe}/categories.json`;
-    }
-
+    filePath = getRootFile(universe);
   } else {
-
     const last = currentPath.split(",").pop();
     filePath = `${dataFolder}/${universe}/${last}.json`;
-
   }
+
+  // DEBUG (optional)
+  // console.log("Scanning:", filePath);
 
   if (!fs.existsSync(filePath)) return;
 
-  const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+  let data;
+
+  try{
+    data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+  }catch(err){
+    console.error("❌ JSON Error in:", filePath);
+    return;
+  }
+
+  if (!Array.isArray(data)) return;
 
   data.forEach(item => {
 
@@ -62,7 +83,7 @@ function scan(universe, currentPath = "", parentName = "") {
       ? `${currentPath},${item.id}`
       : item.id;
 
-    /* CATEGORY */
+    /* ================= CATEGORY ================= */
 
     if (item.type === "category") {
 
@@ -72,14 +93,14 @@ function scan(universe, currentPath = "", parentName = "") {
         type: "category",
         universe: universe,
         path: currentPath,
-        parent: parentName || universe,
+        parent: parentName || formatName(universe),
         url: `category.html?universe=${universe}&path=${newPath}`
       });
 
       scan(universe, newPath, item.name);
     }
 
-    /* ENTITY */
+    /* ================= ENTITY ================= */
 
     if (item.type === "entity") {
 
@@ -90,53 +111,28 @@ function scan(universe, currentPath = "", parentName = "") {
         universe: universe,
         path: currentPath,
         parent: parentName || formatName(universe),
-        url: `entity.html?universe=${universe}&path=${currentPath}&id=${item.id}`
+        url: currentPath
+          ? `entity.html?universe=${universe}&path=${currentPath}&id=${item.id}`
+          : `entity.html?universe=${universe}&id=${item.id}`
       });
+
     }
 
   });
 
 }
 
-/* RUN */
+/* ================= RUN ================= */
 
 universes.forEach(u => {
-
-  if(u.id === "fruits"){
-
-    const fruitsFile = `${dataFolder}/fruits/fruits.json`;
-
-    if(fs.existsSync(fruitsFile)){
-
-      const fruits = JSON.parse(fs.readFileSync(fruitsFile,"utf8"));
-
-      fruits.forEach(item => {
-
-        searchData.push({
-          name: item.name,
-          id: item.id,
-          type: "entity",
-          universe: "fruits",
-          path: "",
-          parent: "Fruits",
-          url: `entity.html?universe=fruits&id=${item.id}`
-        });
-
-      });
-
-    }
-
-  }else{
-    scan(u.id);
-  }
-
+  scan(u.id);
 });
 
-/* SAVE */
+/* ================= SAVE ================= */
 
 fs.writeFileSync(
-`${dataFolder}/search-data.json`,
-JSON.stringify(searchData,null,2)
+  `${dataFolder}/search-data.json`,
+  JSON.stringify(searchData, null, 2)
 );
 
-console.log("✅ Search data generated correctly");
+console.log("✅ Search data generated successfully");
