@@ -1,0 +1,796 @@
+[
+{
+"id":"aericura",
+"name":"Aericura",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=aericura",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Underworld Goddess","Powers:":"Afterlife / Fertility","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Aericura is a Gaulish goddess associated with the underworld and fertility.</li><li>She is often linked with prosperity and life after death.</li><li>She represents both death and rebirth.</li><li>She is sometimes paired with the god Dis Pater.</li><li>She symbolizes the cycle of life and the afterlife.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Afterlife Control – Governs the realm of the dead.</li><li>Fertility – Represents growth and renewal.</li><li>Wealth – Associated with prosperity.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped in Gaul and parts of Europe.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"aengus",
+"name":"Aengus",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=aengus",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Love God","Powers:":"Love / Youth / Beauty","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Aengus is the Irish god of love, youth, and poetic inspiration.</li><li>He is known for his charm and beauty.</li><li>He is associated with romance and dreams.</li><li>He lives in the magical palace of Brú na Bóinne.</li><li>He symbolizes eternal youth and desire.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Love Manipulation – Inspires romance.</li><li>Youth – Represents eternal beauty.</li><li>Dream Influence – Controls dreams.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Son of The Dagda.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"airmed",
+"name":"Airmed",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=airmed",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Healing Goddess","Powers:":"Healing / Herbs","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Airmed is the goddess of healing and herbal medicine.</li><li>She is known for her deep knowledge of plants.</li><li>She restores life and health.</li><li>She represents natural healing.</li><li>She symbolizes medical wisdom.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing – Cures wounds.</li><li>Herbal Knowledge – Uses plants for medicine.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Daughter of Dian Cecht.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"amaethon",
+"name":"Amaethon",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=amaethon",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Agriculture God","Powers:":"Farming / Growth","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Amaethon is a Welsh god of agriculture and farming.</li><li>He represents growth and cultivation.</li><li>He is associated with fertility of the land.</li><li>He plays a role in mythological battles.</li><li>He symbolizes sustenance and food production.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Crop Growth – Enhances agriculture.</li><li>Fertility – Supports land productivity.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Brother of Gwydion.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"andraste",
+"name":"Andraste",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=andraste",
+"parent":"celtic_gods",
+"info":{"Origin:":"Celtic Mythology","Type:":"War Goddess","Powers:":"War / Victory","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Andraste is a Celtic goddess of war and victory.</li><li>She was worshipped by warriors.</li><li>She represents triumph in battle.</li><li>She symbolizes strength and courage.</li><li>She is associated with leadership in war.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>War Power – Strength in battle.</li><li>Victory – Ensures success.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with Queen Boudica.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"arawn",
+"name":"Arawn",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=arawn",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Underworld King","Powers:":"Death / Magic","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Arawn is the ruler of the Welsh underworld, Annwn.</li><li>He governs souls and the afterlife.</li><li>He represents mystery and death.</li><li>He is depicted as fair and just.</li><li>He symbolizes the unseen world.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Underworld Control</li><li>Magic</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Appears in the Mabinogion.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"arduinna",
+"name":"Arduinna",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=arduinna",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Forest Goddess","Powers:":"Nature / Animals","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Arduinna is a goddess of forests and wild animals.</li><li>She represents wilderness and nature.</li><li>She is often depicted with a boar.</li><li>She protects forests.</li><li>She symbolizes untamed nature.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Nature Control</li><li>Animal Connection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped in the Ardennes region.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"badb",
+"name":"Badb",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=badb",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"War Goddess","Powers:":"War / Fate","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Badb is a war goddess associated with fate and battle.</li><li>She appears as a crow on battlefields.</li><li>She influences victory and death.</li><li>She is part of the Morrigan.</li><li>She symbolizes chaos in war.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>War Influence</li><li>Fate Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked to prophecy in battle.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"banba",
+"name":"Banba",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=banba",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Land Goddess","Powers:":"Land / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Banba is a goddess representing Ireland.</li><li>She protects the land.</li><li>She symbolizes sovereignty.</li><li>She is one of three land goddesses.</li><li>She represents national identity.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Land Protection</li><li>Territory Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of Ireland’s ancient names comes from her.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"belenus",
+"name":"Belenus",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=belenus",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Sun God","Powers:":"Sun / Healing","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Belenus is a sun god associated with light and healing.</li><li>He brings warmth and health.</li><li>He is linked to fire festivals.</li><li>He represents life energy.</li><li>He symbolizes renewal.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Sun Power</li><li>Healing</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Connected to Beltane festival.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"belisama",
+"name":"Belisama",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=belisama",
+"parent":"celtic_gods",
+"info":{"Origin:":"Celtic Mythology","Type:":"Fire Goddess","Powers:":"Fire / Light","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Belisama is a goddess of fire and light.</li><li>She represents brightness and brilliance.</li><li>She is associated with crafts.</li><li>She symbolizes inspiration.</li><li>She is linked with creativity.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fire</li><li>Light</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Her name means “Most Bright”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"blodeuwedd",
+"name":"Blodeuwedd",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=blodeuwedd",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Flower Goddess","Powers:":"Transformation / Nature","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Blodeuwedd is a woman created from flowers.</li><li>She represents beauty and nature.</li><li>She later transforms into an owl.</li><li>She symbolizes transformation.</li><li>She is part of Welsh myths.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Transformation</li><li>Nature Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Created by Gwydion.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bodb_derg",
+"name":"Bodb Derg",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=bodb_derg",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"King of Fairies","Powers:":"Magic / Leadership","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Bodb Derg is a king of the Tuatha Dé Danann.</li><li>He rules over fairy beings.</li><li>He represents leadership.</li><li>He is associated with magic.</li><li>He symbolizes authority.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Magic</li><li>Leadership</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Son of The Dagda.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"bran_the_blessed",
+"name":"Bran the Blessed",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=bran_the_blessed",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Giant King","Powers:":"Strength / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Bran the Blessed is a giant king and hero in Welsh mythology.</li><li>He is known for his immense size and strength.</li><li>He protects Britain and its people.</li><li>Even after death, his head continues to guard the land.</li><li>He symbolizes sacrifice and protection.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Super Strength – Immense physical power.</li><li>Protection – Guards the land.</li><li>Endurance – Survives beyond death.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>His head was buried to protect Britain.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"brigid",
+"name":"Brigid",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=brigid",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Goddess of Fire","Powers:":"Fire / Healing / Poetry","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Brigid is one of the most important Irish goddesses.</li><li>She is associated with fire, healing, and poetry.</li><li>She represents creativity and wisdom.</li><li>She is connected to the festival of Imbolc.</li><li>She symbolizes inspiration and life.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fire – Represents energy.</li><li>Healing – Restores health.</li><li>Inspiration – Enhances creativity.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Later associated with Saint Brigid.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"camulus",
+"name":"Camulus",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=camulus",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"War God","Powers:":"War / Strength","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Camulus is a Celtic war god worshipped in Gaul.</li><li>He represents battle and strength.</li><li>He is associated with warriors.</li><li>He symbolizes courage and power.</li><li>He is sometimes linked with Mars.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>War – Enhances combat ability.</li><li>Strength – Provides power.</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped in ancient Britain.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cernunnos",
+"name":"Cernunnos",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=cernunnos",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Nature God","Powers:":"Animals / Nature / Wealth","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Cernunnos is the horned god of nature and animals.</li><li>He is associated with forests and wildlife.</li><li>He represents fertility and abundance.</li><li>He is depicted with antlers.</li><li>He symbolizes the wild world.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Animal Control</li><li>Nature Influence</li><li>Wealth</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the most iconic Celtic gods.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cerridwen",
+"name":"Cerridwen",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=cerridwen",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Magic Goddess","Powers:":"Magic / Transformation","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Cerridwen is a goddess of magic, transformation, and knowledge.</li><li>She owns a cauldron of wisdom.</li><li>She represents change and rebirth.</li><li>She is a powerful sorceress.</li><li>She symbolizes knowledge and power.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Magic</li><li>Transformation</li><li>Wisdom</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Mother of Taliesin.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"cliodhna",
+"name":"Clíodhna",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=cliodhna",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Sea Goddess","Powers:":"Ocean / Beauty","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Clíodhna is a goddess of the sea and beauty.</li><li>She is associated with waves and the coastline.</li><li>She represents charm and attraction.</li><li>She is connected with fairy realms.</li><li>She symbolizes mystery and allure.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control</li><li>Beauty</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked with southern Ireland.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"coventina",
+"name":"Coventina",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=coventina",
+"parent":"celtic_gods",
+"info":{"Origin:":"Celtic Mythology","Type:":"Water Goddess","Powers:":"Water / Healing","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Coventina is a goddess of springs and wells.</li><li>She is associated with healing waters.</li><li>She represents purity.</li><li>She protects water sources.</li><li>She symbolizes renewal.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Healing</li><li>Purification</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped in Roman Britain.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"danu",
+"name":"Danu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=danu",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Mother Goddess","Powers:":"Creation / Fertility","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Danu is the mother goddess of the Tuatha Dé Danann.</li><li>She represents creation and fertility.</li><li>She is a source of life.</li><li>She symbolizes abundance.</li><li>She is one of the most important deities.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Creation</li><li>Fertility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Ancestor of many Irish gods.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"dian_cecht",
+"name":"Dian Cecht",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=dian_cecht",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Healing God","Powers:":"Medicine / Healing","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Dian Cecht is the god of healing and medicine.</li><li>He restores warriors in battle.</li><li>He is associated with magical healing wells.</li><li>He represents knowledge of medicine.</li><li>He symbolizes restoration.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing</li><li>Medical Knowledge</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Father of Airmed.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"dylan_ail_don",
+"name":"Dylan ail Don",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=dylan_ail_don",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Sea God","Powers:":"Water / Ocean","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Dylan ail Don is a sea god associated with the ocean.</li><li>He is connected to waves and tides.</li><li>He represents fluidity and motion.</li><li>He is part of Welsh mythology.</li><li>He symbolizes natural forces.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Control</li><li>Ocean Influence</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Died shortly after birth.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"epona",
+"name":"Epona",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=epona",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Horse Goddess","Powers:":"Animals / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Epona is a goddess associated with horses.</li><li>She protects travelers.</li><li>She represents movement and strength.</li><li>She is widely worshipped.</li><li>She symbolizes freedom.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Animal Control</li><li>Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Adopted by Roman cavalry.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"eriu",
+"name":"Eriu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=eriu",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Land Goddess","Powers:":"Sovereignty / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Eriu is one of the goddesses representing Ireland.</li><li>She gives the land its name.</li><li>She symbolizes sovereignty.</li><li>She protects the land.</li><li>She represents identity.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Land Protection</li><li>Sovereignty</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Ireland’s name comes from her.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"esus",
+"name":"Esus",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=esus",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"War God","Powers:":"Strength / Sacrifice","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Esus is a mysterious Gaulish god associated with strength and possibly war.</li><li>He is depicted cutting trees.</li><li>He represents power and force.</li><li>He is linked to sacrifice rituals.</li><li>He symbolizes strength and endurance.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Strength</li><li>Endurance</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the triad of Gaulish gods.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"flidais",
+"name":"Flidais",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=flidais",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Nature Goddess","Powers:":"Animals / Fertility","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Flidais is a goddess of forests, animals, and fertility.</li><li>She is associated with deer and wild creatures.</li><li>She represents abundance in nature.</li><li>She provides nourishment and sustenance.</li><li>She symbolizes harmony with wildlife.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Animal Control</li><li>Fertility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as a provider of milk from magical cattle.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"fodla",
+"name":"Fodla",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=fodla",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Land Goddess","Powers:":"Sovereignty / Protection","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Fodla is one of the goddesses representing Ireland.</li><li>She symbolizes the land and its identity.</li><li>She is connected with sovereignty.</li><li>She protects the territory.</li><li>She represents ancient heritage.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Land Protection</li><li>Sovereignty</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Her name is an old poetic name for Ireland.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"goibniu",
+"name":"Goibniu",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=goibniu",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Smith God","Powers:":"Craft / Weapons","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Goibniu is the divine smith of the Tuatha Dé Danann.</li><li>He creates powerful weapons.</li><li>His weapons never miss their target.</li><li>He represents craftsmanship and skill.</li><li>He also provides a magical feast of immortality.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Weapon Creation</li><li>Craftsmanship</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of a trio of craftsmen gods.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"grannus",
+"name":"Grannus",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=grannus",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Healing God","Powers:":"Sun / Healing","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Grannus is a god associated with healing and the sun.</li><li>He is linked to thermal springs.</li><li>He represents health and vitality.</li><li>He is worshipped for cures.</li><li>He symbolizes life energy.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing</li><li>Solar Energy</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Associated with Roman Apollo.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"gwydion",
+"name":"Gwydion",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=gwydion",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Magician God","Powers:":"Magic / Illusion","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Gwydion is a powerful magician and trickster figure.</li><li>He uses magic and cunning.</li><li>He creates beings through enchantment.</li><li>He represents intelligence.</li><li>He symbolizes magical knowledge.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Magic</li><li>Illusion</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Creator of Blodeuwedd.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lenus",
+"name":"Lenus",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=lenus",
+"parent":"celtic_gods",
+"info":{"Origin:":"Celtic Mythology","Type:":"Healing God","Powers:":"War / Healing","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Lenus is a god associated with both healing and war.</li><li>He protects warriors.</li><li>He restores health.</li><li>He represents strength and recovery.</li><li>He symbolizes dual nature.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing</li><li>War Protection</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked with Roman Mars.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"llyr",
+"name":"Llŷr",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=llyr",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Sea God","Powers:":"Ocean / Authority","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Llŷr is a sea god and father of important figures like Bran.</li><li>He represents the ocean’s power.</li><li>He symbolizes authority and lineage.</li><li>He is connected with maritime forces.</li><li>He embodies deep waters.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Ocean Control</li><li>Authority</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Father of Bran the Blessed.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lleu_llaw_gyffes",
+"name":"Lleu Llaw Gyffes",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=lleu_llaw_gyffes",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Hero God","Powers:":"Skill / Light","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Lleu is a hero god associated with skill and light.</li><li>He is known for his unusual death conditions.</li><li>He represents precision and intelligence.</li><li>He is a warrior and leader.</li><li>He symbolizes resilience.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Combat Skill</li><li>Light</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Son of Gwydion.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"lugh",
+"name":"Lugh",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=lugh",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Sun & Skill God","Powers:":"War / Skill / Light","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Lugh is one of the most powerful Celtic gods.</li><li>He is a master of all skills.</li><li>He is associated with the sun.</li><li>He is a warrior and leader.</li><li>He symbolizes excellence.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Mastery of Skills</li><li>Light</li><li>War</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Festival Lughnasadh named after him.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"macha",
+"name":"Macha",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=macha",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"War Goddess","Powers:":"War / Fertility","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Macha is a goddess linked to war and sovereignty.</li><li>She is associated with horses.</li><li>She represents strength and power.</li><li>She plays roles in multiple myths.</li><li>She symbolizes land and battle.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>War</li><li>Fertility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of the Morrigan.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"manannan_mac_lir",
+"name":"Manannan mac Lir",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=manannan_mac_lir",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Sea God","Powers:":"Ocean / Magic","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Manannan mac Lir is a powerful sea god and magician.</li><li>He controls the ocean and weather.</li><li>He guides souls to the afterlife.</li><li>He represents mystery and travel.</li><li>He symbolizes the sea’s magic.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Ocean Control</li><li>Magic</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Guardian of the Otherworld.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"maponos",
+"name":"Maponos",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=maponos",
+"parent":"celtic_gods",
+"info":{"Origin:":"Celtic Mythology","Type:":"Youth God","Powers:":"Youth / Music","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Maponos is a god of youth and vitality.</li><li>He is associated with music and joy.</li><li>He represents eternal youth.</li><li>He symbolizes happiness.</li><li>He is linked to Apollo.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Youth</li><li>Music</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Name means “Divine Son”.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"math_ap_mathonwy",
+"name":"Math ap Mathonwy",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=math_ap_mathonwy",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Magician King","Powers:":"Magic / Authority","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Math ap Mathonwy is a powerful king and magician.</li><li>He rules Gwynedd.</li><li>He possesses strong magical abilities.</li><li>He represents authority and wisdom.</li><li>He symbolizes leadership.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Magic</li><li>Authority</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Must keep his feet in a maiden’s lap.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"midir",
+"name":"Midir",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=midir",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Otherworld God","Powers:":"Magic / Immortality","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Midir is a god of the Otherworld, associated with magic and immortality.</li><li>He resides in a supernatural realm.</li><li>He is connected with love and transformation.</li><li>He represents mystery and eternal life.</li><li>He symbolizes the connection between worlds.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Magic</li><li>Immortality</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Appears in stories involving Etain.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"morrigan",
+"name":"Morrigan",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=morrigan",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"War Goddess","Powers:":"War / Fate / Shape-shifting","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>The Morrigan is a powerful goddess of war and fate.</li><li>She appears as a crow on battlefields.</li><li>She influences victory and destiny.</li><li>She can shapeshift.</li><li>She represents chaos and prophecy.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>War Influence</li><li>Fate Control</li><li>Shape-shifting</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often seen as a trio of goddesses.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nemain",
+"name":"Nemain",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=nemain",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"War Goddess","Powers:":"Chaos / Fear","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nemain is a war goddess associated with frenzy and panic.</li><li>She causes confusion among warriors.</li><li>She represents chaos in battle.</li><li>She is linked with the Morrigan.</li><li>She symbolizes fear and disorder.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Fear Induction</li><li>Chaos</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Appears during battles.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nodens",
+"name":"Nodens",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=nodens",
+"parent":"celtic_gods",
+"info":{"Origin:":"Celtic Mythology","Type:":"Healing God","Powers:":"Healing / Hunting","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nodens is a god associated with healing and hunting.</li><li>He is linked to the sea and dogs.</li><li>He protects and restores health.</li><li>He represents recovery.</li><li>He symbolizes strength.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing</li><li>Hunting Skill</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped in Roman Britain.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"nuada",
+"name":"Nuada",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=nuada",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"King God","Powers:":"Leadership / Combat","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Nuada is the king of the Tuatha Dé Danann.</li><li>He is known for his silver arm.</li><li>He represents leadership and justice.</li><li>He is a warrior king.</li><li>He symbolizes authority.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Leadership</li><li>Combat Skill</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called Nuada Airgetlám.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"ogma",
+"name":"Ogma",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=ogma",
+"parent":"celtic_gods",
+"info":{"Origin:":"Irish Mythology","Type:":"Knowledge God","Powers:":"Language / Strength","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Ogma is the god of language, writing, and strength.</li><li>He created the Ogham script.</li><li>He is both a warrior and a scholar.</li><li>He represents intelligence.</li><li>He symbolizes communication.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Language Creation</li><li>Strength</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Inventor of Ogham alphabet.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rhiannon",
+"name":"Rhiannon",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=rhiannon",
+"parent":"celtic_gods",
+"info":{"Origin:":"Welsh Mythology","Type:":"Horse Goddess","Powers:":"Magic / Sovereignty","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Rhiannon is a goddess associated with horses and magic.</li><li>She represents sovereignty and power.</li><li>She is linked to the Otherworld.</li><li>She symbolizes grace.</li><li>She plays a key role in Welsh myths.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Magic</li><li>Sovereignty</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Has magical birds.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"rosmerta",
+"name":"Rosmerta",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=rosmerta",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Prosperity Goddess","Powers:":"Wealth / Fertility","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Rosmerta is a goddess of wealth and abundance.</li><li>She is associated with prosperity.</li><li>She provides nourishment.</li><li>She represents growth.</li><li>She symbolizes fortune.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Wealth</li><li>Fertility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often paired with Sucellus.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sequana",
+"name":"Sequana",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=sequana",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"River Goddess","Powers:":"Water / Healing","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Sequana is the goddess of the River Seine.</li><li>She is associated with healing waters.</li><li>She represents purification.</li><li>She protects rivers.</li><li>She symbolizes life.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Water Healing</li><li>Purification</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped in ancient France.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sirona",
+"name":"Sirona",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=sirona",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Healing Goddess","Powers:":"Healing / Fertility","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Sirona is a goddess of healing and fertility.</li><li>She is associated with springs.</li><li>She represents health and renewal.</li><li>She symbolizes life.</li><li>She is worshipped for cures.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing</li><li>Fertility</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often linked with Grannus.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sucellus",
+"name":"Sucellus",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=sucellus",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Agriculture God","Powers:":"Growth / Strength","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Sucellus is a god of agriculture and forests.</li><li>He carries a hammer symbolizing power.</li><li>He represents growth and nourishment.</li><li>He is associated with prosperity.</li><li>He symbolizes strength.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Growth</li><li>Strength</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often depicted with a hammer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"sulis",
+"name":"Sulis",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=sulis",
+"parent":"celtic_gods",
+"info":{"Origin:":"Celtic Mythology","Type:":"Water Goddess","Powers:":"Healing / Springs","Nature:":"Good"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Sulis is a goddess of healing waters.</li><li>She is associated with hot springs.</li><li>She represents purification.</li><li>She protects sacred waters.</li><li>She symbolizes renewal.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Healing</li><li>Water Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Linked with Roman Minerva.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"taranis",
+"name":"Taranis",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=taranis",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Thunder God","Powers:":"Thunder / Sky","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Taranis is the god of thunder and the sky.</li><li>He controls storms and lightning.</li><li>He represents power and force.</li><li>He is associated with the wheel symbol.</li><li>He symbolizes cosmic energy.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Thunder</li><li>Storm Control</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Part of Gaulish god triad.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"teutates",
+"name":"Teutates",
+"type":"entity",
+"url":"entity.html?universe=gods&path=celtic_gods&id=teutates",
+"parent":"celtic_gods",
+"info":{"Origin:":"Gaulish Mythology","Type:":"Tribal God","Powers:":"Protection / War","Nature:":"Neutral"},
+"tabs":{
+"tab1":{"title":"Overview","content":"<ul><li>Teutates is a protector god of tribes and people.</li><li>He is associated with war and defense.</li><li>He safeguards communities.</li><li>He represents unity.</li><li>He symbolizes strength in numbers.</li></ul>"},
+"tab2":{"title":"Powers","content":"<ul><li>Protection</li><li>War</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Worshipped across Gaul.</li></ul>"}
+},
+"gallery_count":5
+}
+]

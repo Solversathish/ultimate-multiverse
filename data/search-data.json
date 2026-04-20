@@ -6804,6 +6804,483 @@
     "url": "category.html?universe=gods&path=celtic_gods"
   },
   {
+    "name": "Aericura",
+    "id": "aericura",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=aericura"
+  },
+  {
+    "name": "Aengus",
+    "id": "aengus",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=aengus"
+  },
+  {
+    "name": "Airmed",
+    "id": "airmed",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=airmed"
+  },
+  {
+    "name": "Amaethon",
+    "id": "amaethon",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=amaethon"
+  },
+  {
+    "name": "Andraste",
+    "id": "andraste",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=andraste"
+  },
+  {
+    "name": "Arawn",
+    "id": "arawn",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=arawn"
+  },
+  {
+    "name": "Arduinna",
+    "id": "arduinna",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=arduinna"
+  },
+  {
+    "name": "Badb",
+    "id": "badb",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=badb"
+  },
+  {
+    "name": "Banba",
+    "id": "banba",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=banba"
+  },
+  {
+    "name": "Belenus",
+    "id": "belenus",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=belenus"
+  },
+  {
+    "name": "Belisama",
+    "id": "belisama",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=belisama"
+  },
+  {
+    "name": "Blodeuwedd",
+    "id": "blodeuwedd",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=blodeuwedd"
+  },
+  {
+    "name": "Bodb Derg",
+    "id": "bodb_derg",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=bodb_derg"
+  },
+  {
+    "name": "Bran the Blessed",
+    "id": "bran_the_blessed",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=bran_the_blessed"
+  },
+  {
+    "name": "Brigid",
+    "id": "brigid",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=brigid"
+  },
+  {
+    "name": "Camulus",
+    "id": "camulus",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=camulus"
+  },
+  {
+    "name": "Cernunnos",
+    "id": "cernunnos",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=cernunnos"
+  },
+  {
+    "name": "Cerridwen",
+    "id": "cerridwen",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=cerridwen"
+  },
+  {
+    "name": "Clíodhna",
+    "id": "cliodhna",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=cliodhna"
+  },
+  {
+    "name": "Coventina",
+    "id": "coventina",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=coventina"
+  },
+  {
+    "name": "Danu",
+    "id": "danu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=danu"
+  },
+  {
+    "name": "Dian Cecht",
+    "id": "dian_cecht",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=dian_cecht"
+  },
+  {
+    "name": "Dylan ail Don",
+    "id": "dylan_ail_don",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=dylan_ail_don"
+  },
+  {
+    "name": "Epona",
+    "id": "epona",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=epona"
+  },
+  {
+    "name": "Eriu",
+    "id": "eriu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=eriu"
+  },
+  {
+    "name": "Esus",
+    "id": "esus",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=esus"
+  },
+  {
+    "name": "Flidais",
+    "id": "flidais",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=flidais"
+  },
+  {
+    "name": "Fodla",
+    "id": "fodla",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=fodla"
+  },
+  {
+    "name": "Goibniu",
+    "id": "goibniu",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=goibniu"
+  },
+  {
+    "name": "Grannus",
+    "id": "grannus",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=grannus"
+  },
+  {
+    "name": "Gwydion",
+    "id": "gwydion",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=gwydion"
+  },
+  {
+    "name": "Lenus",
+    "id": "lenus",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=lenus"
+  },
+  {
+    "name": "Llŷr",
+    "id": "llyr",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=llyr"
+  },
+  {
+    "name": "Lleu Llaw Gyffes",
+    "id": "lleu_llaw_gyffes",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=lleu_llaw_gyffes"
+  },
+  {
+    "name": "Lugh",
+    "id": "lugh",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=lugh"
+  },
+  {
+    "name": "Macha",
+    "id": "macha",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=macha"
+  },
+  {
+    "name": "Manannan mac Lir",
+    "id": "manannan_mac_lir",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=manannan_mac_lir"
+  },
+  {
+    "name": "Maponos",
+    "id": "maponos",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=maponos"
+  },
+  {
+    "name": "Math ap Mathonwy",
+    "id": "math_ap_mathonwy",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=math_ap_mathonwy"
+  },
+  {
+    "name": "Midir",
+    "id": "midir",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=midir"
+  },
+  {
+    "name": "Morrigan",
+    "id": "morrigan",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=morrigan"
+  },
+  {
+    "name": "Nemain",
+    "id": "nemain",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=nemain"
+  },
+  {
+    "name": "Nodens",
+    "id": "nodens",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=nodens"
+  },
+  {
+    "name": "Nuada",
+    "id": "nuada",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=nuada"
+  },
+  {
+    "name": "Ogma",
+    "id": "ogma",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=ogma"
+  },
+  {
+    "name": "Rhiannon",
+    "id": "rhiannon",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=rhiannon"
+  },
+  {
+    "name": "Rosmerta",
+    "id": "rosmerta",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=rosmerta"
+  },
+  {
+    "name": "Sequana",
+    "id": "sequana",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=sequana"
+  },
+  {
+    "name": "Sirona",
+    "id": "sirona",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=sirona"
+  },
+  {
+    "name": "Sucellus",
+    "id": "sucellus",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=sucellus"
+  },
+  {
+    "name": "Sulis",
+    "id": "sulis",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=sulis"
+  },
+  {
+    "name": "Taranis",
+    "id": "taranis",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=taranis"
+  },
+  {
+    "name": "Teutates",
+    "id": "teutates",
+    "type": "entity",
+    "universe": "gods",
+    "path": "celtic_gods",
+    "parent": "Celtic Gods",
+    "url": "entity.html?universe=gods&path=celtic_gods&id=teutates"
+  },
+  {
     "name": "Chinese Gods",
     "id": "chinese_gods",
     "type": "category",
