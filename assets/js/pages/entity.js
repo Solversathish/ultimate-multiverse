@@ -47,6 +47,10 @@ if (universe === "fruits") {
 
   file = "mythical_creatures"; // ✅ FIX
 
+  } else if (universe === "father_of") {
+
+  file = "father_of"; 
+
 } else if (path) {
 
   const levels = path.split(",");

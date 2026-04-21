@@ -32,6 +32,9 @@ if (levels.length === 0) {
   } else if (universe === "mythical_creatures") {
     filePath = `data/mythical_creatures/mythical_creatures.json`;
 
+    } else if (universe === "father_of") {
+    filePath = `data/father_of/father_of.json`;
+
   } else {
     filePath = `data/${universe}/categories.json`;
   }
@@ -48,6 +51,10 @@ let items = [];
 try {
 
 items = await fetch(filePath).then(res => res.json());
+const itemMap = {};
+items.forEach(i => {
+  itemMap[i.id] = i.name;
+});
 
 } catch (err) {
 

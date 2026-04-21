@@ -1,0 +1,211 @@
+[
+{
+"id":"father_science",
+"name":"Father of Science : Galileo Galilei",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_science",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Science",
+"Person:":"Galileo Galilei",
+"Born:":"1564",
+"Country:":"Italy",
+"Field:":"Science"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Galileo Galilei was an Italian scientist.</li><li>He is known as the Father of Modern Science.</li><li>He improved the telescope and supported heliocentrism.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Improved telescope</li><li>Discovered Jupiter’s moons</li><li>Advanced motion studies</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Faced trial for his scientific ideas.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_chemistry",
+"name":"Father of Chemistry : Antoine Lavoisier",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_chemistry",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Chemistry",
+"Person:":"Antoine Lavoisier",
+"Born:":"1743",
+"Country:":"France",
+"Field:":"Chemistry"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Antoine Lavoisier is known as the Father of Modern Chemistry.</li><li>He established the law of conservation of mass.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Conservation of mass</li><li>Chemical nomenclature</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Executed during the French Revolution.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_physics",
+"name":"Father of Physics : Isaac Newton",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_physics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Physics",
+"Person:":"Isaac Newton",
+"Born:":"1643",
+"Country:":"England",
+"Field:":"Physics"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Isaac Newton was an English physicist.</li><li>He developed laws of motion and gravity.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Laws of motion</li><li>Universal gravitation</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>The apple story is famous.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_biology",
+"name":"Father of Biology : Aristotle",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_biology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Biology",
+"Person:":"Aristotle",
+"Born:":"384 BC",
+"Country:":"Greece",
+"Field:":"Biology"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Aristotle was a Greek philosopher.</li><li>He classified living organisms and studied animals.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Animal classification</li><li>Biological studies</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Student of Plato.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_mathematics",
+"name":"Father of Mathematics : Archimedes",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_mathematics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Mathematics",
+"Person:":"Archimedes",
+"Born:":"287 BC",
+"Country:":"Greece",
+"Field:":"Mathematics"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Archimedes was a Greek mathematician.</li><li>He made major discoveries in geometry and physics.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Pi approximation</li><li>Buoyancy principle</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Famous for saying “Eureka!”.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_computer_science",
+"name":"Father of Computer Science : Alan Turing",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_computer_science",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Computer Science",
+"Person:":"Alan Turing",
+"Born:":"1912",
+"Country:":"England",
+"Field:":"Computer Science"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Alan Turing was a mathematician and computer scientist.</li><li>He laid the foundation for modern computing.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Turing Machine</li><li>Breaking Enigma code</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Considered a pioneer of AI.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_medicine",
+"name":"Father of Medicine : Hippocrates",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_medicine",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Medicine",
+"Person:":"Hippocrates",
+"Born:":"460 BC",
+"Country:":"Greece",
+"Field:":"Medicine"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Hippocrates was a Greek physician.</li><li>He established medicine as a scientific field.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Hippocratic Oath</li><li>Medical ethics</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Still honored in modern medicine.</li></ul>"
+}
+},
+"gallery_count":5
+}
+]
