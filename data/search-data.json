@@ -5571,6 +5571,69 @@
     "url": "category.html?universe=chemistry&path=solutions"
   },
   {
+    "name": "Father of Science : Galileo Galilei",
+    "id": "father_science",
+    "type": "entity",
+    "universe": "father_of",
+    "path": "",
+    "parent": "Father Of",
+    "url": "entity.html?universe=father_of&id=father_science"
+  },
+  {
+    "name": "Father of Chemistry : Antoine Lavoisier",
+    "id": "father_chemistry",
+    "type": "entity",
+    "universe": "father_of",
+    "path": "",
+    "parent": "Father Of",
+    "url": "entity.html?universe=father_of&id=father_chemistry"
+  },
+  {
+    "name": "Father of Physics : Isaac Newton",
+    "id": "father_physics",
+    "type": "entity",
+    "universe": "father_of",
+    "path": "",
+    "parent": "Father Of",
+    "url": "entity.html?universe=father_of&id=father_physics"
+  },
+  {
+    "name": "Father of Biology : Aristotle",
+    "id": "father_biology",
+    "type": "entity",
+    "universe": "father_of",
+    "path": "",
+    "parent": "Father Of",
+    "url": "entity.html?universe=father_of&id=father_biology"
+  },
+  {
+    "name": "Father of Mathematics : Archimedes",
+    "id": "father_mathematics",
+    "type": "entity",
+    "universe": "father_of",
+    "path": "",
+    "parent": "Father Of",
+    "url": "entity.html?universe=father_of&id=father_mathematics"
+  },
+  {
+    "name": "Father of Computer Science : Alan Turing",
+    "id": "father_computer_science",
+    "type": "entity",
+    "universe": "father_of",
+    "path": "",
+    "parent": "Father Of",
+    "url": "entity.html?universe=father_of&id=father_computer_science"
+  },
+  {
+    "name": "Father of Medicine : Hippocrates",
+    "id": "father_medicine",
+    "type": "entity",
+    "universe": "father_of",
+    "path": "",
+    "parent": "Father Of",
+    "url": "entity.html?universe=father_of&id=father_medicine"
+  },
+  {
     "name": "American Food",
     "id": "american_food",
     "type": "category",

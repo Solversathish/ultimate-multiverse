@@ -45,6 +45,10 @@ function getRootFile(universe){
     return `${dataFolder}/mythical_creatures/mythical_creatures.json`;
   }
 
+  if (universe === "father_of") {
+    return `${dataFolder}/father_of/father_of.json`;
+  }
+
   return `${dataFolder}/${universe}/categories.json`;
 }
 
