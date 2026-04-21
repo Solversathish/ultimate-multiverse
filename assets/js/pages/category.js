@@ -328,7 +328,10 @@ container.classList.contains("hide-images")
 
 
 function capitalize(str){
-return str.charAt(0).toUpperCase()+str.slice(1);
+return str
+  .replace(/_/g," ")
+  .replace(/\b\w/g,c=>c.toUpperCase())
+  .trim();
 }
 
 function formatName(str){
