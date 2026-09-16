@@ -9,17 +9,28 @@ window.getCDNImage = function(id, type="thumb", universe="", path=""){
 
   const base = "ultimate-multiverse";
 
+/* SPECIAL IMAGE PATHS */
+const SPECIAL_IMAGES = {
+  "ai's": {
+    thumb: "ai_s_thumb.jpg"
+  }
+};
+
   const HERO = "f_auto,q_auto,c_fit,w_900,h_900,b_transparent/";
   const THUMB = "f_auto,q_auto,c_fit,w_900,h_900/";
   const GALLERY = "f_auto,q_auto/";
 
   /* HOME LEVEL */
-  if(!universe){
-    return type === "hero"
-      ? `${CDN_BASE}${HERO}${base}/${id}/${id}_hero.png`
-      : `${CDN_BASE}${THUMB}${base}/${id}/${id}_thumb.png`;
+if(!universe){
+
+  if(SPECIAL_IMAGES[id]?.[type]){
+    return `${CDN_BASE}${THUMB}${base}/ai's/${SPECIAL_IMAGES[id][type]}`;
   }
 
+  return type === "hero"
+    ? `${CDN_BASE}${HERO}${base}/${id}/${id}_hero.png`
+    : `${CDN_BASE}${THUMB}${base}/${id}/${id}_thumb.png`;
+}
   /* UNIVERSE LEVEL */
   if(id === universe){
     return type === "hero"
