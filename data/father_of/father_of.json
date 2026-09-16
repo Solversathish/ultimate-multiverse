@@ -1,90 +1,374 @@
 [
 {
-"id":"father_science",
-"name":"Father of Science : Galileo Galilei",
+"id":"father_accounting",
+"name":"Father of Accounting : Luca Pacioli",
 "type":"entity",
-"url":"entity.html?universe=father_of&id=father_science",
+"url":"entity.html?universe=father_of&id=father_accounting",
 "parent":"father_of",
 "info":{
-"Title:":"Father of Science",
-"Person:":"Galileo Galilei",
-"Born:":"1564",
+"Title:":"Father of Accounting",
+"Person:":"Luca Pacioli",
+"Born:":"1447",
+"Died:":"1517",
 "Country:":"Italy",
-"Field:":"Science"
+"Field:":"Accounting / Mathematics"
 },
 "tabs":{
 "tab1":{
 "title":"Biography",
-"content":"<ul><li>Galileo Galilei was an Italian scientist.</li><li>He is known as the Father of Modern Science.</li><li>He improved the telescope and supported heliocentrism.</li></ul>"
+"content":"<ul><li>Luca Pacioli was an Italian mathematician, Franciscan friar, and scholar.</li><li>He is widely regarded as the Father of Accounting for formalizing double-entry bookkeeping.</li><li>His writings influenced commerce and finance across Europe.</li></ul>"
 },
 "tab2":{
 "title":"Contributions",
-"content":"<ul><li>Improved telescope</li><li>Discovered Jupiter’s moons</li><li>Advanced motion studies</li></ul>"
+"content":"<ul><li>Popularized double-entry bookkeeping</li><li>Wrote Summa de Arithmetica</li><li>Influenced modern accounting systems</li></ul>"
 },
 "tab3":{
 "title":"Facts",
-"content":"<ul><li>Faced trial for his scientific ideas.</li></ul>"
+"content":"<ul><li>Often associated with the foundations of modern bookkeeping.</li><li>Worked during the Renaissance period.</li></ul>"
 }
 },
 "gallery_count":5
 },
 
 {
-"id":"father_chemistry",
-"name":"Father of Chemistry : Antoine Lavoisier",
+"id":"father_ai",
+"name":"Father of AI : John McCarthy",
 "type":"entity",
-"url":"entity.html?universe=father_of&id=father_chemistry",
+"url":"entity.html?universe=father_of&id=father_ai",
 "parent":"father_of",
 "info":{
-"Title:":"Father of Chemistry",
-"Person:":"Antoine Lavoisier",
-"Born:":"1743",
-"Country:":"France",
-"Field:":"Chemistry"
+"Title:":"Father of AI",
+"Person:":"John McCarthy",
+"Born:":"1927",
+"Died:":"2011",
+"Country:":"USA",
+"Field:":"Artificial Intelligence"
 },
 "tabs":{
 "tab1":{
 "title":"Biography",
-"content":"<ul><li>Antoine Lavoisier is known as the Father of Modern Chemistry.</li><li>He established the law of conservation of mass.</li></ul>"
+"content":"<ul><li>John McCarthy was an American computer scientist.</li><li>He coined the term Artificial Intelligence.</li><li>He helped establish AI as a formal academic discipline.</li></ul>"
 },
 "tab2":{
 "title":"Contributions",
-"content":"<ul><li>Conservation of mass</li><li>Chemical nomenclature</li></ul>"
+"content":"<ul><li>Coined the term AI</li><li>Created Lisp language</li><li>Advanced machine intelligence research</li></ul>"
 },
 "tab3":{
 "title":"Facts",
-"content":"<ul><li>Executed during the French Revolution.</li></ul>"
+"content":"<ul><li>One of the founding pioneers of AI.</li><li>Worked at MIT and Stanford.</li></ul>"
 }
 },
 "gallery_count":5
 },
 
 {
-"id":"father_physics",
-"name":"Father of Physics : Isaac Newton",
+"id":"father_algebra",
+"name":"Father of Algebra : Al-Khwarizmi",
 "type":"entity",
-"url":"entity.html?universe=father_of&id=father_physics",
+"url":"entity.html?universe=father_of&id=father_algebra",
 "parent":"father_of",
 "info":{
-"Title:":"Father of Physics",
-"Person:":"Isaac Newton",
-"Born:":"1643",
+"Title:":"Father of Algebra",
+"Person:":"Al-Khwarizmi",
+"Born:":"780",
+"Died:":"850",
+"Country:":"Persia",
+"Field:":"Mathematics"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Al-Khwarizmi was a Persian mathematician and astronomer.</li><li>He laid foundations for algebra as a systematic discipline.</li><li>His works influenced mathematics in both East and West.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Founded algebraic methods</li><li>Popularized Hindu-Arabic numerals</li><li>Advanced astronomy and geography</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>The word algorithm comes from his name.</li><li>His book helped shape modern mathematics.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_anatomy",
+"name":"Father of Anatomy : Andreas Vesalius",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_anatomy",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Anatomy",
+"Person:":"Andreas Vesalius",
+"Born:":"1514",
+"Died:":"1564",
+"Country:":"Belgium",
+"Field:":"Anatomy / Medicine"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Andreas Vesalius was a pioneering anatomist and physician.</li><li>He transformed anatomy through direct observation and dissection.</li><li>He challenged older anatomical errors.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Advanced human anatomical study</li><li>Published De humani corporis fabrica</li><li>Modernized medical anatomy</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Known as a revolutionary figure in medical science.</li><li>Often called Father of Modern Anatomy as well.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_anthropology",
+"name":"Father of Anthropology : Franz Boas",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_anthropology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Anthropology",
+"Person:":"Franz Boas",
+"Born:":"1858",
+"Died:":"1942",
+"Country:":"Germany / USA",
+"Field:":"Anthropology"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Franz Boas was a pioneering anthropologist.</li><li>He shaped modern cultural anthropology.</li><li>He challenged racial and cultural assumptions.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Developed cultural anthropology</li><li>Promoted fieldwork methods</li><li>Influenced generations of anthropologists</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Often called Father of Modern Anthropology.</li><li>Major critic of scientific racism.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_artificial_intelligence",
+"name":"Father of Artificial Intelligence : John McCarthy",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_artificial_intelligence",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Artificial Intelligence",
+"Person:":"John McCarthy",
+"Born:":"1927",
+"Died:":"2011",
+"Country:":"USA",
+"Field:":"Artificial Intelligence"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>John McCarthy helped establish AI as a scientific field.</li><li>His work influenced modern machine intelligence.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>AI research foundations</li><li>Lisp language</li><li>Machine reasoning concepts</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Frequently cited as the Father of AI.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_astrophysics",
+"name":"Father of Astrophysics : Subrahmanyan Chandrasekhar",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_astrophysics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Astrophysics",
+"Person:":"Subrahmanyan Chandrasekhar",
+"Born:":"1910",
+"Died:":"1995",
+"Country:":"India / USA",
+"Field:":"Astrophysics"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Subrahmanyan Chandrasekhar was a pioneering astrophysicist.</li><li>He made profound contributions to stellar evolution.</li><li>His work shaped modern astrophysics.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Chandrasekhar Limit</li><li>Stellar structure research</li><li>Black hole theory contributions</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Won Nobel Prize in Physics.</li><li>A major figure in modern astrophysics.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_atomic_theory",
+"name":"Father of Atomic Theory : John Dalton",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_atomic_theory",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Atomic Theory",
+"Person:":"John Dalton",
+"Born:":"1766",
+"Died:":"1844",
 "Country:":"England",
-"Field:":"Physics"
+"Field:":"Chemistry / Physics"
 },
 "tabs":{
 "tab1":{
 "title":"Biography",
-"content":"<ul><li>Isaac Newton was an English physicist.</li><li>He developed laws of motion and gravity.</li></ul>"
+"content":"<ul><li>John Dalton was an English chemist and physicist.</li><li>He proposed one of the earliest scientific atomic theories.</li></ul>"
 },
 "tab2":{
 "title":"Contributions",
-"content":"<ul><li>Laws of motion</li><li>Universal gravitation</li></ul>"
+"content":"<ul><li>Atomic theory model</li><li>Law of multiple proportions</li></ul>"
 },
 "tab3":{
 "title":"Facts",
-"content":"<ul><li>The apple story is famous.</li></ul>"
+"content":"<ul><li>Also studied color blindness.</li></ul>"
 }
+},
+"gallery_count":5
+},
+
+{
+"id":"father_ayurveda",
+"name":"Father of Ayurveda : Charaka",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_ayurveda",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Ayurveda",
+"Person:":"Charaka",
+"Born:":"300 BC",
+"Country:":"India",
+"Field:":"Medicine"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Charaka was an ancient Indian physician and scholar.</li><li>He is a foundational figure in Ayurveda.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Charaka Samhita</li><li>Advanced internal medicine concepts</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>One of the most influential medical scholars in history.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_bacteriology",
+"name":"Father of Bacteriology : Robert Koch",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_bacteriology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Bacteriology",
+"Person:":"Robert Koch",
+"Born:":"1843",
+"Died:":"1910",
+"Country:":"Germany",
+"Field:":"Bacteriology"
+},
+"tabs":{
+"tab1":{
+"title":"Biography",
+"content":"<ul><li>Robert Koch was a German physician and microbiologist.</li><li>He established bacteriology as a scientific field.</li></ul>"
+},
+"tab2":{
+"title":"Contributions",
+"content":"<ul><li>Koch's postulates</li><li>Identified major disease-causing bacteria</li><li>Advanced germ theory</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>Won Nobel Prize in Physiology or Medicine.</li></ul>"
+}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_behavioral_economics",
+"name":"Father of Behavioral Economics : Daniel Kahneman",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_behavioral_economics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Behavioral Economics",
+"Person:":"Daniel Kahneman",
+"Born:":"1934",
+"Country:":"Israel / USA",
+"Field:":"Economics / Psychology"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Daniel Kahneman was a pioneering psychologist and economist.</li><li>He transformed economics by showing how human decisions are often irrational.</li><li>His work founded behavioral economics.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Prospect Theory</li><li>Decision-making research</li><li>Behavioral economics foundations</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nobel Prize winner in Economics.</li><li>Author of Thinking, Fast and Slow.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_biodiversity",
+"name":"Father of Biodiversity : E. O. Wilson",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_biodiversity",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Biodiversity",
+"Person:":"E. O. Wilson",
+"Born:":"1929",
+"Died:":"2021",
+"Country:":"USA",
+"Field:":"Biology"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Edward O. Wilson was a renowned biologist and naturalist.</li><li>He popularized biodiversity as a scientific and conservation concept.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Biodiversity research</li><li>Conservation biology</li><li>Sociobiology</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called the modern voice of biodiversity.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_biochemistry",
+"name":"Father of Biochemistry : Carl Neuberg",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_biochemistry",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Biochemistry",
+"Person:":"Carl Neuberg",
+"Born:":"1877",
+"Died:":"1956",
+"Country:":"Germany",
+"Field:":"Biochemistry"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Carl Neuberg was a German biochemist.</li><li>He helped establish biochemistry as an independent discipline.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Enzyme and metabolism studies</li><li>Foundational biochemistry research</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Widely recognized as Father of Biochemistry.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -103,48 +387,225 @@
 "Field:":"Biology"
 },
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Aristotle was a Greek philosopher.</li><li>He classified living organisms and studied animals.</li></ul>"
-},
-"tab2":{
-"title":"Contributions",
-"content":"<ul><li>Animal classification</li><li>Biological studies</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Student of Plato.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Aristotle was a Greek philosopher and scientist.</li><li>He made early systematic studies of living organisms.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Classification of organisms</li><li>Animal studies</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also called Father of Zoology.</li></ul>"}
 },
 "gallery_count":5
 },
 
 {
-"id":"father_mathematics",
-"name":"Father of Mathematics : Archimedes",
+"id":"father_blockchain",
+"name":"Father of Blockchain : Satoshi Nakamoto",
 "type":"entity",
-"url":"entity.html?universe=father_of&id=father_mathematics",
+"url":"entity.html?universe=father_of&id=father_blockchain",
 "parent":"father_of",
 "info":{
-"Title:":"Father of Mathematics",
-"Person:":"Archimedes",
-"Born:":"287 BC",
+"Title:":"Father of Blockchain",
+"Person:":"Satoshi Nakamoto",
+"Born:":"Unknown",
+"Country:":"Unknown",
+"Field:":"Cryptography / Blockchain"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Satoshi Nakamoto is the pseudonymous creator associated with Bitcoin.</li><li>Considered the foundational figure of blockchain technology.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Created Bitcoin whitepaper</li><li>Introduced blockchain ledger model</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Real identity remains unknown.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_botany",
+"name":"Father of Botany : Theophrastus",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_botany",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Botany",
+"Person:":"Theophrastus",
+"Born:":"371 BC",
 "Country:":"Greece",
+"Field:":"Botany"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Theophrastus was a Greek scholar and student of Aristotle.</li><li>He laid the foundations of plant science.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Plant classification</li><li>Early botanical works</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as founder of botany.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_c_language",
+"name":"Father of C Language : Dennis Ritchie",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_c_language",
+"parent":"father_of",
+"info":{
+"Title:":"Father of C Language",
+"Person:":"Dennis Ritchie",
+"Born:":"1941",
+"Died:":"2011",
+"Country:":"USA",
+"Field:":"Programming"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Dennis Ritchie was an American computer scientist.</li><li>He created the C programming language.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Developed C language</li><li>Contributed to UNIX</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Influenced modern programming languages.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_cpp",
+"name":"Father of C++ : Bjarne Stroustrup",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_cpp",
+"parent":"father_of",
+"info":{
+"Title:":"Father of C++",
+"Person:":"Bjarne Stroustrup",
+"Born:":"1950",
+"Country:":"Denmark",
+"Field:":"Programming"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Bjarne Stroustrup is a Danish computer scientist.</li><li>He created the C++ programming language.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Created C++</li><li>Advanced object-oriented programming</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>C++ powers major systems worldwide.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_calculus",
+"name":"Father of Calculus : Isaac Newton & Gottfried Wilhelm Leibniz",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_calculus",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Calculus",
+"Person:":"Isaac Newton & Gottfried Wilhelm Leibniz",
+"Born:":"1643 / 1646",
+"Country:":"England / Germany",
 "Field:":"Mathematics"
 },
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Archimedes was a Greek mathematician.</li><li>He made major discoveries in geometry and physics.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Newton and Leibniz independently developed calculus.</li><li>Both are credited as founders of the field.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Differential calculus</li><li>Integral calculus</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of history’s most famous scientific priority disputes.</li></ul>"}
 },
-"tab2":{
-"title":"Contributions",
-"content":"<ul><li>Pi approximation</li><li>Buoyancy principle</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Famous for saying “Eureka!”.</li></ul>"
-}
+
+{
+"id":"father_cardiology",
+"name":"Father of Cardiology : William Harvey",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_cardiology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Cardiology",
+"Person:":"William Harvey",
+"Born:":"1578",
+"Died:":"1657",
+"Country:":"England",
+"Field:":"Medicine"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>William Harvey was an English physician.</li><li>He revolutionized understanding of blood circulation.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Discovered circulation of blood</li><li>Advanced cardiovascular medicine</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Considered a giant in medical history.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_chemistry",
+"name":"Father of Chemistry : Antoine Lavoisier",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_chemistry",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Chemistry",
+"Person:":"Antoine Lavoisier",
+"Born:":"1743",
+"Died:":"1794",
+"Country:":"France",
+"Field:":"Chemistry"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Antoine Lavoisier was a French chemist who transformed chemistry into a modern science.</li><li>He emphasized measurement and experimentation.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Law of conservation of mass</li><li>Modern chemical nomenclature</li><li>Foundations of modern chemistry</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often called Father of Modern Chemistry as well.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_chess_theory",
+"name":"Father of Chess Theory : Wilhelm Steinitz",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_chess_theory",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Chess Theory",
+"Person:":"Wilhelm Steinitz",
+"Born:":"1836",
+"Died:":"1900",
+"Country:":"Austria",
+"Field:":"Chess"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Wilhelm Steinitz was the first official world chess champion.</li><li>He pioneered positional chess strategy.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Modern chess principles</li><li>Positional play theory</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Widely considered Father of Modern Chess Theory.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_classical_physics",
+"name":"Father of Classical Physics : Isaac Newton",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_classical_physics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Classical Physics",
+"Person:":"Isaac Newton",
+"Born:":"1643",
+"Died:":"1727",
+"Country:":"England",
+"Field:":"Physics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Isaac Newton was a physicist and mathematician whose work shaped classical mechanics.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Laws of motion</li><li>Universal gravitation</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of history's greatest scientists.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_cloud_computing",
+"name":"Father of Cloud Computing : J.C.R. Licklider",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_cloud_computing",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Cloud Computing",
+"Person:":"J.C.R. Licklider",
+"Born:":"1915",
+"Died:":"1990",
+"Country:":"USA",
+"Field:":"Computer Science"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>J.C.R. Licklider envisioned globally connected computing systems.</li><li>His ideas influenced cloud computing and networking.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Networked computing vision</li><li>Foundations of cloud concepts</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also important to internet development.</li></ul>"}
 },
 "gallery_count":5
 },
@@ -159,52 +620,563 @@
 "Title:":"Father of Computer Science",
 "Person:":"Alan Turing",
 "Born:":"1912",
+"Died:":"1954",
 "Country:":"England",
 "Field:":"Computer Science"
 },
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Alan Turing was a mathematician and computer scientist.</li><li>He laid the foundation for modern computing.</li></ul>"
-},
-"tab2":{
-"title":"Contributions",
-"content":"<ul><li>Turing Machine</li><li>Breaking Enigma code</li></ul>"
-},
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Considered a pioneer of AI.</li></ul>"
-}
+"tab1":{"title":"Biography","content":"<ul><li>Alan Turing laid the foundations of modern computing.</li><li>His ideas influenced algorithms, computing, and AI.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Turing Machine</li><li>Computability theory</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also known as a pioneer of AI.</li></ul>"}
 },
 "gallery_count":5
 },
 
 {
-"id":"father_medicine",
-"name":"Father of Medicine : Hippocrates",
+"id":"father_computers",
+"name":"Father of Computers : Charles Babbage",
 "type":"entity",
-"url":"entity.html?universe=father_of&id=father_medicine",
+"url":"entity.html?universe=father_of&id=father_computers",
 "parent":"father_of",
 "info":{
-"Title:":"Father of Medicine",
-"Person:":"Hippocrates",
-"Born:":"460 BC",
-"Country:":"Greece",
+"Title:":"Father of Computers",
+"Person:":"Charles Babbage",
+"Born:":"1791",
+"Died:":"1871",
+"Country:":"England",
+"Field:":"Computing"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Charles Babbage designed early programmable computing machines.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Analytical Engine</li><li>Difference Engine</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called Father of the Computer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_conservation",
+"name":"Father of Conservation : Gifford Pinchot",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_conservation",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Conservation",
+"Person:":"Gifford Pinchot",
+"Born:":"1865",
+"Died:":"1946",
+"Country:":"USA",
+"Field:":"Environmental Science"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Gifford Pinchot was an American forester and conservationist.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Scientific conservation movement</li><li>Forest management reforms</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>First chief of U.S. Forest Service.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_crystallography",
+"name":"Father of Crystallography : William Henry Bragg",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_crystallography",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Crystallography",
+"Person:":"William Henry Bragg",
+"Born:":"1862",
+"Died:":"1942",
+"Country:":"England",
+"Field:":"Physics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>William Henry Bragg was a pioneering physicist.</li><li>He helped develop X-ray crystallography.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>X-ray crystal analysis</li><li>Atomic structure studies</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Won Nobel Prize with his son.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_cybernetics",
+"name":"Father of Cybernetics : Norbert Wiener",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_cybernetics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Cybernetics",
+"Person:":"Norbert Wiener",
+"Born:":"1894",
+"Died:":"1964",
+"Country:":"USA",
+"Field:":"Mathematics / Cybernetics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Norbert Wiener founded cybernetics as a scientific discipline.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Control systems theory</li><li>Feedback systems</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Influenced robotics and AI.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_cytology",
+"name":"Father of Cytology : Robert Hooke",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_cytology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Cytology",
+"Person:":"Robert Hooke",
+"Born:":"1635",
+"Died:":"1703",
+"Country:":"England",
+"Field:":"Biology"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Robert Hooke was an English scientist and inventor.</li><li>He first used the term cell.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Cell discovery</li><li>Microscopy research</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Published Micrographia.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_differential_equations",
+"name":"Father of Differential Equations : Leonhard Euler",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_differential_equations",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Differential Equations",
+"Person:":"Leonhard Euler",
+"Born:":"1707",
+"Died:":"1783",
+"Country:":"Switzerland",
+"Field:":"Mathematics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Leonhard Euler was one of history’s greatest mathematicians.</li><li>He made enormous contributions to differential equations, calculus, mechanics, and number theory.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Foundations of differential equations</li><li>Euler’s formulas and methods</li><li>Advanced mathematical analysis</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Introduced much of modern mathematical notation.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_documentary_film",
+"name":"Father of Documentary Film : Robert Flaherty",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_documentary_film",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Documentary Film",
+"Person:":"Robert Flaherty",
+"Born:":"1884",
+"Died:":"1951",
+"Country:":"USA",
+"Field:":"Cinema"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Robert Flaherty pioneered documentary filmmaking.</li><li>He helped establish documentaries as an art form.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Created early documentary classics</li><li>Shaped nonfiction cinema</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known for the film Nanook of the North.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_ecology",
+"name":"Father of Ecology : Ernst Haeckel",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_ecology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Ecology",
+"Person:":"Ernst Haeckel",
+"Born:":"1834",
+"Died:":"1919",
+"Country:":"Germany",
+"Field:":"Biology"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Ernst Haeckel was a German biologist and naturalist.</li><li>He helped establish ecology as a scientific field.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Coined ecology concepts</li><li>Advanced evolutionary biology</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also known for beautiful scientific illustrations.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_economics",
+"name":"Father of Economics : Adam Smith",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_economics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Economics",
+"Person:":"Adam Smith",
+"Born:":"1723",
+"Died:":"1790",
+"Country:":"Scotland",
+"Field:":"Economics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Adam Smith was a Scottish economist and philosopher.</li><li>He laid the foundation of modern economics.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Wealth of Nations</li><li>Free market theory</li><li>Invisible hand concept</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often called Father of Modern Economics.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_electricity",
+"name":"Father of Electricity : Benjamin Franklin",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_electricity",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Electricity",
+"Person:":"Benjamin Franklin",
+"Born:":"1706",
+"Died:":"1790",
+"Country:":"USA",
+"Field:":"Physics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Benjamin Franklin was a scientist, inventor and statesman.</li><li>He made pioneering studies of electricity.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Kite experiment</li><li>Electrical concepts</li><li>Lightning rod invention</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of America’s Founding Fathers.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_electromagnetism",
+"name":"Father of Electromagnetism : James Clerk Maxwell",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_electromagnetism",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Electromagnetism",
+"Person:":"James Clerk Maxwell",
+"Born:":"1831",
+"Died:":"1879",
+"Country:":"Scotland",
+"Field:":"Physics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>James Clerk Maxwell unified electricity and magnetism into a single theory.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Maxwell’s Equations</li><li>Electromagnetic field theory</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Einstein admired Maxwell deeply.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_embryology",
+"name":"Father of Embryology : Karl Ernst von Baer",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_embryology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Embryology",
+"Person:":"Karl Ernst von Baer",
+"Born:":"1792",
+"Died:":"1876",
+"Country:":"Estonia / Russia",
+"Field:":"Biology"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Karl Ernst von Baer pioneered embryological studies.</li><li>He discovered the mammalian ovum.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Modern embryology foundations</li><li>Developmental biology discoveries</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called founder of developmental embryology.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_endocrinology",
+"name":"Father of Endocrinology : Thomas Addison",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_endocrinology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Endocrinology",
+"Person:":"Thomas Addison",
+"Born:":"1793",
+"Died:":"1860",
+"Country:":"England",
 "Field:":"Medicine"
 },
 "tabs":{
-"tab1":{
-"title":"Biography",
-"content":"<ul><li>Hippocrates was a Greek physician.</li><li>He established medicine as a scientific field.</li></ul>"
+"tab1":{"title":"Biography","content":"<ul><li>Thomas Addison was an English physician.</li><li>He made foundational discoveries in endocrine disorders.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Addison’s disease discovery</li><li>Endocrine system research</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>A disease is named after him.</li></ul>"}
 },
-"tab2":{
-"title":"Contributions",
-"content":"<ul><li>Hippocratic Oath</li><li>Medical ethics</li></ul>"
+"gallery_count":5
 },
-"tab3":{
-"title":"Facts",
-"content":"<ul><li>Still honored in modern medicine.</li></ul>"
-}
+
+{
+"id":"father_environmental_movement",
+"name":"Father of Environmental Movement : John Muir",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_environmental_movement",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Environmental Movement",
+"Person:":"John Muir",
+"Born:":"1838",
+"Died:":"1914",
+"Country:":"Scotland / USA",
+"Field:":"Environment"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>John Muir was a naturalist and conservation advocate.</li><li>He inspired modern environmental activism.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>National parks advocacy</li><li>Environmental protection movement</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called Father of National Parks too.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_epidemiology",
+"name":"Father of Epidemiology : John Snow",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_epidemiology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Epidemiology",
+"Person:":"John Snow",
+"Born:":"1813",
+"Died:":"1858",
+"Country:":"England",
+"Field:":"Medicine"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>John Snow was a physician who transformed disease investigation.</li><li>He is considered a founder of modern epidemiology.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Cholera outbreak mapping</li><li>Disease transmission analysis</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Famous for the Broad Street pump investigation.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_evolution",
+"name":"Father of Evolution : Charles Darwin",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_evolution",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Evolution",
+"Person:":"Charles Darwin",
+"Born:":"1809",
+"Died:":"1882",
+"Country:":"England",
+"Field:":"Biology"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Charles Darwin was an English naturalist whose work transformed biology.</li><li>He developed evolution by natural selection.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Theory of evolution</li><li>Natural selection</li><li>Origin of Species</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>One of the most influential scientists in history.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_forestry",
+"name":"Father of Forestry : Dietrich Brandis",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_forestry",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Forestry",
+"Person:":"Dietrich Brandis",
+"Born:":"1824",
+"Died:":"1907",
+"Country:":"Germany",
+"Field:":"Forestry"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Dietrich Brandis was a pioneering forester.</li><li>He helped establish scientific forestry management.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Modern forestry practices</li><li>Forest conservation systems</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often called Father of Tropical Forestry too.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_game_theory",
+"name":"Father of Game Theory : John von Neumann",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_game_theory",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Game Theory",
+"Person:":"John von Neumann",
+"Born:":"1903",
+"Died:":"1957",
+"Country:":"Hungary / USA",
+"Field:":"Mathematics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>John von Neumann was a polymath and mathematical genius.</li><li>He co-founded game theory.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Game theory foundations</li><li>Decision theory</li><li>Strategic mathematics</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also a major computer science pioneer.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_genetics",
+"name":"Father of Genetics : Gregor Mendel",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_genetics",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Genetics",
+"Person:":"Gregor Mendel",
+"Born:":"1822",
+"Died:":"1884",
+"Country:":"Austria",
+"Field:":"Genetics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Gregor Mendel was a scientist and monk.</li><li>His experiments founded genetics.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Laws of inheritance</li><li>Pea plant experiments</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called Father of Modern Genetics.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_geology",
+"name":"Father of Geology : James Hutton",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_geology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Geology",
+"Person:":"James Hutton",
+"Born:":"1726",
+"Died:":"1797",
+"Country:":"Scotland",
+"Field:":"Geology"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>James Hutton transformed understanding of Earth's processes.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Modern geology foundations</li><li>Uniformitarianism</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Often called Father of Modern Geology.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_geometry",
+"name":"Father of Geometry : Euclid",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_geometry",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Geometry",
+"Person:":"Euclid",
+"Born:":"300 BC",
+"Country:":"Greece",
+"Field:":"Mathematics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Euclid was an ancient Greek mathematician.</li><li>His work shaped geometry for centuries.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Elements</li><li>Foundations of geometry</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as the Father of Geometry.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_graph_theory",
+"name":"Father of Graph Theory : Leonhard Euler",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_graph_theory",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Graph Theory",
+"Person:":"Leonhard Euler",
+"Born:":"1707",
+"Died:":"1783",
+"Country:":"Switzerland",
+"Field:":"Mathematics"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Euler founded graph theory through groundbreaking mathematical work.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Königsberg Bridges problem</li><li>Graph theory foundations</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Also among history’s greatest mathematicians.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_green_revolution",
+"name":"Father of Green Revolution : Norman Borlaug",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_green_revolution",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Green Revolution",
+"Person:":"Norman Borlaug",
+"Born:":"1914",
+"Died:":"2009",
+"Country:":"USA",
+"Field:":"Agriculture"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Norman Borlaug was an agricultural scientist who helped combat global hunger.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>High-yield crop varieties</li><li>Green Revolution worldwide</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Nobel Peace Prize winner.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_green_revolution_india",
+"name":"Father of Green Revolution (India) : M. S. Swaminathan",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_green_revolution_india",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Green Revolution (India)",
+"Person:":"M. S. Swaminathan",
+"Born:":"1925",
+"Died:":"2023",
+"Country:":"India",
+"Field:":"Agriculture"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>M. S. Swaminathan led India's agricultural transformation.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Green Revolution in India</li><li>Food security improvements</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Called Father of Indian Green Revolution.</li></ul>"}
+},
+"gallery_count":5
+},
+
+{
+"id":"father_histology",
+"name":"Father of Histology : Marcello Malpighi",
+"type":"entity",
+"url":"entity.html?universe=father_of&id=father_histology",
+"parent":"father_of",
+"info":{
+"Title:":"Father of Histology",
+"Person:":"Marcello Malpighi",
+"Born:":"1628",
+"Died:":"1694",
+"Country:":"Italy",
+"Field:":"Biology / Medicine"
+},
+"tabs":{
+"tab1":{"title":"Biography","content":"<ul><li>Marcello Malpighi pioneered microscopic anatomy.</li><li>He laid foundations of histology.</li></ul>"},
+"tab2":{"title":"Contributions","content":"<ul><li>Tissue microscopy</li><li>Microscopic anatomy studies</li></ul>"},
+"tab3":{"title":"Facts","content":"<ul><li>Known as Father of Microscopic Anatomy too.</li></ul>"}
 },
 "gallery_count":5
 }
