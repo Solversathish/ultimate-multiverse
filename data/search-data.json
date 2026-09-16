@@ -1323,6 +1323,1932 @@
     "url": "category.html?universe=actors&path=tamil_actors"
   },
   {
+    "name": "M. K. Thyagaraja Bhagavathar",
+    "id": "m_k_thyagaraja_bhagavathar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=m_k_thyagaraja_bhagavathar"
+  },
+  {
+    "name": "P. U. Chinnappa",
+    "id": "p_u_chinnappa",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=p_u_chinnappa"
+  },
+  {
+    "name": "M. G. Ramachandran",
+    "id": "m_g_ramachandran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=m_g_ramachandran"
+  },
+  {
+    "name": "M. N. Nambiar",
+    "id": "m_n_nambiar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=m_n_nambiar"
+  },
+  {
+    "name": "Gemini Ganesan",
+    "id": "gemini_ganesan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=gemini_ganesan"
+  },
+  {
+    "name": "M. K. Mustafa",
+    "id": "m_k_mustafa",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=m_k_mustafa"
+  },
+  {
+    "name": "Sivaji Ganesan",
+    "id": "sivaji_ganesan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sivaji_ganesan"
+  },
+  {
+    "name": "S. S. Rajendran",
+    "id": "s_s_rajendran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=s_s_rajendran"
+  },
+  {
+    "name": "M. R. Radha",
+    "id": "m_r_radha",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=m_r_radha"
+  },
+  {
+    "name": "R. Muthuraman",
+    "id": "r_muthuraman",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=r_muthuraman"
+  },
+  {
+    "name": "Nagesh",
+    "id": "nagesh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=nagesh"
+  },
+  {
+    "name": "A. V. M. Rajan",
+    "id": "a_v_m_rajan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=a_v_m_rajan"
+  },
+  {
+    "name": "Ravichandran",
+    "id": "ravichandran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ravichandran"
+  },
+  {
+    "name": "Sivakumar",
+    "id": "sivakumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sivakumar"
+  },
+  {
+    "name": "Jaishankar",
+    "id": "jaishankar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jaishankar"
+  },
+  {
+    "name": "Kamal Haasan",
+    "id": "kamal_haasan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kamal_haasan"
+  },
+  {
+    "name": "Vijayakumar",
+    "id": "vijayakumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vijayakumar"
+  },
+  {
+    "name": "Rajinikanth",
+    "id": "rajinikanth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rajinikanth"
+  },
+  {
+    "name": "Sathyaraj",
+    "id": "sathyaraj",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sathyaraj"
+  },
+  {
+    "name": "Sarath Babu",
+    "id": "sarath_babu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sarath_babu"
+  },
+  {
+    "name": "Sudhakar",
+    "id": "sudhakar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sudhakar"
+  },
+  {
+    "name": "Vijayan",
+    "id": "vijayan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vijayan"
+  },
+  {
+    "name": "Rajesh",
+    "id": "rajesh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rajesh"
+  },
+  {
+    "name": "Bhagyaraj",
+    "id": "bhagyaraj",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=bhagyaraj"
+  },
+  {
+    "name": "Vijayakanth",
+    "id": "vijayakanth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vijayakanth"
+  },
+  {
+    "name": "Pratap Pothen",
+    "id": "pratap_pothen",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=pratap_pothen"
+  },
+  {
+    "name": "Suman",
+    "id": "suman",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=suman"
+  },
+  {
+    "name": "Mohan",
+    "id": "mohan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=mohan"
+  },
+  {
+    "name": "Raveendran",
+    "id": "raveendran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=raveendran"
+  },
+  {
+    "name": "Shankar",
+    "id": "shankar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=shankar"
+  },
+  {
+    "name": "Chandrasekhar",
+    "id": "chandrasekhar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=chandrasekhar"
+  },
+  {
+    "name": "Nizhalgal Ravi",
+    "id": "nizhalgal_ravi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=nizhalgal_ravi"
+  },
+  {
+    "name": "S. Ve. Sekhar",
+    "id": "s_ve_sekhar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=s_ve_sekhar"
+  },
+  {
+    "name": "Rajeev",
+    "id": "rajeev",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rajeev"
+  },
+  {
+    "name": "Visu",
+    "id": "visu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=visu"
+  },
+  {
+    "name": "Thiagarajan",
+    "id": "thiagarajan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=thiagarajan"
+  },
+  {
+    "name": "Karthik",
+    "id": "karthik",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=karthik"
+  },
+  {
+    "name": "Suresh",
+    "id": "suresh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=suresh"
+  },
+  {
+    "name": "Prabhu",
+    "id": "prabhu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=prabhu"
+  },
+  {
+    "name": "Prem Menon",
+    "id": "prem_menon",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=prem_menon"
+  },
+  {
+    "name": "Raghuvaran",
+    "id": "raghuvaran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=raghuvaran"
+  },
+  {
+    "name": "Bhanu Chander",
+    "id": "bhanu_chander",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=bhanu_chander"
+  },
+  {
+    "name": "T. Rajendar",
+    "id": "t_rajendar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=t_rajendar"
+  },
+  {
+    "name": "Anand Babu",
+    "id": "anand_babu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=anand_babu"
+  },
+  {
+    "name": "Pandiyan",
+    "id": "pandiyan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=pandiyan"
+  },
+  {
+    "name": "Arjun",
+    "id": "arjun",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=arjun"
+  },
+  {
+    "name": "Murali",
+    "id": "murali",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=murali"
+  },
+  {
+    "name": "Pandiarajan",
+    "id": "pandiarajan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=pandiarajan"
+  },
+  {
+    "name": "Arun Pandian",
+    "id": "arun_pandian",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=arun_pandian"
+  },
+  {
+    "name": "Ramarajan",
+    "id": "ramarajan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ramarajan"
+  },
+  {
+    "name": "Rahman",
+    "id": "rahman",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rahman"
+  },
+  {
+    "name": "Raja",
+    "id": "raja",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=raja"
+  },
+  {
+    "name": "Ramesh Aravind",
+    "id": "ramesh_aravind",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ramesh_aravind"
+  },
+  {
+    "name": "Ramki",
+    "id": "ramki",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ramki"
+  },
+  {
+    "name": "Nassar",
+    "id": "nassar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=nassar"
+  },
+  {
+    "name": "Charan Raj",
+    "id": "charan_raj",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=charan_raj"
+  },
+  {
+    "name": "Vivek",
+    "id": "vivek",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vivek"
+  },
+  {
+    "name": "Sarathkumar",
+    "id": "sarathkumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sarathkumar"
+  },
+  {
+    "name": "Livingston",
+    "id": "livingston",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=livingston"
+  },
+  {
+    "name": "Rajkiran",
+    "id": "rajkiran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rajkiran"
+  },
+  {
+    "name": "Parthiban",
+    "id": "parthiban",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=parthiban"
+  },
+  {
+    "name": "Mammootty",
+    "id": "mammootty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=mammootty"
+  },
+  {
+    "name": "Anand",
+    "id": "anand",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=anand"
+  },
+  {
+    "name": "Vignesh",
+    "id": "vignesh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vignesh"
+  },
+  {
+    "name": "Vikram",
+    "id": "vikram",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vikram"
+  },
+  {
+    "name": "Prashanth",
+    "id": "prashanth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=prashanth"
+  },
+  {
+    "name": "Napoleon",
+    "id": "napoleon",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=napoleon"
+  },
+  {
+    "name": "Selva",
+    "id": "selva",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=selva"
+  },
+  {
+    "name": "Vadivelu",
+    "id": "vadivelu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vadivelu"
+  },
+  {
+    "name": "Arvind Swamy",
+    "id": "arvind_swamy",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=arvind_swamy"
+  },
+  {
+    "name": "Saravanan",
+    "id": "saravanan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=saravanan"
+  },
+  {
+    "name": "C. Joseph Vijay",
+    "id": "c_joseph_vijay",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=c_joseph_vijay"
+  },
+  {
+    "name": "Vineeth",
+    "id": "vineeth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vineeth"
+  },
+  {
+    "name": "Suresh Menon",
+    "id": "suresh_menon",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=suresh_menon"
+  },
+  {
+    "name": "Jayaram",
+    "id": "jayaram",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jayaram"
+  },
+  {
+    "name": "Ranjith",
+    "id": "ranjith",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ranjith"
+  },
+  {
+    "name": "Ajith Kumar",
+    "id": "ajith_kumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ajith_kumar"
+  },
+  {
+    "name": "Prakash Raj",
+    "id": "prakash_raj",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=prakash_raj"
+  },
+  {
+    "name": "Prabhu Deva",
+    "id": "prabhu_deva",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=prabhu_deva"
+  },
+  {
+    "name": "Karan",
+    "id": "karan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=karan"
+  },
+  {
+    "name": "Arun Vijay",
+    "id": "arun_vijay",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=arun_vijay"
+  },
+  {
+    "name": "Jackie Shroff",
+    "id": "jackie_shroff",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jackie_shroff"
+  },
+  {
+    "name": "Aamir Khan",
+    "id": "aamir_khan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=aamir_khan"
+  },
+  {
+    "name": "Abbas",
+    "id": "abbas",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=abbas"
+  },
+  {
+    "name": "Suriya",
+    "id": "suriya",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=suriya"
+  },
+  {
+    "name": "Mohanlal",
+    "id": "mohanlal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=mohanlal"
+  },
+  {
+    "name": "Kunal",
+    "id": "kunal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kunal"
+  },
+  {
+    "name": "Manoj Bharathiraja",
+    "id": "manoj_bharathiraja",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=manoj_bharathiraja"
+  },
+  {
+    "name": "Hamsavardhan",
+    "id": "hamsavardhan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=hamsavardhan"
+  },
+  {
+    "name": "Jai Akash",
+    "id": "jai_akash",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jai_akash"
+  },
+  {
+    "name": "Madhavan",
+    "id": "madhavan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=madhavan"
+  },
+  {
+    "name": "Shah Rukh Khan",
+    "id": "shah_rukh_khan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=shah_rukh_khan"
+  },
+  {
+    "name": "Dino Morea",
+    "id": "dino_morea",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=dino_morea"
+  },
+  {
+    "name": "Raghava Lawrence",
+    "id": "raghava_lawrence",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=raghava_lawrence"
+  },
+  {
+    "name": "Shaam",
+    "id": "shaam",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=shaam"
+  },
+  {
+    "name": "Suniel Shetty",
+    "id": "suniel_shetty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=suniel_shetty"
+  },
+  {
+    "name": "Dhanush",
+    "id": "dhanush",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=dhanush"
+  },
+  {
+    "name": "Jeevan",
+    "id": "jeevan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jeevan"
+  },
+  {
+    "name": "Prasanna",
+    "id": "prasanna",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=prasanna"
+  },
+  {
+    "name": "Cheran",
+    "id": "cheran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=cheran"
+  },
+  {
+    "name": "Silambarasan",
+    "id": "silambarasan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=silambarasan"
+  },
+  {
+    "name": "Srikanth",
+    "id": "srikanth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=srikanth"
+  },
+  {
+    "name": "Nandha",
+    "id": "nandha",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=nandha"
+  },
+  {
+    "name": "Richard",
+    "id": "richard",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=richard"
+  },
+  {
+    "name": "Ramana",
+    "id": "ramana",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ramana"
+  },
+  {
+    "name": "Jiiva",
+    "id": "jiiva",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jiiva"
+  },
+  {
+    "name": "Sibi Sathyaraj",
+    "id": "sibi_sathyaraj",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sibi_sathyaraj"
+  },
+  {
+    "name": "Jayam Ravi",
+    "id": "jayam_ravi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jayam_ravi"
+  },
+  {
+    "name": "Siddharth",
+    "id": "siddharth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=siddharth"
+  },
+  {
+    "name": "Bharath",
+    "id": "bharath",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=bharath"
+  },
+  {
+    "name": "Thaman S",
+    "id": "thaman_s",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=thaman_s"
+  },
+  {
+    "name": "Manikandan",
+    "id": "manikandan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=manikandan"
+  },
+  {
+    "name": "Nakul",
+    "id": "nakul",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=nakul"
+  },
+  {
+    "name": "S. J. Suryah",
+    "id": "s_j_suryah",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=s_j_suryah"
+  },
+  {
+    "name": "Vishal",
+    "id": "vishal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vishal"
+  },
+  {
+    "name": "Karthik Kumar",
+    "id": "karthik_kumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=karthik_kumar"
+  },
+  {
+    "name": "Ravi Krishna",
+    "id": "ravi_krishna",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ravi_krishna"
+  },
+  {
+    "name": "Santhanam",
+    "id": "santhanam",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=santhanam"
+  },
+  {
+    "name": "Jithan Ramesh",
+    "id": "jithan_ramesh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jithan_ramesh"
+  },
+  {
+    "name": "Vikranth",
+    "id": "vikranth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vikranth"
+  },
+  {
+    "name": "Prithviraj",
+    "id": "prithviraj",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=prithviraj"
+  },
+  {
+    "name": "Navdeep",
+    "id": "navdeep",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=navdeep"
+  },
+  {
+    "name": "Arya",
+    "id": "arya",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=arya"
+  },
+  {
+    "name": "Narain",
+    "id": "narain",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=narain"
+  },
+  {
+    "name": "Natty",
+    "id": "natty",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=natty"
+  },
+  {
+    "name": "Sundar C",
+    "id": "sundar_c",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sundar_c"
+  },
+  {
+    "name": "Vishnu Priyan",
+    "id": "vishnu_priyan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vishnu_priyan"
+  },
+  {
+    "name": "Siddharth Venugopal",
+    "id": "siddharth_venugopal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=siddharth_venugopal"
+  },
+  {
+    "name": "Ashok Kumar",
+    "id": "ashok_kumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ashok_kumar"
+  },
+  {
+    "name": "Karthi",
+    "id": "karthi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=karthi"
+  },
+  {
+    "name": "Vinay",
+    "id": "vinay",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vinay"
+  },
+  {
+    "name": "Jai",
+    "id": "jai",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=jai"
+  },
+  {
+    "name": "Shiva",
+    "id": "shiva",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=shiva"
+  },
+  {
+    "name": "Vijay Vasanth",
+    "id": "vijay_vasanth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vijay_vasanth"
+  },
+  {
+    "name": "Shakthi Vasudevan",
+    "id": "shakthi_vasudevan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=shakthi_vasudevan"
+  },
+  {
+    "name": "Kishore",
+    "id": "kishore",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kishore"
+  },
+  {
+    "name": "Aadhi",
+    "id": "aadhi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=aadhi"
+  },
+  {
+    "name": "Naveen Chandra",
+    "id": "naveen_chandra",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=naveen_chandra"
+  },
+  {
+    "name": "Ajmal Ameer",
+    "id": "ajmal_ameer",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ajmal_ameer"
+  },
+  {
+    "name": "Sathya",
+    "id": "sathya",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sathya"
+  },
+  {
+    "name": "Samuthirakani",
+    "id": "samuthirakani",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=samuthirakani"
+  },
+  {
+    "name": "Sasikumar",
+    "id": "sasikumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sasikumar"
+  },
+  {
+    "name": "Vaibhav",
+    "id": "vaibhav",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vaibhav"
+  },
+  {
+    "name": "Kreshna",
+    "id": "kreshna",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kreshna"
+  },
+  {
+    "name": "Shanthanu Bhagyaraj",
+    "id": "shanthanu_bhagyaraj",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=shanthanu_bhagyaraj"
+  },
+  {
+    "name": "Ganesh Venkatraman",
+    "id": "ganesh_venkatraman",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ganesh_venkatraman"
+  },
+  {
+    "name": "Sharwanand",
+    "id": "sharwanand",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sharwanand"
+  },
+  {
+    "name": "Vishnu Vishal",
+    "id": "vishnu_vishal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vishnu_vishal"
+  },
+  {
+    "name": "Soori",
+    "id": "soori",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=soori"
+  },
+  {
+    "name": "Vimal",
+    "id": "vimal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vimal"
+  },
+  {
+    "name": "Aari",
+    "id": "aari",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=aari"
+  },
+  {
+    "name": "Mahesh",
+    "id": "mahesh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=mahesh"
+  },
+  {
+    "name": "Atharvaa",
+    "id": "atharvaa",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=atharvaa"
+  },
+  {
+    "name": "Rahul Ravindran",
+    "id": "rahul_ravindran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rahul_ravindran"
+  },
+  {
+    "name": "Arulnithi",
+    "id": "arulnithi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=arulnithi"
+  },
+  {
+    "name": "Harish Kalyan",
+    "id": "harish_kalyan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=harish_kalyan"
+  },
+  {
+    "name": "Vidharth",
+    "id": "vidharth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vidharth"
+  },
+  {
+    "name": "Sathish",
+    "id": "sathish",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sathish"
+  },
+  {
+    "name": "Rathan Mouli",
+    "id": "rathan_mouli",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rathan_mouli"
+  },
+  {
+    "name": "Vijay Sethupathi",
+    "id": "vijay_sethupathi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vijay_sethupathi"
+  },
+  {
+    "name": "Ashwin Kakumanu",
+    "id": "ashwin_kakumanu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ashwin_kakumanu"
+  },
+  {
+    "name": "Galaxy Star Vimal",
+    "id": "galaxy_star_vimal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=galaxy_star_vimal"
+  },
+  {
+    "name": "Sivakarthikeyan",
+    "id": "sivakarthikeyan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sivakarthikeyan"
+  },
+  {
+    "name": "Vivek Rajgopal",
+    "id": "vivek_rajgopal",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vivek_rajgopal"
+  },
+  {
+    "name": "Karunakaran",
+    "id": "karunakaran",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=karunakaran"
+  },
+  {
+    "name": "Sri",
+    "id": "sri",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sri"
+  },
+  {
+    "name": "Udhayanidhi Stalin",
+    "id": "udhayanidhi_stalin",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=udhayanidhi_stalin"
+  },
+  {
+    "name": "Dinesh",
+    "id": "dinesh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=dinesh"
+  },
+  {
+    "name": "Vijay Antony",
+    "id": "vijay_antony",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vijay_antony"
+  },
+  {
+    "name": "Vikram Prabhu",
+    "id": "vikram_prabhu",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vikram_prabhu"
+  },
+  {
+    "name": "Arjun Das",
+    "id": "arjun_das",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=arjun_das"
+  },
+  {
+    "name": "Gautham Karthik",
+    "id": "gautham_karthik",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=gautham_karthik"
+  },
+  {
+    "name": "Ashok Selvan",
+    "id": "ashok_selvan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ashok_selvan"
+  },
+  {
+    "name": "Bobby Simha",
+    "id": "bobby_simha",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=bobby_simha"
+  },
+  {
+    "name": "Sundeep Kishan",
+    "id": "sundeep_kishan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sundeep_kishan"
+  },
+  {
+    "name": "RJ Balaji",
+    "id": "rj_balaji",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rj_balaji"
+  },
+  {
+    "name": "Rana Daggubati",
+    "id": "rana_daggubati",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rana_daggubati"
+  },
+  {
+    "name": "Kathir",
+    "id": "kathir",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kathir"
+  },
+  {
+    "name": "Dulquer Salmaan",
+    "id": "dulquer_salmaan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=dulquer_salmaan"
+  },
+  {
+    "name": "Santhosh Prathap",
+    "id": "santhosh_prathap",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=santhosh_prathap"
+  },
+  {
+    "name": "Kalaiyarasan",
+    "id": "kalaiyarasan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kalaiyarasan"
+  },
+  {
+    "name": "G. V. Prakash Kumar",
+    "id": "g_v_prakash_kumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=g_v_prakash_kumar"
+  },
+  {
+    "name": "Dhruvva",
+    "id": "dhruvva",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=dhruvva"
+  },
+  {
+    "name": "Linga",
+    "id": "linga",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=linga"
+  },
+  {
+    "name": "K. Manikandan",
+    "id": "k_manikandan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=k_manikandan"
+  },
+  {
+    "name": "R. K. Suresh",
+    "id": "r_k_suresh",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=r_k_suresh"
+  },
+  {
+    "name": "Gokul Anand",
+    "id": "gokul_anand",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=gokul_anand"
+  },
+  {
+    "name": "R. S. Karthiik",
+    "id": "r_s_karthiik",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=r_s_karthiik"
+  },
+  {
+    "name": "Kalidas Jayaram",
+    "id": "kalidas_jayaram",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kalidas_jayaram"
+  },
+  {
+    "name": "Vijay Kumar",
+    "id": "vijay_kumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vijay_kumar"
+  },
+  {
+    "name": "Vetri",
+    "id": "vetri",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vetri"
+  },
+  {
+    "name": "Hiphop Tamizha Adhi",
+    "id": "hiphop_tamizha_adhi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=hiphop_tamizha_adhi"
+  },
+  {
+    "name": "Vasanth Ravi",
+    "id": "vasanth_ravi",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vasanth_ravi"
+  },
+  {
+    "name": "Kishen Das",
+    "id": "kishen_das",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kishen_das"
+  },
+  {
+    "name": "Akshay Kumar",
+    "id": "akshay_kumar",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=akshay_kumar"
+  },
+  {
+    "name": "Dhruv Vikram",
+    "id": "dhruv_vikram",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=dhruv_vikram"
+  },
+  {
+    "name": "Teejay",
+    "id": "teejay",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=teejay"
+  },
+  {
+    "name": "VJ Rakshan",
+    "id": "vj_rakshan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=vj_rakshan"
+  },
+  {
+    "name": "Sikkil Gurucharan",
+    "id": "sikkil_gurucharan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sikkil_gurucharan"
+  },
+  {
+    "name": "Subhash Selvam",
+    "id": "subhash_selvam",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=subhash_selvam"
+  },
+  {
+    "name": "Rohit Saraf",
+    "id": "rohit_saraf",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=rohit_saraf"
+  },
+  {
+    "name": "Kavin",
+    "id": "kavin",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=kavin"
+  },
+  {
+    "name": "Sarjano Khalid",
+    "id": "sarjano_khalid",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sarjano_khalid"
+  },
+  {
+    "name": "Roshan Mathew",
+    "id": "roshan_mathew",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=roshan_mathew"
+  },
+  {
+    "name": "Irfan Pathan",
+    "id": "irfan_pathan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=irfan_pathan"
+  },
+  {
+    "name": "Pradeep Ranganathan",
+    "id": "pradeep_ranganathan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=pradeep_ranganathan"
+  },
+  {
+    "name": "Ken Karunas",
+    "id": "ken_karunas",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=ken_karunas"
+  },
+  {
+    "name": "Mathew Thomas",
+    "id": "mathew_thomas",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=mathew_thomas"
+  },
+  {
+    "name": "Sanjay Dutt",
+    "id": "sanjay_dutt",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=sanjay_dutt"
+  },
+  {
+    "name": "Bobby Deol",
+    "id": "bobby_deol",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=bobby_deol"
+  },
+  {
+    "name": "Pavish Narayanan",
+    "id": "pavish_narayanan",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=pavish_narayanan"
+  },
+  {
+    "name": "Abishan Jeevinth",
+    "id": "abishan_jeevinth",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=abishan_jeevinth"
+  },
+  {
+    "name": "Karthikeya Dev",
+    "id": "karthikeya_dev",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=karthikeya_dev"
+  },
+  {
+    "name": "Mohnish",
+    "id": "mohnish",
+    "type": "entity",
+    "universe": "actors",
+    "path": "tamil_actors",
+    "parent": "Tamil Actors",
+    "url": "entity.html?universe=actors&path=tamil_actors&id=mohnish"
+  },
+  {
     "name": "Telugu Actors",
     "id": "telugu_actors",
     "type": "category",
