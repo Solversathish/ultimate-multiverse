@@ -1108,7 +1108,7 @@
   },
   {
     "id": "cote_divoire_flag",
-    "name": "Côte d'Ivoire Flag",
+    "name": "Cote d'Ivoire Flag",
     "type": "entity",
     "url": "entity.html?universe=country_flags&path=&id=cote_divoire_flag",
     "parent": "country_flags",
@@ -4024,7 +4024,7 @@
   },
   {
     "id": "sao_tome_and_principe_flag",
-    "name": "São Tomé and Príncipe Flag",
+    "name": "Sao Tome and Principe Flag",
     "type": "entity",
     "url": "entity.html?universe=country_flags&path=&id=sao_tome_and_principe_flag",
     "parent": "country_flags",
@@ -4807,7 +4807,7 @@
   },
   {
     "id": "turkey_flag",
-    "name": "Türkiye Flag",
+    "name": "Turkiye Flag",
     "type": "entity",
     "url": "entity.html?universe=country_flags&path=&id=turkey_flag",
     "parent": "country_flags",

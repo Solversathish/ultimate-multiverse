@@ -54,7 +54,7 @@ function getRootFile(universe){
   }
 
   if (universe === "country_flags") {
-    return `${dataFolder}/countries/country_flags.json`;
+    return `${dataFolder}/country_flags/country_flags.json`;
   }
 
   return `${dataFolder}/${universe}/categories.json`;

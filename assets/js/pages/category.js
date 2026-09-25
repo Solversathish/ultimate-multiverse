@@ -39,7 +39,7 @@ if (levels.length === 0) {
     filePath = `data/countries/countries.json`;
 
   } else if (universe === "country_flags") {
-    filePath = `data/countries/country_flags.json`;
+    filePath = `data/country_flags/country_flags.json`;
 
   } else {
     filePath = `data/${universe}/categories.json`;

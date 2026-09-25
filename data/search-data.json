@@ -25146,6 +25146,1761 @@
     "url": "entity.html?universe=countries&id=zimbabwe"
   },
   {
+    "name": "Afghanistan Flag",
+    "id": "afghanistan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=afghanistan_flag"
+  },
+  {
+    "name": "Albania Flag",
+    "id": "albania_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=albania_flag"
+  },
+  {
+    "name": "Algeria Flag",
+    "id": "algeria_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=algeria_flag"
+  },
+  {
+    "name": "Andorra Flag",
+    "id": "andorra_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=andorra_flag"
+  },
+  {
+    "name": "Angola Flag",
+    "id": "angola_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=angola_flag"
+  },
+  {
+    "name": "Antigua and Barbuda Flag",
+    "id": "antigua_and_barbuda_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=antigua_and_barbuda_flag"
+  },
+  {
+    "name": "Argentina Flag",
+    "id": "argentina_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=argentina_flag"
+  },
+  {
+    "name": "Armenia Flag",
+    "id": "armenia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=armenia_flag"
+  },
+  {
+    "name": "Australia Flag",
+    "id": "australia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=australia_flag"
+  },
+  {
+    "name": "Austria Flag",
+    "id": "austria_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=austria_flag"
+  },
+  {
+    "name": "Azerbaijan Flag",
+    "id": "azerbaijan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=azerbaijan_flag"
+  },
+  {
+    "name": "Bahamas Flag",
+    "id": "bahamas_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=bahamas_flag"
+  },
+  {
+    "name": "Bahrain Flag",
+    "id": "bahrain_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=bahrain_flag"
+  },
+  {
+    "name": "Bangladesh Flag",
+    "id": "bangladesh_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=bangladesh_flag"
+  },
+  {
+    "name": "Barbados Flag",
+    "id": "barbados_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=barbados_flag"
+  },
+  {
+    "name": "Belarus Flag",
+    "id": "belarus_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=belarus_flag"
+  },
+  {
+    "name": "Belgium Flag",
+    "id": "belgium_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=belgium_flag"
+  },
+  {
+    "name": "Belize Flag",
+    "id": "belize_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=belize_flag"
+  },
+  {
+    "name": "Benin Flag",
+    "id": "benin_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=benin_flag"
+  },
+  {
+    "name": "Bhutan Flag",
+    "id": "bhutan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=bhutan_flag"
+  },
+  {
+    "name": "Bolivia Flag",
+    "id": "bolivia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=bolivia_flag"
+  },
+  {
+    "name": "Bosnia and Herzegovina Flag",
+    "id": "bosnia_and_herzegovina_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=bosnia_and_herzegovina_flag"
+  },
+  {
+    "name": "Botswana Flag",
+    "id": "botswana_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=botswana_flag"
+  },
+  {
+    "name": "Brazil Flag",
+    "id": "brazil_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=brazil_flag"
+  },
+  {
+    "name": "Brunei Flag",
+    "id": "brunei_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=brunei_flag"
+  },
+  {
+    "name": "Bulgaria Flag",
+    "id": "bulgaria_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=bulgaria_flag"
+  },
+  {
+    "name": "Burkina Faso Flag",
+    "id": "burkina_faso_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=burkina_faso_flag"
+  },
+  {
+    "name": "Burundi Flag",
+    "id": "burundi_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=burundi_flag"
+  },
+  {
+    "name": "Cabo Verde Flag",
+    "id": "cabo_verde_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=cabo_verde_flag"
+  },
+  {
+    "name": "Cambodia Flag",
+    "id": "cambodia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=cambodia_flag"
+  },
+  {
+    "name": "Cameroon Flag",
+    "id": "cameroon_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=cameroon_flag"
+  },
+  {
+    "name": "Canada Flag",
+    "id": "canada_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=canada_flag"
+  },
+  {
+    "name": "Central African Republic Flag",
+    "id": "central_african_republic_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=central_african_republic_flag"
+  },
+  {
+    "name": "Chad Flag",
+    "id": "chad_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=chad_flag"
+  },
+  {
+    "name": "Chile Flag",
+    "id": "chile_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=chile_flag"
+  },
+  {
+    "name": "China Flag",
+    "id": "china_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=china_flag"
+  },
+  {
+    "name": "Colombia Flag",
+    "id": "colombia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=colombia_flag"
+  },
+  {
+    "name": "Comoros Flag",
+    "id": "comoros_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=comoros_flag"
+  },
+  {
+    "name": "Democratic Republic of the Congo Flag",
+    "id": "democratic_republic_of_the_congo_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=democratic_republic_of_the_congo_flag"
+  },
+  {
+    "name": "Republic of the Congo Flag",
+    "id": "republic_of_the_congo_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=republic_of_the_congo_flag"
+  },
+  {
+    "name": "Costa Rica Flag",
+    "id": "costa_rica_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=costa_rica_flag"
+  },
+  {
+    "name": "Cote d'Ivoire Flag",
+    "id": "cote_divoire_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=cote_divoire_flag"
+  },
+  {
+    "name": "Croatia Flag",
+    "id": "croatia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=croatia_flag"
+  },
+  {
+    "name": "Cuba Flag",
+    "id": "cuba_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=cuba_flag"
+  },
+  {
+    "name": "Cyprus Flag",
+    "id": "cyprus_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=cyprus_flag"
+  },
+  {
+    "name": "Czechia Flag",
+    "id": "czechia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=czechia_flag"
+  },
+  {
+    "name": "Denmark Flag",
+    "id": "denmark_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=denmark_flag"
+  },
+  {
+    "name": "Djibouti Flag",
+    "id": "djibouti_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=djibouti_flag"
+  },
+  {
+    "name": "Dominica Flag",
+    "id": "dominica_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=dominica_flag"
+  },
+  {
+    "name": "Dominican Republic Flag",
+    "id": "dominican_republic_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=dominican_republic_flag"
+  },
+  {
+    "name": "Ecuador Flag",
+    "id": "ecuador_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=ecuador_flag"
+  },
+  {
+    "name": "Egypt Flag",
+    "id": "egypt_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=egypt_flag"
+  },
+  {
+    "name": "El Salvador Flag",
+    "id": "el_salvador_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=el_salvador_flag"
+  },
+  {
+    "name": "Equatorial Guinea Flag",
+    "id": "equatorial_guinea_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=equatorial_guinea_flag"
+  },
+  {
+    "name": "Eritrea Flag",
+    "id": "eritrea_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=eritrea_flag"
+  },
+  {
+    "name": "Estonia Flag",
+    "id": "estonia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=estonia_flag"
+  },
+  {
+    "name": "Eswatini Flag",
+    "id": "eswatini_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=eswatini_flag"
+  },
+  {
+    "name": "Ethiopia Flag",
+    "id": "ethiopia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=ethiopia_flag"
+  },
+  {
+    "name": "Fiji Flag",
+    "id": "fiji_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=fiji_flag"
+  },
+  {
+    "name": "Finland Flag",
+    "id": "finland_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=finland_flag"
+  },
+  {
+    "name": "France Flag",
+    "id": "france_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=france_flag"
+  },
+  {
+    "name": "Gabon Flag",
+    "id": "gabon_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=gabon_flag"
+  },
+  {
+    "name": "Gambia Flag",
+    "id": "gambia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=gambia_flag"
+  },
+  {
+    "name": "Georgia Flag",
+    "id": "georgia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=georgia_flag"
+  },
+  {
+    "name": "Germany Flag",
+    "id": "germany_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=germany_flag"
+  },
+  {
+    "name": "Ghana Flag",
+    "id": "ghana_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=ghana_flag"
+  },
+  {
+    "name": "Greece Flag",
+    "id": "greece_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=greece_flag"
+  },
+  {
+    "name": "Grenada Flag",
+    "id": "grenada_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=grenada_flag"
+  },
+  {
+    "name": "Guatemala Flag",
+    "id": "guatemala_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=guatemala_flag"
+  },
+  {
+    "name": "Guinea Flag",
+    "id": "guinea_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=guinea_flag"
+  },
+  {
+    "name": "Guinea-Bissau Flag",
+    "id": "guinea_bissau_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=guinea_bissau_flag"
+  },
+  {
+    "name": "Guyana Flag",
+    "id": "guyana_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=guyana_flag"
+  },
+  {
+    "name": "Haiti Flag",
+    "id": "haiti_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=haiti_flag"
+  },
+  {
+    "name": "Honduras Flag",
+    "id": "honduras_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=honduras_flag"
+  },
+  {
+    "name": "Hungary Flag",
+    "id": "hungary_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=hungary_flag"
+  },
+  {
+    "name": "Iceland Flag",
+    "id": "iceland_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=iceland_flag"
+  },
+  {
+    "name": "India Flag",
+    "id": "india_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=india_flag"
+  },
+  {
+    "name": "Indonesia Flag",
+    "id": "indonesia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=indonesia_flag"
+  },
+  {
+    "name": "Iran Flag",
+    "id": "iran_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=iran_flag"
+  },
+  {
+    "name": "Iraq Flag",
+    "id": "iraq_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=iraq_flag"
+  },
+  {
+    "name": "Ireland Flag",
+    "id": "ireland_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=ireland_flag"
+  },
+  {
+    "name": "Israel Flag",
+    "id": "israel_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=israel_flag"
+  },
+  {
+    "name": "Italy Flag",
+    "id": "italy_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=italy_flag"
+  },
+  {
+    "name": "Jamaica Flag",
+    "id": "jamaica_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=jamaica_flag"
+  },
+  {
+    "name": "Japan Flag",
+    "id": "japan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=japan_flag"
+  },
+  {
+    "name": "Jordan Flag",
+    "id": "jordan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=jordan_flag"
+  },
+  {
+    "name": "Kazakhstan Flag",
+    "id": "kazakhstan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=kazakhstan_flag"
+  },
+  {
+    "name": "Kenya Flag",
+    "id": "kenya_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=kenya_flag"
+  },
+  {
+    "name": "Kiribati Flag",
+    "id": "kiribati_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=kiribati_flag"
+  },
+  {
+    "name": "Kuwait Flag",
+    "id": "kuwait_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=kuwait_flag"
+  },
+  {
+    "name": "Kyrgyzstan Flag",
+    "id": "kyrgyzstan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=kyrgyzstan_flag"
+  },
+  {
+    "name": "Laos Flag",
+    "id": "laos_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=laos_flag"
+  },
+  {
+    "name": "Latvia Flag",
+    "id": "latvia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=latvia_flag"
+  },
+  {
+    "name": "Lebanon Flag",
+    "id": "lebanon_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=lebanon_flag"
+  },
+  {
+    "name": "Lesotho Flag",
+    "id": "lesotho_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=lesotho_flag"
+  },
+  {
+    "name": "Liberia Flag",
+    "id": "liberia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=liberia_flag"
+  },
+  {
+    "name": "Libya Flag",
+    "id": "libya_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=libya_flag"
+  },
+  {
+    "name": "Liechtenstein Flag",
+    "id": "liechtenstein_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=liechtenstein_flag"
+  },
+  {
+    "name": "Lithuania Flag",
+    "id": "lithuania_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=lithuania_flag"
+  },
+  {
+    "name": "Luxembourg Flag",
+    "id": "luxembourg_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=luxembourg_flag"
+  },
+  {
+    "name": "Madagascar Flag",
+    "id": "madagascar_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=madagascar_flag"
+  },
+  {
+    "name": "Malawi Flag",
+    "id": "malawi_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=malawi_flag"
+  },
+  {
+    "name": "Malaysia Flag",
+    "id": "malaysia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=malaysia_flag"
+  },
+  {
+    "name": "Maldives Flag",
+    "id": "maldives_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=maldives_flag"
+  },
+  {
+    "name": "Mali Flag",
+    "id": "mali_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=mali_flag"
+  },
+  {
+    "name": "Malta Flag",
+    "id": "malta_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=malta_flag"
+  },
+  {
+    "name": "Marshall Islands Flag",
+    "id": "marshall_islands_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=marshall_islands_flag"
+  },
+  {
+    "name": "Mauritania Flag",
+    "id": "mauritania_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=mauritania_flag"
+  },
+  {
+    "name": "Mauritius Flag",
+    "id": "mauritius_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=mauritius_flag"
+  },
+  {
+    "name": "Mexico Flag",
+    "id": "mexico_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=mexico_flag"
+  },
+  {
+    "name": "Micronesia Flag",
+    "id": "micronesia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=micronesia_flag"
+  },
+  {
+    "name": "Moldova Flag",
+    "id": "moldova_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=moldova_flag"
+  },
+  {
+    "name": "Monaco Flag",
+    "id": "monaco_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=monaco_flag"
+  },
+  {
+    "name": "Mongolia Flag",
+    "id": "mongolia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=mongolia_flag"
+  },
+  {
+    "name": "Montenegro Flag",
+    "id": "montenegro_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=montenegro_flag"
+  },
+  {
+    "name": "Morocco Flag",
+    "id": "morocco_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=morocco_flag"
+  },
+  {
+    "name": "Mozambique Flag",
+    "id": "mozambique_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=mozambique_flag"
+  },
+  {
+    "name": "Myanmar Flag",
+    "id": "myanmar_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=myanmar_flag"
+  },
+  {
+    "name": "Namibia Flag",
+    "id": "namibia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=namibia_flag"
+  },
+  {
+    "name": "Nauru Flag",
+    "id": "nauru_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=nauru_flag"
+  },
+  {
+    "name": "Nepal Flag",
+    "id": "nepal_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=nepal_flag"
+  },
+  {
+    "name": "Netherlands Flag",
+    "id": "netherlands_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=netherlands_flag"
+  },
+  {
+    "name": "New Zealand Flag",
+    "id": "new_zealand_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=new_zealand_flag"
+  },
+  {
+    "name": "Nicaragua Flag",
+    "id": "nicaragua_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=nicaragua_flag"
+  },
+  {
+    "name": "Niger Flag",
+    "id": "niger_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=niger_flag"
+  },
+  {
+    "name": "Nigeria Flag",
+    "id": "nigeria_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=nigeria_flag"
+  },
+  {
+    "name": "North Korea Flag",
+    "id": "north_korea_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=north_korea_flag"
+  },
+  {
+    "name": "North Macedonia Flag",
+    "id": "north_macedonia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=north_macedonia_flag"
+  },
+  {
+    "name": "Norway Flag",
+    "id": "norway_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=norway_flag"
+  },
+  {
+    "name": "Oman Flag",
+    "id": "oman_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=oman_flag"
+  },
+  {
+    "name": "Pakistan Flag",
+    "id": "pakistan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=pakistan_flag"
+  },
+  {
+    "name": "Palau Flag",
+    "id": "palau_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=palau_flag"
+  },
+  {
+    "name": "Palestine Flag",
+    "id": "palestine_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=palestine_flag"
+  },
+  {
+    "name": "Panama Flag",
+    "id": "panama_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=panama_flag"
+  },
+  {
+    "name": "Papua New Guinea Flag",
+    "id": "papua_new_guinea_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=papua_new_guinea_flag"
+  },
+  {
+    "name": "Paraguay Flag",
+    "id": "paraguay_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=paraguay_flag"
+  },
+  {
+    "name": "Peru Flag",
+    "id": "peru_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=peru_flag"
+  },
+  {
+    "name": "Philippines Flag",
+    "id": "philippines_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=philippines_flag"
+  },
+  {
+    "name": "Poland Flag",
+    "id": "poland_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=poland_flag"
+  },
+  {
+    "name": "Portugal Flag",
+    "id": "portugal_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=portugal_flag"
+  },
+  {
+    "name": "Qatar Flag",
+    "id": "qatar_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=qatar_flag"
+  },
+  {
+    "name": "Romania Flag",
+    "id": "romania_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=romania_flag"
+  },
+  {
+    "name": "Russia Flag",
+    "id": "russia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=russia_flag"
+  },
+  {
+    "name": "Rwanda Flag",
+    "id": "rwanda_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=rwanda_flag"
+  },
+  {
+    "name": "Saint Kitts and Nevis Flag",
+    "id": "saint_kitts_and_nevis_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=saint_kitts_and_nevis_flag"
+  },
+  {
+    "name": "Saint Lucia Flag",
+    "id": "saint_lucia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=saint_lucia_flag"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines Flag",
+    "id": "saint_vincent_and_the_grenadines_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=saint_vincent_and_the_grenadines_flag"
+  },
+  {
+    "name": "Samoa Flag",
+    "id": "samoa_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=samoa_flag"
+  },
+  {
+    "name": "San Marino Flag",
+    "id": "san_marino_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=san_marino_flag"
+  },
+  {
+    "name": "Sao Tome and Principe Flag",
+    "id": "sao_tome_and_principe_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=sao_tome_and_principe_flag"
+  },
+  {
+    "name": "Saudi Arabia Flag",
+    "id": "saudi_arabia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=saudi_arabia_flag"
+  },
+  {
+    "name": "Senegal Flag",
+    "id": "senegal_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=senegal_flag"
+  },
+  {
+    "name": "Serbia Flag",
+    "id": "serbia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=serbia_flag"
+  },
+  {
+    "name": "Seychelles Flag",
+    "id": "seychelles_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=seychelles_flag"
+  },
+  {
+    "name": "Sierra Leone Flag",
+    "id": "sierra_leone_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=sierra_leone_flag"
+  },
+  {
+    "name": "Singapore Flag",
+    "id": "singapore_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=singapore_flag"
+  },
+  {
+    "name": "Slovakia Flag",
+    "id": "slovakia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=slovakia_flag"
+  },
+  {
+    "name": "Slovenia Flag",
+    "id": "slovenia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=slovenia_flag"
+  },
+  {
+    "name": "Solomon Islands Flag",
+    "id": "solomon_islands_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=solomon_islands_flag"
+  },
+  {
+    "name": "Somalia Flag",
+    "id": "somalia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=somalia_flag"
+  },
+  {
+    "name": "South Africa Flag",
+    "id": "south_africa_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=south_africa_flag"
+  },
+  {
+    "name": "South Korea Flag",
+    "id": "south_korea_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=south_korea_flag"
+  },
+  {
+    "name": "South Sudan Flag",
+    "id": "south_sudan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=south_sudan_flag"
+  },
+  {
+    "name": "Spain Flag",
+    "id": "spain_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=spain_flag"
+  },
+  {
+    "name": "Sri Lanka Flag",
+    "id": "sri_lanka_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=sri_lanka_flag"
+  },
+  {
+    "name": "Sudan Flag",
+    "id": "sudan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=sudan_flag"
+  },
+  {
+    "name": "Suriname Flag",
+    "id": "suriname_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=suriname_flag"
+  },
+  {
+    "name": "Sweden Flag",
+    "id": "sweden_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=sweden_flag"
+  },
+  {
+    "name": "Switzerland Flag",
+    "id": "switzerland_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=switzerland_flag"
+  },
+  {
+    "name": "Syria Flag",
+    "id": "syria_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=syria_flag"
+  },
+  {
+    "name": "Tajikistan Flag",
+    "id": "tajikistan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=tajikistan_flag"
+  },
+  {
+    "name": "Tanzania Flag",
+    "id": "tanzania_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=tanzania_flag"
+  },
+  {
+    "name": "Thailand Flag",
+    "id": "thailand_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=thailand_flag"
+  },
+  {
+    "name": "Timor-Leste Flag",
+    "id": "timor_leste_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=timor_leste_flag"
+  },
+  {
+    "name": "Togo Flag",
+    "id": "togo_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=togo_flag"
+  },
+  {
+    "name": "Tonga Flag",
+    "id": "tonga_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=tonga_flag"
+  },
+  {
+    "name": "Trinidad and Tobago Flag",
+    "id": "trinidad_and_tobago_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=trinidad_and_tobago_flag"
+  },
+  {
+    "name": "Tunisia Flag",
+    "id": "tunisia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=tunisia_flag"
+  },
+  {
+    "name": "Turkiye Flag",
+    "id": "turkey_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=turkey_flag"
+  },
+  {
+    "name": "Turkmenistan Flag",
+    "id": "turkmenistan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=turkmenistan_flag"
+  },
+  {
+    "name": "Tuvalu Flag",
+    "id": "tuvalu_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=tuvalu_flag"
+  },
+  {
+    "name": "Uganda Flag",
+    "id": "uganda_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=uganda_flag"
+  },
+  {
+    "name": "Ukraine Flag",
+    "id": "ukraine_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=ukraine_flag"
+  },
+  {
+    "name": "United Arab Emirates Flag",
+    "id": "united_arab_emirates_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=united_arab_emirates_flag"
+  },
+  {
+    "name": "United Kingdom Flag",
+    "id": "united_kingdom_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=united_kingdom_flag"
+  },
+  {
+    "name": "United States Flag",
+    "id": "united_states_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=united_states_flag"
+  },
+  {
+    "name": "Uruguay Flag",
+    "id": "uruguay_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=uruguay_flag"
+  },
+  {
+    "name": "Uzbekistan Flag",
+    "id": "uzbekistan_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=uzbekistan_flag"
+  },
+  {
+    "name": "Vanuatu Flag",
+    "id": "vanuatu_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=vanuatu_flag"
+  },
+  {
+    "name": "Vatican City Flag",
+    "id": "vatican_city_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=vatican_city_flag"
+  },
+  {
+    "name": "Venezuela Flag",
+    "id": "venezuela_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=venezuela_flag"
+  },
+  {
+    "name": "Vietnam Flag",
+    "id": "vietnam_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=vietnam_flag"
+  },
+  {
+    "name": "Yemen Flag",
+    "id": "yemen_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=yemen_flag"
+  },
+  {
+    "name": "Zambia Flag",
+    "id": "zambia_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=zambia_flag"
+  },
+  {
+    "name": "Zimbabwe Flag",
+    "id": "zimbabwe_flag",
+    "type": "entity",
+    "universe": "country_flags",
+    "path": "",
+    "parent": "Country Flags",
+    "url": "entity.html?universe=country_flags&id=zimbabwe_flag"
+  },
+  {
     "name": "Father of Accounting : Luca Pacioli",
     "id": "father_accounting",
     "type": "entity",
