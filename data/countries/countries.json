@@ -1149,7 +1149,7 @@
   },
   {
     "id": "cote_divoire",
-    "name": "Côte d'Ivoire",
+    "name": "Cote d'Ivoire",
     "type": "entity",
     "url": "entity.html?universe=countries&path=&id=cote_divoire",
     "parent": "countries",
@@ -4173,7 +4173,7 @@
   },
   {
     "id": "sao_tome_and_principe",
-    "name": "São Tomé and Príncipe",
+    "name": "Sao Tome and Principe",
     "type": "entity",
     "url": "entity.html?universe=countries&path=&id=sao_tome_and_principe",
     "parent": "countries",
@@ -4985,7 +4985,7 @@
   },
   {
     "id": "turkey",
-    "name": "Türkiye",
+    "name": "Turkiye",
     "type": "entity",
     "url": "entity.html?universe=countries&path=&id=turkey",
     "parent": "countries",

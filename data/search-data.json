@@ -23760,7 +23760,7 @@
     "url": "entity.html?universe=countries&id=costa_rica"
   },
   {
-    "name": "Côte d'Ivoire",
+    "name": "Cote d'Ivoire",
     "id": "cote_divoire",
     "type": "entity",
     "universe": "countries",
@@ -24732,7 +24732,7 @@
     "url": "entity.html?universe=countries&id=san_marino"
   },
   {
-    "name": "São Tomé and Príncipe",
+    "name": "Sao Tome and Principe",
     "id": "sao_tome_and_principe",
     "type": "entity",
     "universe": "countries",
@@ -24993,7 +24993,7 @@
     "url": "entity.html?universe=countries&id=tunisia"
   },
   {
-    "name": "Türkiye",
+    "name": "Turkiye",
     "id": "turkey",
     "type": "entity",
     "universe": "countries",
