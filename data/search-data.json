@@ -23391,6 +23391,690 @@
     "url": "category.html?universe=chemistry&path=solutions"
   },
   {
+    "name": "Afghanistan",
+    "id": "afghanistan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=afghanistan"
+  },
+  {
+    "name": "Albania",
+    "id": "albania",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=albania"
+  },
+  {
+    "name": "Algeria",
+    "id": "algeria",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=algeria"
+  },
+  {
+    "name": "Andorra",
+    "id": "andorra",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=andorra"
+  },
+  {
+    "name": "Angola",
+    "id": "angola",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=angola"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "id": "antigua_and_barbuda",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=antigua_and_barbuda"
+  },
+  {
+    "name": "Argentina",
+    "id": "argentina",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=argentina"
+  },
+  {
+    "name": "Armenia",
+    "id": "armenia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=armenia"
+  },
+  {
+    "name": "Australia",
+    "id": "australia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=australia"
+  },
+  {
+    "name": "Austria",
+    "id": "austria",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=austria"
+  },
+  {
+    "name": "Azerbaijan",
+    "id": "azerbaijan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=azerbaijan"
+  },
+  {
+    "name": "Bahamas",
+    "id": "bahamas",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=bahamas"
+  },
+  {
+    "name": "Bahrain",
+    "id": "bahrain",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=bahrain"
+  },
+  {
+    "name": "Bangladesh",
+    "id": "bangladesh",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=bangladesh"
+  },
+  {
+    "name": "Barbados",
+    "id": "barbados",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=barbados"
+  },
+  {
+    "name": "Belarus",
+    "id": "belarus",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=belarus"
+  },
+  {
+    "name": "Belgium",
+    "id": "belgium",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=belgium"
+  },
+  {
+    "name": "Belize",
+    "id": "belize",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=belize"
+  },
+  {
+    "name": "Benin",
+    "id": "benin",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=benin"
+  },
+  {
+    "name": "Bhutan",
+    "id": "bhutan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=bhutan"
+  },
+  {
+    "name": "Bolivia",
+    "id": "bolivia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=bolivia"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "id": "bosnia_and_herzegovina",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=bosnia_and_herzegovina"
+  },
+  {
+    "name": "Botswana",
+    "id": "botswana",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=botswana"
+  },
+  {
+    "name": "Brazil",
+    "id": "brazil",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=brazil"
+  },
+  {
+    "name": "Brunei",
+    "id": "brunei",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=brunei"
+  },
+  {
+    "name": "Bulgaria",
+    "id": "bulgaria",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=bulgaria"
+  },
+  {
+    "name": "Burkina Faso",
+    "id": "burkina_faso",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=burkina_faso"
+  },
+  {
+    "name": "Burundi",
+    "id": "burundi",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=burundi"
+  },
+  {
+    "name": "Cabo Verde",
+    "id": "cabo_verde",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=cabo_verde"
+  },
+  {
+    "name": "Cambodia",
+    "id": "cambodia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=cambodia"
+  },
+  {
+    "name": "Cameroon",
+    "id": "cameroon",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=cameroon"
+  },
+  {
+    "name": "Canada",
+    "id": "canada",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=canada"
+  },
+  {
+    "name": "Central African Republic",
+    "id": "central_african_republic",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=central_african_republic"
+  },
+  {
+    "name": "Chad",
+    "id": "chad",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=chad"
+  },
+  {
+    "name": "Chile",
+    "id": "chile",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=chile"
+  },
+  {
+    "name": "China",
+    "id": "china",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=china"
+  },
+  {
+    "name": "Colombia",
+    "id": "colombia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=colombia"
+  },
+  {
+    "name": "Comoros",
+    "id": "comoros",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=comoros"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "id": "democratic_republic_of_the_congo",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=democratic_republic_of_the_congo"
+  },
+  {
+    "name": "Republic of the Congo",
+    "id": "republic_of_the_congo",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=republic_of_the_congo"
+  },
+  {
+    "name": "Costa Rica",
+    "id": "costa_rica",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=costa_rica"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "id": "cote_divoire",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=cote_divoire"
+  },
+  {
+    "name": "Croatia",
+    "id": "croatia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=croatia"
+  },
+  {
+    "name": "Cuba",
+    "id": "cuba",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=cuba"
+  },
+  {
+    "name": "Cyprus",
+    "id": "cyprus",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=cyprus"
+  },
+  {
+    "name": "Czechia",
+    "id": "czechia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=czechia"
+  },
+  {
+    "name": "Denmark",
+    "id": "denmark",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=denmark"
+  },
+  {
+    "name": "Djibouti",
+    "id": "djibouti",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=djibouti"
+  },
+  {
+    "name": "Dominica",
+    "id": "dominica",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=dominica"
+  },
+  {
+    "name": "Dominican Republic",
+    "id": "dominican_republic",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=dominican_republic"
+  },
+  {
+    "name": "Ecuador",
+    "id": "ecuador",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=ecuador"
+  },
+  {
+    "name": "Egypt",
+    "id": "egypt",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=egypt"
+  },
+  {
+    "name": "El Salvador",
+    "id": "el_salvador",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=el_salvador"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "id": "equatorial_guinea",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=equatorial_guinea"
+  },
+  {
+    "name": "Eritrea",
+    "id": "eritrea",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=eritrea"
+  },
+  {
+    "name": "Estonia",
+    "id": "estonia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=estonia"
+  },
+  {
+    "name": "Eswatini",
+    "id": "eswatini",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=eswatini"
+  },
+  {
+    "name": "Ethiopia",
+    "id": "ethiopia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=ethiopia"
+  },
+  {
+    "name": "Fiji",
+    "id": "fiji",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=fiji"
+  },
+  {
+    "name": "Finland",
+    "id": "finland",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=finland"
+  },
+  {
+    "name": "France",
+    "id": "france",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=france"
+  },
+  {
+    "name": "Gabon",
+    "id": "gabon",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=gabon"
+  },
+  {
+    "name": "Gambia",
+    "id": "gambia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=gambia"
+  },
+  {
+    "name": "Georgia",
+    "id": "georgia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=georgia"
+  },
+  {
+    "name": "Germany",
+    "id": "germany",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=germany"
+  },
+  {
+    "name": "Ghana",
+    "id": "ghana",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=ghana"
+  },
+  {
+    "name": "Greece",
+    "id": "greece",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=greece"
+  },
+  {
+    "name": "Grenada",
+    "id": "grenada",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=grenada"
+  },
+  {
+    "name": "Guatemala",
+    "id": "guatemala",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=guatemala"
+  },
+  {
+    "name": "Guinea",
+    "id": "guinea",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=guinea"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "id": "guinea_bissau",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=guinea_bissau"
+  },
+  {
+    "name": "Guyana",
+    "id": "guyana",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=guyana"
+  },
+  {
+    "name": "Haiti",
+    "id": "haiti",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=haiti"
+  },
+  {
+    "name": "Honduras",
+    "id": "honduras",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=honduras"
+  },
+  {
+    "name": "Hungary",
+    "id": "hungary",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=hungary"
+  },
+  {
+    "name": "Iceland",
+    "id": "iceland",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=iceland"
+  },
+  {
     "name": "India",
     "id": "india",
     "type": "entity",
@@ -23398,6 +24082,1068 @@
     "path": "",
     "parent": "Countries",
     "url": "entity.html?universe=countries&id=india"
+  },
+  {
+    "name": "Indonesia",
+    "id": "indonesia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=indonesia"
+  },
+  {
+    "name": "Iran",
+    "id": "iran",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=iran"
+  },
+  {
+    "name": "Iraq",
+    "id": "iraq",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=iraq"
+  },
+  {
+    "name": "Ireland",
+    "id": "ireland",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=ireland"
+  },
+  {
+    "name": "Israel",
+    "id": "israel",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=israel"
+  },
+  {
+    "name": "Italy",
+    "id": "italy",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=italy"
+  },
+  {
+    "name": "Jamaica",
+    "id": "jamaica",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=jamaica"
+  },
+  {
+    "name": "Japan",
+    "id": "japan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=japan"
+  },
+  {
+    "name": "Jordan",
+    "id": "jordan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=jordan"
+  },
+  {
+    "name": "Kazakhstan",
+    "id": "kazakhstan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=kazakhstan"
+  },
+  {
+    "name": "Kenya",
+    "id": "kenya",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=kenya"
+  },
+  {
+    "name": "Kiribati",
+    "id": "kiribati",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=kiribati"
+  },
+  {
+    "name": "Kuwait",
+    "id": "kuwait",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=kuwait"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "id": "kyrgyzstan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=kyrgyzstan"
+  },
+  {
+    "name": "Laos",
+    "id": "laos",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=laos"
+  },
+  {
+    "name": "Latvia",
+    "id": "latvia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=latvia"
+  },
+  {
+    "name": "Lebanon",
+    "id": "lebanon",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=lebanon"
+  },
+  {
+    "name": "Lesotho",
+    "id": "lesotho",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=lesotho"
+  },
+  {
+    "name": "Liberia",
+    "id": "liberia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=liberia"
+  },
+  {
+    "name": "Libya",
+    "id": "libya",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=libya"
+  },
+  {
+    "name": "Liechtenstein",
+    "id": "liechtenstein",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=liechtenstein"
+  },
+  {
+    "name": "Lithuania",
+    "id": "lithuania",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=lithuania"
+  },
+  {
+    "name": "Luxembourg",
+    "id": "luxembourg",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=luxembourg"
+  },
+  {
+    "name": "Madagascar",
+    "id": "madagascar",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=madagascar"
+  },
+  {
+    "name": "Malawi",
+    "id": "malawi",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=malawi"
+  },
+  {
+    "name": "Malaysia",
+    "id": "malaysia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=malaysia"
+  },
+  {
+    "name": "Maldives",
+    "id": "maldives",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=maldives"
+  },
+  {
+    "name": "Mali",
+    "id": "mali",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=mali"
+  },
+  {
+    "name": "Malta",
+    "id": "malta",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=malta"
+  },
+  {
+    "name": "Marshall Islands",
+    "id": "marshall_islands",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=marshall_islands"
+  },
+  {
+    "name": "Mauritania",
+    "id": "mauritania",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=mauritania"
+  },
+  {
+    "name": "Mauritius",
+    "id": "mauritius",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=mauritius"
+  },
+  {
+    "name": "Mexico",
+    "id": "mexico",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=mexico"
+  },
+  {
+    "name": "Micronesia",
+    "id": "micronesia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=micronesia"
+  },
+  {
+    "name": "Moldova",
+    "id": "moldova",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=moldova"
+  },
+  {
+    "name": "Monaco",
+    "id": "monaco",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=monaco"
+  },
+  {
+    "name": "Mongolia",
+    "id": "mongolia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=mongolia"
+  },
+  {
+    "name": "Montenegro",
+    "id": "montenegro",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=montenegro"
+  },
+  {
+    "name": "Morocco",
+    "id": "morocco",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=morocco"
+  },
+  {
+    "name": "Mozambique",
+    "id": "mozambique",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=mozambique"
+  },
+  {
+    "name": "Myanmar",
+    "id": "myanmar",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=myanmar"
+  },
+  {
+    "name": "Namibia",
+    "id": "namibia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=namibia"
+  },
+  {
+    "name": "Nauru",
+    "id": "nauru",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=nauru"
+  },
+  {
+    "name": "Nepal",
+    "id": "nepal",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=nepal"
+  },
+  {
+    "name": "Netherlands",
+    "id": "netherlands",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=netherlands"
+  },
+  {
+    "name": "New Zealand",
+    "id": "new_zealand",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=new_zealand"
+  },
+  {
+    "name": "Nicaragua",
+    "id": "nicaragua",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=nicaragua"
+  },
+  {
+    "name": "Niger",
+    "id": "niger",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=niger"
+  },
+  {
+    "name": "Nigeria",
+    "id": "nigeria",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=nigeria"
+  },
+  {
+    "name": "North Korea",
+    "id": "north_korea",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=north_korea"
+  },
+  {
+    "name": "North Macedonia",
+    "id": "north_macedonia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=north_macedonia"
+  },
+  {
+    "name": "Norway",
+    "id": "norway",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=norway"
+  },
+  {
+    "name": "Oman",
+    "id": "oman",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=oman"
+  },
+  {
+    "name": "Pakistan",
+    "id": "pakistan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=pakistan"
+  },
+  {
+    "name": "Palau",
+    "id": "palau",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=palau"
+  },
+  {
+    "name": "Palestine",
+    "id": "palestine",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=palestine"
+  },
+  {
+    "name": "Panama",
+    "id": "panama",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=panama"
+  },
+  {
+    "name": "Papua New Guinea",
+    "id": "papua_new_guinea",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=papua_new_guinea"
+  },
+  {
+    "name": "Paraguay",
+    "id": "paraguay",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=paraguay"
+  },
+  {
+    "name": "Peru",
+    "id": "peru",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=peru"
+  },
+  {
+    "name": "Philippines",
+    "id": "philippines",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=philippines"
+  },
+  {
+    "name": "Poland",
+    "id": "poland",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=poland"
+  },
+  {
+    "name": "Portugal",
+    "id": "portugal",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=portugal"
+  },
+  {
+    "name": "Qatar",
+    "id": "qatar",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=qatar"
+  },
+  {
+    "name": "Romania",
+    "id": "romania",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=romania"
+  },
+  {
+    "name": "Russia",
+    "id": "russia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=russia"
+  },
+  {
+    "name": "Rwanda",
+    "id": "rwanda",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=rwanda"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "id": "saint_kitts_and_nevis",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=saint_kitts_and_nevis"
+  },
+  {
+    "name": "Saint Lucia",
+    "id": "saint_lucia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=saint_lucia"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "id": "saint_vincent_and_the_grenadines",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=saint_vincent_and_the_grenadines"
+  },
+  {
+    "name": "Samoa",
+    "id": "samoa",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=samoa"
+  },
+  {
+    "name": "San Marino",
+    "id": "san_marino",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=san_marino"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "id": "sao_tome_and_principe",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=sao_tome_and_principe"
+  },
+  {
+    "name": "Saudi Arabia",
+    "id": "saudi_arabia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=saudi_arabia"
+  },
+  {
+    "name": "Senegal",
+    "id": "senegal",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=senegal"
+  },
+  {
+    "name": "Serbia",
+    "id": "serbia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=serbia"
+  },
+  {
+    "name": "Seychelles",
+    "id": "seychelles",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=seychelles"
+  },
+  {
+    "name": "Sierra Leone",
+    "id": "sierra_leone",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=sierra_leone"
+  },
+  {
+    "name": "Singapore",
+    "id": "singapore",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=singapore"
+  },
+  {
+    "name": "Slovakia",
+    "id": "slovakia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=slovakia"
+  },
+  {
+    "name": "Slovenia",
+    "id": "slovenia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=slovenia"
+  },
+  {
+    "name": "Solomon Islands",
+    "id": "solomon_islands",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=solomon_islands"
+  },
+  {
+    "name": "Somalia",
+    "id": "somalia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=somalia"
+  },
+  {
+    "name": "South Africa",
+    "id": "south_africa",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=south_africa"
+  },
+  {
+    "name": "South Korea",
+    "id": "south_korea",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=south_korea"
+  },
+  {
+    "name": "South Sudan",
+    "id": "south_sudan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=south_sudan"
+  },
+  {
+    "name": "Spain",
+    "id": "spain",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=spain"
+  },
+  {
+    "name": "Sri Lanka",
+    "id": "sri_lanka",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=sri_lanka"
+  },
+  {
+    "name": "Sudan",
+    "id": "sudan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=sudan"
+  },
+  {
+    "name": "Suriname",
+    "id": "suriname",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=suriname"
+  },
+  {
+    "name": "Sweden",
+    "id": "sweden",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=sweden"
+  },
+  {
+    "name": "Switzerland",
+    "id": "switzerland",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=switzerland"
+  },
+  {
+    "name": "Syria",
+    "id": "syria",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=syria"
+  },
+  {
+    "name": "Tajikistan",
+    "id": "tajikistan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=tajikistan"
+  },
+  {
+    "name": "Tanzania",
+    "id": "tanzania",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=tanzania"
+  },
+  {
+    "name": "Thailand",
+    "id": "thailand",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=thailand"
+  },
+  {
+    "name": "Timor-Leste",
+    "id": "timor_leste",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=timor_leste"
+  },
+  {
+    "name": "Togo",
+    "id": "togo",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=togo"
+  },
+  {
+    "name": "Tonga",
+    "id": "tonga",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=tonga"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "id": "trinidad_and_tobago",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=trinidad_and_tobago"
+  },
+  {
+    "name": "Tunisia",
+    "id": "tunisia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=tunisia"
+  },
+  {
+    "name": "Türkiye",
+    "id": "turkey",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=turkey"
+  },
+  {
+    "name": "Turkmenistan",
+    "id": "turkmenistan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=turkmenistan"
+  },
+  {
+    "name": "Tuvalu",
+    "id": "tuvalu",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=tuvalu"
+  },
+  {
+    "name": "Uganda",
+    "id": "uganda",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=uganda"
+  },
+  {
+    "name": "Ukraine",
+    "id": "ukraine",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=ukraine"
+  },
+  {
+    "name": "United Arab Emirates",
+    "id": "united_arab_emirates",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=united_arab_emirates"
+  },
+  {
+    "name": "United Kingdom",
+    "id": "united_kingdom",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=united_kingdom"
+  },
+  {
+    "name": "United States",
+    "id": "united_states",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=united_states"
+  },
+  {
+    "name": "Uruguay",
+    "id": "uruguay",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=uruguay"
+  },
+  {
+    "name": "Uzbekistan",
+    "id": "uzbekistan",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=uzbekistan"
+  },
+  {
+    "name": "Vanuatu",
+    "id": "vanuatu",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=vanuatu"
+  },
+  {
+    "name": "Vatican City",
+    "id": "vatican_city",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=vatican_city"
+  },
+  {
+    "name": "Venezuela",
+    "id": "venezuela",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=venezuela"
+  },
+  {
+    "name": "Vietnam",
+    "id": "vietnam",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=vietnam"
+  },
+  {
+    "name": "Yemen",
+    "id": "yemen",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=yemen"
+  },
+  {
+    "name": "Zambia",
+    "id": "zambia",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=zambia"
+  },
+  {
+    "name": "Zimbabwe",
+    "id": "zimbabwe",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=zimbabwe"
   },
   {
     "name": "Father of Accounting : Luca Pacioli",
