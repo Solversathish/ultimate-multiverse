@@ -23391,6 +23391,15 @@
     "url": "category.html?universe=chemistry&path=solutions"
   },
   {
+    "name": "India",
+    "id": "india",
+    "type": "entity",
+    "universe": "countries",
+    "path": "",
+    "parent": "Countries",
+    "url": "entity.html?universe=countries&id=india"
+  },
+  {
     "name": "Father of Accounting : Luca Pacioli",
     "id": "father_accounting",
     "type": "entity",

@@ -49,6 +49,10 @@ function getRootFile(universe){
     return `${dataFolder}/father_of/father_of.json`;
   }
 
+  if (universe === "countries") {
+    return `${dataFolder}/countries/countries.json`;
+  }
+
   return `${dataFolder}/${universe}/categories.json`;
 }
 

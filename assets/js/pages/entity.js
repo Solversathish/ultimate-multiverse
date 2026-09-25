@@ -45,15 +45,20 @@ if (universe === "fruits") {
 
 } else if (universe === "mythical_creatures") {
 
-  file = "mythical_creatures"; // ✅ FIX
+  file = "mythical_creatures";
 
-  } else if (universe === "father_of") {
+} else if (universe === "father_of") {
 
-  file = "father_of"; 
+  file = "father_of";
+
+} else if (universe === "countries") {
+
+  file = "countries";
 
 } else if (path) {
 
   const levels = path.split(",");
+
   file = levels[levels.length - 1];
 
 } else {
