@@ -1,0 +1,28 @@
+{
+"id":"india",
+"name":"India",
+"type":"entity",
+"url":"entity.html?universe=countries&path=&id=india",
+"parent":"countries",
+"info":{
+"Capital:":"New Delhi",
+"Continent:":"Asia",
+"Currency:":"Indian Rupee (INR)",
+"Official Language:":"Hindi and English"
+},
+"tabs":{
+"tab1":{
+"title":"Country Profile",
+"content":"<ul><li>India is a country in South Asia.</li><li>It is known for its diverse cultures, languages, religions, and traditions.</li><li>India is the world's most populous country.</li><li>New Delhi is the capital of India.</li><li>India is a federal parliamentary republic.</li></ul>"
+},
+"tab2":{
+"title":"Geography & Culture",
+"content":"<ul><li>India has mountains, plains, deserts, forests, rivers, and long coastlines.</li><li>The Himalayas form a major mountain system in northern India.</li><li>The Ganges is one of India's most important rivers.</li><li>India has hundreds of languages and many regional cultures.</li><li>Indian cuisine includes a wide variety of regional dishes and cooking traditions.</li></ul>"
+},
+"tab3":{
+"title":"Facts",
+"content":"<ul><li>India is home to the Taj Mahal.</li><li>India has one of the world's largest railway networks.</li><li>Yoga originated in ancient India.</li><li>India has 28 states and 8 union territories.</li><li>India's national animal is the Bengal tiger.</li></ul>"
+}
+},
+"gallery_count":5
+}

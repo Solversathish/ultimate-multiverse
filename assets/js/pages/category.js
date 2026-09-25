@@ -32,8 +32,11 @@ if (levels.length === 0) {
   } else if (universe === "mythical_creatures") {
     filePath = `data/mythical_creatures/mythical_creatures.json`;
 
-    } else if (universe === "father_of") {
+  } else if (universe === "father_of") {
     filePath = `data/father_of/father_of.json`;
+
+  } else if (universe === "countries") {
+    filePath = `data/countries/countries.json`;
 
   } else {
     filePath = `data/${universe}/categories.json`;
