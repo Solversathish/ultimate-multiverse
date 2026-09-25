@@ -208,12 +208,12 @@
   },
   {
     "name": "Programming Languages",
-    "id": "programming_lang",
+    "id": "programming_languages",
     "type": "universe",
-    "universe": "programming_lang",
+    "universe": "programming_languages",
     "path": "",
     "parent": "",
-    "url": "category.html?universe=programming_lang"
+    "url": "category.html?universe=programming_languages"
   },
   {
     "name": "Scientists",
