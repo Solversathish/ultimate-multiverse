@@ -38,6 +38,9 @@ if (levels.length === 0) {
   } else if (universe === "countries") {
     filePath = `data/countries/countries.json`;
 
+  } else if (universe === "country_flags") {
+    filePath = `data/countries/country_flags.json`;
+
   } else {
     filePath = `data/${universe}/categories.json`;
   }

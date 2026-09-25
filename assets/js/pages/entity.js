@@ -55,6 +55,10 @@ if (universe === "fruits") {
 
   file = "countries";
 
+} else if (universe === "country_flags") {
+
+  file = "country_flags";
+
 } else if (path) {
 
   const levels = path.split(",");
